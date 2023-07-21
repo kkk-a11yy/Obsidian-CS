@@ -1,0 +1,22 @@
+{
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "vimMode": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US",
+    "fr-FR"
+  ],
+  "spellcheck": true,
+  "showLineNumber": true,
+  "attachmentFolderPath": "lecture-note",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

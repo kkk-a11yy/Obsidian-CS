@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "fe3c595392a846b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dc39156151c5a51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef4dd93774d289d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuration/github/配置.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c50026070d71c906",
+    "type": "split",
+    "children": [
+      {
+        "id": "144fce2310f28125",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c6e3a3f75a490ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0321558eef25b7f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65d94632d19326c5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fe47ee809a03119",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "cc8b2547741f323e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e214e81da2b3e856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bda745b247d70776",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Configuration/github/配置.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfe5e470765c447d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Configuration/github/配置.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "faae4d71efd6ad79",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74a0c49b91095b40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Configuration/github/配置.md"
+              }
+            }
+          },
+          {
+            "id": "1c24c995897d37c2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "dbfolder:创建一个新数据库表": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "ef4dd93774d289d2",
+  "lastOpenFiles": [
+    "书籍/编译/编译原理(龙书第2版).pdf",
+    "Configuration/github/配置.md",
+    "书籍/代码/代码大全2中文版（高清晰完美PDF版，索引完整）.pdf",
+    "BEFORE/Home.md",
+    "课程&笔记/未命名.canvas",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料/谷粒商城-学习/过程记录.md",
+    "BEFORE/Person/YouTube-data.md",
+    "BEFORE/Person/YouTube/Abdul Bari.md",
+    "BEFORE/outsource-data.md",
+    "BEFORE/学习进度.md",
+    "BEFORE/时间编表.md",
+    "BEFORE/outsource/writing a book in Obsidian.md",
+    "BEFORE/时间戳/2023-06-25.md",
+    "课程&笔记/技术栈/freeCodeCamp/fs-data.md",
+    "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/过程记录.md",
+    "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/课程资料.md",
+    "Configuration/Config-data.md",
+    "Configuration/LaTeX/LaTeX使用教程.md",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/youtube.svg",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/Youtube.png",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/video_thumbnail.png",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/video_play_overlay.png",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/Twitter.png",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/pdf_thumbnail.png",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/page_thumbnail.png",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/oeg_logo.png",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/ocw_logo_white_v2.svg",
+    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/ocw_logo_orange.png",
+    "lecture-note/branch education.md",
+    "[WSL 的基本命令.md",
+    "BEFORE/templetes/New outsource Template.md",
+    "BEFORE/templetes/New movie templete.md",
+    "BEFORE/templetes/FromSergio.md",
+    "书籍/CS书籍推荐单.md",
+    "Configuration/MACOS/config.md",
+    "Configuration/电脑硬件/未命名.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录/谷粒商城-过程记录.md",
+    "书籍/books/心烟 - 舒婷.md",
+    "书籍/TPC&IP/TCP-IP.canvas",
+    "未命名.canvas",
+    "课程&笔记/计算机数学/UCB-CS70/未命名.canvas",
+    "课程&笔记/计算机数学/UCB CS61A/note.canvas",
+    "test.canvas"
+  ]
+}
