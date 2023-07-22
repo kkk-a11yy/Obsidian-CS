@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md",
+                "file": "Configuration/Alfred/alfred-config.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md",
+                "file": "Configuration/Alfred/alfred-config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md",
+                "file": "Configuration/Alfred/alfred-config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md"
+                "file": "Configuration/Alfred/alfred-config.md"
               }
             }
           },
@@ -188,8 +188,10 @@
   },
   "active": "3c9999803956715d",
   "lastOpenFiles": [
-    "Configuration/JAVA/JAVA环境搭建.md",
     "Configuration/homebrew/Homebrew.md",
+    "Configuration/Alfred/alfred-config.md",
+    "Configuration/Alfred",
+    "Configuration/JAVA/JAVA环境搭建.md",
     "Configuration/Config-data.md",
     "BEFORE/Home.md",
     "BEFORE/时间戳/2023-06-26.md",
@@ -231,9 +233,7 @@
     "BEFORE/Person/YouTube/Abdul Bari.md",
     "BEFORE/outsource-data.md",
     "BEFORE/学习进度.md",
-    "BEFORE/时间编表.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/youtube.svg",
     "书籍/TPC&IP/TCP-IP.canvas",
     "未命名.canvas",
