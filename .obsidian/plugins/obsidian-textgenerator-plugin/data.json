@@ -41,6 +41,6 @@
     "stop": ".",
     "showStatus": true
   },
-  "displayErrorInEditor": false,
+  "displayErrorInEditor": true,
   "models": {}
 }

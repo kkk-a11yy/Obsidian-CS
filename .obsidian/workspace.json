@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/Config-data.md",
-                "mode": "source",
+                "file": "BEFORE/Home.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/Config-data.md",
+                "file": "BEFORE/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/Config-data.md",
+                "file": "BEFORE/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/Config-data.md"
+                "file": "BEFORE/Home.md"
               }
             }
           },
@@ -175,6 +175,8 @@
   },
   "active": "ef4dd93774d289d2",
   "lastOpenFiles": [
+    "Configuration/Config-data.md",
+    "BEFORE/READE ME.md",
     "课程&笔记/未命名.canvas",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "BEFORE/templetes/技术栈-rec.md",
@@ -188,7 +190,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/未命名",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
     "BEFORE/Home.md",
-    "BEFORE/READE ME.md",
     "README.md",
     "lecture-note/Pasted image 20230422162958.png",
     "lecture-note/Pasted image 20230422162702.png",
@@ -212,7 +213,6 @@
     "BEFORE/outsource/writing a book in Obsidian.md",
     "BEFORE/时间戳/2023-06-25.md",
     "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/过程记录.md",
-    "Configuration/Config-data.md",
     "Configuration/LaTeX/LaTeX使用教程.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
