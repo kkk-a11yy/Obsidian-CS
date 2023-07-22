@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/Config-data.md",
+                "file": "Configuration/JAVA/JAVA环境搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/Config-data.md",
+                "file": "Configuration/JAVA/JAVA环境搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/Config-data.md"
+                "file": "Configuration/JAVA/JAVA环境搭建.md"
               }
             }
           },
@@ -187,10 +186,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "42df7a85720844ee",
+  "active": "3c9999803956715d",
   "lastOpenFiles": [
-    "Configuration/JAVA/JAVA环境搭建.md",
     "Configuration/homebrew/Homebrew.md",
+    "Configuration/Config-data.md",
+    "Configuration/JAVA/JAVA环境搭建.md",
     "BEFORE/Home.md",
     "BEFORE/时间戳/2023-06-26.md",
     "Configuration/JAVA",
@@ -205,7 +205,6 @@
     "课程&笔记/算法与数据结构/6.006-spring-2020-rec.md",
     "BEFORE/templetes/课程笔记-rec.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020/resources/2nmts1ecb3o/index.html",
-    "Configuration/Config-data.md",
     "BEFORE/READE ME.md",
     "课程&笔记/未命名.canvas",
     "BEFORE/templetes/未命名",
