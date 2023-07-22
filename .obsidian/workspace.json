@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/JAVA/JAVA环境搭建.md",
+                "file": "Configuration/homebrew/Homebrew.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/JAVA/JAVA环境搭建.md",
+                "file": "Configuration/homebrew/Homebrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/JAVA/JAVA环境搭建.md",
+                "file": "Configuration/homebrew/Homebrew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/JAVA/JAVA环境搭建.md"
+                "file": "Configuration/homebrew/Homebrew.md"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "3c9999803956715d",
   "lastOpenFiles": [
-    "Configuration/homebrew/Homebrew.md",
     "Configuration/JAVA/JAVA环境搭建.md",
+    "Configuration/homebrew/Homebrew.md",
     "BEFORE/Home.md",
     "BEFORE/时间戳/2023-06-26.md",
     "Configuration/JAVA",

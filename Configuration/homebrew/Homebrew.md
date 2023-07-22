@@ -10,6 +10,10 @@
 //brew can nit found command
 eval "$(/opt/homebrew/bin/brew shellenv)"
 
+//安装brew-cask
+ brew install brew-cask-completion
+
+
 ```
 
 - 常用语句
