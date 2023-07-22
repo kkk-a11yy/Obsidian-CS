@@ -1,4 +1,10 @@
-
+- 参考资料：
+	- "https://mirrors.ustc.edu.cn/help/brew.git.html"
+	- "https://www.jianshu.com/p/e0471aa6672d"
+- 使用代码：
+``` r
+/usr/bin/ruby -e "$(curl -fsSL https://cdn.jsdelivr.net/gh/ineo6/homebrew-install/install)"
+```
 
 - 常用语句
 ``` r
