@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md",
-                "mode": "preview",
+                "file": "Configuration/JAVA/JAVA环境搭建.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
+          },
+          {
+            "id": "42df7a85720844ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuration/Config-data.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md",
+                "file": "Configuration/Config-data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md",
+                "file": "Configuration/Config-data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md"
+                "file": "Configuration/Config-data.md"
               }
             }
           },
@@ -173,7 +187,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3c9999803956715d",
+  "active": "42df7a85720844ee",
   "lastOpenFiles": [
     "Configuration/JAVA/JAVA环境搭建.md",
     "Configuration/homebrew/Homebrew.md",

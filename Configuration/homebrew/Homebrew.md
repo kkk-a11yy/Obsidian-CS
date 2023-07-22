@@ -2,6 +2,7 @@
 	- "[中科大镜像源](https://mirrors.ustc.edu.cn/help/brew.git.html)" 
 	- "https://www.jianshu.90com/p/e0471aa6672d"
 	- "[home-brew-github](https://github.com/Homebrew/homebrew-cask)"
+	- "[macos下java环境搭建](https://bibichuan.github.io/posts/55363e5.html)"
 - 使用代码：
 ``` r
 //安装中科大镜像
