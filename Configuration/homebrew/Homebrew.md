@@ -3,6 +3,7 @@ tags: homebrew , brew-cask
 link:
 - "[中科大镜像源](https://mirrors.ustc.edu.cn/help/brew.git.html)" 
 - "https://www.jianshu.90com/p/e0471aa6672d"
+- "[homebrew-官方](https://brew.sh/#search-bar/)"
 - "[home-brew-github](https://github.com/Homebrew/homebrew-cask)"
 - "[macos下java环境搭建](https://bibichuan.github.io/posts/55363e5.html)"
 ---
