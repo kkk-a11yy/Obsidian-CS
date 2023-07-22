@@ -1,7 +1,7 @@
 - 参考资料：
 	- "[中科大镜像源](https://mirrors.ustc.edu.cn/help/brew.git.html)" 
 	- "https://www.jianshu.com/p/e0471aa6672d"
-	- 
+	- ""
 - 使用代码：
 ``` r
 //安装中科大镜像
