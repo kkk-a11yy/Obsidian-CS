@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
-                "mode": "preview",
+                "file": "Configuration/github/配置.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
+                "file": "Configuration/github/配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
+                "file": "Configuration/github/配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md"
+                "file": "Configuration/github/配置.md"
               }
             }
           },
@@ -175,6 +175,8 @@
   },
   "active": "ef4dd93774d289d2",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-rec.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
@@ -192,7 +194,6 @@
     "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/configure gitpod.md",
     "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/课程资料.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/未命名",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
     "README.md",
     "lecture-note/Pasted image 20230422162958.png",
     "lecture-note/Pasted image 20230422162702.png",
@@ -215,7 +216,6 @@
     "BEFORE/时间编表.md",
     "BEFORE/outsource/writing a book in Obsidian.md",
     "BEFORE/时间戳/2023-06-25.md",
-    "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/过程记录.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
