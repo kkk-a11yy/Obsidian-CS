@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/算法与数据结构/6.006-spring-2020.md",
-                "mode": "source",
+                "file": "课程&笔记/算法与数据结构/6.006-spring-2020-data.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/算法与数据结构/6.006-spring-2020.md",
+                "file": "课程&笔记/算法与数据结构/6.006-spring-2020-data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/算法与数据结构/6.006-spring-2020.md",
+                "file": "课程&笔记/算法与数据结构/6.006-spring-2020-data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/算法与数据结构/6.006-spring-2020.md"
+                "file": "课程&笔记/算法与数据结构/6.006-spring-2020-data.md"
               }
             }
           },
@@ -173,16 +173,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2c6e3a3f75a490ef",
+  "active": "ef4dd93774d289d2",
   "lastOpenFiles": [
+    "课程&笔记/算法与数据结构/6.006-spring-2020-rec.md",
+    "课程&笔记/算法与数据结构/6.006-spring-2020-data.md",
+    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+    "BEFORE/templetes/课程笔记-rec.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020/resources/2nmts1ecb3o/index.html",
-    "课程&笔记/算法与数据结构/6.006-spring-2020.md",
     "BEFORE/Home.md",
     "Configuration/Config-data.md",
     "BEFORE/READE ME.md",
     "课程&笔记/未命名.canvas",
-    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
-    "BEFORE/templetes/技术栈-rec.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-rec.md",
     "BEFORE/templetes/未命名",
     "课程&笔记/技术栈/freeCodeCamp/fs-data.md",
@@ -220,7 +221,6 @@
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/youtube.svg",
     "书籍/TPC&IP/TCP-IP.canvas",
     "未命名.canvas",
