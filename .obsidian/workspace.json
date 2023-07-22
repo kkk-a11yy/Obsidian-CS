@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7dc39156151c5a51",
+        "id": "141724bf588c5924",
         "type": "tabs",
         "children": [
           {
-            "id": "ef4dd93774d289d2",
+            "id": "3c9999803956715d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/JAVA环境搭建.md",
+                "file": "Configuration/JAVA/JAVA环境搭建.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#movies",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/JAVA环境搭建.md",
+                "file": "Configuration/JAVA/JAVA环境搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/JAVA环境搭建.md",
+                "file": "Configuration/JAVA/JAVA环境搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/JAVA环境搭建.md"
+                "file": "Configuration/JAVA/JAVA环境搭建.md"
               }
             }
           },
@@ -173,10 +173,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ef4dd93774d289d2",
+  "active": "2c6e3a3f75a490ef",
   "lastOpenFiles": [
-    "Configuration/Homebrew.md",
-    "Configuration/JAVA环境搭建.md",
+    "BEFORE/时间戳/2023-06-26.md",
+    "Configuration/JAVA/JAVA环境搭建.md",
+    "BEFORE/Home.md",
+    "Configuration/JAVA",
+    "Configuration/homebrew",
+    "Configuration/homebrew/Homebrew.md",
     "Configuration/github/配置.md",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
@@ -187,7 +191,6 @@
     "课程&笔记/算法与数据结构/6.006-spring-2020-rec.md",
     "BEFORE/templetes/课程笔记-rec.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020/resources/2nmts1ecb3o/index.html",
-    "BEFORE/Home.md",
     "Configuration/Config-data.md",
     "BEFORE/READE ME.md",
     "课程&笔记/未命名.canvas",
@@ -216,11 +219,8 @@
     "BEFORE/outsource-data.md",
     "BEFORE/学习进度.md",
     "BEFORE/时间编表.md",
-    "BEFORE/outsource/writing a book in Obsidian.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/youtube.svg",
     "书籍/TPC&IP/TCP-IP.canvas",
     "未命名.canvas",
