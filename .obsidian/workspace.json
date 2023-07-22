@@ -11,9 +11,12 @@
             "id": "ef4dd93774d289d2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "lecture-note/Pasted image 20230422161324.png"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/Andymall-data.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture-note/Pasted image 20230422161324.png",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/Andymall-data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture-note/Pasted image 20230422161324.png",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/Andymall-data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecture-note/Pasted image 20230422161324.png"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/Andymall-data.md"
               }
             }
           },
@@ -170,18 +173,30 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2c6e3a3f75a490ef",
+  "active": "ef4dd93774d289d2",
   "lastOpenFiles": [
-    "lecture-note/Pasted image 20230422160822.png",
+    "课程&笔记/技术栈/freeCodeCamp/fs-rec.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/Andymall-data.md",
+    "课程&笔记/技术栈/freeCodeCamp/fs-data.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料/谷粒商城-学习/过程记录.md",
+    "BEFORE/Home.md",
+    "BEFORE/READE ME.md",
+    "README.md",
+    "lecture-note/Pasted image 20230422162958.png",
+    "lecture-note/Pasted image 20230422162702.png",
+    "lecture-note/Pasted image 20230422162028.png",
+    "lecture-note/Pasted image 20230422161324.png",
+    "lecture-note/Pasted image 20230422161528.png",
     "lecture-note/Pasted image 20230422160625.png",
     "lecture-note/Pasted image 20230407213431.png",
     "lecture-note/branch education.md",
+    "lecture-note/Pasted image 20230516210801.png",
+    "[WSL 的基本命令.md",
+    "lecture-note/Pasted image 20230422160822.png",
     "Configuration/github/配置.md",
     "书籍/编译/编译原理(龙书第2版).pdf",
     "书籍/代码/代码大全2中文版（高清晰完美PDF版，索引完整）.pdf",
-    "BEFORE/Home.md",
     "课程&笔记/未命名.canvas",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料/谷粒商城-学习/过程记录.md",
     "BEFORE/Person/YouTube-data.md",
     "BEFORE/Person/YouTube/Abdul Bari.md",
     "BEFORE/outsource-data.md",
@@ -189,7 +204,6 @@
     "BEFORE/时间编表.md",
     "BEFORE/outsource/writing a book in Obsidian.md",
     "BEFORE/时间戳/2023-06-25.md",
-    "课程&笔记/技术栈/freeCodeCamp/fs-data.md",
     "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/过程记录.md",
     "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/课程资料.md",
     "Configuration/Config-data.md",
@@ -203,22 +217,11 @@
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/youtube.svg",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/Youtube.png",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/video_thumbnail.png",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/video_play_overlay.png",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/Twitter.png",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/pdf_thumbnail.png",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/page_thumbnail.png",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/oeg_logo.png",
-    "[WSL 的基本命令.md",
     "BEFORE/templetes/New outsource Template.md",
     "BEFORE/templetes/New movie templete.md",
     "BEFORE/templetes/FromSergio.md",
     "书籍/CS书籍推荐单.md",
     "Configuration/MACOS/config.md",
-    "Configuration/电脑硬件/未命名.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录/谷粒商城-过程记录.md",
-    "书籍/books/心烟 - 舒婷.md",
     "书籍/TPC&IP/TCP-IP.canvas",
     "未命名.canvas",
     "课程&笔记/计算机数学/UCB-CS70/未命名.canvas",

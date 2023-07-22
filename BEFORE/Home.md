@@ -32,7 +32,7 @@ banner: "![[BEFORE/Banners/hqwsbARJ9ec.jpg]]"
 	- [[Research building Garage]] 
  - ✍️ Writing Projects
     - [full-stack-web-dev](课程&笔记/技术栈/freeCodeCamp/fs-data.md)
-	
+	- [[]]
 - 👀 Reading Metirial
     - [outsource](BEFORE/outsource-data.md)
 - 📚 Learning
