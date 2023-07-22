@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Home.md",
-                "mode": "preview",
+                "file": "课程&笔记/算法与数据结构/6.006-spring-2020.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Home.md",
+                "file": "课程&笔记/算法与数据结构/6.006-spring-2020.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Home.md",
+                "file": "课程&笔记/算法与数据结构/6.006-spring-2020.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Home.md"
+                "file": "课程&笔记/算法与数据结构/6.006-spring-2020.md"
               }
             }
           },
@@ -173,8 +173,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ef4dd93774d289d2",
+  "active": "2c6e3a3f75a490ef",
   "lastOpenFiles": [
+    "课程&笔记/算法与数据结构/6.006-spring-2020/resources/2nmts1ecb3o/index.html",
+    "课程&笔记/算法与数据结构/6.006-spring-2020.md",
+    "BEFORE/Home.md",
     "Configuration/Config-data.md",
     "BEFORE/READE ME.md",
     "课程&笔记/未命名.canvas",
@@ -189,7 +192,6 @@
     "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/课程资料.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/未命名",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
-    "BEFORE/Home.md",
     "README.md",
     "lecture-note/Pasted image 20230422162958.png",
     "lecture-note/Pasted image 20230422162702.png",
@@ -213,7 +215,6 @@
     "BEFORE/outsource/writing a book in Obsidian.md",
     "BEFORE/时间戳/2023-06-25.md",
     "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/过程记录.md",
-    "Configuration/LaTeX/LaTeX使用教程.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
