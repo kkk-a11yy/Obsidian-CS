@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Configuration/homebrew/Homebrew.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
@@ -176,11 +176,11 @@
   "active": "3c9999803956715d",
   "lastOpenFiles": [
     "Configuration/JAVA/JAVA环境搭建.md",
-    "BEFORE/时间戳/2023-06-26.md",
     "BEFORE/Home.md",
+    "Configuration/homebrew/Homebrew.md",
+    "BEFORE/时间戳/2023-06-26.md",
     "Configuration/JAVA",
     "Configuration/homebrew",
-    "Configuration/homebrew/Homebrew.md",
     "Configuration/github/配置.md",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
