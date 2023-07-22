@@ -11,12 +11,9 @@
             "id": "ef4dd93774d289d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Configuration/github/配置.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "lecture-note/Pasted image 20230422161324.png"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/github/配置.md",
+                "file": "lecture-note/Pasted image 20230422161324.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/github/配置.md",
+                "file": "lecture-note/Pasted image 20230422161324.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/github/配置.md"
+                "file": "lecture-note/Pasted image 20230422161324.png"
               }
             }
           },
@@ -164,19 +161,23 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "audio-recorder:开始/结束录音": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "dbfolder:创建一个新数据库表": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "ef4dd93774d289d2",
+  "active": "2c6e3a3f75a490ef",
   "lastOpenFiles": [
-    "书籍/编译/编译原理(龙书第2版).pdf",
+    "lecture-note/Pasted image 20230422160822.png",
+    "lecture-note/Pasted image 20230422160625.png",
+    "lecture-note/Pasted image 20230407213431.png",
+    "lecture-note/branch education.md",
     "Configuration/github/配置.md",
+    "书籍/编译/编译原理(龙书第2版).pdf",
     "书籍/代码/代码大全2中文版（高清晰完美PDF版，索引完整）.pdf",
     "BEFORE/Home.md",
     "课程&笔记/未命名.canvas",
@@ -201,7 +202,6 @@
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/youtube.svg",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/Youtube.png",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/video_thumbnail.png",
@@ -210,9 +210,6 @@
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/pdf_thumbnail.png",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/page_thumbnail.png",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/oeg_logo.png",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/ocw_logo_white_v2.svg",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/ocw_logo_orange.png",
-    "lecture-note/branch education.md",
     "[WSL 的基本命令.md",
     "BEFORE/templetes/New outsource Template.md",
     "BEFORE/templetes/New movie templete.md",
