@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "141724bf588c5924",
+        "id": "f7b3eea105056924",
         "type": "tabs",
         "children": [
           {
-            "id": "3c9999803956715d",
+            "id": "0dbad2bb9ec82877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -173,8 +173,47 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3c9999803956715d",
+  "floating": {
+    "id": "3ff3801121514891",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5395f22523a41c98",
+        "type": "window",
+        "children": [
+          {
+            "id": "42e5e687a4e62330",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3c9999803956715d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 756,
+        "y": 273,
+        "width": 780,
+        "height": 730,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "0dbad2bb9ec82877",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-rec.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "Configuration/homebrew/Homebrew.md",
@@ -190,7 +229,6 @@
     "Configuration/homebrew",
     "Configuration/github/配置.md",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020-data.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020-rec.md",
