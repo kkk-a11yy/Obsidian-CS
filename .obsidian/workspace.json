@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--MAC.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--MAC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--MAC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--MAC.md"
               }
             }
           },
@@ -173,8 +173,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1c24c995897d37c2",
+  "active": "0dbad2bb9ec82877",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--MAC.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
     "课程&笔记/技术栈/freeCodeCamp/fs-data.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
@@ -183,7 +185,6 @@
     "BEFORE/Person/YouTube-data.md",
     "Configuration/JAVA/JAVA环境搭建.md",
     "Configuration/github/配置.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
     "Configuration/homebrew/Homebrew.md",
     "BEFORE/Person/YouTube/FromSergio.md",
     "BEFORE/Person/YouTube/Abdul Bari.md",
@@ -219,7 +220,6 @@
     "lecture-note/Pasted image 20230422160822.png",
     "书籍/编译/编译原理(龙书第2版).pdf",
     "书籍/代码/代码大全2中文版（高清晰完美PDF版，索引完整）.pdf",
-    "BEFORE/outsource-data.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/youtube.svg",
     "书籍/TPC&IP/TCP-IP.canvas",
