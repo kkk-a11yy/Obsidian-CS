@@ -13,23 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/Alfred/alfred-config.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "42df7a85720844ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Configuration/Config-data.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/Alfred/alfred-config.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/Alfred/alfred-config.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/Alfred/alfred-config.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md"
               }
             }
           },
@@ -160,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,11 +175,15 @@
   },
   "active": "3c9999803956715d",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/尚硅谷-rec.md",
+    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "Configuration/homebrew/Homebrew.md",
+    "BEFORE/Person/YouTube/FromSergio.md",
+    "BEFORE/Person/YouTube/Abdul Bari.md",
     "Configuration/Alfred/alfred-config.md",
+    "Configuration/Config-data.md",
     "Configuration/Alfred",
     "Configuration/JAVA/JAVA环境搭建.md",
-    "Configuration/Config-data.md",
     "BEFORE/Home.md",
     "BEFORE/时间戳/2023-06-26.md",
     "Configuration/JAVA",
@@ -201,8 +192,6 @@
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
-    "课程&笔记/技术栈/尚硅谷/尚硅谷-rec.md",
-    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020-data.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020-rec.md",
     "BEFORE/templetes/课程笔记-rec.md",
@@ -230,9 +219,7 @@
     "书籍/编译/编译原理(龙书第2版).pdf",
     "书籍/代码/代码大全2中文版（高清晰完美PDF版，索引完整）.pdf",
     "BEFORE/Person/YouTube-data.md",
-    "BEFORE/Person/YouTube/Abdul Bari.md",
     "BEFORE/outsource-data.md",
-    "BEFORE/学习进度.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/youtube.svg",
     "书籍/TPC&IP/TCP-IP.canvas",
