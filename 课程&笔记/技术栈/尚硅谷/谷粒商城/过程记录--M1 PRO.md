@@ -8,25 +8,26 @@
 - parallels 18.1.1  
 	- [下载](https://luoxx.top/archives/pd-18-active)
 	- CenOS 7
-	- JDK 1.8
-	- Maven 3.6.1
-	- Navicat
-	- Redis Desktop
-	- docker
-		- mysql 5.7
-		- Redis
+		- JDK 1.8
+		- Maven 3.6.1
+		- Navicat
+		- Redis Desktop
+		- Docker
+			- MySql 5.7
+			- Redis
 - vue 环境搭建
 	- Node JS
-		- npm
+		- Npm
 			- Vue 脚手架
 			- webpack
-	- chrome 安装 vue-devtools 插件
+	- Chrome 安装 vue-devtools 插件
 	- VS Code 安装 Vue 2 Snippets 插件
 
 
 ----
 # 环境搭建
 
+[CentOS 7 下载 Parallels 版，选择v4.2.16](https://app.vagrantup.com/generic/boxes/centos7)
 
 
 
