@@ -1,7 +1,8 @@
 
 ----
 环境：
-m1pro 2021  , macOS:13.4.1 , Homebrew , sdkman , 
+操作系统：win10
+
 
 ----
 # windows10系统下的操作

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed95f3a5694b66ca",
+        "id": "df799f50bc3eedf1",
         "type": "tabs",
         "children": [
           {
-            "id": "479b3f2c535512f9",
+            "id": "9537d438a5e5abb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -147,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,6 +173,44 @@
       "dbfolder:创建一个新数据库表": false,
       "homepage:Open homepage": false
     }
+  },
+  "floating": {
+    "id": "3ff3801121514891",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7280f0ca7dc2617f",
+        "type": "window",
+        "children": [
+          {
+            "id": "beda7984529d14fc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "479b3f2c535512f9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1077,
+        "y": 205,
+        "width": 600,
+        "height": 729,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
   },
   "active": "479b3f2c535512f9",
   "lastOpenFiles": [
