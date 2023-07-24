@@ -1,5 +1,9 @@
 
 ----
+# AndyMall 架构图
+![](https://i.imgur.com/PDv6F32.png)
+
+
 # 环境说明：
 
 机器：m1 pro 2021  , macOS:13.4.1 ,
