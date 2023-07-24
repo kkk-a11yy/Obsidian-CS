@@ -1,10 +1,16 @@
 
 ----
 环境：
-m1pro 2021  , macOS:13.4.1 , Homebrew , sdkman , 
+机器：m1pro 2021  , macOS:13.4.1 ,
+包管理： [Homebrew](Configuration/homebrew/Homebrew.md) , sdkman 
+虚拟机：
+- parallels 18.1.1  
+	- [下载](https://luoxx.top/archives/pd-18-active)
+
 
 ----
-
+# windows10系统下的操作
+     下面这部分是win10系统下的搭建，由于原来电脑配置不够，遂换了个M1pro:16GB+1T,重新搭建环境
 1.  环境搭建
 	 1. 安装 vagrant :
 	    官网  cmd命令终端输入：`vagrant` 测试是否下载成功 ，`vagranr init centos/7`  创建vagrantfile（一般在C:\Users\KKK\下，请注意C盘的空余空间要留出来多一点，本人因为这个问题后续下载不成功，删除虚拟机，用分区助手重新划分C盘，空出来48G空间后又重新来了一遍）， `vagrant up` ，下载完毕后启动virtual box 查看新建的虚拟机
