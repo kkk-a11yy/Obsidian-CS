@@ -9,7 +9,7 @@
 		- 名称：CentOS Linux
 		- 安装路径：/Volumes/VM/Parallels
 		- ip: 
-			- centos9: `ip addr` : 10.211.55.5.    host-only.  
+			- centos9: `ip addr` : enp0s5: inet 10.211.55.5.    host-only.  
 			- mac m1 pro : `ifconfig` : inet 10.37.129.2
 	- m1 pro SSH连接虚拟机服务器：
 		- 前提：要有你需要连接的服务器的ip，端口号，服务器上的账户和密码 
