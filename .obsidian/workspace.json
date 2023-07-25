@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "centos7环境搭建.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "centos7环境搭建.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "centos7环境搭建.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md"
               }
             }
           },
@@ -192,7 +192,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "centos7环境搭建.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -203,8 +203,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 298,
-        "y": 301,
+        "x": 355,
+        "y": 265,
         "width": 600,
         "height": 729,
         "maximize": false,
@@ -214,9 +214,9 @@
   },
   "active": "479b3f2c535512f9",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "centos7环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "centos7环境搭建.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
     "课程&笔记/技术栈/freeCodeCamp/fs-data.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
