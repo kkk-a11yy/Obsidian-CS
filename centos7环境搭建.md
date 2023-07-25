@@ -5,6 +5,7 @@
 	- 虚拟机信息：
 		- 用户名：root , user1
 		- password：centos
+			- **Parallels Desktop 在安装 centos 的时候是默认不激活root这个超级用户的，需要手动激活**
 		- 名称：CentOS Linux
 		- 安装路径：/Volumes/VM/Parallels
 		- ip: 
