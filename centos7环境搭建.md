@@ -11,3 +11,7 @@
 		- ip: 
 			- centos9: `ip addr` : 10.211.55.5.    host-only.  
 			- mac m1 pro : `ifconfig` : inet 10.37.129.2
+	- m1 pro SSH连接虚拟机服务器：
+		- 前提：要有你需要连接的服务器的ip，端口号，服务器上的账户和密码 
+			- 1、首先打开终端，然后输入sudo su – 回车进入根目录 
+			- 2、然后输入：ssh -p 端口号 服务器用户名@ip （例如ssh -p 22 userkunyu@119.29.37.63
