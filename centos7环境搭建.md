@@ -5,6 +5,6 @@
 	- 虚拟机信息：
 		- 用户名：root , user1
 		- password：centos
-		- 
 		- 名称：CentOS Linux
 		- 安装路径：/Volumes/VM/Parallels
+		- `ip addr` : 10.211.55.5.    host-only
