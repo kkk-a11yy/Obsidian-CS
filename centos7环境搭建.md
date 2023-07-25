@@ -1,2 +1,2 @@
 - Parallels desktop 安装 CentOS 7
-	- 
+	- M1的芯片安装不了
