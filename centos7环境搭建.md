@@ -4,7 +4,7 @@
 	- 下载工具：Flox
 	- 虚拟机信息：
 		- 用户名：root , user1
-		- password：centos
+		- password：123456
 			- **Parallels Desktop 在安装 centos 的时候是默认不激活root这个超级用户的，需要手动激活**
 		- 名称：CentOS Linux
 		- 安装路径：/Volumes/VM/Parallels
@@ -12,7 +12,7 @@
 			- centos9: 
 				- `ip addr` 
 				- enp0s5: 
-					- inet 10.211.55.5.    host-only.  
+					- inet 10.211.55.7    host-only.  
 					- inet 10.37.129.3. shard
 					- 设置静态网络：192.168.0.24
 			- mac m1 pro : 
