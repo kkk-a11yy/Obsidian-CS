@@ -1,2 +1,3 @@
 - Parallels desktop 安装 CentOS 7
-	- M1的芯片安装不了
+	- M1的芯片选择ARM64版本
+	- 下载工具：Flox
