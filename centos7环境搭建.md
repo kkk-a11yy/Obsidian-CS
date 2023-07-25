@@ -3,7 +3,8 @@
 	-  [下载 CentOS Linux 7-2009-ARM64](https://www.centos.org/download/)
 	- 下载工具：Flox
 	- 虚拟机信息：
-		- 用户名：centos7
-		- 密码：centos7
+		- 用户名：root , user1
+		- password：centos
+		- 
 		- 名称：CentOS Linux
 		- 安装路径：/Volumes/VM/Parallels
