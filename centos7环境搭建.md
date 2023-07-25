@@ -1,0 +1,2 @@
+- Parallels desktop 安装 CentOS 7
+	- 

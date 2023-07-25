@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "centos7环境搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "centos7环境搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
+                "file": "centos7环境搭建.md"
               }
             }
           },
@@ -192,7 +192,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                    "file": "centos7环境搭建.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -203,8 +203,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1077,
-        "y": 205,
+        "x": 1088,
+        "y": 227,
         "width": 600,
         "height": 729,
         "maximize": false,
@@ -214,8 +214,9 @@
   },
   "active": "479b3f2c535512f9",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "centos7环境搭建.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
     "课程&笔记/技术栈/freeCodeCamp/fs-data.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
@@ -255,7 +256,6 @@
     "lecture-note/Pasted image 20230407213431.png",
     "lecture-note/branch education.md",
     "lecture-note/Pasted image 20230516210801.png",
-    "[WSL 的基本命令.md",
     "lecture-note/Pasted image 20230422160822.png",
     "书籍/编译/编译原理(龙书第2版).pdf",
     "书籍/代码/代码大全2中文版（高清晰完美PDF版，索引完整）.pdf",
