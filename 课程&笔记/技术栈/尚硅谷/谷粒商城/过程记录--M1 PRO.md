@@ -11,9 +11,9 @@
 虚拟机：
 - parallels 18.1.1  
 	- [下载](https://luoxx.top/archives/pd-18-active)
-	- CenOS 7.  [下载 CentOS Linux 7-2009-ARM64](https://www.centos.org/download/)
+	- CenOS 7.  [下载 CentOS Linux 7-2009-ARM64](https://www.centos.org/download/) [下载 centos7 parallels]
 		- JDK 1.8
-		- Maven 3.6.1
+		- Maven 3.. .1
 		- Navicat
 		- Redis Desktop
 		- Docker
