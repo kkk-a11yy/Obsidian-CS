@@ -1,7 +1,9 @@
 - Parallels desktop 安装 CentOS 7
 	- M1的芯片选择ARM64版本
+	-  [下载 CentOS Linux 7-2009-ARM64](https://www.centos.org/download/)
 	- 下载工具：Flox
-	- 用户名：centos7
-	- 密码：centos7
-	- 名称：centos7
-	- 安装路径：VM/
+	- 虚拟机信息：
+		- 用户名：centos7
+		- 密码：centos7
+		- 名称：CentOS Linux
+		- 安装路径：/Volumes/VM/Parallels
