@@ -3,7 +3,7 @@
 	-  [下载 CentOS Linux 7-2009-ARM64](https://www.centos.org/download/)诶很奇怪下了7安装不了，就下了 Stream9
 	- 下载工具：Flox
 	- 虚拟机信息：
-		- 用户名：root , user1
+		- 用户名：root , centos9
 		- password：123456
 			- **Parallels Desktop 在安装 centos 的时候是默认不激活root这个超级用户的，需要手动激活**
 		- 名称：CentOS Linux
