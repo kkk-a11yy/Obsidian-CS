@@ -1,6 +1,6 @@
 - Parallels desktop 安装 CentOS 7
 	- M1的芯片选择ARM64版本
-	-  [下载 CentOS Linux 7-2009-ARM64](https://www.centos.org/download/)
+	-  [下载 CentOS Linux 7-2009-ARM64](https://www.centos.org/download/)诶很奇怪下了7安装不了，就下了 Stream9
 	- 下载工具：Flox
 	- 虚拟机信息：
 		- 用户名：root , user1
