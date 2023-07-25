@@ -11,7 +11,9 @@
 		- ip: 
 			- centos9: 
 				- `ip addr` 
-				- enp0s5: inet 10.211.55.5.    host-only.  
+				- enp0s5: 
+					- inet 10.211.55.5.    host-only.  
+					- inet 10.37.129.3. shard
 			- mac m1 pro : 
 				- `ifconfig`  \. option+wifi图标
 				- en0.  :  192.168.0.101. 
