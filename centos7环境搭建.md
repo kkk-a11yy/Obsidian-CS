@@ -4,7 +4,7 @@
 	- 下载工具：Flox
 	- 虚拟机信息：
 		- 用户名：root , centos9
-		- password：123456. 18609459450
+		- password：123456. 18609459450. 0902
 			- **Parallels Desktop 在安装 centos 的时候是默认不激活root这个超级用户的，需要手动激活**
 		- 名称：CentOS Linux
 		- 安装路径：/Volumes/VM/Parallels
