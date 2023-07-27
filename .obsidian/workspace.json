@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
-                "mode": "source",
+                "file": "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/过程记录.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+                "file": "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/过程记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+                "file": "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/过程记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md"
+                "file": "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/过程记录.md"
               }
             }
           },
@@ -226,6 +226,7 @@
   },
   "active": "04c00e4faed427b9",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "BEFORE/Home.md",
     "Configuration/Config-data.md",
     "Configuration/win10安装macos/VMware/参考资料.md",
@@ -234,7 +235,6 @@
     "centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "书籍/CS-BOOKS-DATA.md",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "BEFORE/Person/YouTube-data.md",
