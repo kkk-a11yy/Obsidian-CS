@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/Config-data.md",
+                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/Config-data.md",
+                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/Config-data.md",
+                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/Config-data.md"
+                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md"
               }
             }
           },
@@ -226,15 +226,15 @@
   },
   "active": "04c00e4faed427b9",
   "lastOpenFiles": [
+    "BEFORE/Home.md",
+    "Configuration/Config-data.md",
     "Configuration/win10安装macos/VMware/参考资料.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
     "书籍/books/拿破仑 - Emil Ledwig.md",
     "centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "Configuration/Config-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
-    "BEFORE/Home.md",
     "书籍/CS-BOOKS-DATA.md",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "BEFORE/Person/YouTube-data.md",
