@@ -13,8 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/时间编表.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
                 "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04c00e4faed427b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Configuration/Config-data.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac6bb0a7b5511eec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "书籍/CS-BOOKS-DATA.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/时间编表.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/时间编表.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/时间编表.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md"
               }
             }
           },
@@ -213,39 +239,41 @@
   },
   "active": "9537d438a5e5abb7",
   "lastOpenFiles": [
-    "BEFORE/Home.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "centos9环境搭建.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+    "BEFORE/Home.md",
+    "Configuration/Config-data.md",
+    "书籍/CS-BOOKS-DATA.md",
+    "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
+    "BEFORE/Person/YouTube-data.md",
+    "centos9环境搭建.md",
+    "书籍/books/编译原理.md",
+    "BEFORE/时间编表.md",
+    "BEFORE/outsource/writing a book in Obsidian.md",
+    "BEFORE/outsource/Building A Book Library In Obsidian.md",
+    "BEFORE/学习进度.md",
+    "BEFORE/outsource-data.md",
+    "BEFORE/时间戳/2023-06-25.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
     "课程&笔记/技术栈/freeCodeCamp/fs-data.md",
-    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-rec.md",
     "课程&笔记/技术栈/freeCodeCamp/fs-rec.md",
-    "BEFORE/Person/YouTube-data.md",
     "Configuration/JAVA/JAVA环境搭建.md",
     "Configuration/github/配置.md",
     "Configuration/homebrew/Homebrew.md",
     "BEFORE/Person/YouTube/FromSergio.md",
     "BEFORE/Person/YouTube/Abdul Bari.md",
     "Configuration/Alfred/alfred-config.md",
-    "Configuration/Config-data.md",
     "Configuration/Alfred",
-    "BEFORE/时间戳/2023-06-26.md",
     "Configuration/JAVA",
     "Configuration/homebrew",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
-    "课程&笔记/算法与数据结构/6.006-spring-2020-data.md",
-    "课程&笔记/算法与数据结构/6.006-spring-2020-rec.md",
-    "BEFORE/templetes/课程笔记-rec.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020/resources/2nmts1ecb3o/index.html",
-    "BEFORE/READE ME.md",
     "课程&笔记/未命名.canvas",
     "BEFORE/templetes/未命名",
-    "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/configure gitpod.md",
-    "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/课程资料.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/未命名",
-    "README.md",
     "lecture-note/Pasted image 20230422162958.png",
     "lecture-note/Pasted image 20230422162702.png",
     "lecture-note/Pasted image 20230422162028.png",
@@ -253,12 +281,10 @@
     "lecture-note/Pasted image 20230422161528.png",
     "lecture-note/Pasted image 20230422160625.png",
     "lecture-note/Pasted image 20230407213431.png",
-    "lecture-note/branch education.md",
     "lecture-note/Pasted image 20230516210801.png",
     "lecture-note/Pasted image 20230422160822.png",
     "书籍/编译/编译原理(龙书第2版).pdf",
     "书籍/代码/代码大全2中文版（高清晰完美PDF版，索引完整）.pdf",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/youtube.svg",
     "书籍/TPC&IP/TCP-IP.canvas",
     "未命名.canvas",
