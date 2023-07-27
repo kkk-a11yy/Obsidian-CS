@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-                "mode": "source",
+                "file": "BEFORE/时间编表.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "centos9环境搭建.md",
+                "file": "BEFORE/时间编表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "centos9环境搭建.md",
+                "file": "BEFORE/时间编表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "centos9环境搭建.md"
+                "file": "BEFORE/时间编表.md"
               }
             }
           },
@@ -203,8 +202,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 45,
-        "y": 218,
+        "x": 756,
+        "y": 507,
         "width": 600,
         "height": 729,
         "maximize": false,
@@ -212,8 +211,9 @@
       }
     ]
   },
-  "active": "479b3f2c535512f9",
+  "active": "9537d438a5e5abb7",
   "lastOpenFiles": [
+    "BEFORE/Home.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
@@ -231,7 +231,6 @@
     "Configuration/Alfred/alfred-config.md",
     "Configuration/Config-data.md",
     "Configuration/Alfred",
-    "BEFORE/Home.md",
     "BEFORE/时间戳/2023-06-26.md",
     "Configuration/JAVA",
     "Configuration/homebrew",
