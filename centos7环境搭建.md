@@ -22,3 +22,8 @@
 		- 前提：要有你需要连接的服务器的ip，端口号，服务器上的账户和密码 
 			- 1、首先打开终端，然后输入sudo su – 回车进入根目录 
 			- 2、然后输入：ssh -p 端口号 服务器用户名@ip （例如ssh -p 22 userkunyu@119.29.37.63
+	- 设置静态IP
+		- `CentOS Stream 9` 的网卡配置文件移动在 `/etc/NetworkManager/system-connections/` 目录下
+		- 重启：
+- ``` r. nmcli c reloadnmcli c up enp0s5
+```
