@@ -25,7 +25,8 @@
 	- 设置静态IP
 		- `CentOS Stream 9` 的网卡配置文件移动在 `/etc/NetworkManager/system-connections/` 目录下
 		- 重启：
-``` r
-nmcli c reload
-nmcli c up enp0s5
-```
+		  ``` r
+		nmcli c reload
+		nmcli c up enp0s5
+		```
+		
