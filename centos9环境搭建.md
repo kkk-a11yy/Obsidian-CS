@@ -27,6 +27,9 @@
 		- 重启：
 		  ``` r
 		nmcli c reload
-		nmcli c up enp0s5
+		nmcli c up enp0s5		
 		```
 		
+		``` bash
+		
+       ```
