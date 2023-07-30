@@ -11,7 +11,7 @@
 虚拟机：
 - parallels 18.1.1  
 	- [下载](https://luoxx.top/archives/pd-18-active)
-	- CenOS 7.  [[centos9环境搭建]]
+	- CenOS 7.  [centos9环境搭建](课程&笔记/技术栈/尚硅谷/谷粒商城/centos9环境搭建.md)
 		- JDK 1.8
 		- Maven 3.. .1
 		- Navicat
