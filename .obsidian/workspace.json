@@ -4,123 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "c3471dfb17fbacf0",
-        "type": "split",
-        "children": [
-          {
-            "id": "df799f50bc3eedf1",
-            "type": "tabs",
-            "dimension": 73.52380952380952,
-            "children": [
-              {
-                "id": "ac6bb0a7b5511eec",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "BEFORE/Home.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "766e768bc580ca17",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "centos9环境搭建.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5012d2af64ab8a94",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "aea0da390fa917e2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "2814f2021a95f577",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "BEFORE/Person/YouTube/Abdul Bari.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "4ebe60dc1e758d2e",
-            "type": "tabs",
-            "dimension": 26.476190476190474,
-            "children": [
-              {
-                "id": "0de513ac6d88590d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "BEFORE/outsource/Automate Your Vault With Dataview.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "eb5bf9d29986f884",
+        "id": "df799f50bc3eedf1",
         "type": "tabs",
         "children": [
           {
-            "id": "48fe2c1e4f403ea6",
+            "id": "ac6bb0a7b5511eec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/outsource/Building A Book Library In Obsidian.md",
+                "file": "书籍/books/深入理解计算机系统 - Randal Bryant David Richard O'Hallaron.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6d7b67fa405f016",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "centos9环境搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "centos9环境搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "centos9环境搭建.md"
-              }
+              "state": {}
             }
           },
           {
@@ -251,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -273,48 +177,22 @@
       "homepage:Open homepage": false
     }
   },
-  "floating": {
-    "id": "3ff3801121514891",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7280f0ca7dc2617f",
-        "type": "window",
-        "children": [
-          {
-            "id": "beda7984529d14fc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "479b3f2c535512f9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "centos9环境搭建.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 231,
-        "y": 233,
-        "width": 600,
-        "height": 729,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "2c6e3a3f75a490ef",
+  "active": "c6d7b67fa405f016",
   "lastOpenFiles": [
-    "Configuration/Config-data.md",
+    "书籍/CS-BOOKS-DATA.md",
+    "书籍/books/Machine Learning - Peter Flach.md",
+    "书籍/books/地基基础 - 郭继武 郭瑶.md",
+    "书籍/books/Cracking the Coding Interview - Gayle Laakmann McDowell.md",
+    "书籍/books/深入理解计算机系统 - Randal Bryant David Richard O'Hallaron.md",
+    "书籍/books/拿破仑 - Emil Ledwig.md",
+    "书籍/books/浪潮之巅 - 吴军.md",
+    "书籍/books/分布式系统原理与范型 - Tanenbaum Andrew S·塔嫩鲍姆 塔嫩鲍姆 Steen Maarten van·斯蒂恩 斯蒂恩 晓波·常 敏·李.md",
+    "书籍/books/硅谷之谜 - 吴军.md",
+    "书籍/books/编译原理.md",
+    "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
     "BEFORE/Home.md",
+    "centos9环境搭建.md",
+    "Configuration/Config-data.md",
     "BEFORE/Person/YouTube/Abdul Bari.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
@@ -324,23 +202,12 @@
     "BEFORE/outsource/Automate Your Vault With Dataview.md",
     "BEFORE/outsource-data.md",
     "BEFORE/outsource/Building A Book Library In Obsidian.md",
-    "centos9环境搭建.md",
-    "书籍/CS-BOOKS-DATA.md",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/configure gitpod.md",
     "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/过程记录.md",
     "Configuration/win10安装macos/VMware/参考资料.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
-    "书籍/books/拿破仑 - Emil Ledwig.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
-    "BEFORE/Person/YouTube-data.md",
-    "书籍/books/编译原理.md",
-    "BEFORE/时间编表.md",
-    "BEFORE/outsource/writing a book in Obsidian.md",
-    "BEFORE/学习进度.md",
-    "BEFORE/时间戳/2023-06-25.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
     "Configuration/Alfred",
     "Configuration/JAVA",
     "Configuration/homebrew",
@@ -358,7 +225,6 @@
     "lecture-note/Pasted image 20230516210801.png",
     "lecture-note/Pasted image 20230422160822.png",
     "书籍/编译/编译原理(龙书第2版).pdf",
-    "书籍/代码/代码大全2中文版（高清晰完美PDF版，索引完整）.pdf",
     "课程&笔记/算法与数据结构/6.006-spring-2020/static_shared/images/youtube.svg",
     "书籍/TPC&IP/TCP-IP.canvas",
     "未命名.canvas",
