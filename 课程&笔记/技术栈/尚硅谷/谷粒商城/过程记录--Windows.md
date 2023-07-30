@@ -47,7 +47,7 @@
 				  1. 启动后其他命令：`docker -v` , `sudo docker images` , `sudo docker run hello-world `
 				  2. 设置docker 为linux开机自启动 ：`sudo systemctl enable docker`
 			5. 配置docker阿里云镜像加速器centos："[容器镜像服务 (aliyun.com)](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)" (本人已魔法，这步可以不做)
-             ``` r
+             ``` 
 			 sudo mkdir -p /etc/docker
 			 
 			 sudo tee /etc/docker/daemon.json <<-'EOF'  

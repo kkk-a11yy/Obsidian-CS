@@ -26,12 +26,38 @@
                 }
               },
               {
+                "id": "766e768bc580ca17",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "centos9环境搭建.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "5012d2af64ab8a94",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "aea0da390fa917e2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -168,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+                "file": "centos9环境搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+                "file": "centos9环境搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md"
+                "file": "centos9环境搭建.md"
               }
             }
           },
@@ -285,10 +311,13 @@
       }
     ]
   },
-  "active": "5012d2af64ab8a94",
+  "active": "2c6e3a3f75a490ef",
   "lastOpenFiles": [
+    "Configuration/Config-data.md",
     "BEFORE/Home.md",
     "BEFORE/Person/YouTube/Abdul Bari.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "BEFORE/Person/YouTube/3Blue1Brown.md",
     "BEFORE/Person/YouTube/FromSergio.md",
     "BEFORE/outsource/未命名.md",
@@ -298,15 +327,12 @@
     "centos9环境搭建.md",
     "书籍/CS-BOOKS-DATA.md",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
-    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/configure gitpod.md",
     "课程&笔记/技术栈/freeCodeCamp/full-stack-web-dev/过程记录.md",
-    "Configuration/Config-data.md",
     "Configuration/win10安装macos/VMware/参考资料.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
     "书籍/books/拿破仑 - Emil Ledwig.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "BEFORE/Person/YouTube-data.md",
     "书籍/books/编译原理.md",
