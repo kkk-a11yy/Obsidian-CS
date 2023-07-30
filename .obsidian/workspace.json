@@ -19,6 +19,52 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2814f2021a95f577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEFORE/outsource-data.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebbb6055ef1c4ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEFORE/Person/YouTube/FromSergio.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "eb5bf9d29986f884",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48fe2c1e4f403ea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEFORE/outsource/Building A Book Library In Obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -94,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "centos9环境搭建.md",
+                "file": "BEFORE/outsource-data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "centos9环境搭建.md",
+                "file": "BEFORE/outsource-data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "centos9环境搭建.md"
+                "file": "BEFORE/outsource-data.md"
               }
             }
           },
@@ -202,8 +248,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 527,
-        "y": 248,
+        "x": 231,
+        "y": 233,
         "width": 600,
         "height": 729,
         "maximize": false,
@@ -211,10 +257,13 @@
       }
     ]
   },
-  "active": "479b3f2c535512f9",
+  "active": "2814f2021a95f577",
   "lastOpenFiles": [
-    "BEFORE/Home.md",
+    "BEFORE/Person/YouTube/FromSergio.md",
     "BEFORE/outsource-data.md",
+    "BEFORE/outsource/Building A Book Library In Obsidian.md",
+    "BEFORE/Home.md",
+    "centos9环境搭建.md",
     "书籍/CS-BOOKS-DATA.md",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
@@ -224,7 +273,6 @@
     "Configuration/win10安装macos/VMware/参考资料.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录.md",
     "书籍/books/拿破仑 - Emil Ledwig.md",
-    "centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
@@ -232,7 +280,6 @@
     "书籍/books/编译原理.md",
     "BEFORE/时间编表.md",
     "BEFORE/outsource/writing a book in Obsidian.md",
-    "BEFORE/outsource/Building A Book Library In Obsidian.md",
     "BEFORE/学习进度.md",
     "BEFORE/时间戳/2023-06-25.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
