@@ -8,7 +8,7 @@ rate:
 
 
 ```dataview
-table 
+table
 from "BEFORE/outsource"
 where contains(author,"FromSergio")
 
