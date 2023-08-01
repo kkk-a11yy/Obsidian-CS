@@ -23,10 +23,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-                "mode": "preview",
+                "file": "Configuration/github/配置.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "Configuration/github/配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "Configuration/github/配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
+                "file": "Configuration/github/配置.md"
               }
             }
           },
@@ -186,8 +185,9 @@
   },
   "active": "c6855be371cc6316",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/centos9环境搭建.md",
+    "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/centos9环境搭建.md",
     "BEFORE/Home.md",
     "学习网站/notes/advanced-java/ad-data.md",
     "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
@@ -212,9 +212,7 @@
     "书籍/books/浪潮之巅 - 吴军.md",
     "书籍/books/分布式系统原理与范型 - Tanenbaum Andrew S·塔嫩鲍姆 塔嫩鲍姆 Steen Maarten van·斯蒂恩 斯蒂恩 晓波·常 敏·李.md",
     "书籍/books/硅谷之谜 - 吴军.md",
-    "书籍/books/编译原理.md",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
-    "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "Configuration/Alfred",
     "Configuration/JAVA",
