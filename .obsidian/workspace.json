@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "https://i.imgur.com/dXx3EYE.png",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,7 +185,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c6855be371cc6316",
+  "active": "0321558eef25b7f1",
   "lastOpenFiles": [
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
