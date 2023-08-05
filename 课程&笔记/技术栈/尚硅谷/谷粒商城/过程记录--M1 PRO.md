@@ -6,12 +6,12 @@
 
 # 环境说明：
 
-机器：m1 pro 2021  , macOS:13.4.1 ,
+机器：m1 pro 2021  , macOS:13.4.1 
 包管理： [Homebrew](Configuration/homebrew/Homebrew.md) , sdkman 
 虚拟机：
 - parallels 18.1.1  
 	- [下载](https://luoxx.top/archives/pd-18-active)
-	- CenOS 7.  [centos9环境搭建](课程&笔记/技术栈/尚硅谷/谷粒商城/centos9环境搭建.md)
+	- CenOS 9.  [centos9环境搭建](课程&笔记/技术栈/尚硅谷/谷粒商城/centos9环境搭建.md)
 		- JDK 1.8
 		- Maven 3.. .1
 		- Navicat
@@ -31,7 +31,7 @@
 ----
 # 环境搭建
 
-[CentOS 7 下载 Parallels 版，选择v4.2.16](https://app.vagrantup.com/generic/boxes/centos7)
+
 
 
 
