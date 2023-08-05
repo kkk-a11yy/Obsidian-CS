@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/github/配置.md",
+                "file": "Configuration/Config-data.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/github/配置.md",
+                "file": "Configuration/Config-data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/github/配置.md",
+                "file": "Configuration/Config-data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/github/配置.md"
+                "file": "Configuration/Config-data.md"
               }
             }
           },
@@ -186,8 +186,11 @@
   },
   "active": "c6855be371cc6316",
   "lastOpenFiles": [
+    "README.md",
+    "Configuration/Config-data.md",
     "Pasted image 20230805132629.png",
     "Pasted image 20230804141432.png",
+    "Configuration/github/配置.md",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/centos9环境搭建.md",
@@ -213,8 +216,6 @@
     "书籍/books/深入理解计算机系统 - Randal Bryant David Richard O'Hallaron.md",
     "书籍/books/拿破仑 - Emil Ledwig.md",
     "书籍/books/浪潮之巅 - 吴军.md",
-    "书籍/books/分布式系统原理与范型 - Tanenbaum Andrew S·塔嫩鲍姆 塔嫩鲍姆 Steen Maarten van·斯蒂恩 斯蒂恩 晓波·常 敏·李.md",
-    "书籍/books/硅谷之谜 - 吴军.md",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "Configuration/Alfred",
@@ -232,7 +233,6 @@
     "lecture-note/Pasted image 20230422160625.png",
     "lecture-note/Pasted image 20230407213431.png",
     "lecture-note/Pasted image 20230516210801.png",
-    "lecture-note/Pasted image 20230422160822.png",
     "书籍/编译/编译原理(龙书第2版).pdf",
     "书籍/TPC&IP/TCP-IP.canvas",
     "未命名.canvas",
