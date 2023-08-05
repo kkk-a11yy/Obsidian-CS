@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "df799f50bc3eedf1",
+        "id": "1e0ada27316f9639",
         "type": "tabs",
         "children": [
           {
-            "id": "c6855be371cc6316",
+            "id": "0af81e4145a04dac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+                "file": "BEFORE/Home.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+                "file": "BEFORE/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+                "file": "BEFORE/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md"
+                "file": "BEFORE/Home.md"
               }
             }
           },
@@ -173,7 +173,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c6855be371cc6316",
+  "active": "0af81e4145a04dac",
   "lastOpenFiles": [
     "Configuration/github/配置.md",
     "Configuration/wsl/WSL.md",
