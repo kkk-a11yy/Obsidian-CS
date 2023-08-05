@@ -3,9 +3,7 @@ cssclass: dashboard
 banner_x: 1
 banner_y: 0.5
 banner: "![[BEFORE/Banners/hqwsbARJ9ec.jpg]]"
-## <%div class="title" style="color:Sienna">HOME</div>
 ---
-
 
 # Family
 - 🏈 Sunday Game
@@ -54,3 +52,4 @@ banner: "![[BEFORE/Banners/hqwsbARJ9ec.jpg]]"
 - 〽️ Stats
 	-  File Count: `$=dv.pages().length`
 	-  Personal recipes: `$=dv.pages('"Family/Recipes"').length`e
+

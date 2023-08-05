@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Home.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Home.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Home.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Home.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
               }
             }
           },
@@ -175,13 +175,17 @@
   },
   "active": "0af81e4145a04dac",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+    "课程&笔记/算法与数据结构/6.006-spring-2020-data.md",
+    "课程&笔记/算法与数据结构/6.006-spring-2020-rec.md",
+    "学习网站/笔记集合.canvas",
+    "BEFORE/Home.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/centos9环境搭建.md",
     "Configuration/github/配置.md",
     "Configuration/wsl/WSL.md",
     "Configuration/win10安装macos/VMware/参考资料.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "学习网站/notes/advanced-java/ad-data.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/centos9环境搭建.md",
-    "学习网站/笔记集合.canvas",
     "学习网站/notes/advanced-java/ad-note/分布式架构/分布式会话.md",
     "Configuration/Alfred/alfred-config.md",
     "Configuration/Config-data.md",
@@ -189,7 +193,6 @@
     "Pasted image 20230805132629.png",
     "Pasted image 20230804141432.png",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
-    "BEFORE/Home.md",
     "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
     "学习网站/notes/advanced-java/ad-note/高并发/消息队列.md",
     "学习网站/notes/advanced-java/ad-note/高并发/缓存-redis.md",
@@ -200,11 +203,8 @@
     "学习网站/websites/小林coding.md",
     "Configuration/clash for win/错误.md",
     "BEFORE/时间戳/2023-06-26.md",
-    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "书籍/CS-BOOKS-DATA.md",
     "书籍/books/Machine Learning - Peter Flach.md",
-    "书籍/books/地基基础 - 郭继武 郭瑶.md",
-    "书籍/books/Cracking the Coding Interview - Gayle Laakmann McDowell.md",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "Configuration/Alfred",
