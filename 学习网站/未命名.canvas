@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"002e59b8cce6977e","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
-		{"id":"4c3ebac9a3bea74e","x":-525,"y":120,"width":400,"height":400,"type":"file","file":"书籍/books/地基基础 - 郭继武 郭瑶.md"}
-	],
-	"edges":[]
-}

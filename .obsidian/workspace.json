@@ -21,12 +21,14 @@
             "id": "c6855be371cc6316",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Configuration/Config-data.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "学习网站/笔记集合.canvas",
+                "viewState": {
+                  "x": 1106.3050457811582,
+                  "y": 1807.7412685480485,
+                  "zoom": -0.8516254457862431
+                }
               }
             }
           }
@@ -89,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 292.5
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/Config-data.md",
+                "file": "学习网站/notes/advanced-java/ad-note/HA/Hystrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/Config-data.md",
+                "file": "学习网站/notes/advanced-java/ad-note/HA/Hystrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/Config-data.md"
+                "file": "学习网站/notes/advanced-java/ad-note/HA/Hystrix.md"
               }
             }
           },
@@ -186,8 +188,11 @@
   },
   "active": "c6855be371cc6316",
   "lastOpenFiles": [
-    "README.md",
+    "学习网站/notes/advanced-java/ad-note/分布式架构/分布式会话.md",
+    "学习网站/笔记集合.canvas",
+    "Configuration/Alfred/alfred-config.md",
     "Configuration/Config-data.md",
+    "README.md",
     "Pasted image 20230805132629.png",
     "Pasted image 20230804141432.png",
     "Configuration/github/配置.md",
@@ -203,9 +208,7 @@
     "学习网站/notes/advanced-java/ad-note/分布式架构/系统拆分.md",
     "学习网站/notes/advanced-java/ad-note/分布式架构/分布式锁.md",
     "学习网站/notes/advanced-java/ad-note/分布式架构/分布式事务.md",
-    "学习网站/notes/advanced-java/ad-note/分布式架构/分布式会话.md",
     "学习网站/websites/小林coding.md",
-    "学习网站/未命名.canvas",
     "Configuration/clash for win/错误.md",
     "BEFORE/时间戳/2023-06-26.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
@@ -214,8 +217,6 @@
     "书籍/books/地基基础 - 郭继武 郭瑶.md",
     "书籍/books/Cracking the Coding Interview - Gayle Laakmann McDowell.md",
     "书籍/books/深入理解计算机系统 - Randal Bryant David Richard O'Hallaron.md",
-    "书籍/books/拿破仑 - Emil Ledwig.md",
-    "书籍/books/浪潮之巅 - 吴军.md",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "Configuration/Alfred",

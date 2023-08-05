@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"545a225d5fbfe260","x":1042,"y":1603,"width":400,"height":400,"type":"file","file":"学习网站/notes/advanced-java/ad-note/HA/Hystrix.md"},
+		{"id":"cd57aa7353194340","x":-460,"y":740,"width":400,"height":400,"type":"file","file":"学习网站/notes/advanced-java/ad-note/分布式架构/系统拆分.md"},
+		{"id":"645b327aa47bec42","x":80,"y":740,"width":400,"height":400,"type":"file","file":"学习网站/notes/advanced-java/ad-note/分布式架构/分布式会话.md"},
+		{"type":"file","file":"学习网站/notes/advanced-java/ad-note/分布式架构/分布式锁.md","id":"503242c5289a1ced","x":-460,"y":245,"width":400,"height":400},
+		{"id":"85b29985e85bd8bf","x":80,"y":245,"width":400,"height":400,"type":"file","file":"学习网站/notes/advanced-java/ad-note/分布式架构/分布式事务.md"},
+		{"id":"78a8245b08573956","x":1011,"y":261,"width":400,"height":400,"type":"file","file":"学习网站/notes/advanced-java/ad-note/高并发/分库分表.md"},
+		{"id":"98233ea8d942f2b8","x":1018,"y":802,"width":400,"height":400,"type":"file","file":"学习网站/notes/advanced-java/ad-note/高并发/缓存-redis.md"},
+		{"id":"207c3c16afa1fba5","x":1574,"y":271,"width":400,"height":400,"type":"file","file":"学习网站/notes/advanced-java/ad-note/高并发/消息队列.md"},
+		{"id":"0612c6bb4b60d3cf","x":1594,"y":809,"width":400,"height":400,"type":"file","file":"学习网站/notes/advanced-java/ad-note/高并发/ES.md"},
+		{"id":"2d2c3bcca9c68244","x":-370,"y":1600,"width":400,"height":400,"type":"file","file":"学习网站/notes/advanced-java/ad-note/熔断/熔断.md"},
+		{"id":"9729106ecdcc5f1a","x":259,"y":1600,"width":400,"height":400,"type":"file","file":"学习网站/notes/advanced-java/ad-note/限流/限流.md"}
+	],
+	"edges":[]
+}
