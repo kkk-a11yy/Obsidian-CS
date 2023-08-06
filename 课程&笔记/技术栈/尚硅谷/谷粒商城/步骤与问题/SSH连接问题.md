@@ -30,3 +30,7 @@ ksia@bogon ~ % cat /Users/ksia/Obsidian-CS.pub
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDMTRIiQydU9ZVNBvwMmheAWsgt7YS7v2Lm2GxZ1V9yGwgNfaoafr9NNxYSXfyBJTD2nHoawbj3yA36jtx+q1HOhVlVshJRFyXBJxJv6SnkUTZG+iE4EBKf0RzsDP5FnjDAZz77SsqwafYaVX38s0ApsRMa/cmCkda46MbdTU2DwHu6CgA8cNCCiQfaT6sy1Hs0zuxwl1hqH7hyHBwh9eUCceqBrG4UjZKyt+XYFKar01yAnG44UjI5So3rU5kJxG3XkHgiRmJD1nLCi6SgMTRIRfqHbAjCmKW/GK7dky801Uy/waHi2tQUbXQVrG440h2YLSA1iB7zET6Ls7oq6DItd+EltJxDTZ2LSbZgJWGNI1qEGMN2wMM4zRLZED8a5geeCUG3ke/xvHP4ThI/xTqjZHaCorKEDpRuBLhpsXSNKuKP1Iu1ZqtHAIx8rM7+XeGNcv9Gab+ki/Kl0dFsNjTMCbPAvdwiXTmsYIr57sV0nb+Ru7MODtKGykhLB4rGmZ0= ksiafor@gmail.com
 
 ```
+
+- 在GitHub desktop的`repostory setting` 中添加
+![](Pasted%20image%2020230806180514.png)
+![](Pasted%20image%2020230806180415.png)
