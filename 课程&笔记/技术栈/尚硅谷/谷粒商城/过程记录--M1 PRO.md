@@ -10,11 +10,11 @@
 - 包管理： [Homebrew](Configuration/homebrew/Homebrew.md) , sdkman 
 - CI/CD：
 	- GitHub ：
-		- [[课程&笔记/技术栈/尚硅谷/谷粒商城/SSH连接问题]]
+		- [[课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题]]
 虚拟机：
 - parallels 18.1.1  
 	- [下载](https://luoxx.top/archives/pd-18-active)
-	- CenOS 9.  [centos9环境搭建](课程&笔记/技术栈/尚硅谷/谷粒商城/centos9环境搭建.md)
+	- CenOS 9.  [centos9环境搭建](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md)
 		- JDK 1.8
 		- Maven 3.. .1
 		- Navicat
