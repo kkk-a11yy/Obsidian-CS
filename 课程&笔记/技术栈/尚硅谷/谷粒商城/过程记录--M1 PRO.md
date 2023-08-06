@@ -6,8 +6,11 @@
 
 # 环境说明：
 
-机器：m1 pro 2021  , macOS:13.4.1 
-包管理： [Homebrew](Configuration/homebrew/Homebrew.md) , sdkman 
+- 机器：m1 pro 2021  , macOS:13.4.1 
+- 包管理： [Homebrew](Configuration/homebrew/Homebrew.md) , sdkman 
+- CI/CD：
+	- GitHub ：
+		- [[课程&笔记/技术栈/尚硅谷/谷粒商城/SSH连接问题]]
 虚拟机：
 - parallels 18.1.1  
 	- [下载](https://luoxx.top/archives/pd-18-active)
