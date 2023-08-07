@@ -40,6 +40,3 @@ Host github.com
   AddKeysToAgent yes
   IdentityFile /Users/ksia/Obsidian-CS
 ```
-[Lobsters](https://lobste.rs/)
-[Lobsters](https://lobste.rs/)
-[Lobsters](https://lobste.rs/)
