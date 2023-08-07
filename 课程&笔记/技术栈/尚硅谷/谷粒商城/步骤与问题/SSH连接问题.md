@@ -33,4 +33,10 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDMTRIiQydU9ZVNBvwMmheAWsgt7YS7v2Lm2GxZ1V9y
 
 - 在GitHub desktop的`repostory setting` 中添加
 ![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/Pasted%20image%2020230806180514.png)
-https://docs.github.com/zh/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+[SSH-CONNECT](https://docs.github.com/zh/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- `touch ~/.ssh/config`
+``` R
+Host github.com
+  AddKeysToAgent yes
+  IdentityFile /Users/ksia/Obsidian-CS
+```
