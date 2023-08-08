@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md"
               }
             }
           },
@@ -175,13 +175,14 @@
   },
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230806180514.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
     "Pasted image 20230806180415.png.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/Pasted image 20230806180514.png",
     "Configuration/Config-data.md",
     "Pasted image 20230806180415.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题",
@@ -208,7 +209,6 @@
     "学习网站/notes/advanced-java/ad-note/高并发/分库分表.md",
     "学习网站/notes/advanced-java/ad-note/分布式架构/系统拆分.md",
     "学习网站/notes/advanced-java/ad-note/分布式架构/分布式锁.md",
-    "学习网站/notes/advanced-java/ad-note/分布式架构/分布式事务.md",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "Configuration/Alfred",
@@ -222,7 +222,6 @@
     "lecture-note/Pasted image 20230422161324.png",
     "lecture-note/Pasted image 20230422161528.png",
     "lecture-note/Pasted image 20230422160625.png",
-    "书籍/编译/编译原理(龙书第2版).pdf",
     "书籍/TPC&IP/TCP-IP.canvas",
     "未命名.canvas",
     "课程&笔记/计算机数学/UCB-CS70/未命名.canvas",

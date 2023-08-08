@@ -2,6 +2,8 @@
 	- M1的芯片选择ARM64版本
 	-  [下载 CentOS Linux 7-2009-ARM64](https://www.centos.org/download/)诶很奇怪下了7安装不了，就下了 Stream9
 	- 下载工具：Flox
+	- SSH工具：- [EmTec Innovative Software - About to Download ZOC8 (macOS)](https://www.emtec.com/cgi-local/download.php?what=ZOC8%20(macOS)&link=zoc/zoc8064.dmg&ext=html)
+	- 
 	- 虚拟机信息：
 		- 用户名：root , centos9
 		- password：123456
