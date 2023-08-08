@@ -40,17 +40,17 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDMTRIiQydU9ZVNBvwMmheAWsgt7YS7v2Lm2GxZ1V9y
 ![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/Pasted%20image%2020230806180514.png)
 
 - 将 SSH 密钥添加到 ssh-agent 中:
+	- 参考： - [生成新的 SSH 密钥并将其添加到 ssh-agent - GitHub 文档](https://docs.github.com/zh/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 ``` r
 ksia@bogon ~ % eval "$(ssh-agent -s)"
 Agent pid 25644
 
 ksia@bogon ~ % ssh-add /Users/ksia/Obsidian-CS  
 Identity added: /Users/ksia/Obsidian-CS (ksiafor@gmail.com)
-```
 
- - [生成新的 SSH 密钥并将其添加到 ssh-agent - GitHub 文档](https://docs.github.com/zh/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-	- `touch ~/.ssh/config`
-``` R
+
+// `touch ~/.ssh/config`
+
 config文件内容：
 
 Host github.com

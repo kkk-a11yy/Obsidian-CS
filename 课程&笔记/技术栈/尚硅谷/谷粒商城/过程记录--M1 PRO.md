@@ -10,7 +10,7 @@
 - 包管理： [Homebrew](Configuration/homebrew/Homebrew.md) , sdkman 
 - CI/CD：
 	- GitHub ：
-		- [[课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题]]
+		- [SSH连接问题](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md)
 虚拟机：
 - parallels 18.1.1  
 	- [下载](https://luoxx.top/archives/pd-18-active)
