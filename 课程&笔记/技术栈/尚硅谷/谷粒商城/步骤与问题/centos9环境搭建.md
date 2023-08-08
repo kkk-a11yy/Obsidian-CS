@@ -15,6 +15,11 @@
 - ip: 
 	- centos9: 
 		- `ip addr` 
+		- 查看可配置的ip网段：
+			- ![](https://i.imgur.com/jZ8W3xg.png)
+![](https://i.imgur.com/uqr3vdC.png)
+
+
 		- enp0s5: 
 			- inet 10.211.55.7    host-only.  
 			- inet 10.37.129.3. shard
