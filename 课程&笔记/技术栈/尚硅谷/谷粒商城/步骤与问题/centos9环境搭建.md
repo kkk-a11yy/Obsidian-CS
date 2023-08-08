@@ -10,6 +10,8 @@
 	- **Parallels Desktop 在安装 centos 的时候是默认不激活root这个超级用户的，需要手动激活**
 - 名称：CentOS Linux
 - 安装路径：/Volumes/VM/Parallels
+- 查看安装的虚拟机版本：`cat /etc/redhat-release`
+- 进入root用户：`su root ` 本机密码：123456
 - ip: 
 	- centos9: 
 		- `ip addr` 
