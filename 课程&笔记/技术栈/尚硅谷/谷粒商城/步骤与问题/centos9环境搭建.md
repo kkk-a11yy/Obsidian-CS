@@ -18,16 +18,18 @@
 			- inet 10.37.129.3. shard
 			- 设置静态网络：192.168.0.24
 	- mac m1 pro : 
-		- `ifconfig`  \. option+wifi图标
-		- en0.  :  192.168.0.101. 
+		- `ifconfig`  或者  option+wifi图标
+		- en0  :  192.168.0.101
 # m1 pro SSH连接虚拟机服务器：（terminal）
+
 - 前提：要有你需要连接的服务器的ip，端口号，服务器上的账户和密码 
 	- 1、首先打开终端，然后输入sudo su – 回车进入根目录 
 	- 2、然后输入：ssh -p 端口号 服务器用户名@ip （例如ssh -p 22 userkunyu@119.29.37.63
 # 设置静态IP
+
 - `CentOS Stream 9` 的网卡配置文件移动在 `/etc/NetworkManager/system-connections/` 目录下
 - 重启：
-  ``` r
+``` r
 nmcli c reload
 nmcli c up enp0s5		
 ```
