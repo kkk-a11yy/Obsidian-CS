@@ -33,7 +33,9 @@
 - 参考文章：
 	- [我应该对虚拟机使用哪种网络模式（桥接、共享还是 Host-Only）？](https://kb.parallels.com/cn/4948)
 	-  [Parallels Desktop 16共享网络、桥接网络和Host-Only网络设置方法-软件-众番科技资讯网](https://www.szxnet.com/articles/501.html)	
-	- 
+- 设置虚拟机网络为桥接模式的默认适配器模式
+	- ![](Pasted%20image%2020230809165010.png)
+	- ip地址变为：`192.168.0.104`
 - `CentOS Stream 9` 的网卡配置文件移动在 `/etc/NetworkManager/system-connections/` 目录下
 - 重启：
 ``` r
