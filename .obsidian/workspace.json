@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
+                "file": "Docker安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
+                "file": "Docker安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md"
+                "file": "Docker安装.md"
               }
             }
           },
@@ -188,7 +188,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
+                    "file": "Docker安装.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -199,8 +199,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 845,
-        "y": 136,
+        "x": 1046,
+        "y": 205,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -210,14 +210,15 @@
   },
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "Docker安装.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230806180514.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
     "Pasted image 20230809165010.png",
     "Pasted image 20230809164933.png",
     "Pasted image 20230809164900.png",
     "Pasted image 20230808205031.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230806180514.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
@@ -257,7 +258,6 @@
     "BEFORE/templetes/未命名",
     "lecture-note/Pasted image 20230422162958.png",
     "lecture-note/Pasted image 20230422162702.png",
-    "lecture-note/Pasted image 20230422162028.png",
     "书籍/TPC&IP/TCP-IP.canvas",
     "未命名.canvas",
     "课程&笔记/计算机数学/UCB-CS70/未命名.canvas",

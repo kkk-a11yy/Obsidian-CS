@@ -19,7 +19,7 @@
 		- Maven 3.. .1
 		- Navicat
 		- Redis Desktop
-		- Docker
+		- [[Docker安装]]
 			- MySql 5.7
 			- Redis
 - vue 环境搭建

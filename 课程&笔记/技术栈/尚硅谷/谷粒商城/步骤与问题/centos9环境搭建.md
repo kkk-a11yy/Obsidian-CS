@@ -35,7 +35,8 @@
 - 设置虚拟机网络为桥接模式的默认适配器模式
 	- ![](Pasted%20image%2020230809165010.png)
 	- ip地址变为：`192.168.0.104`
-	- 互相
+	- 互相ping,可以ping通
+# 备用方法：
 - `CentOS Stream 9` 的网卡配置文件移动在 `/etc/NetworkManager/system-connections/` 目录下
 - 重启：
 ``` r
