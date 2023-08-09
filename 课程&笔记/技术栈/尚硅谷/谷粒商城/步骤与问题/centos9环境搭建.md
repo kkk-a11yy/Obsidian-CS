@@ -20,7 +20,6 @@
 		- enp0s5: 
 			- inet 10.211.55.7    host-only.  
 			- inet 10.37.129.3. shard
-			- 设置静态网络：192.168.0.24
 	- mac m1 pro : 
 		- `ifconfig`  或者  option+wifi图标
 		- en0  :  192.168.0.101
