@@ -30,7 +30,7 @@
 	- 1、首先打开终端，然后输入sudo su – 回车进入根目录 
 	- 2、然后输入：ssh -p 端口号 服务器用户名@ip （例如ssh -p 22 userkunyu@119.29.37.63
 # 设置静态IP
-
+- 参考文章：- [我应该对虚拟机使用哪种网络模式（桥接、共享还是 Host-Only）？](https://kb.parallels.com/cn/4948)
 - `CentOS Stream 9` 的网卡配置文件移动在 `/etc/NetworkManager/system-connections/` 目录下
 - 重启：
 ``` r
