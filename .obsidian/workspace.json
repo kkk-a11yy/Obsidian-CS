@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker安装.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker安装.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker安装.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
               }
             }
           },
@@ -188,7 +188,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Docker安装.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -199,8 +199,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1046,
-        "y": 205,
+        "x": 935,
+        "y": 300,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -210,9 +210,13 @@
   },
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230806180514.png",
-    "Docker安装.md",
+    "ZOC8-下载与连接虚拟机.md",
+    "Pasted image 20230810171742.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "Pasted image 20230810171101.png",
+    "Pasted image 20230810170959.png",
+    "Docker安装.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230806180514.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
     "Pasted image 20230809165010.png",
     "Pasted image 20230809164933.png",
@@ -241,13 +245,11 @@
     "学习网站/notes/advanced-java/ad-note/分布式架构/分布式会话.md",
     "Configuration/Alfred/alfred-config.md",
     "Pasted image 20230805132629.png",
-    "Pasted image 20230804141432.png",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
     "学习网站/notes/advanced-java/ad-note/高并发/消息队列.md",
     "学习网站/notes/advanced-java/ad-note/高并发/缓存-redis.md",
     "学习网站/notes/advanced-java/ad-note/高并发/分库分表.md",
-    "学习网站/notes/advanced-java/ad-note/分布式架构/系统拆分.md",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "Configuration/Alfred",
@@ -255,8 +257,6 @@
     "Configuration/homebrew",
     "课程&笔记/算法与数据结构/6.006-spring-2020/resources/2nmts1ecb3o/index.html",
     "BEFORE/templetes/未命名",
-    "lecture-note/Pasted image 20230422162958.png",
-    "lecture-note/Pasted image 20230422162702.png",
     "书籍/TPC&IP/TCP-IP.canvas",
     "未命名.canvas",
     "课程&笔记/计算机数学/UCB-CS70/未命名.canvas",
