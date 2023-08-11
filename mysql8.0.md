@@ -31,17 +31,20 @@ sudo docker run -p 3306:3306 --name mysql \
 CONTAINER ID   IMAGE       COMMAND                   CREATED         STATUS         PORTS                                                  NAMES
 c57e3d9cf27e   mysql:8.0   "docker-entrypoint.s…"   6 minutes ago   Up 6 minutes   0.0.0.0:3306->3306/tcp, :::3306->3306/tcp, 33060/tcp   mysql
 
+
 -------
 
 //问题：可能是因为 iptables 配置或 Docker 的网络问题。
-	docker: Error response from daemon: driver failed programming external connectivity on endpoint mysql (e4e74e1cafdb1d2364b193d318b95305d965a64392068d4ec93e82e137a73189):  (iptables failed: iptables --wait -t nat -A DOCKER -p tcp -d 0/0 --dport 3306 -j DNAT --to-destination 172.17.0.2:3306 ! -i docker0: iptables: No chain/target/match by that name.
-
+	docker: Error response from daemon: driver failed programming external connectivity on endpoint mysql (e4e74e1cafdb1d2364b193d318b95305d965a64392068d4ec93e82e137a73189):  (iptables failed
 	//解决：
 sudo systemctl restart iptables
 sudo systemctl restart docker
 
 docker stop <container name/id>
 docker rm <>
+
+------
+
 
 //进入到容器内部，mysql是一个小小的linux														 [root@bogon ~]# docker exec -it mysql /bin/bash
 bash-4.4# ls /
