@@ -43,3 +43,7 @@ docker rm <>
 
 
 ```
+
+mac下载mysql：- [MySQL :: Begin Your Download](https://dev.mysql.com/downloads/file/?id=520742)
+	root:
+		password:123456root
