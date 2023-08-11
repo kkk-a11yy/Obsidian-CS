@@ -17,7 +17,7 @@ sudo docker run -p 3306:3306 --name mysql \
 -e MYSQL_ROOT_PASSWORD=root \
 -d mysql:8.0
 
-	 -p : 是Linux中的MySQL容器里面装的MySQL的端口号3306和Linux的端口号映射
+	 -p : 是Linux中的MySQL容器里面装的MySQL的端口号3306和Linux的端口号映射,访问linux的3306就可以访问容器mysql的3306
 	 -name: 给当前容器起名叫mysql
 	 -v:  目录挂载：每个命令的冒号前面是linux的，后面是mysql的，这几步是做一个端口映射和log、lib、etc这几个文件的挂载挂载，挂载后去linux的对应文件夹下修改，对应的mysql下的文件也就改了
 	 -d: 初始化root用户密码
@@ -34,7 +34,7 @@ c57e3d9cf27e   mysql:8.0   "docker-entrypoint.s…"   6 minutes ago   Up 6 minut
 -------
 
 //问题：可能是因为 iptables 配置或 Docker 的网络问题。
-docker: Error response from daemon: driver failed programming external connectivity on endpoint mysql (e4e74e1cafdb1d2364b193d318b95305d965a64392068d4ec93e82e137a73189):  (iptables failed: iptables --wait -t nat -A DOCKER -p tcp -d 0/0 --dport 3306 -j DNAT --to-destination 172.17.0.2:3306 ! -i docker0: iptables: No chain/target/match by that name.
+	docker: Error response from daemon: driver failed programming external connectivity on endpoint mysql (e4e74e1cafdb1d2364b193d318b95305d965a64392068d4ec93e82e137a73189):  (iptables failed: iptables --wait -t nat -A DOCKER -p tcp -d 0/0 --dport 3306 -j DNAT --to-destination 172.17.0.2:3306 ! -i docker0: iptables: No chain/target/match by that name.
 
 	//解决：
 sudo systemctl restart iptables
@@ -43,6 +43,10 @@ sudo systemctl restart docker
 docker stop <container name/id>
 docker rm <>
 
+//进入到容器内部，mysql是一个小小的linux														 [root@bogon ~]# docker exec -it mysql /bin/bash
+bash-4.4# ls /
+bin   dev			  entrypoint.sh  home  lib64  mnt  proc  run   srv  tmp  var
+boot  docker-entrypoint-initdb.d  etc		 lib   media  opt  root  sbin  sys  usr
 
 ```
 
