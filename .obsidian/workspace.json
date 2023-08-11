@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZOC8-下载与连接虚拟机.md",
+                "file": "mysql8.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZOC8-下载与连接虚拟机.md",
+                "file": "mysql8.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZOC8-下载与连接虚拟机.md"
+                "file": "mysql8.0.md"
               }
             }
           },
@@ -188,7 +188,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ZOC8-下载与连接虚拟机.md",
+                    "file": "mysql8.0.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -199,8 +199,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 865,
-        "y": 255,
+        "x": 835,
+        "y": 266,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -211,8 +211,9 @@
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "Mac terminal.md",
+    "mysql8.0.md",
     "ZOC8-下载与连接虚拟机.md",
+    "Mac terminal.md",
     "Pasted image 20230810171742.png",
     "Pasted image 20230810171101.png",
     "Pasted image 20230810170959.png",
@@ -250,7 +251,6 @@
     "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
     "学习网站/notes/advanced-java/ad-note/高并发/消息队列.md",
     "学习网站/notes/advanced-java/ad-note/高并发/缓存-redis.md",
-    "学习网站/notes/advanced-java/ad-note/高并发/分库分表.md",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "Configuration/Alfred",

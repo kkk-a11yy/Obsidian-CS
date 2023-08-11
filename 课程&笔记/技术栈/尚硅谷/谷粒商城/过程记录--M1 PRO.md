@@ -23,7 +23,7 @@
 		- Navicat
 		- Redis Desktop
 		- [[Docker安装]]
-			- MySql 5.7
+			- [[mysql8.0]]
 			- Redis
 - vue 环境搭建
 	- Node JS
