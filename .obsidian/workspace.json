@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "Mac terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "Mac terminal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
+                "file": "Mac terminal.md"
               }
             }
           },
@@ -188,7 +188,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                    "file": "Mac terminal.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -199,8 +199,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 935,
-        "y": 300,
+        "x": 741,
+        "y": 113,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -210,9 +210,10 @@
   },
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "Mac terminal.md",
     "ZOC8-下载与连接虚拟机.md",
     "Pasted image 20230810171742.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "Pasted image 20230810171101.png",
     "Pasted image 20230810170959.png",
     "Docker安装.md",
