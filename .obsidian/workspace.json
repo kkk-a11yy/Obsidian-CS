@@ -11,9 +11,12 @@
             "id": "e349975e90cd5c45",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230806180514.png"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -210,23 +213,23 @@
   },
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230806180514.png",
     "mysql8.0.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "ZOC8-下载与连接虚拟机.md",
     "Mac terminal.md",
     "Pasted image 20230810171742.png",
     "Pasted image 20230810171101.png",
     "Pasted image 20230810170959.png",
     "Docker安装.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230806180514.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
     "Pasted image 20230809165010.png",
     "Pasted image 20230809164933.png",
     "Pasted image 20230809164900.png",
     "Pasted image 20230808205031.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
     "Pasted image 20230806180415.png.md",
     "Configuration/Config-data.md",
@@ -250,7 +253,6 @@
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
     "学习网站/notes/advanced-java/ad-note/高并发/消息队列.md",
-    "学习网站/notes/advanced-java/ad-note/高并发/缓存-redis.md",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "Configuration/Alfred",
