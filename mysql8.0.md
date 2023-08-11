@@ -44,13 +44,19 @@ docker stop <container name/id>
 docker rm <>
 
 ------
+如果文件挂载有报错 在上面的启动脚本中 加 --privileged==true
 
+------
 
 //进入到容器内部，mysql是一个小小的linux														 [root@bogon ~]# docker exec -it mysql /bin/bash
 bash-4.4# ls /
 bin   dev			  entrypoint.sh  home  lib64  mnt  proc  run   srv  tmp  var
 boot  docker-entrypoint-initdb.d  etc		 lib   media  opt  root  sbin  sys  usr
 
+//查看挂载目录
+[root@bogon ~]# cd /mydata/
+[root@bogon mydata]# ls
+mysql
 ```
 
 # mac mysql
