@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mac terminal.md",
+                "file": "ZOC8-下载与连接虚拟机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mac terminal.md",
+                "file": "ZOC8-下载与连接虚拟机.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mac terminal.md"
+                "file": "ZOC8-下载与连接虚拟机.md"
               }
             }
           },
@@ -188,7 +188,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Mac terminal.md",
+                    "file": "ZOC8-下载与连接虚拟机.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -199,8 +199,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 741,
-        "y": 113,
+        "x": 865,
+        "y": 255,
         "width": 846,
         "height": 729,
         "maximize": false,
