@@ -44,6 +44,11 @@ docker rm <>
 
 ```
 
-mac下载mysql：- [MySQL :: Begin Your Download](https://dev.mysql.com/downloads/file/?id=520742)
+# mac mysql
+下载：
+- [MySQL :: Begin Your Download](https://dev.mysql.com/downloads/file/?id=520742)
+安装mysql：
+- [MySQL for Mac（M1）安装指南](https://www.zhihu.com/tardis/zm/art/360858309?source_id=1003)
+
 	root:
 		password:123456root
