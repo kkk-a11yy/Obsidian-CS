@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mysql8.0.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mysql8.0.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysql8.0.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md"
               }
             }
           },
@@ -202,8 +202,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 821,
-        "y": 288,
+        "x": 686,
+        "y": 253,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -211,13 +211,13 @@
       }
     ]
   },
-  "active": "654ebc1f371497a7",
+  "active": "e349975e90cd5c45",
   "lastOpenFiles": [
+    "mysql8.0.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230806180514.png",
-    "mysql8.0.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "ZOC8-下载与连接虚拟机.md",
     "Mac terminal.md",
     "Pasted image 20230810171742.png",
