@@ -22,4 +22,24 @@ sudo docker run -p 3306:3306 --name mysql \
 	 注意：防火墙关闭：`systemctl stop firewalld `、挂在目录可以先不加、加的话要看三个目录是否存在，且里面不能有东西
 	 启动不了的，购买的云服务器，去安全组开放一下端口，试试 `run mysql  --priviledged=true`
 	 高版本mysql要额外设置，连接不上的搜索：mysql 运行外网主机访问
+
+
+//查看容器是否启动
+[root@bogon ~]# docker ps
+CONTAINER ID   IMAGE       COMMAND                   CREATED         STATUS         PORTS                                                  NAMES
+c57e3d9cf27e   mysql:8.0   "docker-entrypoint.s…"   6 minutes ago   Up 6 minutes   0.0.0.0:3306->3306/tcp, :::3306->3306/tcp, 33060/tcp   mysql
+
+-------
+
+//问题：可能是因为 iptables 配置或 Docker 的网络问题。
+docker: Error response from daemon: driver failed programming external connectivity on endpoint mysql (e4e74e1cafdb1d2364b193d318b95305d965a64392068d4ec93e82e137a73189):  (iptables failed: iptables --wait -t nat -A DOCKER -p tcp -d 0/0 --dport 3306 -j DNAT --to-destination 172.17.0.2:3306 ! -i docker0: iptables: No chain/target/match by that name.
+
+	//解决：
+sudo systemctl restart iptables
+sudo systemctl restart docker
+
+docker stop <container name/id>
+docker rm <>
+
+
 ```
