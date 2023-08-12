@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JDK1.8-Mac m1 pro.md",
+                "file": "maven-mac m1pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JDK1.8-Mac m1 pro.md",
+                "file": "maven-mac m1pro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JDK1.8-Mac m1 pro.md"
+                "file": "maven-mac m1pro.md"
               }
             }
           },
@@ -191,7 +191,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "JDK1.8-Mac m1 pro.md",
+                    "file": "maven-mac m1pro.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -214,6 +214,7 @@
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "maven-mac m1pro.md",
     "JDK1.8-Mac m1 pro.md",
     "mysql8.0--centos stream9.md",
     "mysql-mac m1pro.md",
@@ -252,7 +253,6 @@
     "Configuration/wsl/WSL.md",
     "Configuration/win10安装macos/VMware/参考资料.md",
     "学习网站/notes/advanced-java/ad-data.md",
-    "学习网站/notes/advanced-java/ad-note/分布式架构/分布式会话.md",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
