@@ -8,45 +8,45 @@
 # windows10系统下的操作
 下面这部分是win10系统下的搭建，由于原来电脑配置不够，遂换了个M1pro:16GB+1T,重新搭建环境
      "[过程记录--M1 PRO](课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1%20PRO.md)"
-1.  环境搭建
-	 1. 安装 vagrant :
+# 1.  环境搭建
+## 安装 vagrant :
 	    官网  cmd命令终端输入：`vagrant` 测试是否下载成功 ，`vagranr init centos/7`  创建vagrantfile（一般在C:\Users\KKK\下，请注意C盘的空余空间要留出来多一点，本人因为这个问题后续下载不成功，删除虚拟机，用分区助手重新划分C盘，空出来48G空间后又重新来了一遍）， `vagrant up` ，下载完毕后启动virtual box 查看新建的虚拟机
 	    ![](https://i.imgur.com/nGqShAf.png)
-	 2. 与虚拟机连接：
+##  与虚拟机连接：
 	    终端 `ctrl+c` 退出 , `vagrant ssh ` 连接账户，可以在终端直接敲linux命令：`ls` , `exit` , `whoami` , 停止虚拟机可以在virtual box 停止或开启，也可以在终端使用 `vagrant up`(必须确保在有vagrant file 的目录下使用，"C:\Users\KKK")， 可以使用 `vagrant reload` 重启虚拟机
-	 3. 虚拟机网络配置：
+## 虚拟机网络配置：
 	    `ipconfig` 显示的这里是几![](https://i.imgur.com/uXtrT3l.png)
 	    ，这里是`169.254.228.175`， 在 vagrantfile里的对应修改为`169.254.228.几` ,这里是4 ，  并保存![](https://i.imgur.com/oGJx9fO.png)，修改后重启+连接虚拟机 `vagrant reload` ,  `vagrant ssh` ， 查看虚拟机ip `ip addr`, 检查主机与虚拟机是否能ping通：`C:\Users\KKK>ping 169.254.228.4` , `[vagrant@bogon ~]$ ping 192.168.1.8`  .  注意：如果换网络了，比如vpn换节点，要重新启动虚拟机
-	4. 安装docker，配置阿里云镜像下载dockerhub中的镜像
+## 安装docker，配置阿里云镜像下载dockerhub中的镜像
 	   去docker hub安装镜像，"[Install Docker Engine on CentOS | Docker Documentation](https://docs.docker.com/engine/install/centos/)",本人用了魔法，but 这里还是配个阿里云镜像加速
-		  1. 卸载旧版本docker：
-			```    r
-			  sudo yum remove docker \
-			  docker-client \
-			  docker-client-latest \
-			  docker-common \
-			  docker-latest \
-			  docker-latest-logrotate \
-			  docker-logrotate \
-			  docker-engine  
-			```
-		1. set up the repository
-			 1. install packages:   
-                 ```r
-				 sudo yum install -y yum-utils 
-				 sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo 
-                 ```
-			1. 告诉linux docker 去哪里装最新版本docker：
-                  ``` r
-                  sudo yum install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin 
-                  ```
-			1. 启动docker
-                 ```  r
-                 sudo systemctl start docker 
-				 ```
-				  1. 启动后其他命令：`docker -v` , `sudo docker images` , `sudo docker run hello-world `
-				  2. 设置docker 为linux开机自启动 ：`sudo systemctl enable docker`
-			5. 配置docker阿里云镜像加速器centos："[容器镜像服务 (aliyun.com)](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)" (本人已魔法，这步可以不做)
+###  卸载旧版本docker：
+```    r
+  sudo yum remove docker \
+  docker-client \
+  docker-client-latest \
+  docker-common \
+  docker-latest \
+  docker-latest-logrotate \
+  docker-logrotate \
+  docker-engine  
+```
+### set up the repository
+ 1. install packages:   
+	 ```r
+	 sudo yum install -y yum-utils 
+	 sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo 
+	 ```
+2. 告诉linux docker 去哪里装最新版本docker：
+	  ``` r
+	  sudo yum install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin 
+	  ```
+3. 启动docker
+	 ```  r
+	 sudo systemctl start docker 
+	 ```
+	  1. 启动后其他命令：`docker -v` , `sudo docker images` , `sudo docker run hello-world `
+	  2. 设置docker 为linux开机自启动 ：`sudo systemctl enable docker`
+		1. 配置docker阿里云镜像加速器centos："[容器镜像服务 (aliyun.com)](https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors)" (本人已魔法，这步可以不做)
              ``` 
 			 sudo mkdir -p /etc/docker
 			 
@@ -61,61 +61,61 @@
 			 sudo systemctl restart docker   //重启docker服务
 			  
 			  ```
-	5. docker 安装mysql
-		 1.  如果把虚拟机关闭，重新启动的过程可以是：在VM VirtualBox 启动，然后 `cmd`终端 `vagrant ssh` 启动
-		 2. DockerHub 中的mysql5.7版本的镜像
-			  `docker pull mysql:5.7`
-			  1. 权限不足问题：permission denied ：
-                 ```  r
-				[vagrant@bogon ~]$ docker pull mysql:5.7
-				permission denied while trying to connect to the Docker daemon socket at          unix:///var/run/docker.sock: Post    "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/images/create?fromImage=mysql&tag=5.7": dial unix /var/run/docker.sock: connect: permission denied
-                    ```
-				  解决1.："[docker hub pull 没权限 - 掘金 (juejin.cn)](https://juejin.cn/post/7237806553842319420)"
-                 ``` r
-				 sudo chmod 666 /var/run/docker.sock
-                 ```
-				  解决2：`sudo docker pull mysql:5.7`
-				  解决3：`su root` 切换到root用户，password ：由 vagrant创建的虚拟机，密码也默认是`vagrant`
-			  1. docker网络问题：
-                 ``` r
-				 [vagrant@bogon ~]$ docker pull mysql:5.7
-				 Error response from daemon: Get "https://registry-1.docker.io/v2/": dial tcp: lookup registry-1.docker.io on 10.0.2.3:53: server misbehaving
-                 ```
-				  解决："[Docker 网络问题：服务器行为异常 - 堆栈溢出 (stackoverflow.com)](https://stackoverflow.com/questions/28332845/docker-network-issue-server-misbehaving)"  重启:`vagrant reload`
-			3. 虚拟机磁盘空间不足问题：
-				  清理镜像： `sudo docker system prune -a --volumes --force
-				  清理下载文件： `sudo rm -rf ~/Downloads/*
-				  清理日志文件：`sudo rm -rf /var/log/*
-				  清理不必要的日志文件：`sudo rm -rf /var/log/*.log`
-				  清理临时文件：`sudo rm -rf /tmp/*
-				  列出已有的镜像：`docker images`
-				  删除指定镜像，替换`<IMAGE_ID>` :  `docker rmi <IMAGE_ID>
-				  清理yum缓存：`sudo yum clean all`
-				  
-			4. 用户权限问题：（chatgpt给的解决办法）：
-                 ``` r
-				 出现了"permission denied"错误。这是因为当前用户（vagrant）没有足够的权限来访问Docker引擎的UNIX套接字。
-				 解决这个问题的方法是将用户添加到`docker`用户组中，以便具有足够的权限来执行Docker命令。您可以按照以下步骤操作：
-				 1. 确保您的用户（vagrant）已经在`docker`用户组中。运行以下命令检查：
-					  `groups vagrant`
-					 检查结果中是否包含`docker`。如果没有，需要执行下一步。
-				
-				 2. 将用户添加到`docker`用户组。运行以下命令：
-					 `sudo usermod -aG docker vagrant`
-					  这将将用户（vagrant）添加到`docker`用户组。
-				
-				 3. 注销并重新登录以使更改生效。或者，您可以运行以下命令来重新加载组成员身份：
-				`newgrp docker`
-				
-				  4. 确保重新登录或重新加载组后，再次尝试执行`docker system prune`命令。您应该不再遇到"permission denied"错误。
-				  
-				请注意，添加用户到`docker`用户组允许其执行Docker命令，这可能涉及一些安全风险。请仅将可信用户添加到`docker`用户组，并谨慎管理Docker的访问权限。
-                 ```
-			1. linux查看磁盘：
-				1. 查看当前的磁盘和分区信息: `sudo fdisk -l
-				2. 重新扫描磁盘设备: `sudo partprobe /dev/sda`
-				3. 扩展分区：`sudo growpart /dev/sda 1`
-	6. 安装完mysql5.7
+## docker 安装mysql
+ 1.  如果把虚拟机关闭，重新启动的过程可以是：在VM VirtualBox 启动，然后 `cmd`终端 `vagrant ssh` 启动
+ 2. DockerHub 中的mysql5.7版本的镜像
+	  `docker pull mysql:5.7`
+	  1. 权限不足问题：permission denied ：
+		 ```  r
+		[vagrant@bogon ~]$ docker pull mysql:5.7
+		permission denied while trying to connect to the Docker daemon socket at          unix:///var/run/docker.sock: Post    "http://%2Fvar%2Frun%2Fdocker.sock/v1.24/images/create?fromImage=mysql&tag=5.7": dial unix /var/run/docker.sock: connect: permission denied
+			```
+		  解决1.："[docker hub pull 没权限 - 掘金 (juejin.cn)](https://juejin.cn/post/7237806553842319420)"
+		 ``` r
+		 sudo chmod 666 /var/run/docker.sock
+		 ```
+		  解决2：`sudo docker pull mysql:5.7`
+		  解决3：`su root` 切换到root用户，password ：由 vagrant创建的虚拟机，密码也默认是`vagrant`
+	  2. docker网络问题：
+		 ``` r
+		 [vagrant@bogon ~]$ docker pull mysql:5.7
+		 Error response from daemon: Get "https://registry-1.docker.io/v2/": dial tcp: lookup registry-1.docker.io on 10.0.2.3:53: server misbehaving
+		 ```
+		  解决："[Docker 网络问题：服务器行为异常 - 堆栈溢出 (stackoverflow.com)](https://stackoverflow.com/questions/28332845/docker-network-issue-server-misbehaving)"  重启:`vagrant reload`
+	3. 虚拟机磁盘空间不足问题：
+		  清理镜像： `sudo docker system prune -a --volumes --force
+		  清理下载文件： `sudo rm -rf ~/Downloads/*
+		  清理日志文件：`sudo rm -rf /var/log/*
+		  清理不必要的日志文件：`sudo rm -rf /var/log/*.log`
+		  清理临时文件：`sudo rm -rf /tmp/*
+		  列出已有的镜像：`docker images`
+		  删除指定镜像，替换`<IMAGE_ID>` :  `docker rmi <IMAGE_ID>
+		  清理yum缓存：`sudo yum clean all`
+		  
+	4. 用户权限问题：（chatgpt给的解决办法）：
+		 ``` r
+		 出现了"permission denied"错误。这是因为当前用户（vagrant）没有足够的权限来访问Docker引擎的UNIX套接字。
+		 解决这个问题的方法是将用户添加到`docker`用户组中，以便具有足够的权限来执行Docker命令。您可以按照以下步骤操作：
+		 1. 确保您的用户（vagrant）已经在`docker`用户组中。运行以下命令检查：
+			  `groups vagrant`
+			 检查结果中是否包含`docker`。如果没有，需要执行下一步。
+		
+		 2. 将用户添加到`docker`用户组。运行以下命令：
+			 `sudo usermod -aG docker vagrant`
+			  这将将用户（vagrant）添加到`docker`用户组。
+		
+		 3. 注销并重新登录以使更改生效。或者，您可以运行以下命令来重新加载组成员身份：
+		`newgrp docker`
+		
+		  4. 确保重新登录或重新加载组后，再次尝试执行`docker system prune`命令。您应该不再遇到"permission denied"错误。
+		  
+		请注意，添加用户到`docker`用户组允许其执行Docker命令，这可能涉及一些安全风险。请仅将可信用户添加到`docker`用户组，并谨慎管理Docker的访问权限。
+		 ```
+3. linux查看磁盘：
+	1. 查看当前的磁盘和分区信息: `sudo fdisk -l
+	2. 重新扫描磁盘设备: `sudo partprobe /dev/sda`
+	3. 扩展分区：`sudo growpart /dev/sda 1`
+## 安装完mysql5.7
 		1.   查看现有的镜像 ：`sudo docker images`
 		2.  启动mysql:
              ``` r
