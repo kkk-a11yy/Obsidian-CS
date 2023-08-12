@@ -92,11 +92,19 @@ character-set-server=utf8
 collation-server=utf8_unicode_ci
 skip-character-set-client-handshake
 skip-name-resolve
+
+//修改完重启容器
+[root@bogon /]# docker restart mysql
+mysql
 ```
 
 # 在容器mysql内部查看挂载目录下文件的修改内容
 
 ``` r
+//进入到mysql的交互模式
+[root@bogon ~]# docker exec -it mysql /bin/bash
+
+	//查看文件my.cnf,路径为：/etc/mysql/conf.d/my.cnf
 bash-4.4# pwd
 /etc/mysql/conf.d
 bash-4.4# cat my.cnf 
