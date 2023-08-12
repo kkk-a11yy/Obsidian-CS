@@ -1,6 +1,6 @@
 # centos9 mysql8.0
 - 下载：
-由于是m1pro的芯片， 要选择支持arm架构的mysql版本
+	由于是m1pro的芯片， 要选择支持arm架构的mysql版本
 ```r
 docker pull mysq:8.0
 
