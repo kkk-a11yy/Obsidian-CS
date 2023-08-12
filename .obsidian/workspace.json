@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "JDK1.8-Mac m1 pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "JDK1.8-Mac m1 pro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
+                "file": "JDK1.8-Mac m1 pro.md"
               }
             }
           },
@@ -191,7 +191,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                    "file": "JDK1.8-Mac m1 pro.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -202,8 +202,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1028,
-        "y": 74,
+        "x": 1063,
+        "y": 67,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -213,11 +213,15 @@
   },
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "JDK1.8-Mac m1 pro.md",
+    "mysql8.0--centos stream9.md",
+    "mysql-mac m1pro.md",
     "Redis--centos stream9.md",
+    "another redis desktop manager.md",
+    "Pasted image 20230812163437.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "Pasted image 20230812160807.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "mysql8.0--centos & mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230806180514.png",
@@ -235,7 +239,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md",
     "Pasted image 20230806180415.png.md",
     "Configuration/Config-data.md",
-    "Pasted image 20230806180415.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题",
     "BEFORE/Home.md",
     "BEFORE/Outsource-data.md",
@@ -250,9 +253,7 @@
     "Configuration/win10安装macos/VMware/参考资料.md",
     "学习网站/notes/advanced-java/ad-data.md",
     "学习网站/notes/advanced-java/ad-note/分布式架构/分布式会话.md",
-    "Configuration/Alfred/alfred-config.md",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
-    "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "Configuration/Alfred",

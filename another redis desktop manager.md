@@ -1,0 +1,3 @@
+- [qishibo/AnotherRedisDesktopManager: 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.](https://github.com/qishibo/AnotherRedisDesktopManager)
+- 测试连接：
+- ![](Pasted%20image%2020230812163437.png)

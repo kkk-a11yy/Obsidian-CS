@@ -40,8 +40,7 @@ docker restart redis
 ```
 
 # redis 可视化工具
-- [qishibo/AnotherRedisDesktopManager: 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.](https://github.com/qishibo/AnotherRedisDesktopManager)
-- 测试连接：
+[another redis desktop manager](another%20redis%20desktop%20manager.md)
 
 # 设置完挂载卷后启动redis
 ```r
