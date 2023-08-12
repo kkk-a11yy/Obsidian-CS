@@ -11,7 +11,7 @@ ksia@bogon ~ % sdk default maven 3.6.1
 # 配置maven 的conf/setting.xml
 
 本机路径为：/Users/ksia/.sdkman/candidates/maven/3.6.1/conf/settings.xml
-- 配置阿里云镜像
+## 配置阿里云镜像
 	- 本人已翻墙，此处先不加
 ``` r
 <mirrors>
@@ -25,7 +25,7 @@ ksia@bogon ~ % sdk default maven 3.6.1
 
 ```
 
-# 配置jdk1.8编译项目
+## 配置jdk1.8编译项目
 ```r
 <profiles>
 	<profile>
@@ -42,3 +42,5 @@ ksia@bogon ~ % sdk default maven 3.6.1
 	</profile>
 </profiles>
 ```
+
+下一步：[[
