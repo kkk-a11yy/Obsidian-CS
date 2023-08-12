@@ -17,14 +17,16 @@
 虚拟机：
 - parallels 18.1.1  
 	- [下载](https://luoxx.top/archives/pd-18-active)
-	- CenOS 9.  [centos9环境搭建](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md)
-		- JDK 1.8
-		- Maven 3.. .1
-		- Navicat
-		- Redis Desktop
-		- [[Docker安装]]
+	- CenOS 9.  
+		- [centos9环境搭建](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md)
+			- [[Docker安装]]
 			- [[mysql8.0--centos & mac m1pro]]
 			- [[Redis--centos stream9]]
+		- Maven 
+		- Navicat
+ Mac主机：
+ - [[mysql]]
+
 - vue 环境搭建
 	- Node JS
 		- Npm
