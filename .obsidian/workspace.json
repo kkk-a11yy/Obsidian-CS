@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md"
               }
             }
           },
@@ -191,7 +191,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -215,8 +215,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 882,
-        "y": 250,
+        "x": 1206,
+        "y": 339,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -226,13 +226,13 @@
   },
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "VSCode-mac m1pro.md",
     "IDEA-mac m1pro.md",
     "Pasted image 20230812203040.png",
     "Pasted image 20230812203011.png",
     "maven-mac m1pro.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "JDK1.8-Mac m1 pro.md",
-    "VSCode-mac m1pro.md",
     "mysql8.0--centos stream9.md",
     "Redis--centos stream9.md",
     "mysql-mac m1pro.md",
