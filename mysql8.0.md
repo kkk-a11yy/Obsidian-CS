@@ -1,6 +1,6 @@
-# centos9 mysql8.0
-- 下载：
-	由于是m1pro的芯片， 要选择支持arm架构的mysql版本
+# 下载centos9 mysql8.0
+
+- 由于是m1pro的芯片， 要选择支持arm架构的mysql版本
 ```r
 docker pull mysq:8.0
 
@@ -63,7 +63,55 @@ boot  docker-entrypoint-initdb.d  etc		 lib   media  opt  root  sbin  sys  usr
 mysql
 ```
 
-#
+# 修改cetnos9下mysql容器的my.cnf文件
+
+``` r
+//登陆
+ksia@bogon ~ %  ssh root@192.168.0.103
+
+root@192.168.0.103's password: 
+Activate the web console with: systemctl enable --now cockpit.socket
+
+Last login: Fri Aug  4 11:00:03 2023 from 192.168.0.101
+
+//查看要修改的文件夹
+[root@bogon ~]# cd /mydata/mysql/conf
+[root@bogon conf]# ls
+my.cnf
+
+//修改my.cnf文件内容
+[root@bogon conf]# cat my.cnf 
+[client]
+default-character-set=utf8
+[mysql]
+default-character-set=utf8
+[mysqld]
+init_connect='SET collation_connection = utf8_unicode_ci'
+init_connect='SET NAMES utf8'
+character-set-server=utf8
+collation-server=utf8_unicode_ci
+skip-character-set-client-handshake
+skip-name-resolve
+```
+
+# 在容器mysql内部查看挂载目录下文件的修改内容
+
+``` r
+bash-4.4# pwd
+/etc/mysql/conf.d
+bash-4.4# cat my.cnf 
+[client]
+default-character-set=utf8
+[mysql]
+default-character-set=utf8
+[mysqld]
+init_connect='SET collation_connection = utf8_unicode_ci'
+init_connect='SET NAMES utf8'
+character-set-server=utf8
+collation-server=utf8_unicode_ci
+skip-character-set-client-handshake
+skip-name-resolve
+```
 # mac mysql
 下载：
 - [MySQL :: Begin Your Download](https://dev.mysql.com/downloads/file/?id=520742)
