@@ -29,7 +29,7 @@
  - [[another redis desktop manager]]
  - [[JDK1.8-Mac m1 pro ]]
  - [[maven-mac m1pro]]
-
+ - [[VSCode-mac m1pro]]
 - vue 环境搭建
 	- Node JS
 		- Npm

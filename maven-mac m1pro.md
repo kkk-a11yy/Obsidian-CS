@@ -13,4 +13,14 @@ ksia@bogon ~ % sdk default maven 3.6.1
 本机路径为：/Users/ksia/.sdkman/candidates/maven/3.6.1/conf/settings.xml
 - 配置阿里云镜像
 	- 本人已翻墙，此处先不加
-- 
+``` r
+<mirrors>
+	<mirror>
+		<id>nexus-aliyun</id>
+		<mirrorOf>central</mirrorOf>
+		<name>Nexus aliyun</name>
+		<url>http://maven.aliyun.com/nexus/content/groups/public</url>
+	</mirror>
+</mirrors>
+
+```
