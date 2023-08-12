@@ -1,3 +1,4 @@
+为了以后用客户端给github推送时不用填写用户和密码
 # SSH密钥生成
 ```r
 ksia@bogon ~ % ssh-keygen -t rsa -C "ksiafor@gmail.com"
@@ -7,3 +8,9 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDHC2WoJmflcD15vAyWeQk9i4dBMjQ/sf9QVgQa3ZZS
 ```
 
 ![](Pasted%20image%2020230812211336.png)
+# 测试是否成功
+```r
+ksia@bogon ~ % ssh -T git@github.com
+
+Hi kkk-a11yy! You've successfully authenticated, but GitHub does not provide shell access.
+```

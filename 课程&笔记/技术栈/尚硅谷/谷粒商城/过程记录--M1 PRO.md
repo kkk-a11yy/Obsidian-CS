@@ -11,7 +11,7 @@
 - CI/CD：
 	- GitHub ：
 		- [SSH连接问题](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md)
-		- [[andymall-ssh]]
+		- [[Andymall-SSH]]
 - shell 工具：
 	- [[ZOC8-下载与连接虚拟机]]
 	- [[Mac terminal]]
