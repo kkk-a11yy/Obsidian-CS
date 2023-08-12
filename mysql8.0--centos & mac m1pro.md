@@ -1,4 +1,6 @@
-# 下载centos9 mysql8.0
+# centos9 的mysql8.0
+
+## 下载
 
 - 由于是m1pro的芯片， 要选择支持arm架构的mysql版本
 ```r
@@ -9,7 +11,7 @@ REPOSITORY   TAG       IMAGE ID       CREATED                  SIZE
 mysql        8.0       6a0560a40914   Less than a second ago   599MB
 ```
 
-# docker 容器文件挂载与端口映射
+## docker 容器文件挂载与端口映射
 ``` r
 
 	//注意8的版本mysql位子已经改变了-v /mydata/mysql/conf:/etc/mysql \  这个改为 -v /mydata/mysql/conf:/etc/mysql/conf.d \
@@ -63,7 +65,7 @@ boot  docker-entrypoint-initdb.d  etc		 lib   media  opt  root  sbin  sys  usr
 mysql
 ```
 
-# 修改cetnos9下mysql容器的my.cnf文件
+## 修改cetnos9下mysql容器的my.cnf文件
 
 ``` r
 //登陆
@@ -98,7 +100,7 @@ skip-name-resolve
 mysql
 ```
 
-# 在容器mysql内部查看挂载目录下文件的修改内容
+## 在容器mysql内部查看挂载目录下文件的修改内容
 
 ``` r
 //进入到mysql的交互模式
@@ -120,7 +122,7 @@ collation-server=utf8_unicode_ci
 skip-character-set-client-handshake
 skip-name-resolve
 ```
-# mac mysql
+# mac 配置mysql
 下载：
 - [MySQL :: Begin Your Download](https://dev.mysql.com/downloads/file/?id=520742)
 安装mysql：

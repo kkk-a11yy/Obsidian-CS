@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mysql8.0.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mysql8.0.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysql8.0.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
               }
             }
           },
@@ -191,7 +191,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "mysql8.0.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -202,8 +202,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 758,
-        "y": 156,
+        "x": 873,
+        "y": 48,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -213,9 +213,11 @@
   },
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "mysql8.0.md",
+    "mysql8.0--centos & mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
+    "Redis--centos stream9.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230806180514.png",
     "ZOC8-下载与连接虚拟机.md",
@@ -230,7 +232,6 @@
     "Pasted image 20230808205031.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
     "Pasted image 20230806180415.png.md",
     "Configuration/Config-data.md",
     "Pasted image 20230806180415.png",

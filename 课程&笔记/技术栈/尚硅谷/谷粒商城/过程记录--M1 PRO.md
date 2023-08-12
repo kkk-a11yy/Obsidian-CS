@@ -23,8 +23,8 @@
 		- Navicat
 		- Redis Desktop
 		- [[Docker安装]]
-			- [[mysql8.0]]
-			- Redis
+			- [[mysql8.0--centos & mac m1pro]]
+			- [[Redis--centos stream9]]
 - vue 环境搭建
 	- Node JS
 		- Npm
