@@ -10,7 +10,7 @@ docker pull redis
 mkdir -p /mydata/redis/conf
 touch /mydata/redis/conf/redis.conf
 
-docker run -p 6379:6379 --name redis \
+docker run -p 6379:6381 --name redis \
 -v /mydata/redis/data:/data \
 -v /mydata/redis/conf/redis.conf:/etc/redis/redis.conf \
 -d redis redis-server /etc/redis/redis.conf
@@ -38,3 +38,9 @@ vi /mydata/redis/conf/redis.conf
 // 添加引号内内容 :"appendonly yes"
 docker restart redis
 ```
+
+# redis 可视化工具
+- [qishibo/AnotherRedisDesktopManager: 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.](https://github.com/qishibo/AnotherRedisDesktopManager)
+- 测试连接：
+	- ![](Pasted%20image%2020230812160807.png)
+	- 

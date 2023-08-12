@@ -202,8 +202,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 873,
-        "y": 48,
+        "x": 1037,
+        "y": 38,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -213,6 +213,7 @@
   },
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
+    "Pasted image 20230812160807.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "mysql8.0--centos & mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
@@ -253,7 +254,6 @@
     "Pasted image 20230805132629.png",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
-    "学习网站/notes/advanced-java/ad-note/高并发/消息队列.md",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "Configuration/Alfred",
