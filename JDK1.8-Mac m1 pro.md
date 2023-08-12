@@ -30,20 +30,4 @@ OpenJDK 64-Bit Server VM Corretto-8.382.05.1 (build 25.382-b05, mixed mode)
 ksia@bogon ~ % 
 ```
 
-# 配置jdk1.8编译项目
-```r
-<profiles>
-	<profile>
-		<id>jdk-1.8</id>
-		<activation>
-			<activeByDefault>true</activeByDefault>
-			<jdk>1.8</jdk>
-		</activation>
-		<properties>
-			<maven.compiler.source>1.8</maven.compiler.source>
-			<maven.compiler.target>1.8</maven.compiler.target>
-			<maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
-		</properties>
-	</profile>
-</profiles>
-```
+[[]]

@@ -31,7 +31,7 @@
  - [[maven-mac m1pro]]
  - [[VSCode-mac m1pro]]
  - [[IDEA-mac m1pro]]
- - [[ssh]]
+ - 
 - vue 环境搭建
 	- Node JS
 		- Npm
