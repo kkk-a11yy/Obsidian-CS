@@ -122,5 +122,11 @@ collation-server=utf8_unicode_ci
 skip-character-set-client-handshake
 skip-name-resolve
 ```
+
+# 开机自启动
+```r
+# mysql
+docker update mysql --restart=always
+```
 # mac 配置mysql
 [mysql-mac m1pro](mysql-mac%20m1pro.md)

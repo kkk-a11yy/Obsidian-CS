@@ -49,3 +49,12 @@ docker start redis
 
 # 设置密码
 为了防止被挖矿，应该设置密码
+
+# 开机自启动
+```r
+# mysql
+docker update mysql --restart=always
+
+# redis
+docker update redis --restart=always
+```
