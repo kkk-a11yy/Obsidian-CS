@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "Redis--centos stream9.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "Redis--centos stream9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
+                "file": "Redis--centos stream9.md"
               }
             }
           },
@@ -191,7 +191,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                    "file": "Redis--centos stream9.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -213,8 +213,8 @@
   },
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
-    "mysql8.0--centos & mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "mysql8.0--centos & mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
     "Redis--centos stream9.md",
