@@ -197,6 +197,19 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "6d3cc5f925de21e7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "JDK1.8-Mac m1 pro.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ]
           }
@@ -213,9 +226,9 @@
   },
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "maven-mac m1pro.md",
     "JDK1.8-Mac m1 pro.md",
+    "maven-mac m1pro.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "mysql8.0--centos stream9.md",
     "mysql-mac m1pro.md",
     "Redis--centos stream9.md",
