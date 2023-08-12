@@ -10,7 +10,8 @@
 - 包管理： [Homebrew](Configuration/homebrew/Homebrew.md) , sdkman 
 - CI/CD：
 	- GitHub ：
-		- [SSH连接问题](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md)
+		- [SSH连接问题](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md)i
+		- [过程记录--Windows](课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md#^d959a2)
 - shell 工具：
 	- [[ZOC8-下载与连接虚拟机]]
 	- [[Mac terminal]]

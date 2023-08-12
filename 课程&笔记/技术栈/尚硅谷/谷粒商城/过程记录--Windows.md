@@ -116,224 +116,226 @@
 	2. 重新扫描磁盘设备: `sudo partprobe /dev/sda`
 	3. 扩展分区：`sudo growpart /dev/sda 1`
 ## 安装完mysql5.7
-		1.   查看现有的镜像 ：`sudo docker images`
-		2.  启动mysql:
-             ``` r
-	         sudo docker run -p 3306:3306 --name mysql \      
-            -v /mydata/mysql/log:/var/log/mysql \
-			-v /mydata/mysql/data:/var/lib/mysql \
-			-v /mydata/mysql/conf:/etc/mysql/conf.d \
-			-e MYSQL_ROOT_PASSWORD=root \
-			-d mysql:5.7
-		     
-		      -p : 是Linux中的MySQL容器里面装的MySQL的端口号3306和Linux的端口号映射
-		      -name: 给当前容器起名叫mysql
-		      -v:  目录挂载：每个命令的冒号前面是linux的，后面是mysql的，这几步是做一个端口映射和log、lib、etc这几个文件的挂载挂载，挂载后去linux的对应文件夹下修改，对应的mysql下的文件也就改了
-		      -d: 初始化root用户密码
-		      注意：防火墙关闭：`systemctl stop firewalld `、挂在目录可以先不加、加的话要看三个目录是否存在，且里面不能有东西
-		      启动不了的，购买的云服务器，去安全组开放一下端口，试试 `run mysql  --priviledged=true`
-		      高版本mysql要额外设置，连接不上的搜索：mysql 运行外网主机访问
-             ```
-		3. 查看装在运行中的容器：`docker ps`
-			1. 问题：`docker ps` 没有信息：
-				1. 查看所有容器：`docker ps -a`  mysql容器炸了
-				   `CONTAINER ID   IMAGE       COMMAND                  CREATED          STATUS                      PORTS     NAMES
-				   `a6438c53845d   mysql:5.7   "docker-entrypoint.s…"   38 minutes ago   Exited (1) 38 minutes ago             mysql  `
-				2. 查看日志分析原因：`docker logs --tail 10 -tf a643`
-				   `mysqld: Can't read dir of '/etc/mysql/conf.d/'`
-				   解决1(成功)：bilibili弹幕说的要把老师给的 `-v /mydata/mysql/conf:/etc/mysql \`  变成 `-v /mydata/mysql/conf:/etc/mysql/conf.d \`
-				   
-				   解决2---bing：
-                    ``` r
-					The error message “Can’t read dir of ‘/etc/mysql/conf.d/’” is usually caused by the fact that the directory /etc/mysql/conf.d/ does not exist or is not readable by the MySQL user. 
-					You can try creating the directory and setting the correct permissions for it:
-					sudo mkdir -p /etc/mysql/conf.d/
-					
-					And then set the correct permissions:
-					sudo chown -R mysql:mysql /etc/mysql/conf.d/
-					//我这里是root用户，所以为：
-					[root@bogon vagrant]# sudo chown -R root:root /etc/mysql/conf.d/
-					 
-					You can also check if the directory exists by running:
-					ls -la /etc/mysql/
-					
-					```
-					
-			2. 其他命令：
-				1. 停止容器：`docker stop mysql`
-				2. 删除容器：`docker rm mysql`
-			3. linux连接mysql: 
-			   打开SQLyog ,新建连接，虚拟机ip: `169.254.228.4` , mysql 密码：root  ![](https://i.imgur.com/gE0Qx4g.png)
-				1. 进入容器内部：`docker exec -it  7e3f  /bin/bash `   (`docker ps` 查看容器id，可以只写前几位，或者容器名字)
-                   ``` r
-				   //查看目录结构，这是一个完整的linux目录结构，说明mysql 容器是一个完整的Linux
-				   bash-4.2# ls /
-				   bin   docker-entrypoint-initdb.d  home   media  proc  sbin  tmp
-				   boot  entrypoint.sh               lib    mnt    root  srv   usr
-				   dev   etc                         lib64  opt    run   sys   var
-				  // 和MySQL相关的目录都在这
-				   bash-4.2# whereis mysql
-				   mysql: /usr/bin/mysql /usr/lib/mysql /usr/lib64/mysql /etc/mysql /usr/share/mysql
-				   
-				   bash-4.2# exit
-                   ```
-               4.  修改linux下mysql 的配置文件：
-                  ``` r
-				[root@bogon vagrant]# cd /mydata/
-				[root@bogon mydata]# cd  mysql/
-				[root@bogon mysql]# ls
-				conf  data  log
-				[root@bogon mysql]# cd conf/
-				//目前conf文件夹下是空的，创建并修改my.conf文件
-				[root@bogon conf]# vi my.conf
-				// i 进入insert模式，复制粘贴下面这一段
-				[client]
-				default-character-set=utf8
-				[mysql]
-				default-character-set=utf8
-				[mysqld]
-				init_connect='SET collation_connection = utf8_unicode_ci'
-				init_connect='SET NAMES utf8'
-				character-set-server=utf8
-				collation-server=utf8_unicode_ci
-				skip-character-set-client-handshake
-				skip-name-resolve
-				
-				esc退出insert模式后 `:wq` 保存退出
-				然后重启MySQL：
-				[root@bogon conf]# docker ps
-				CONTAINER ID   IMAGE       COMMAND                  CREATED             STATUS             PORTS                                                  NAMES
-				7e3f5c1ce585   mysql:5.7   "docker-entrypoint.s…"   About an hour ago   Up About an hour   0.0.0.0:3306->3306/tcp, :::3306->3306/tcp, 33060/tcp   mysql
-				[root@bogon conf]# docker restart mysql
-				mysql
-				//进入容器内部
-				[root@bogon conf]# docker exec -it mysql /bin/bash
-				bash-4.2#
-				
-				这里显示失败的，rm <旧文件名>，重新来一遍
-				文件名错了的：mv  <旧文件名>  <新文件名>
-				-v /mydata/mysql/conf:/etc/mysql/conf.d \
-				容器内部的/etc/mysql/ 和conf 关联
-				来容器内部瞅一眼：
-				bash-4.2# cd /etc/mysql/
-				bash-4.2# ls
-				conf.d  mysql.conf.d
-				
-				//不在/etc/mysql/ 文件夹下，在/etc/mysql/ conf.d/  文件夹下
-				bash-4.2# cd conf.d/
-				bash-4.2# ls
-				my.conf
-				bash-4.2# cat my.conf
-				[client]
-				default-character-set=utf8
-				[mysql]
-				default-character-set=utf8
-				[mysqld]
-				init_connect='SET collation_connection = utf8_unicode_ci'
-				init_connect='SET NAMES utf8'
-				character-set-server=utf8
-				collation-server=utf8_unicode_ci
-				skip-character-set-client-handshake
-				skip-name-resolve
-				
-				到这mysql 可以使用了
-				设置启动docker时运行MySQL
-			     [root@hadoop-104 ~]# docker update mysql --restart=always
-                ```
-    7. 安装Redis：
-	    1. 下载最新版本：`docker pull redis`，老师的是5.0.5
-		    1. using default错误是网络问题没法下载
-               ``` r
-		       mkdir -p /mydata/redis/conf  
-               touch /mydata/redis/conf/redis.conf  
-			   
-			   //redis服务器要设置密码或者换端口，不然容易被拿去挖矿
-			   //6411是Linux的端口，映射redis的6379端口
-			   docker run -p 6411:6379 --name redis -v /mydata/redis/data:/data -v/mydata/redis/conf/redis.conf:/etc/redis/redis.conf -d redis redis-server /etc/redis/redis.conf
+
+1.   查看现有的镜像 ：`sudo docker images`
+2.  启动mysql:
+	 ``` r
+	 sudo docker run -p 3306:3306 --name mysql \      
+	-v /mydata/mysql/log:/var/log/mysql \
+	-v /mydata/mysql/data:/var/lib/mysql \
+	-v /mydata/mysql/conf:/etc/mysql/conf.d \
+	-e MYSQL_ROOT_PASSWORD=root \
+	-d mysql:5.7
+	 
+	  -p : 是Linux中的MySQL容器里面装的MySQL的端口号3306和Linux的端口号映射
+	  -name: 给当前容器起名叫mysql
+	  -v:  目录挂载：每个命令的冒号前面是linux的，后面是mysql的，这几步是做一个端口映射和log、lib、etc这几个文件的挂载挂载，挂载后去linux的对应文件夹下修改，对应的mysql下的文件也就改了
+	  -d: 初始化root用户密码
+	  注意：防火墙关闭：`systemctl stop firewalld `、挂在目录可以先不加、加的话要看三个目录是否存在，且里面不能有东西
+	  启动不了的，购买的云服务器，去安全组开放一下端口，试试 `run mysql  --priviledged=true`
+	  高版本mysql要额外设置，连接不上的搜索：mysql 运行外网主机访问
+	 ```
+3. 查看装在运行中的容器：`docker ps`
+	1. 问题：`docker ps` 没有信息：
+		1. 查看所有容器：`docker ps -a`  mysql容器炸了
+		   `CONTAINER ID   IMAGE       COMMAND                  CREATED          STATUS                      PORTS     NAMES
+		   `a6438c53845d   mysql:5.7   "docker-entrypoint.s…"   38 minutes ago   Exited (1) 38 minutes ago             mysql  `
+		2. 查看日志分析原因：`docker logs --tail 10 -tf a643`
+		   `mysqld: Can't read dir of '/etc/mysql/conf.d/'`
+		   解决1(成功)：bilibili弹幕说的要把老师给的 `-v /mydata/mysql/conf:/etc/mysql \`  变成 `-v /mydata/mysql/conf:/etc/mysql/conf.d \`
+		   
+		   解决2---bing：
+			``` r
+			The error message “Can’t read dir of ‘/etc/mysql/conf.d/’” is usually caused by the fact that the directory /etc/mysql/conf.d/ does not exist or is not readable by the MySQL user. 
+			You can try creating the directory and setting the correct permissions for it:
+			sudo mkdir -p /etc/mysql/conf.d/
 			
-			   闪退的：  
-			   docker run  --priviledged=true  -p 6379:6379 --name redis -v /mydata/redis/data:/data -v/mydata/redis/conf/redis.conf:/etc/redis/redis.conf -d redis redis-server /etc/redis/redis.conf
-			  
-			   //如果命令写错了就 `docker stop  `  `docker rm  `  移除容器重新来
-               ```
-		2. 进入docker的Redis镜像的客户端: `docker exec -it redis redis-cli`
-		3. 数据持久化：因为redis数据存在内存中，旧版本的redis`docker restart redis` 之后可能存的数据就没了，新版本的默认持久化
-		   这里我就没有修改redis持久化 
-		   【Java项目《谷粒商城》】 【06:15】 https://www.bilibili.com/video/BV1np4y1C7Yf/?p=11&share_source=copy_web&vd_source=00aeec1f61d822ffad2b51fadfebd38a&t=375
-		``` r
-		//redis的挂载目录
-		[root@bogon conf]# pwd
-         /mydata/redis/conf
-         
-		//查看Linux的docker里面装的redis版本
-		[root@bogon conf]# docker exec redis redis-server --version
-		Redis server v=7.0.11 sha=00000000:0 malloc=jemalloc-5.2.1 bits=64 build=6f01df9fd4e71bde
+			And then set the correct permissions:
+			sudo chown -R mysql:mysql /etc/mysql/conf.d/
+			//我这里是root用户，所以为：
+			[root@bogon vagrant]# sudo chown -R root:root /etc/mysql/conf.d/
+			 
+			You can also check if the directory exists by running:
+			ls -la /etc/mysql/
+			
+			```
+			
+	2. 其他命令：
+		1. 停止容器：`docker stop mysql`
+		2. 删除容器：`docker rm mysql`
+	3. linux连接mysql: 
+	   打开SQLyog ,新建连接，虚拟机ip: `169.254.228.4` , mysql 密码：root  ![](https://i.imgur.com/gE0Qx4g.png)
+		1. 进入容器内部：`docker exec -it  7e3f  /bin/bash `   (`docker ps` 查看容器id，可以只写前几位，或者容器名字)
+		   ``` r
+		   //查看目录结构，这是一个完整的linux目录结构，说明mysql 容器是一个完整的Linux
+		   bash-4.2# ls /
+		   bin   docker-entrypoint-initdb.d  home   media  proc  sbin  tmp
+		   boot  entrypoint.sh               lib    mnt    root  srv   usr
+		   dev   etc                         lib64  opt    run   sys   var
+		  // 和MySQL相关的目录都在这
+		   bash-4.2# whereis mysql
+		   mysql: /usr/bin/mysql /usr/lib/mysql /usr/lib64/mysql /etc/mysql /usr/share/mysql
+		   
+		   bash-4.2# exit
+		   ```
+	   4.  修改linux下mysql 的配置文件：
+		  ``` r
+		[root@bogon vagrant]# cd /mydata/
+		[root@bogon mydata]# cd  mysql/
+		[root@bogon mysql]# ls
+		conf  data  log
+		[root@bogon mysql]# cd conf/
+		//目前conf文件夹下是空的，创建并修改my.conf文件
+		[root@bogon conf]# vi my.conf
+		// i 进入insert模式，复制粘贴下面这一段
+		[client]
+		default-character-set=utf8
+		[mysql]
+		default-character-set=utf8
+		[mysqld]
+		init_connect='SET collation_connection = utf8_unicode_ci'
+		init_connect='SET NAMES utf8'
+		character-set-server=utf8
+		collation-server=utf8_unicode_ci
+		skip-character-set-client-handshake
+		skip-name-resolve
 		
-		```  
-		4. 下载 "[Releases · qishibo/AnotherRedisDesktopManager (github.com)](https://github.com/qishibo/AnotherRedisDesktopManager/releases)"  
-		  测试连接，连不上就关掉linux防火墙 `systemctl stop firewalld` ![](https://i.imgur.com/CeGeGB3.png)
-		  
-	8. 开发工具&环境安装配置
-		1. 要求jdk版本在1.8及以上，下载：[Java Downloads | Oracle](https://www.oracle.com/java/technologies/downloads/#java8-windows)
-        ``` r
-        //我的系统中安装的 Java 运行时环境（Java Runtime Environment，JRE）的版本。
-	    C:\Users\KKK>java -version
-		java version "16.0.1" 2021-04-20
-		Java(TM) SE Runtime Environment (build 16.0.1+9-24)
-		Java HotSpot(TM) 64-Bit Server VM (build 16.0.1+9-24, mixed mode, sharing)
-	    
-	    //我的Apache Maven 构建工具使用的 Java 版本
-		C:\Users\KKK>mvn -version
-		Apache Maven 3.8.1 (05c21c65bdfed0f71a2f2ada8b84da59348c4c5d)
-		Maven home: D:\environment\apache-maven-3.8.1\bin\..
-		Java version: 14, vendor: Oracle Corporation, runtime: D:\environment\JAVA\jdk14
-		Default locale: zh_CN, platform encoding: GBK
-		OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
-        ```  
-		2. maven配置阿里云镜像：
-		3. IDEA的setting--配置maven,我用的是3.8.1，老师用的3.6.1：![](https://i.imgur.com/tDDujCq.png)
-			1. 插件安装：lombok、MyBatisX
-		4. VS Code 插件：Auto Close Tag 、Auto Rename Tag、ESLint(不行就扔)、open in browser、~~HTML Snippets~~ 、 JavaScript (ES6) code snippets、Live Server、Vetur
-		5. 安装git ,生成SSH，添加到github的SSH Key，我的密钥位置在："C:\Users\KKK\.ssh"  ![](https://i.imgur.com/DYfk4v6.png)
-            ``` r
-            //生成密钥
-			$ ssh-keygen -t rsa -C "ksiafor@gmail.com"
-			Generating public/private rsa key pair.
-			Enter file in which to save the key (/c/Users/KKK/.ssh/id_rsa):
-			/c/Users/KKK/.ssh/id_rsa already exists.
-			Overwrite (y/n)? y
-			Enter passphrase (empty for no passphrase):
-			Enter same passphrase again:
-			Your identification has been saved in /c/Users/KKK/.ssh/id_rsa
-			Your public key has been saved in /c/Users/KKK/.ssh/id_rsa.pub
-			The key fingerprint is:
-			SHA256:TLNkIbM0OKPN8+78mV8Clkz+11ptPvm5h8s3ixkEit4 ksiafor@gmail.com
-			The key's randomart image is:
-			+---[RSA 3072]----+
-			|     .= .        |
-			|    +. = .       |
-			|   + o. *  .     |
-			|  . +  O.+. .    |
-			|     o .S.   .   |
-			|      o..o  .. . |
-			|     . . Eo o.o.+|
-			|     ..  o + +=*+|
-			|     .o.+.. .oo*X|
-			+----[SHA256]-----+
-			
-			// 查看完整密钥
-			$ cat ~/.ssh/id_rsa.pub
-			ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCrgrQsjxheOZ8aVhop4wyBkowWz9YGG31wIfpfMWoJK4aUCgFkDuMhPWAcN0ozCY7Xg/X0f4Cv6ZAycEHPzYF317mnnsaqLNnin4VKsNmBgc4mdRelfXx9b2sdOvHOJTQthJhc6Doe42DR8Y1iQEwRtgsT0dy2l635BEsq3NyNDS7IdQT5PDa4uXiHcBK3WP7EUawcHiWj/RcWgf+de0XT4UsXVf1U65XOi8A6GE0VMUB3Zvr1kAmOh3myqz5grsqj+YropzYI4gzhq/BYwosWbMuQ1UzFp1n26xKwEhIJVqTqeB+2dcSC0Miyw9z4cbOHmx3fMypM/pfVFJbPE1zLD/yJwGMxBKk6/PaLsf39KguWOvEHrBNA/smrTi33Vpk5cPzx+GaZrth0nmOt0/GS4ZIJLYwJ6JrYslUhI4jONg2eSfQkXeMLg52hjSjZvW8w99i9a61+Z95P0Lpo6LNgwEeWACWThkbZWWVpS/CHAh6HfnE7LyNzDVrapDIyM60= ksiafor@gmail.com
-           ``` 
-		   6. 在guthub创建仓库
-			  ![](https://i.imgur.com/zhnf5y0.png)
-			  仓库地址："https://github.com/kkk-a11yy/Andy-mall.git" ,
-			  把项目克隆下来：![](https://i.imgur.com/Gcn8B39.png)
-			  注意spring版本，老师的是2.1.8，找不到2.1.8版本的，先用新版本创建，然后手动更改，我的最新版是3.1.1
-			  新建微服务模块：用spring initializr ![](https://i.imgur.com/sd0gg4U.png)
-			   选择微服务必要的
-			  ![](https://i.imgur.com/LCPgH5g.png)
-			7. 
+		esc退出insert模式后 `:wq` 保存退出
+		然后重启MySQL：
+		[root@bogon conf]# docker ps
+		CONTAINER ID   IMAGE       COMMAND                  CREATED             STATUS             PORTS                                                  NAMES
+		7e3f5c1ce585   mysql:5.7   "docker-entrypoint.s…"   About an hour ago   Up About an hour   0.0.0.0:3306->3306/tcp, :::3306->3306/tcp, 33060/tcp   mysql
+		[root@bogon conf]# docker restart mysql
+		mysql
+		//进入容器内部
+		[root@bogon conf]# docker exec -it mysql /bin/bash
+		bash-4.2#
+		
+		这里显示失败的，rm <旧文件名>，重新来一遍
+		文件名错了的：mv  <旧文件名>  <新文件名>
+		-v /mydata/mysql/conf:/etc/mysql/conf.d \
+		容器内部的/etc/mysql/ 和conf 关联
+		来容器内部瞅一眼：
+		bash-4.2# cd /etc/mysql/
+		bash-4.2# ls
+		conf.d  mysql.conf.d
+		
+		//不在/etc/mysql/ 文件夹下，在/etc/mysql/ conf.d/  文件夹下
+		bash-4.2# cd conf.d/
+		bash-4.2# ls
+		my.conf
+		bash-4.2# cat my.conf
+		[client]
+		default-character-set=utf8
+		[mysql]
+		default-character-set=utf8
+		[mysqld]
+		init_connect='SET collation_connection = utf8_unicode_ci'
+		init_connect='SET NAMES utf8'
+		character-set-server=utf8
+		collation-server=utf8_unicode_ci
+		skip-character-set-client-handshake
+		skip-name-resolve
+		
+		到这mysql 可以使用了
+		设置启动docker时运行MySQL
+		 [root@hadoop-104 ~]# docker update mysql --restart=always
+		```
+#  安装Redis：
+1. 下载最新版本：`docker pull redis`，老师的是5.0.5
+	1. using default错误是网络问题没法下载
+	   ``` r
+	   mkdir -p /mydata/redis/conf  
+	   touch /mydata/redis/conf/redis.conf  
+	   
+	   //redis服务器要设置密码或者换端口，不然容易被拿去挖矿
+	   //6411是Linux的端口，映射redis的6379端口
+	   docker run -p 6411:6379 --name redis -v /mydata/redis/data:/data -v/mydata/redis/conf/redis.conf:/etc/redis/redis.conf -d redis redis-server /etc/redis/redis.conf
+	
+	   闪退的：  
+	   docker run  --priviledged=true  -p 6379:6379 --name redis -v /mydata/redis/data:/data -v/mydata/redis/conf/redis.conf:/etc/redis/redis.conf -d redis redis-server /etc/redis/redis.conf
+	  
+	   //如果命令写错了就 `docker stop  `  `docker rm  `  移除容器重新来
+	   ```
+2. 进入docker的Redis镜像的客户端: `docker exec -it redis redis-cli`
+3. 数据持久化：因为redis数据存在内存中，旧版本的redis`docker restart redis` 之后可能存的数据就没了，新版本的默认持久化
+   这里我就没有修改redis持久化 
+   【Java项目《谷粒商城》】 【06:15】 https://www.bilibili.com/video/BV1np4y1C7Yf/?p=11&share_source=copy_web&vd_source=00aeec1f61d822ffad2b51fadfebd38a&t=375
+``` r
+//redis的挂载目录
+[root@bogon conf]# pwd
+ /mydata/redis/conf
+ 
+//查看Linux的docker里面装的redis版本
+[root@bogon conf]# docker exec redis redis-server --version
+Redis server v=7.0.11 sha=00000000:0 malloc=jemalloc-5.2.1 bits=64 build=6f01df9fd4e71bde
+
+```  
+4. 下载 "[Releases · qishibo/AnotherRedisDesktopManager (github.com)](https://github.com/qishibo/AnotherRedisDesktopManager/releases)"  
+  测试连接，连不上就关掉linux防火墙 `systemctl stop firewalld` ![](https://i.imgur.com/CeGeGB3.png)
+  
+# 开发工具&环境安装配置
+
+1. 要求jdk版本在1.8及以上，下载：[Java Downloads | Oracle](https://www.oracle.com/java/technologies/downloads/#java8-windows)
+``` r
+//我的系统中安装的 Java 运行时环境（Java Runtime Environment，JRE）的版本。
+C:\Users\KKK>java -version
+java version "16.0.1" 2021-04-20
+Java(TM) SE Runtime Environment (build 16.0.1+9-24)
+Java HotSpot(TM) 64-Bit Server VM (build 16.0.1+9-24, mixed mode, sharing)
+
+//我的Apache Maven 构建工具使用的 Java 版本
+C:\Users\KKK>mvn -version
+Apache Maven 3.8.1 (05c21c65bdfed0f71a2f2ada8b84da59348c4c5d)
+Maven home: D:\environment\apache-maven-3.8.1\bin\..
+Java version: 14, vendor: Oracle Corporation, runtime: D:\environment\JAVA\jdk14
+Default locale: zh_CN, platform encoding: GBK
+OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
+```  
+2. maven配置阿里云镜像：
+3. IDEA的setting--配置maven,我用的是3.8.1，老师用的3.6.1：![](https://i.imgur.com/tDDujCq.png)
+	1. 插件安装：lombok、MyBatisX
+4. VS Code 插件：Auto Close Tag 、Auto Rename Tag、ESLint(不行就扔)、open in browser、~~HTML Snippets~~ 、 JavaScript (ES6) code snippets、Live Server、Vetur
+5. 安装git ,生成SSH，添加到github的SSH Key，我的密钥位置在："C:\Users\KKK\.ssh"  ![](https://i.imgur.com/DYfk4v6.png)
+	``` r
+	//生成密钥
+	$ ssh-keygen -t rsa -C "ksiafor@gmail.com"
+	Generating public/private rsa key pair.
+	Enter file in which to save the key (/c/Users/KKK/.ssh/id_rsa):
+	/c/Users/KKK/.ssh/id_rsa already exists.
+	Overwrite (y/n)? y
+	Enter passphrase (empty for no passphrase):
+	Enter same passphrase again:
+	Your identification has been saved in /c/Users/KKK/.ssh/id_rsa
+	Your public key has been saved in /c/Users/KKK/.ssh/id_rsa.pub
+	The key fingerprint is:
+	SHA256:TLNkIbM0OKPN8+78mV8Clkz+11ptPvm5h8s3ixkEit4 ksiafor@gmail.com
+	The key's randomart image is:
+	+---[RSA 3072]----+
+	|     .= .        |
+	|    +. = .       |
+	|   + o. *  .     |
+	|  . +  O.+. .    |
+	|     o .S.   .   |
+	|      o..o  .. . |
+	|     . . Eo o.o.+|
+	|     ..  o + +=*+|
+	|     .o.+.. .oo*X|
+	+----[SHA256]-----+
+	
+	// 查看完整密钥
+	$ cat ~/.ssh/id_rsa.pub
+	ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCrgrQsjxheOZ8aVhop4wyBkowWz9YGG31wIfpfMWoJK4aUCgFkDuMhPWAcN0ozCY7Xg/X0f4Cv6ZAycEHPzYF317mnnsaqLNnin4VKsNmBgc4mdRelfXx9b2sdOvHOJTQthJhc6Doe42DR8Y1iQEwRtgsT0dy2l635BEsq3NyNDS7IdQT5PDa4uXiHcBK3WP7EUawcHiWj/RcWgf+de0XT4UsXVf1U65XOi8A6GE0VMUB3Zvr1kAmOh3myqz5grsqj+YropzYI4gzhq/BYwosWbMuQ1UzFp1n26xKwEhIJVqTqeB+2dcSC0Miyw9z4cbOHmx3fMypM/pfVFJbPE1zLD/yJwGMxBKk6/PaLsf39KguWOvEHrBNA/smrTi33Vpk5cPzx+GaZrth0nmOt0/GS4ZIJLYwJ6JrYslUhI4jONg2eSfQkXeMLg52hjSjZvW8w99i9a61+Z95P0Lpo6LNgwEeWACWThkbZWWVpS/CHAh6HfnE7LyNzDVrapDIyM60= ksiafor@gmail.com
+   ```  ^d959a2
+   6. 在guthub创建仓库
+	  ![](https://i.imgur.com/zhnf5y0.png)
+	  仓库地址："https://github.com/kkk-a11yy/Andy-mall.git" ,
+	  把项目克隆下来：![](https://i.imgur.com/Gcn8B39.png)
+	  注意spring版本，老师的是2.1.8，找不到2.1.8版本的，先用新版本创建，然后手动更改，我的最新版是3.1.1
+	  新建微服务模块：用spring initializr ![](https://i.imgur.com/sd0gg4U.png)
+	   选择微服务必要的
+	  ![](https://i.imgur.com/LCPgH5g.png)
+	7. 
 
 
 
