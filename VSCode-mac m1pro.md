@@ -1,5 +1,6 @@
+# vscode插件安装
+
 ```r
-vscode插件安装：
 
 Auto Close Tag  
 Auto Rename Tag 
@@ -11,6 +12,5 @@ JavaScript (ES6) code snippets
 Live Server
 open in brower
 Vetur
-
 
 ```
