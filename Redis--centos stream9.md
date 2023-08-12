@@ -30,3 +30,11 @@ c57e3d9cf27e   mysql:8.0   "docker-entrypoint.s…"   26 hours ago         Up 52
 ``` r
  docker exec -it redis redis-cli
 ```
+
+# redis持久化
+由于之后的redis版本默认进行了持久化操作，不用设置
+```r
+vi /mydata/redis/conf/redis.conf 
+// 添加引号内内容 "appendonly yes"
+docker restart redis
+```
