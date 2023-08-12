@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
               }
             }
           },
@@ -224,13 +224,12 @@
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 885,
-        "y": 90,
+        "x": 814,
+        "y": 86,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -238,8 +237,9 @@
       }
     ]
   },
-  "active": "63ba2f4111c0be12",
+  "active": "654ebc1f371497a7",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
     "MySql8.0--centos stream9.md",
@@ -250,7 +250,6 @@
     "Maven-Mac m1pro.md",
     "Navicat premium.md",
     "Andymall-SSH.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md",
     "Pasted image 20230812211336.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",

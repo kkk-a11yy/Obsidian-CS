@@ -307,6 +307,9 @@ OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
 	ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCrgrQsjxheOZ8aVhop4wyBkowWz9YGG31wIfpfMWoJK4aUCgFkDuMhPWAcN0ozCY7Xg/X0f4Cv6ZAycEHPzYF317mnnsaqLNnin4VKsNmBgc4mdRelfXx9b2sdOvHOJTQthJhc6Doe42DR8Y1iQEwRtgsT0dy2l635BEsq3NyNDS7IdQT5PDa4uXiHcBK3WP7EUawcHiWj/RcWgf+de0XT4UsXVf1U65XOi8A6GE0VMUB3Zvr1kAmOh3myqz5grsqj+YropzYI4gzhq/BYwosWbMuQ1UzFp1n26xKwEhIJVqTqeB+2dcSC0Miyw9z4cbOHmx3fMypM/pfVFJbPE1zLD/yJwGMxBKk6/PaLsf39KguWOvEHrBNA/smrTi33Vpk5cPzx+GaZrth0nmOt0/GS4ZIJLYwJ6JrYslUhI4jONg2eSfQkXeMLg52hjSjZvW8w99i9a61+Z95P0Lpo6LNgwEeWACWThkbZWWVpS/CHAh6HfnE7LyNzDVrapDIyM60= ksiafor@gmail.com
    ```  
 # 在github创建仓库
+
+^5daf8b
+
   ![](https://i.imgur.com/zhnf5y0.png)
   仓库地址："https://github.com/kkk-a11yy/Andy-mall.git" ,
   把项目克隆下来：![](https://i.imgur.com/Gcn8B39.png)
