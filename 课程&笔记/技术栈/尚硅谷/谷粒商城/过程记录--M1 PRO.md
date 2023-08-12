@@ -4,7 +4,7 @@
 ![](https://i.imgur.com/PDv6F32.png)
 
 
-# 环境说明：
+# 环境搭建：
 
 - 机器：m1 pro 2021  , macOS:13.4.1 
 - 包管理： [Homebrew](Configuration/homebrew/Homebrew.md) , sdkman 
@@ -21,18 +21,17 @@
 	- CenOS 9.  
 		- [centos9环境搭建](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md)
 			- [[Docker安装]]
-			- [[mysql8.0--centos stream9]]
+			- [[MySql8.0--centos stream9]]
 			- [[Redis--centos stream9]]
-		- Maven 
-		- Navicat
  Mac主机：
- - [[mysql-mac m1pro]]
- - [[another redis desktop manager]]
+ - [[MySql-Mac m1pro]]
+ - [[Another redis desktop manager]]
  - [[JDK1.8-Mac m1 pro ]]
- - [[maven-mac m1pro]]
- - [[VSCode-mac m1pro]]
- - [[IDEA-mac m1pro]]
- 
+ - [[Maven-Mac m1pro]]
+ - [[VSCode-Mac m1pro]]
+ - [[IDEA-Mac m1 pro]]
+ - [[Navicat premium]]
+ - 
 - vue 环境搭建
 	- Node JS
 		- Npm
@@ -43,7 +42,8 @@
 
 
 ----
-# 环境搭建
+# 创建项目
+
 
 
 

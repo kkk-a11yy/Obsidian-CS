@@ -129,4 +129,4 @@ skip-name-resolve
 docker update mysql --restart=always
 ```
 # mac 配置mysql
-[mysql-mac m1pro](mysql-mac%20m1pro.md)
+[MySql-Mac m1pro](MySql-Mac%20m1pro.md)

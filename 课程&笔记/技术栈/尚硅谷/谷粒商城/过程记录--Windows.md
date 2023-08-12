@@ -300,43 +300,18 @@ OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
 	``` r
 	//生成密钥
 	$ ssh-keygen -t rsa -C "ksiafor@gmail.com"
-	Generating public/private rsa key pair.
-	Enter file in which to save the key (/c/Users/KKK/.ssh/id_rsa):
-	/c/Users/KKK/.ssh/id_rsa already exists.
-	Overwrite (y/n)? y
-	Enter passphrase (empty for no passphrase):
-	Enter same passphrase again:
-	Your identification has been saved in /c/Users/KKK/.ssh/id_rsa
-	Your public key has been saved in /c/Users/KKK/.ssh/id_rsa.pub
-	The key fingerprint is:
-	SHA256:TLNkIbM0OKPN8+78mV8Clkz+11ptPvm5h8s3ixkEit4 ksiafor@gmail.com
-	The key's randomart image is:
-	+---[RSA 3072]----+
-	|     .= .        |
-	|    +. = .       |
-	|   + o. *  .     |
-	|  . +  O.+. .    |
-	|     o .S.   .   |
-	|      o..o  .. . |
-	|     . . Eo o.o.+|
-	|     ..  o + +=*+|
-	|     .o.+.. .oo*X|
-	+----[SHA256]-----+
+	
 	
 	// 查看完整密钥
 	$ cat ~/.ssh/id_rsa.pub
 	ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCrgrQsjxheOZ8aVhop4wyBkowWz9YGG31wIfpfMWoJK4aUCgFkDuMhPWAcN0ozCY7Xg/X0f4Cv6ZAycEHPzYF317mnnsaqLNnin4VKsNmBgc4mdRelfXx9b2sdOvHOJTQthJhc6Doe42DR8Y1iQEwRtgsT0dy2l635BEsq3NyNDS7IdQT5PDa4uXiHcBK3WP7EUawcHiWj/RcWgf+de0XT4UsXVf1U65XOi8A6GE0VMUB3Zvr1kAmOh3myqz5grsqj+YropzYI4gzhq/BYwosWbMuQ1UzFp1n26xKwEhIJVqTqeB+2dcSC0Miyw9z4cbOHmx3fMypM/pfVFJbPE1zLD/yJwGMxBKk6/PaLsf39KguWOvEHrBNA/smrTi33Vpk5cPzx+GaZrth0nmOt0/GS4ZIJLYwJ6JrYslUhI4jONg2eSfQkXeMLg52hjSjZvW8w99i9a61+Z95P0Lpo6LNgwEeWACWThkbZWWVpS/CHAh6HfnE7LyNzDVrapDIyM60= ksiafor@gmail.com
-   ```  ^d959a2
-   6. 在guthub创建仓库
-	  ![](https://i.imgur.com/zhnf5y0.png)
-	  仓库地址："https://github.com/kkk-a11yy/Andy-mall.git" ,
-	  把项目克隆下来：![](https://i.imgur.com/Gcn8B39.png)
-	  注意spring版本，老师的是2.1.8，找不到2.1.8版本的，先用新版本创建，然后手动更改，我的最新版是3.1.1
-	  新建微服务模块：用spring initializr ![](https://i.imgur.com/sd0gg4U.png)
-	   选择微服务必要的
-	  ![](https://i.imgur.com/LCPgH5g.png)
-	7. 
-
-
-
+   ```  
+# 在github创建仓库
+  ![](https://i.imgur.com/zhnf5y0.png)
+  仓库地址："https://github.com/kkk-a11yy/Andy-mall.git" ,
+  把项目克隆下来：![](https://i.imgur.com/Gcn8B39.png)
+  注意spring版本，老师的是2.1.8，找不到2.1.8版本的，先用新版本创建，然后手动更改，我的最新版是3.1.1
+  新建微服务模块：用spring initializr ![](https://i.imgur.com/sd0gg4U.png)
+   选择微服务必要的
+  ![](https://i.imgur.com/LCPgH5g.png)
 
