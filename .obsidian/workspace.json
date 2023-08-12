@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md"
               }
             }
           },
@@ -191,7 +191,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -215,8 +215,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 821,
-        "y": 258,
+        "x": 786,
+        "y": 78,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -227,6 +227,8 @@
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "andymall-ssh.md",
+    "Pasted image 20230812211336.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
@@ -251,7 +253,6 @@
     "Pasted image 20230810170959.png",
     "Docker安装.md",
     "Pasted image 20230809165010.png",
-    "Pasted image 20230809164933.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs",
     "Pasted image 20230806180415.png.md",
     "Configuration/Config-data.md",
@@ -263,7 +264,6 @@
     "课程&笔记/未命名.canvas",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "课程&笔记/算法与数据结构/6.006-spring-2020-data.md",
-    "课程&笔记/算法与数据结构/6.006-spring-2020-rec.md",
     "学习网站/笔记集合.canvas",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",

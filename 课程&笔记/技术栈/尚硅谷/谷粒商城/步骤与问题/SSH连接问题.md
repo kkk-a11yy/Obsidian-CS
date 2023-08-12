@@ -1,10 +1,10 @@
-- git 全局配置：
+# git 全局配置：
   ``` r
 ksia@bogon ~ % git config --global user.email "ksiafor@gmail.com"     
 ksia@bogon ~ % git config --global user.name "Ksia"
 ```
 
-- 生成SSH密钥（这里是生成Obsidian-CS库的）
+# 生成SSH密钥（这里是生成Obsidian-CS库的）
 
 ``` java
 ksia@bogon ~ % ssh-keygen -t rsa -C "ksiafor@gmail.com"
