@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JDK1.8-Mac m1 pro.md",
+                "file": "IDEA-mac m1pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JDK1.8-Mac m1 pro.md",
+                "file": "IDEA-mac m1pro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JDK1.8-Mac m1 pro.md"
+                "file": "IDEA-mac m1pro.md"
               }
             }
           },
@@ -191,7 +191,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "JDK1.8-Mac m1 pro.md",
+                    "file": "IDEA-mac m1pro.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
