@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
               }
             }
           },
@@ -226,25 +226,12 @@
                 }
               },
               {
-                "id": "5ba92eed862795c5",
+                "id": "1115a38fe1b6730f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Python.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "74f1d30730959ce4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Alfred 安装OCR截图识别.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -256,8 +243,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 858,
-        "y": 108,
+        "x": 887,
+        "y": 290,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -265,16 +252,17 @@
       }
     ]
   },
-  "active": "5ba92eed862795c5",
+  "active": "1115a38fe1b6730f",
   "lastOpenFiles": [
-    "Alfred 安装OCR截图识别.md",
+    "Docker安装 --Mac m1pro.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "Configuration/homebrew/Homebrew.md",
     "Python.md",
     "JDK1.8-Mac m1 pro.md",
-    "版本.md",
     "创建微服务.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "Alfred 安装OCR截图识别.md",
+    "Configuration/homebrew/Homebrew.md",
+    "版本.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
     "MySql8.0--centos stream9.md",
     "IDEA-Mac m1 pro.md",
@@ -298,7 +286,6 @@
     "Pasted image 20230810171742.png",
     "Pasted image 20230810171101.png",
     "Pasted image 20230810170959.png",
-    "Docker安装.md",
     "Pasted image 20230809165010.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs",
     "Pasted image 20230806180415.png.md",
