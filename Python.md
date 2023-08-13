@@ -17,7 +17,24 @@ alias brew='env PATH="${PATH//$(pyenv root)\/shims:/}" brew'
 exec "$SHELL"
 
 ### Install Python build dependencies
+  ### Suggested build environment
+     **Mac OS X:**
+ brew install openssl readline sqlite3 xz zlib tcl-tk
 
 ```
+
+```r
+###Check that pyenv is in your PATH:
+
+which pyenv
+
+###Check that pyenv's shims directory is in your PATH:
+
+echo $PATH | grep --color=auto "$(pyenv root)/shims"
+
+```
+1. If not, see [Configure your shell's environment for pyenv](https://github.com/pyenv/pyenv/#basic-github-checkout) in the installation instructions.
+    [](https://github.com/pyenv/pyenv/wiki#pyenv-is-installed-but-things-just-arent-working-for-me)
+
 - home-brew安装路径：[Homebrew](Configuration/homebrew/Homebrew.md#^b49b8b)
 
