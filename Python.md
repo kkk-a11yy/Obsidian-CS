@@ -4,6 +4,7 @@
 	- [pyenv/pyenv: Simple Python version management](https://github.com/pyenv/pyenv#set-up-your-shell-environment-for-pyenv)
 	- [pyenv/COMMANDS.md at master · pyenv/pyenv](https://github.com/pyenv/pyenv/blob/master/COMMANDS.md#pyenv-install)
 	- [Home · pyenv/pyenv Wiki](https://github.com/pyenv/pyenv/wiki#suggested-build-environment)
+	- [Python Releases for macOS | Python.org](https://www.python.org/downloads/macos/)
 - 使用代码：
 ```r
 brew update

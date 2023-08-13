@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "Alfred 安装OCR截图识别.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python.md",
+                "file": "Alfred 安装OCR截图识别.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.md"
+                "file": "Alfred 安装OCR截图识别.md"
               }
             }
           },
@@ -226,25 +226,20 @@
                 }
               },
               {
-                "id": "4510593de0b7deae",
+                "id": "5ba92eed862795c5",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Configuration/homebrew/Homebrew.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               },
               {
-                "id": "d7214f6b75b856f0",
+                "id": "74f1d30730959ce4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Python.md",
+                    "file": "Alfred 安装OCR截图识别.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -265,11 +260,12 @@
       }
     ]
   },
-  "active": "d7214f6b75b856f0",
+  "active": "74f1d30730959ce4",
   "lastOpenFiles": [
+    "Alfred 安装OCR截图识别.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "Configuration/homebrew/Homebrew.md",
     "Python.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "JDK1.8-Mac m1 pro.md",
     "版本.md",
     "创建微服务.md",
@@ -304,7 +300,6 @@
     "Configuration/Config-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题",
     "BEFORE/Home.md",
-    "BEFORE/Outsource-data.md",
     "课程&笔记/未命名.canvas",
     "学习网站/笔记集合.canvas",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
