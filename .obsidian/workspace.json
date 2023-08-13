@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+                "file": "JDK1.8-Mac m1 pro.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "版本",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "创建微服务.md",
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "创建微服务.md",
+                "file": "Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "创建微服务.md"
+                "file": "Python.md"
               }
             }
           },
@@ -223,13 +224,35 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "4510593de0b7deae",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d7214f6b75b856f0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Python.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
-        "x": 880,
-        "y": 55,
+        "x": 858,
+        "y": 108,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -237,11 +260,14 @@
       }
     ]
   },
-  "active": "654ebc1f371497a7",
+  "active": "d7214f6b75b856f0",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "创建微服务.md",
+    "Python.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+    "JDK1.8-Mac m1 pro.md",
+    "版本.md",
+    "创建微服务.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
     "MySql8.0--centos stream9.md",
     "IDEA-Mac m1 pro.md",
@@ -256,7 +282,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
     "Pasted image 20230812203040.png",
     "Pasted image 20230812203011.png",
-    "JDK1.8-Mac m1 pro.md",
     "Redis--centos stream9.md",
     "Pasted image 20230812163437.png",
     "Pasted image 20230812160807.png",
@@ -275,9 +300,7 @@
     "BEFORE/Home.md",
     "BEFORE/Outsource-data.md",
     "README.md",
-    "Configuration/github/配置.md",
     "课程&笔记/未命名.canvas",
-    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "学习网站/笔记集合.canvas",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
