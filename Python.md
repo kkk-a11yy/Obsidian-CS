@@ -1,6 +1,9 @@
 # 安装
 ## 通过home-brew安装pyenv
-- 安装资料： [pyenv/pyenv: Simple Python version management](https://github.com/pyenv/pyenv#homebrew-in-maco
+- 安装资料：
+	- [pyenv/pyenv: Simple Python version management](https://github.com/pyenv/pyenv#set-up-your-shell-environment-for-pyenv)
+	- [pyenv/COMMANDS.md at master · pyenv/pyenv](https://github.com/pyenv/pyenv/blob/master/COMMANDS.md#pyenv-install)
+	- [Home · pyenv/pyenv Wiki](https://github.com/pyenv/pyenv/wiki#suggested-build-environment)
 - 使用代码：
 ```r
 brew update
@@ -47,18 +50,31 @@ zsh: ~/.zshrc
 ksh: ~/.kshrc
 other: ~/.profile
 ```
-# pyenv安装python3.11.4
+## pyenv安装python3.11.4
 ```r
 pyenv install -l
 pyenv install 3.11.4
 
 Installed Python-3.11.4 to /Users/ksia/.pyenv/versions/3.11.4
 ```
-# 选择python版本作为全局配置
+## 选择python版本作为全局配置
 ```r
 pyenv global 3.11.4
 ```
-# 卸载python版本
+## 卸载python版本
+```r
+pyenv uninstall <version>
+```
+## 查看pyenv commands
+```r
+ pyenv commands
+```
+## 查看目前安装的python版本
+```r
+ksia@bogon ~ % pyenv version 
+3.11.4 (set by /Users/ksia/.pyenv/version)
+```
+
 
 - home-brew安装路径：[Homebrew](Configuration/homebrew/Homebrew.md#^b49b8b)
 

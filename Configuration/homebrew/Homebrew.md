@@ -140,15 +140,7 @@ Mac下镜像飞速安装Homebrew教程（备用） ：https://zhuanlan.zhihu.com
 	
 	 * [new tag]             4.1.0      -> 4.1.0
 	
-	remote: Enumerating objects: 3567, done.
-	
-	remote: Counting objects: 100% (3567/3567), done.
-	
-	remote: Total 7544 (delta 3567), reused 3567 (delta 3567), pack-reused 3977
-	
-	Receiving objects: 100% (7544/7544), 1.62 MiB | 4.97 MiB/s, done.
-	
-	Resolving deltas: 100% (5805/5805), completed with 740 local objects.
+
 	
 	From https://mirrors.ustc.edu.cn/brew
 	
