@@ -255,8 +255,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 504,
-        "y": 223,
+        "x": 480,
+        "y": 293,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -266,6 +266,7 @@
   },
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
+    "Pasted image 20230813212536.png",
     "Pasted image 20230813204916.png",
     "Pasted image 20230813204857.png",
     "Pasted image 20230813203726.png",
@@ -299,7 +300,6 @@
     "Pasted image 20230812203040.png",
     "Pasted image 20230812203011.png",
     "Pasted image 20230812163437.png",
-    "Pasted image 20230812160807.png",
     "ZOC8-下载与连接虚拟机.md",
     "Mac terminal.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs",
