@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "Configuration/homebrew/Homebrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python.md",
+                "file": "Configuration/homebrew/Homebrew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.md"
+                "file": "Configuration/homebrew/Homebrew.md"
               }
             }
           },
@@ -229,8 +229,13 @@
                 "id": "4510593de0b7deae",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Configuration/homebrew/Homebrew.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
                 }
               },
               {
@@ -247,7 +252,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -260,10 +265,11 @@
       }
     ]
   },
-  "active": "d7214f6b75b856f0",
+  "active": "4510593de0b7deae",
   "lastOpenFiles": [
     "Python.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+    "Configuration/homebrew/Homebrew.md",
     "JDK1.8-Mac m1 pro.md",
     "版本.md",
     "创建微服务.md",
@@ -299,7 +305,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题",
     "BEFORE/Home.md",
     "BEFORE/Outsource-data.md",
-    "README.md",
     "课程&笔记/未命名.canvas",
     "学习网站/笔记集合.canvas",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
