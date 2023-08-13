@@ -237,13 +237,26 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "cc937576baacbef3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "andymall-pom.xml.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 597,
-        "y": 268,
+        "x": 403,
+        "y": 224,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -253,6 +266,9 @@
   },
   "active": "654ebc1f371497a7",
   "lastOpenFiles": [
+    "微服务-pom.xml.md",
+    "创建微服务.md",
+    "andymall-pom.xml.md",
     "Pasted image 20230813190229.png",
     "Pasted image 20230813190038.png",
     "Pasted image 20230813182310.png",
@@ -264,7 +280,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "Python.md",
     "JDK1.8-Mac m1 pro.md",
-    "创建微服务.md",
     "Alfred 安装OCR截图识别.md",
     "Configuration/homebrew/Homebrew.md",
     "版本.md",
@@ -286,10 +301,8 @@
     "ZOC8-下载与连接虚拟机.md",
     "Mac terminal.md",
     "Pasted image 20230810171742.png",
-    "Pasted image 20230810171101.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs",
     "Pasted image 20230806180415.png.md",
-    "Configuration/Config-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题",
     "课程&笔记/未命名.canvas",
     "学习网站/笔记集合.canvas",
