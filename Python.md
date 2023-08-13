@@ -75,7 +75,11 @@ pyenv uninstall <version>
 ksia@bogon ~ % pyenv version 
 3.11.4 (set by /Users/ksia/.pyenv/version)
 ```
-
+## 查看python安装路径
+```r
+$ which python
+/Users/ksia/.pyenv/shims/python
+```
 
 - home-brew安装路径：[Homebrew](Configuration/homebrew/Homebrew.md#^b49b8b)
 

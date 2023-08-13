@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alfred 安装OCR截图识别.md",
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alfred 安装OCR截图识别.md",
+                "file": "Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alfred 安装OCR截图识别.md"
+                "file": "Python.md"
               }
             }
           },
@@ -229,8 +229,13 @@
                 "id": "5ba92eed862795c5",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Python.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
                 }
               },
               {
@@ -247,7 +252,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -260,7 +265,7 @@
       }
     ]
   },
-  "active": "74f1d30730959ce4",
+  "active": "5ba92eed862795c5",
   "lastOpenFiles": [
     "Alfred 安装OCR截图识别.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
