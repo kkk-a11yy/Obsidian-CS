@@ -180,28 +180,10 @@ Mac下镜像飞速安装Homebrew教程（备用） ：https://zhuanlan.zhihu.com
 	
 	 * [new tag]             backup/remove-popen-read-20-00-21 -> backup/remove-popen-read-20-00-21
 	
-	HEAD is now at aa74840dc Merge pull request #15729 from dduugg/inreplace-sig
-	
-	**==>** **Tapping homebrew/services**
-	
-	remote: Enumerating objects: 2404, done.
-	
-	remote: Counting objects: 100% (17/17), done.
-	
-	remote: Compressing objects: 100% (14/14), done.
-	
-	remote: Total 2404 (delta 5), reused 13 (delta 2), pack-reused 2387
-	
-	Receiving objects: 100% (2404/2404), 668.35 KiB | 508.00 KiB/s, done.
-	
-	Resolving deltas: 100% (1082/1082), done.
+
 	
 	From https://gitee.com/imirror/homebrew-services
-	
-	 * [new branch]      master     -> origin/master
-	
-	HEAD is now at ef8e026 Merge pull request #563 from Homebrew/services_scope_service
-	
+
 	HOMEBREW_BREW_GIT_REMOTE set: using https://mirrors.ustc.edu.cn/brew.git as the Homebrew/brew Git remote.
 	
 	**==>** **🎉 恭喜，安装成功！**
@@ -249,4 +231,8 @@ Mac下镜像飞速安装Homebrew教程（备用） ：https://zhuanlan.zhihu.com
 
 
 ```
-- home-brew安装路径：/opt/homebrew/Cellar/
+# ^home-brew安装路径
+
+^b49b8b
+
+	/opt/homebrew/Cellar/

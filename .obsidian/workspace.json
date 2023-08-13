@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md",
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md",
+                "file": "Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md"
+                "file": "Python.md"
               }
             }
           },
@@ -252,7 +252,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -265,11 +265,11 @@
       }
     ]
   },
-  "active": "4510593de0b7deae",
+  "active": "d7214f6b75b856f0",
   "lastOpenFiles": [
+    "Configuration/homebrew/Homebrew.md",
     "Python.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "Configuration/homebrew/Homebrew.md",
     "JDK1.8-Mac m1 pro.md",
     "版本.md",
     "创建微服务.md",
