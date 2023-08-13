@@ -34,7 +34,18 @@ echo $PATH | grep --color=auto "$(pyenv root)/shims"
 
 ```
 1. If not, see [Configure your shell's environment for pyenv](https://github.com/pyenv/pyenv/#basic-github-checkout) in the installation instructions.
-    [](https://github.com/pyenv/pyenv/wiki#pyenv-is-installed-but-things-just-arent-working-for-me)
+    [pyenv-is-installed-but-things-just-arent-working-for-me](https://github.com/pyenv/pyenv/wiki#pyenv-is-installed-but-things-just-arent-working-for-me)
 
+```r
+不同的 Unix-like shell（命令行解释器）中，应该将 pyenv 的配置放在哪个启动文件
+Which shell startup file do I put pyenv config in?
+
+Typically it's one of the following:
+
+bash: ~/.bash_profile
+zsh: ~/.zshrc
+ksh: ~/.kshrc
+other: ~/.profile
+```
 - home-brew安装路径：[Homebrew](Configuration/homebrew/Homebrew.md#^b49b8b)
 
