@@ -3,7 +3,9 @@
 # AndyMall 架构图
 ![](https://i.imgur.com/PDv6F32.png)
 
-
+# 参考资料
+- [学习计划（资料）](https://www.yuque.com/zhangshuaiyin/guli-mall/wrbzgy)
+- [Linux开发环境配置（Docker）](https://www.yuque.com/zhangshuaiyin/guli-mall/lb4zw1)
 # 环境搭建：
 
 - 机器：m1 pro 2021  , macOS:13.4.1 

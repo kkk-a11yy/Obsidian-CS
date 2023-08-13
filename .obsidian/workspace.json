@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "创建微服务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "创建微服务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
+                "file": "创建微服务.md"
               }
             }
           },
@@ -238,13 +238,12 @@
                   }
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 887,
-        "y": 290,
+        "x": 282,
+        "y": 264,
         "width": 846,
         "height": 729,
         "maximize": false,
@@ -252,10 +251,14 @@
       }
     ]
   },
-  "active": "1115a38fe1b6730f",
+  "active": "654ebc1f371497a7",
   "lastOpenFiles": [
-    "Docker安装 --Mac m1pro.md",
+    "Pasted image 20230813182310.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "Redis--centos stream9.md",
+    "MySql8.0--centos stream9.md",
+    "MySql-Mac m1pro.md",
+    "Docker安装 --Mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "Python.md",
     "JDK1.8-Mac m1 pro.md",
@@ -264,10 +267,8 @@
     "Configuration/homebrew/Homebrew.md",
     "版本.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
-    "MySql8.0--centos stream9.md",
     "IDEA-Mac m1 pro.md",
     "VSCode-Mac m1pro.md",
-    "MySql-Mac m1pro.md",
     "Another redis desktop manager.md",
     "Maven-Mac m1pro.md",
     "Navicat premium.md",
@@ -277,7 +278,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
     "Pasted image 20230812203040.png",
     "Pasted image 20230812203011.png",
-    "Redis--centos stream9.md",
     "Pasted image 20230812163437.png",
     "Pasted image 20230812160807.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230806180514.png",
@@ -291,7 +291,6 @@
     "Pasted image 20230806180415.png.md",
     "Configuration/Config-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题",
-    "BEFORE/Home.md",
     "课程&笔记/未命名.canvas",
     "学习网站/笔记集合.canvas",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",

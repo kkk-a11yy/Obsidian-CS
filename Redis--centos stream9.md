@@ -52,9 +52,6 @@ docker start redis
 
 # 开机自启动
 ```r
-# mysql
-docker update mysql --restart=always
-
 # redis
 docker update redis --restart=always
 ```
