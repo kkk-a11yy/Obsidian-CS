@@ -47,5 +47,18 @@ zsh: ~/.zshrc
 ksh: ~/.kshrc
 other: ~/.profile
 ```
+# pyenv安装python3.11.4
+```r
+pyenv install -l
+pyenv install 3.11.4
+
+Installed Python-3.11.4 to /Users/ksia/.pyenv/versions/3.11.4
+```
+# 选择python版本作为全局配置
+```r
+pyenv global 3.11.4
+```
+# 卸载python版本
+
 - home-brew安装路径：[Homebrew](Configuration/homebrew/Homebrew.md#^b49b8b)
 
