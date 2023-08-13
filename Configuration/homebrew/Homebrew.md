@@ -231,7 +231,7 @@ Mac下镜像飞速安装Homebrew教程（备用） ：https://zhuanlan.zhihu.com
 
 
 ```
-# ^home-brew安装路径
+# home-brew安装路径
 
 ^b49b8b
 

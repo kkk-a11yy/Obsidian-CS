@@ -11,4 +11,4 @@ echo 'command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.
 echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 ```
 - home-brew安装路径：[Homebrew](Configuration/homebrew/Homebrew.md#^b49b8b)
-- [[Configuration/homebrew/Homebrew.md^|Homebrew]]
+
