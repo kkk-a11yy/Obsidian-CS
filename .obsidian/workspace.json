@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JDK1.8-Mac m1 pro.md",
-                "mode": "preview",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -74,12 +74,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 335.5
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "创建微服务.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "创建微服务.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "创建微服务.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
               }
             }
           },
@@ -192,7 +191,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "创建微服务.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -205,7 +204,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "JDK1.8-Mac m1 pro.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/JDK1.8-Mac m1 pro.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -244,7 +243,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "andymall-pom.xml.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/andymall-pom.xml.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -264,44 +263,44 @@
       }
     ]
   },
-  "active": "654ebc1f371497a7",
+  "active": "e349975e90cd5c45",
   "lastOpenFiles": [
-    "Pasted image 20230813212536.png",
-    "Pasted image 20230813204916.png",
-    "Pasted image 20230813204857.png",
-    "Pasted image 20230813203726.png",
-    "andymall-pom.xml.md",
-    "创建微服务.md",
-    "微服务-pom.xml.md",
-    "Pasted image 20230813190229.png",
-    "Pasted image 20230813190038.png",
-    "Pasted image 20230813182310.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/AndyMall--SSH.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "Redis--centos stream9.md",
-    "MySql8.0--centos stream9.md",
-    "MySql-Mac m1pro.md",
-    "Docker安装 --Mac m1pro.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Another Redis desktop manager.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230808205031.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Navicat premium.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/JDK1.8-Mac m1 pro.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230813212536.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230813204916.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230813204857.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230813203726.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/andymall-pom.xml.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/微服务-pom.xml.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230813190229.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230813190038.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230813182310.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql-Mac m1pro.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Docker安装 --Mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "Python.md",
-    "JDK1.8-Mac m1 pro.md",
-    "Alfred 安装OCR截图识别.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Python.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Alfred 安装OCR截图识别.md",
     "Configuration/homebrew/Homebrew.md",
     "版本.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/centos9环境搭建.md",
-    "IDEA-Mac m1 pro.md",
-    "VSCode-Mac m1pro.md",
-    "Another redis desktop manager.md",
-    "Maven-Mac m1pro.md",
-    "Navicat premium.md",
-    "Andymall-SSH.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/SSH连接问题.md",
-    "Pasted image 20230812211336.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/centos9环境搭建.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/IDEA-Mac m1 pro.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/VSCode-Mac m1pro.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230812211336.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
-    "Pasted image 20230812203040.png",
-    "Pasted image 20230812203011.png",
-    "Pasted image 20230812163437.png",
-    "ZOC8-下载与连接虚拟机.md",
-    "Mac terminal.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230812203040.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ZOC8-下载与连接虚拟机.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Mac terminal.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题",
     "课程&笔记/未命名.canvas",
@@ -313,7 +312,6 @@
     "Configuration/JAVA",
     "Configuration/homebrew",
     "课程&笔记/算法与数据结构/6.006-spring-2020/resources/2nmts1ecb3o/index.html",
-    "BEFORE/templetes/未命名",
     "书籍/TPC&IP/TCP-IP.canvas",
     "未命名.canvas",
     "课程&笔记/计算机数学/UCB-CS70/未命名.canvas",

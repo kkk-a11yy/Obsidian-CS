@@ -40,7 +40,7 @@ docker restart redis
 ```
 
 # redis 可视化工具
-[Another redis desktop manager](Another%20redis%20desktop%20manager.md)
+[Another Redis desktop manager](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Another%20Redis%20desktop%20manager.md)
 
 # 设置完挂载卷后启动redis
 ```r

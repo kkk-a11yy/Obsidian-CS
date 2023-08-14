@@ -16,7 +16,7 @@
 	- centos9: 
 		- `ip addr` 
 		- 查看可配置的ip网段：
-			![](Pasted%20image%2020230808205031.png)
+			![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted%20image%2020230808205031.png)
 		- enp0s5: 
 			- inet 10.211.55.7    host-only.  
 			- inet 10.37.129.3. shard
@@ -33,7 +33,7 @@
 	- [我应该对虚拟机使用哪种网络模式（桥接、共享还是 Host-Only）？](https://kb.parallels.com/cn/4948)
 	-  [Parallels Desktop 16共享网络、桥接网络和Host-Only网络设置方法-软件-众番科技资讯网](https://www.szxnet.com/articles/501.html)	
 - 设置虚拟机网络为桥接模式的默认适配器模式
-	- ![](Pasted%20image%2020230809165010.png)
+	- ![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted%20image%2020230809165010.png)
 	- ip地址变为：`192.168.0.104`
 	- 互相ping,可以ping通
 # 备用方法：

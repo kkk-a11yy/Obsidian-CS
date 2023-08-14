@@ -30,4 +30,4 @@ OpenJDK 64-Bit Server VM Corretto-8.382.05.1 (build 25.382-b05, mixed mode)
 ksia@bogon ~ % 
 ```
 
-[配置jdk1.8编译项目](Maven-Mac%20m1pro.md#配置jdk1.8编译项目)
+[配置jdk1.8编译项目](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac%20m1pro.md#配置jdk1.8编译项目)
