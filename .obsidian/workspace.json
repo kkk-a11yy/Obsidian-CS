@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7857031f01c1347d",
+        "id": "3828e1a15a02eb68",
         "type": "tabs",
         "children": [
           {
-            "id": "e349975e90cd5c45",
+            "id": "b2b3d87c8d699413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "版本",
+                "query": "pyenv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 264.5
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md"
               }
             }
           },
@@ -178,20 +178,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "09567b84dccf4e20",
+        "id": "c89f33c614097050",
         "type": "window",
         "children": [
           {
-            "id": "7b450e3c23d1a5dc",
+            "id": "48915e080a89cf5c",
             "type": "tabs",
             "children": [
               {
-                "id": "654ebc1f371497a7",
+                "id": "09b659915b287870",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/数据库初始化.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -199,51 +199,12 @@
                 }
               },
               {
-                "id": "6d3cc5f925de21e7",
+                "id": "3bd23c710927e640",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/JDK1.8-Mac m1 pro.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "63ba2f4111c0be12",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1115a38fe1b6730f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "cc937576baacbef3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/andymall-pom.xml.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -254,64 +215,64 @@
           }
         ],
         "direction": "vertical",
-        "x": 480,
-        "y": 293,
-        "width": 846,
-        "height": 729,
+        "x": 1090,
+        "y": 351,
+        "width": 638,
+        "height": 576,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "e349975e90cd5c45",
+  "active": "2c6e3a3f75a490ef",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/AndyMall--SSH.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230815161059.png",
+    "BEFORE/Home.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/数据库初始化.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+    "Configuration/homebrew/Homebrew.md",
+    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+    "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
+    "学习网站/notes/advanced-java/ad-note/限流/限流.md",
+    "学习网站/notes/advanced-java/ad-note/熔断/熔断.md",
+    "学习网站/notes/advanced-java/ad-note/高并发/消息队列.md",
+    "学习网站/notes/advanced-java/ad-note/高并发/缓存-redis.md",
+    "学习网站/notes/advanced-java/ad-note/高并发/分库分表.md",
+    "学习网站/notes/advanced-java/ad-note/分布式架构/系统拆分.md",
+    "学习网站/notes/advanced-java/ad-note/分布式架构/分布式锁.md",
+    "学习网站/notes/advanced-java/ad-note/分布式架构/分布式事务.md",
+    "学习网站/notes/advanced-java/ad-note/分布式架构/分布式会话.md",
+    "学习网站/笔记集合.canvas",
+    "BEFORE/学习进度.md",
+    "BEFORE/Outsource-data.md",
+    "BEFORE/时间编表.md",
+    "BEFORE/时间戳/2023-06-25.md",
+    "书籍/CS-BOOKS-DATA.md",
+    "书籍/CS书籍推荐单.md",
+    "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Another Redis desktop manager.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql-Mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230815160850.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230815160734.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230815154451.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230808205031.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Navicat premium.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/JDK1.8-Mac m1 pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230813212536.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230813204916.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230813204857.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230813203726.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/andymall-pom.xml.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/微服务-pom.xml.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230813190229.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230813190038.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230813182310.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql-Mac m1pro.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Docker安装 --Mac m1pro.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Python.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Alfred 安装OCR截图识别.md",
-    "Configuration/homebrew/Homebrew.md",
-    "版本.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/centos9环境搭建.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/IDEA-Mac m1 pro.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/VSCode-Mac m1pro.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230812211336.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/课程资料.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230812203040.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ZOC8-下载与连接虚拟机.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Mac terminal.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题",
     "课程&笔记/未命名.canvas",
-    "学习网站/笔记集合.canvas",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "Configuration/Alfred",
     "Configuration/JAVA",
     "Configuration/homebrew",
-    "课程&笔记/算法与数据结构/6.006-spring-2020/resources/2nmts1ecb3o/index.html",
     "书籍/TPC&IP/TCP-IP.canvas",
     "未命名.canvas",
     "课程&笔记/计算机数学/UCB-CS70/未命名.canvas",
