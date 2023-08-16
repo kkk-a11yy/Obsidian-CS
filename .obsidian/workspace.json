@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Home.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Home.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Home.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Home.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
               }
             }
           },
@@ -175,6 +175,8 @@
   },
   "active": "c2dfaba1c65379b7",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+    "BEFORE/Home.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "快速开发--后台管理系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/数据库初始化.md",
@@ -189,8 +191,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230815161059.png",
-    "BEFORE/Home.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "Configuration/homebrew/Homebrew.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
