@@ -199,12 +199,12 @@
                 }
               },
               {
-                "id": "3bd23c710927e640",
+                "id": "a20c1fdd0dc2b600",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/centos9环境搭建.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -215,8 +215,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 641,
-        "y": 357,
+        "x": 1145,
+        "y": 450,
         "width": 638,
         "height": 576,
         "maximize": false,
@@ -226,8 +226,9 @@
   },
   "active": "09b659915b287870",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/数据库初始化.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230815161059.png",
     "BEFORE/Home.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
