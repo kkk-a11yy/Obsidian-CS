@@ -9,3 +9,4 @@
 		<module>renren-fast</module>
 	</modules>
 ```
+maven 点击 +  ， 把 renren-fast的pom.xml加进去
