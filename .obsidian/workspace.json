@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-                "mode": "preview",
+                "file": "Configuration/Mac/蓝牙问题.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "快速开发--后台管理系统.md",
+                "file": "Configuration/Mac/蓝牙问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "快速开发--后台管理系统.md",
+                "file": "Configuration/Mac/蓝牙问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "快速开发--后台管理系统.md"
+                "file": "Configuration/Mac/蓝牙问题.md"
               }
             }
           },
@@ -236,8 +236,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 712,
-        "y": 233,
+        "x": 756,
+        "y": 288,
         "width": 709,
         "height": 800,
         "maximize": false,
@@ -245,13 +245,16 @@
       }
     ]
   },
-  "active": "033adb0df34cdb89",
+  "active": "c2dfaba1c65379b7",
   "lastOpenFiles": [
-    "快速开发--修改pom.xml.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "Configuration/Mac/蓝牙问题.md",
+    "Configuration/Mac/未命名",
+    "Configuration/Mac",
     "快速开发--后台管理系统.md",
+    "快速开发--修改pom.xml.md",
     "修改renren-fast 的application-dev.yml.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "BEFORE/Home.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
@@ -280,7 +283,6 @@
     "学习网站/notes/advanced-java/ad-note/分布式架构/分布式会话.md",
     "学习网站/笔记集合.canvas",
     "BEFORE/学习进度.md",
-    "BEFORE/Outsource-data.md",
     "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230815160850.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230815160734.png",
@@ -293,8 +295,6 @@
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "Configuration/Alfred",
-    "Configuration/JAVA",
-    "Configuration/homebrew",
     "书籍/TPC&IP/TCP-IP.canvas",
     "未命名.canvas",
     "课程&笔记/计算机数学/UCB-CS70/未命名.canvas",
