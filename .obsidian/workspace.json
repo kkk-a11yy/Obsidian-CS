@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3ad3cb65be68e745",
+        "id": "742bad9568733ca7",
         "type": "tabs",
         "children": [
           {
-            "id": "c2dfaba1c65379b7",
+            "id": "48fcbc0b50ed65d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/Mac/蓝牙问题.md",
-                "mode": "source",
+                "file": "BEFORE/Home.md",
+                "mode": "preview",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/Mac/蓝牙问题.md",
+                "file": "BEFORE/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/Mac/蓝牙问题.md",
+                "file": "BEFORE/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/Mac/蓝牙问题.md"
+                "file": "BEFORE/Home.md"
               }
             }
           },
@@ -173,79 +173,7 @@
       "homepage:Open homepage": false
     }
   },
-  "floating": {
-    "id": "7d1e5008f4d36b43",
-    "type": "floating",
-    "children": [
-      {
-        "id": "06682af6f44a8a5a",
-        "type": "window",
-        "children": [
-          {
-            "id": "f09fca000adcaa8b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "033adb0df34cdb89",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "快速开发--后台管理系统.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c2f4a307c2bc5000",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
-                "id": "84ce304c6ba5d9af",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "修改renren-fast 的application-dev.yml.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "38d583dcc46a12fe",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "快速开发--修改pom.xml.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 756,
-        "y": 288,
-        "width": 709,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "c2dfaba1c65379b7",
+  "active": "48fcbc0b50ed65d9",
   "lastOpenFiles": [
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "Configuration/Mac/蓝牙问题.md",
