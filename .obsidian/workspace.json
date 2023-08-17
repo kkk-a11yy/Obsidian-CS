@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "742bad9568733ca7",
+        "id": "ff3301e62e8a805a",
         "type": "tabs",
         "children": [
           {
-            "id": "48fcbc0b50ed65d9",
+            "id": "f34268a11edb9ce5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BEFORE/Home.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BEFORE/Home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,18 +164,56 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "48fcbc0b50ed65d9",
+  "floating": {
+    "id": "7d1e5008f4d36b43",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8154821cfe40f462",
+        "type": "window",
+        "children": [
+          {
+            "id": "e01855f4f10cb296",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "48fcbc0b50ed65d9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "快速开发--后台管理系统.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 693,
+        "y": 188,
+        "width": 1035,
+        "height": 729,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f34268a11edb9ce5",
   "lastOpenFiles": [
+    "快速开发--后台管理系统.md",
+    "BEFORE/Home.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "Configuration/Mac/蓝牙问题.md",
     "Configuration/Mac/未命名",
     "Configuration/Mac",
-    "快速开发--后台管理系统.md",
     "快速开发--修改pom.xml.md",
     "修改renren-fast 的application-dev.yml.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "BEFORE/Home.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/数据库初始化.md",
     "Pasted image 20230816171404.png",
