@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "brew install node.js @14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "brew install node.js @14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "brew install node.js @14.md"
               }
             }
           },
@@ -233,7 +233,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "未命名.md",
+                    "file": "brew install node.js @14.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -256,7 +256,7 @@
   },
   "active": "1bac583f7146e579",
   "lastOpenFiles": [
-    "未命名.md",
+    "brew install node.js @14.md",
     "快速开发--前端系统.md",
     "快速开发--后台管理系统.md",
     "Configuration/homebrew/Homebrew.md",
