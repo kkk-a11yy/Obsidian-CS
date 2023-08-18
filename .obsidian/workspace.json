@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "快速开发--前端系统.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "快速开发--前端系统.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "快速开发--前端系统.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -218,9 +218,30 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "883b5355996d5d30",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1bac583f7146e579",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "未命名.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -233,10 +254,11 @@
       }
     ]
   },
-  "active": "98701eaad57b0944",
+  "active": "1bac583f7146e579",
   "lastOpenFiles": [
-    "快速开发--后台管理系统.md",
+    "未命名.md",
     "快速开发--前端系统.md",
+    "快速开发--后台管理系统.md",
     "Configuration/homebrew/Homebrew.md",
     "Pasted image 20230818144636.png",
     "Pasted image 20230818144240.png",
@@ -271,7 +293,6 @@
     "学习网站/notes/advanced-java/ad-note/分布式架构/系统拆分.md",
     "学习网站/notes/advanced-java/ad-note/分布式架构/分布式锁.md",
     "学习网站/notes/advanced-java/ad-note/分布式架构/分布式事务.md",
-    "学习网站/notes/advanced-java/ad-note/分布式架构/分布式会话.md",
     "学习网站/笔记集合.canvas",
     "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230815160850.png",
