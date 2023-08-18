@@ -2,4 +2,8 @@
 - 命令
 ```r
 ksia@bogon ~ % git clone https://gitee.com/mirrors/nvm.git ~/.nvm && cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`
+
+//安装
+ksia@bogon ~ % ~/.nvm/install.sh
+
 ```
