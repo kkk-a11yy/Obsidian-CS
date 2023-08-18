@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md",
+                "file": "快速开发--前端系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md",
+                "file": "快速开发--前端系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md"
+                "file": "快速开发--前端系统.md"
               }
             }
           },
@@ -220,7 +220,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -233,10 +233,10 @@
       }
     ]
   },
-  "active": "f02059d315bb57d9",
+  "active": "98701eaad57b0944",
   "lastOpenFiles": [
-    "快速开发--前端系统.md",
     "Configuration/homebrew/Homebrew.md",
+    "快速开发--前端系统.md",
     "快速开发--后台管理系统.md",
     "Pasted image 20230818144636.png",
     "Pasted image 20230818144240.png",
