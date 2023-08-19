@@ -11,8 +11,13 @@
             "id": "f34268a11edb9ce5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "快速开发--前端系统.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "快速开发--前端系统.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "快速开发--前端系统.md"
+                "file": "README.md"
               }
             }
           },
@@ -186,7 +191,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "快速开发--后台管理系统.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -199,7 +204,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "快速开发--前端系统.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -233,7 +238,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "nvm安装node 、cnpm.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nvm安装node 、cnpm.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -246,7 +251,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "安装nvm.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/安装nvm.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -259,7 +264,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "brew install node.js @14.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/brew install node.js @14.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -280,33 +285,35 @@
       }
     ]
   },
-  "active": "98701eaad57b0944",
+  "active": "f34268a11edb9ce5",
   "lastOpenFiles": [
-    "Configuration/homebrew/Homebrew.md",
-    "nvm安装node 、cnpm.md",
-    "安装nvm.md",
-    "brew install node.js @14.md",
-    "快速开发--后台管理系统.md",
-    "快速开发--前端系统.md",
-    "Pasted image 20230818144636.png",
-    "Pasted image 20230818144240.png",
-    "修改renren-fast 的application-dev.yml.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
+    "README.md",
     "BEFORE/Home.md",
+    "BEFORE/Outsource-data.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/安装nvm.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230816162606.png",
+    "Configuration/homebrew/Homebrew.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nvm安装node 、cnpm.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/brew install node.js @14.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230818144636.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230818144240.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改renren-fast 的application-dev.yml.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "Configuration/Mac/蓝牙问题.md",
     "Configuration/Mac/未命名",
     "Configuration/Mac",
-    "快速开发--修改pom.xml.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--修改pom.xml.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/数据库初始化.md",
-    "Pasted image 20230816171404.png",
-    "Pasted image 20230816170128.png",
-    "Pasted image 20230816164739.png",
-    "Pasted image 20230816164702.png",
-    "Pasted image 20230816164214.png",
-    "Pasted image 20230816162606.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230816171404.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230816170128.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230816164739.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230816164702.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230816164214.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/centos9环境搭建.md",
@@ -317,8 +324,6 @@
     "学习网站/notes/advanced-java/ad-note/熔断/熔断.md",
     "学习网站/notes/advanced-java/ad-note/高并发/消息队列.md",
     "学习网站/notes/advanced-java/ad-note/高并发/缓存-redis.md",
-    "学习网站/notes/advanced-java/ad-note/高并发/分库分表.md",
-    "学习网站/notes/advanced-java/ad-note/分布式架构/系统拆分.md",
     "学习网站/笔记集合.canvas",
     "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230815160850.png",
