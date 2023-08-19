@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "快速开发--前端系统.md",
+                "file": "安装nvm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "快速开发--前端系统.md",
+                "file": "安装nvm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "快速开发--前端系统.md"
+                "file": "安装nvm.md"
               }
             }
           },
@@ -254,7 +254,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -267,10 +267,10 @@
       }
     ]
   },
-  "active": "98701eaad57b0944",
+  "active": "2ff9843e58d28d67",
   "lastOpenFiles": [
-    "安装nvm.md",
     "快速开发--前端系统.md",
+    "安装nvm.md",
     "Configuration/homebrew/Homebrew.md",
     "brew install node.js @14.md",
     "快速开发--后台管理系统.md",
