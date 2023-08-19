@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ff3301e62e8a805a",
+        "id": "15ed1426a4fbc364",
         "type": "tabs",
         "children": [
           {
-            "id": "f34268a11edb9ce5",
+            "id": "d96a27a0c94099a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BEFORE/Outsource-data.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230819212023.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230819212023.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230819212023.png"
               }
             }
           },
@@ -225,7 +220,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "快速开发--逆向工程.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -245,15 +240,15 @@
       }
     ]
   },
-  "active": "48fcbc0b50ed65d9",
+  "active": "2c6e3a3f75a490ef",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nvm安装node 14、cnpm.md",
+    "BEFORE/Outsource-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nvm安装node 14、cnpm.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/安装nvm 0.39.4.md",
-    "快速开发--逆向工程.md",
-    "Pasted image 20230819212023.png",
-    "BEFORE/Outsource-data.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230819212023.png",
     "README.md",
     "BEFORE/Home.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230816162606.png",
