@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nvm安装node.md",
+                "file": "nvm安装node 、cnpm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nvm安装node.md",
+                "file": "nvm安装node 、cnpm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nvm安装node.md"
+                "file": "nvm安装node 、cnpm.md"
               }
             }
           },
@@ -233,7 +233,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "nvm安装node.md",
+                    "file": "nvm安装node 、cnpm.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -282,7 +282,7 @@
   },
   "active": "1aef4c232467d248",
   "lastOpenFiles": [
-    "nvm安装node.md",
+    "nvm安装node 、cnpm.md",
     "快速开发--前端系统.md",
     "安装nvm.md",
     "Configuration/homebrew/Homebrew.md",

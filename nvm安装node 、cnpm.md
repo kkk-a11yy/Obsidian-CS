@@ -1,3 +1,5 @@
+# 安装node
+
 ```r
 nvm -v
 	0.39.4
@@ -16,4 +18,11 @@ node -v
 npm -v
 	6.14.4
 
+```
+# 安装cnpm
+
+```r
+npm install cnpm -g --registry=https://registry.npm.taobao.org
+	+ cnpm@9.2.0
+	added 675 packages from 187 contributors in 24.611s
 ```
