@@ -1,7 +1,9 @@
+- [nvm-sh/nvm: Node Version Manager ](https://github.com/nvm-sh/nvm)
 - [MAC nvm安装失败,正确安装步骤 - 掘金](https://juejin.cn/post/7075600154635534344)
 - [Mac M1 Pro下载node.js_mac 下载node_Rookie_聪的博客-CSDN博客](https://blog.csdn.net/weixin_46678290/article/details/128508766?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-128508766-blog-131663483.235%5Ev38%5Epc_relevant_default_base&spm=1001.2101.3001.4242.1&utm_relevant_index=3)
 - 命令
 ```r
+//下载
 ksia@bogon ~ % git clone https://gitee.com/mirrors/nvm.git ~/.nvm && cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`
 
 //安装
