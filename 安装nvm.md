@@ -5,16 +5,16 @@
 #  命令
 ```r
 //下载
-ksia@bogon ~ % git clone https://gitee.com/mirrors/nvm.git ~/.nvm && cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`
+git clone https://gitee.com/mirrors/nvm.git ~/.nvm && cd ~/.nvm && git checkout `git describe --abbrev=0 --tags`
 
 //安装
-ksia@bogon ~ % ~/.nvm/install.sh
+~/.nvm/install.sh
 
 ```
 
 
 ```r
-ksia@bogon ~ % vim ~/.zshrc
+vim ~/.zshrc
 
 // insert 模式添加：
 export NVM_DIR="$HOME/.nvm"
@@ -28,8 +28,8 @@ source ~/.zshrc
 ```
 
 ```r
-ksia@bogon ~ % nvm -v
-0.39.4
+nvm -v
+	0.39.4
 ```
 
 # **nvm 常用命令：**

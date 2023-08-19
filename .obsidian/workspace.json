@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nvm安装node 、cnpm.md",
+                "file": "快速开发--前端系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nvm安装node 、cnpm.md",
+                "file": "快速开发--前端系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nvm安装node 、cnpm.md"
+                "file": "快速开发--前端系统.md"
               }
             }
           },
@@ -267,27 +267,27 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 512,
+        "x": 988,
         "y": 105,
-        "width": 1207,
+        "width": 731,
         "height": 596,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "1aef4c232467d248",
+  "active": "98701eaad57b0944",
   "lastOpenFiles": [
-    "nvm安装node 、cnpm.md",
-    "快速开发--前端系统.md",
-    "安装nvm.md",
     "Configuration/homebrew/Homebrew.md",
+    "nvm安装node 、cnpm.md",
+    "安装nvm.md",
     "brew install node.js @14.md",
     "快速开发--后台管理系统.md",
+    "快速开发--前端系统.md",
     "Pasted image 20230818144636.png",
     "Pasted image 20230818144240.png",
     "修改renren-fast 的application-dev.yml.md",

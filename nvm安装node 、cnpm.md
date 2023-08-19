@@ -1,4 +1,4 @@
-# 安装node
+# 安装node14.0.0
 
 ```r
 nvm -v
@@ -59,4 +59,6 @@ cnpm -v
 	    '/Users/ksia/.nvm/versions/node/v14.0.0/lib/node_modules/cnpm/bin/cnpm'
 	  ]
 	}
+
 ```
+没装成功反正是，之后再说
