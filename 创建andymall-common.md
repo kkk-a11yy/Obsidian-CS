@@ -1,0 +1,3 @@
+- 在andymall 总项目下 new module创建 maven类的
+	- ![](Pasted%20image%2020230820133532.png)
+	- 
