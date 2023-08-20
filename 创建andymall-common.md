@@ -88,4 +88,4 @@
 			- 路径：`renren-generator/src/main/resources/template/Controller.java.vm`
 				- 把对应的 `@RequiresPermissions` 注释掉
 				- 把上面的 `import org.apache.shiro.authz.annotation.RequiresPermissions;` 删掉
-			- 然后重启这个逆向工程
+			- 然后重启这个逆向工程 `renren-generator`的`RenrenApplication.java`

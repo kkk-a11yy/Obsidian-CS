@@ -233,19 +233,6 @@
                 }
               },
               {
-                "id": "e849dffd3ce908bf",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "4f9eae574b4922ac",
                 "type": "leaf",
                 "state": {
@@ -272,12 +259,12 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
-        "x": 740,
-        "y": 205,
+        "x": 724,
+        "y": 190,
         "width": 948,
         "height": 596,
         "maximize": false,
@@ -287,13 +274,13 @@
   },
   "active": "4f9eae574b4922ac",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "创建andymall-common.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "Pasted image 20230820164934.png",
     "Pasted image 20230820145730.png",
     "Pasted image 20230820133653.png",
     "Pasted image 20230820133532.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "Pasted image 20230819230815.png",
     "Pasted image 20230819230720.png",
     "Pasted image 20230819225803.png",
