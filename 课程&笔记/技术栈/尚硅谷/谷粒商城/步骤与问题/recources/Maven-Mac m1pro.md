@@ -12,6 +12,9 @@ ksia@bogon ~ % sdk default maven 3.6.1
 
 本机路径为：/Users/ksia/.sdkman/candidates/maven/3.6.1/conf/settings.xml
 ## 配置阿里云镜像
+
+^fb86c8
+
 	
 ``` r
 <mirrors>

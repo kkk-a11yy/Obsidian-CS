@@ -52,7 +52,8 @@
 			- apache 设计的使用java代码发送http请求的工具类
 			- 导入4.4.12版本地址：
 				- [Maven Repository: org.apache.httpcomponents » httpcore » 4.4.12](https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore/4.4.12)
-				- 复制 maven 下的 dependency，粘贴到 `common` 模块的 `pom.xml` 当中
+				- 复制 maven 下的 dependency，粘贴到 `common` 模块的 `pom.xml` 当中,然后maven 刷新，太慢就配置镜像
+					- [Maven-Mac m1pro](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac%20m1pro.md#^fb86c8)
 				```java
 				<!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore -->
 				<dependency>
@@ -61,3 +62,4 @@
 				    <version>4.4.12</version>
 				</dependency>
 				```
+	- ``
