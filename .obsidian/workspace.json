@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md"
-              }
+              "state": {}
             }
           },
           {
@@ -259,8 +255,9 @@
       }
     ]
   },
-  "active": "883b5355996d5d30",
+  "active": "d96a27a0c94099a7",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/安装nvm 0.39.4.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
@@ -273,7 +270,6 @@
     "Pasted image 20230819230815.png",
     "Pasted image 20230819230720.png",
     "Pasted image 20230819225803.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230819212023.png",
     "BEFORE/Outsource-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nvm安装node 14、cnpm.md",
