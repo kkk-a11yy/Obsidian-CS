@@ -12,7 +12,7 @@ ksia@bogon ~ % sdk default maven 3.6.1
 
 本机路径为：/Users/ksia/.sdkman/candidates/maven/3.6.1/conf/settings.xml
 ## 配置阿里云镜像
-	- 本人已翻墙，此处先不加
+	
 ``` r
 <mirrors>
 	<mirror>
@@ -25,6 +25,38 @@ ksia@bogon ~ % sdk default maven 3.6.1
 
 ```
 
+ - 另一个镜像
+```r
+        <mirror>
+            <id>alimaven</id>
+            <name>aliyun maven</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+            <mirrorOf>central</mirrorOf>
+        </mirror>
+ 
+        <mirror>
+            <id>uk</id>
+            <mirrorOf>central</mirrorOf>
+            <name>Human Readable Name for this Mirror.</name>
+            <url>http://uk.maven.org/maven2/</url>
+        </mirror>
+ 
+        <mirror>
+            <id>CN</id>
+            <name>OSChina Central</name>
+            <url>http://maven.oschina.net/content/groups/public/</url>
+            <mirrorOf>central</mirrorOf>
+        </mirror>
+ 
+        <mirror>
+            <id>nexus</id>
+            <name>internal nexus repository</name>
+            <!-- <url>http://192.168.1.100:8081/nexus/content/groups/public/</url>-->
+            <url>http://repo.maven.apache.org/maven2</url>
+            <mirrorOf>central</mirrorOf>
+        </mirror>
+
+```
 ## 配置jdk1.8编译项目
 ```r
 <profiles>

@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "创建andymall-common.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "创建andymall-common.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "创建andymall-common.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md"
               }
             }
           },
@@ -236,8 +236,13 @@
                 "id": "e849dffd3ce908bf",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
                 }
               },
               {
@@ -267,12 +272,12 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
-        "x": 247,
-        "y": 411,
+        "x": 581,
+        "y": 216,
         "width": 948,
         "height": 596,
         "maximize": false,
@@ -280,12 +285,12 @@
       }
     ]
   },
-  "active": "4f9eae574b4922ac",
+  "active": "e849dffd3ce908bf",
   "lastOpenFiles": [
+    "创建andymall-common.md",
     "Pasted image 20230820164934.png",
     "Pasted image 20230820145730.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
-    "创建andymall-common.md",
     "Pasted image 20230820133653.png",
     "Pasted image 20230820133532.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
@@ -304,7 +309,6 @@
     "Configuration/homebrew/Homebrew.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/brew install node.js @14.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230818144636.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230818144240.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改renren-fast 的application-dev.yml.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "Configuration/Mac/蓝牙问题.md",
