@@ -13,7 +13,7 @@
 		</dependency>
 		```
 	- `common` 模块添加其他模块需要的依赖
-		- `com/andymall/andymallproduct/dao` 层的 `BaseMapper` 、`@Mapper` 爆红
+		- `andymallproduct/dao` 层的 `BaseMapper` 、`@Mapper` 爆红
 			- mybatis-plus.  
 				-  [安装 | MyBatis-Plus](https://baomidou.com/pages/bab2db/#release)
 				``` java 
@@ -24,3 +24,14 @@
 				    <version>最新版本</version>
 				</dependency>
 				```
+		- `entity` 层的 `@Date` 爆红
+			- lombok 
+				- 简化 `java bean` 开发
+				```java
+				<dependency>  
+					<groupId>org.projectlombok</groupId>  
+					<artifactId>lombok</artifactId>  
+					<version>1.18.4</version>  
+				</dependency>  
+				```
+				
