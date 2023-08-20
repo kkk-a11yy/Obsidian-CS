@@ -26,7 +26,7 @@
 				```
 		- `entity` 层的 `@Date` 爆红
 			- lombok 
-				- 简化 `java bean` 开发 ， 有这个插件，编译期间会自动给有
+				- 简化 `java bean` 开发 ， 有这个插件，编译期间会自动给有`@Date` 注解的实体类添加 get set方法
 				```java
 				<dependency>  
 					<groupId>org.projectlombok</groupId>  
@@ -34,4 +34,8 @@
 					<version>1.18.4</version>  
 				</dependency>  
 				```
-				
+		- 其他工具类爆红
+			- 路径：`renren-fast/src/main/java/io/renren/common/utils` 
+			- 去这下面复制粘贴到对应模块
+			- 例如：
+				- `com/andymall/andymallproduct/service/impl/AttrGroupServiceImpl.java` 下的
