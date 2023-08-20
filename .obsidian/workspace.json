@@ -271,8 +271,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 499,
-        "y": 583,
+        "x": 247,
+        "y": 411,
         "width": 948,
         "height": 596,
         "maximize": false,
@@ -282,6 +282,7 @@
   },
   "active": "4f9eae574b4922ac",
   "lastOpenFiles": [
+    "Pasted image 20230820164934.png",
     "Pasted image 20230820145730.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "创建andymall-common.md",
@@ -314,7 +315,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/数据库初始化.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230816171404.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/centos9环境搭建.md",

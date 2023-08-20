@@ -13,6 +13,7 @@
 		</dependency>
 		```
 	- `common` 模块添加其他模块需要的依赖
+		- 记得要点击右边 `maven` 的 `+` , 把 `common` 这个模块加进去
 		- `andymallproduct/dao` 层的 `BaseMapper` 、`@Mapper` 爆红
 			- mybatis-plus.  
 				-  [安装 | MyBatis-Plus](https://baomidou.com/pages/bab2db/#release)
@@ -39,5 +40,5 @@
 			- 去这下面复制粘贴到对应模块
 			- 例如：
 				- `com/andymall/andymallproduct/service/impl/AttrGroupServiceImpl.java` 下的  `query` ` 和 pageutils 
-					- ![](Pasted%20image%2020230820145730.png)
-					- 那么就创建这个包
+					- ![](Pasted%20image%2020230820164934.png)
+					- 那么就在 `common` 模块 创建这个包 ： `com.andymall.product.common.utils`
