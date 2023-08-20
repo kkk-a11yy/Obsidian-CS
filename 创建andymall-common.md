@@ -66,13 +66,18 @@
 	- 从 `renren-generator`  复制来的 utils 类的 `Query`
 		- 路径：`com/andymall/product/common/utils/Query.java`
 		- 爆红：
-			- `io.renren.common.xss.SQLFilter` 、
+			- `io.renren.common.xss.SQLFilter` 
+				- 把 `renren-fast/src/main/java/io/renren/common/xss` 这个文件夹复制到 `andymall-common/src/main/java/com/andymall/product/common` 这个文件夹下
+				- 然后在
 			- `org.apache.commons.lang.StringUtils`  
-				- 把 `renren-fast/pom.xml` 的 `common-lang`  依赖包粘贴到
+				- 把 `renren-fast/pom.xml` 的 `common-lang`  依赖包粘贴到 `andymall-common/pom.xml`
 				```java
 				<dependency>  
 					<groupId>commons-lang</groupId>  
 					<artifactId>commons-lang</artifactId>  
-					<version>${commons.lang.version}</version>  
+					<version>2.6</version>  //版本与<properties>下面的2.6这个版本一致
 				</dependency>
+				
+				<properties>  
+					<commons.lang.version>2.6</commons.lang.version>
 				```
