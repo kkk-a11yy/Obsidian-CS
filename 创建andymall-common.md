@@ -49,4 +49,15 @@
 	- 从 `renren-generator`  复制来的 utils 类的 `R`  
 		- 路径：`com/andymall/product/common/utils/R.java`
 		- `org.apache.http.HttpStatus` 爆红
-			- 
+			- apache 设计的使用java代码发送http请求的工具类
+			- 导入4.4.12版本地址：
+				- [Maven Repository: org.apache.httpcomponents » httpcore » 4.4.12](https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore/4.4.12)
+				- 复制 maven 下的 dependency，粘贴到 `common` 模块的 `pom.xml` 当中
+				```java
+				<!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore -->
+				<dependency>
+				    <groupId>org.apache.httpcomponents</groupId>
+				    <artifactId>httpcore</artifactId>
+				    <version>4.4.12</version>
+				</dependency>
+				```
