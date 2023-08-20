@@ -42,3 +42,11 @@
 				- `com/andymall/andymallproduct/service/impl/AttrGroupServiceImpl.java` 下的  `query` ` 和 pageutils 
 					- ![](Pasted%20image%2020230820164934.png)
 					- 那么就在 `common` 模块 创建这个包 ： `com.andymall.product.common.utils`
+		- `controller` 的注解 爆红
+			- 例如：`com/andymall/product/controller/AttrController.java`
+				- `@RequiresPermissions`
+					- 之后会用 `spring secutity`   的，这个可以先删或者先不管
+	- 从 `renren-generator`  复制来的 utils 类的 `R`  
+		- 路径：`com/andymall/product/common/utils/R.java`
+		- `org.apache.http.HttpStatus` 爆红
+			- 
