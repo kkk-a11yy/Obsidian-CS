@@ -85,3 +85,7 @@
 	- `andymall-product/src/main/java/com/andymall/product/controller` 下的类中的 `org.apache.shiro.authz.annotation.RequiresPermissions` 爆红
 		- 先全部都删掉
 		- 然后设置 `renren-generator` 先不生成这个
+			- 路径：`renren-generator/src/main/resources/template/Controller.java.vm`
+				- 把对应的 `@RequiresPermissions` 注释掉
+				- 把上面的 `import org.apache.shiro.authz.annotation.RequiresPermissions;` 删掉
+			- 然后重启这个逆向工程
