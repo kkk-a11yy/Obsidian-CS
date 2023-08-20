@@ -13,4 +13,13 @@
 		</dependency>
 		```
 	- `common` 模块添加其他模块需要的依赖
-	- 
+		- mybatis-plus.  
+			-  [安装 | MyBatis-Plus](https://baomidou.com/pages/bab2db/#release)
+			``` java 
+			//老师用的是3.2.0
+			<dependency>
+			    <groupId>com.baomidou</groupId>
+			    <artifactId>mybatis-plus-boot-starter</artifactId>
+			    <version>最新版本</version>
+			</dependency>
+			```
