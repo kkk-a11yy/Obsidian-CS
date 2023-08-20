@@ -38,4 +38,6 @@
 			- 路径：`renren-fast/src/main/java/io/renren/common/utils` 
 			- 去这下面复制粘贴到对应模块
 			- 例如：
-				- `com/andymall/andymallproduct/service/impl/AttrGroupServiceImpl.java` 下的
+				- `com/andymall/andymallproduct/service/impl/AttrGroupServiceImpl.java` 下的  `query` ` 和 pageutils 
+					- ![](Pasted%20image%2020230820145730.png)
+					- 那么就创建这个包
