@@ -68,7 +68,8 @@
 		- 爆红：
 			- `io.renren.common.xss.SQLFilter` 
 				- 把 `renren-fast/src/main/java/io/renren/common/xss` 这个文件夹复制到 `andymall-common/src/main/java/com/andymall/product/common` 这个文件夹下
-				- 然后在
+				- 然后在 `Query` 当中改变 `SQLFilter` 的引用：import class
+				- `Constant` 在 `renren-fast` 的 `Constant.java`  ,也粘贴到 `common`模块的 `util` 目录下
 			- `org.apache.commons.lang.StringUtils`  
 				- 把 `renren-fast/pom.xml` 的 `common-lang`  依赖包粘贴到 `andymall-common/pom.xml`
 				```java
@@ -81,3 +82,6 @@
 				<properties>  
 					<commons.lang.version>2.6</commons.lang.version>
 				```
+	- `andymall-product/src/main/java/com/andymall/product/controller` 下的类中的 `org.apache.shiro.authz.annotation.RequiresPermissions` 爆红
+		- 先全部都删掉
+		- 然后设置 `renren-generator` 先不生成这个
