@@ -26,7 +26,7 @@
 				```
 		- `entity` 层的 `@Date` 爆红
 			- lombok 
-				- 简化 `java bean` 开发
+				- 简化 `java bean` 开发 ， 有这个插件，编译期间会自动给有
 				```java
 				<dependency>  
 					<groupId>org.projectlombok</groupId>  
