@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "BEFORE/Person/YouTube-data.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "BEFORE/Person/YouTube-data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "BEFORE/Person/YouTube-data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "BEFORE/Person/YouTube-data.md"
               }
             }
           },
@@ -189,14 +189,32 @@
   },
   "active": "8599d393a53d5be9",
   "lastOpenFiles": [
-    "BEFORE/Home.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
+    "BEFORE/Person/YouTube/Brandon Boswell.md",
+    "BEFORE/Person/YouTube/Branch Education.md",
+    "BEFORE/Person/YouTube/Abdul Bari.md",
+    "BEFORE/Person/YouTube/Amigoscode.md",
+    "BEFORE/Person/YouTube/3Blue1Brown.md",
+    "BEFORE/outsource/The BEST Way To Add Media To Your Obsidian Vault.md",
+    "BEFORE/outsource/Publishing your Obsidian Vault Online with Quartz.md",
+    "BEFORE/outsource/Notion Databases In Obsidian.md",
+    "BEFORE/outsource/How To Create a Movie Database in Obsidian.md",
+    "BEFORE/outsource/How To Backup Obsidian.md",
+    "BEFORE/outsource/How I Built a SECOND Brain 🧠 in Obsidian MD.md",
+    "BEFORE/outsource/Building a USEFUL Dashboard in Obsidian.md",
+    "BEFORE/outsource/Building A Book Library In Obsidian.md",
+    "BEFORE/outsource/Automate Your Vault With Dataview.md",
+    "BEFORE/Person/YouTube/Nicole van der Hoeven.md",
+    "BEFORE/outsource/writing a book in Obsidian.md",
+    "BEFORE/时间编表.md",
+    "README.md",
+    "BEFORE/Outsource-data.md",
+    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/安装nvm 0.39.4.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/数据库初始化.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820164934.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820145730.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820133653.png",
@@ -205,27 +223,10 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230819230720.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230819225803.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230819212023.png",
-    "BEFORE/Outsource-data.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nvm安装node 14、cnpm.md",
-    "README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230816162606.png",
-    "Configuration/homebrew/Homebrew.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/brew install node.js @14.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230818144636.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改renren-fast 的application-dev.yml.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "Configuration/Mac/蓝牙问题.md",
     "Configuration/Mac/未命名",
     "Configuration/Mac",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--修改pom.xml.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/数据库初始化.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/centos9环境搭建.md",
-    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
-    "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
     "学习网站/笔记集合.canvas",
     "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources",
