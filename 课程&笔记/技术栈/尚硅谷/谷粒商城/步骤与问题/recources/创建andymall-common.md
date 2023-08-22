@@ -1,6 +1,6 @@
 	每一个微服务公共的类、依赖、工具类等放在这里
 - 在andymall 总项目下 new module创建 maven类的
-	- ![](Pasted%20image%2020230820133653.png)
+	- ![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted%20image%2020230820133653.png)
 	- pom.xml添加description
 		- pom文件路径：andymall-common/pom.xml
 		- `<description>每一个微服务公共的类、依赖、工具类等放在这里</description>`
@@ -40,7 +40,7 @@
 			- 去这下面复制粘贴到对应模块
 			- 例如：
 				- `com/andymall/andymallproduct/service/impl/AttrGroupServiceImpl.java` 下的  `query` ` 和 pageutils 
-					- ![](Pasted%20image%2020230820164934.png)
+					- ![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted%20image%2020230820164934.png)
 					- 那么就在 `common` 模块 创建这个包 ： `com.andymall.product.common.utils`
 		- `controller` 的注解 爆红
 			- 例如：`com/andymall/product/controller/AttrController.java`

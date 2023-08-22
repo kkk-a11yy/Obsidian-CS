@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Home.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8599d393a53d5be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Home.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Home.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Home.md"
+                "file": "README.md"
               }
             }
           },
@@ -173,22 +187,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d96a27a0c94099a7",
+  "active": "8599d393a53d5be9",
   "lastOpenFiles": [
     "BEFORE/Home.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/安装nvm 0.39.4.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
-    "创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
-    "Pasted image 20230820164934.png",
-    "Pasted image 20230820145730.png",
-    "Pasted image 20230820133653.png",
-    "Pasted image 20230820133532.png",
-    "Pasted image 20230819230815.png",
-    "Pasted image 20230819230720.png",
-    "Pasted image 20230819225803.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820164934.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820145730.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820133653.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820133532.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230819230815.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230819230720.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230819225803.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230819212023.png",
     "BEFORE/Outsource-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nvm安装node 14、cnpm.md",
@@ -204,7 +219,6 @@
     "Configuration/Mac",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--修改pom.xml.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/数据库初始化.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
