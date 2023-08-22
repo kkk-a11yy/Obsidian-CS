@@ -24,13 +24,8 @@
             "id": "8599d393a53d5be9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习网站/notes/advanced-java/ad-note/HA/Hystrix.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -108,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习网站/notes/advanced-java/ad-note/HA/Hystrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习网站/notes/advanced-java/ad-note/HA/Hystrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "学习网站/notes/advanced-java/ad-note/HA/Hystrix.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,6 +180,10 @@
   },
   "active": "8599d393a53d5be9",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "README.md",
+    "BEFORE/Home.md",
+    "学习网站/notes/advanced-java/ad-note/HA/Hystrix.md",
     "学习网站/notes/advanced-java/ad-note/限流/限流.md",
     "学习网站/notes/advanced-java/ad-note/熔断/熔断.md",
     "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
@@ -212,10 +207,6 @@
     "BEFORE/templetes/lightball.md",
     "BEFORE/templetes/laptop.md",
     "BEFORE/templetes/FromSergio.md",
-    "BEFORE/templetes/check.md",
-    "BEFORE/templetes/课程笔记-rec.md",
-    "BEFORE/templetes/3 stars.md",
-    "BEFORE/templetes/1 star.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820164934.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820145730.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820133653.png",
