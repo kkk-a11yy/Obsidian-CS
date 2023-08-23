@@ -24,9 +24,12 @@
             "id": "8599d393a53d5be9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "书籍/数据结构与算法/数据结构与算法分析 Java语言描述=Data Structures and Algorithm Analysis in Java (韦斯 (Mark Allen Weiss),冯舜玺) (z-lib.org).pdf"
+                "file": "书籍/CS书籍推荐单.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍/数据结构与算法/数据结构与算法分析 Java语言描述=Data Structures and Algorithm Analysis in Java (韦斯 (Mark Allen Weiss),冯舜玺) (z-lib.org).pdf",
+                "file": "书籍/CS书籍推荐单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书籍/数据结构与算法/数据结构与算法分析 Java语言描述=Data Structures and Algorithm Analysis in Java (韦斯 (Mark Allen Weiss),冯舜玺) (z-lib.org).pdf",
+                "file": "书籍/CS书籍推荐单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书籍/数据结构与算法/数据结构与算法分析 Java语言描述=Data Structures and Algorithm Analysis in Java (韦斯 (Mark Allen Weiss),冯舜玺) (z-lib.org).pdf"
+                "file": "书籍/CS书籍推荐单.md"
               }
             }
           },
@@ -186,6 +189,7 @@
   },
   "active": "8599d393a53d5be9",
   "lastOpenFiles": [
+    "书籍/数据结构与算法/数据结构与算法分析 Java语言描述=Data Structures and Algorithm Analysis in Java (韦斯 (Mark Allen Weiss),冯舜玺) (z-lib.org).pdf",
     "书籍/books/地基基础 - 郭继武 郭瑶.md",
     "书籍/books/编译原理.md",
     "README.md",
@@ -212,7 +216,6 @@
     "BEFORE/templetes/New outsource Template.md",
     "BEFORE/templetes/New movie templete.md",
     "BEFORE/templetes/lightball.md",
-    "BEFORE/templetes/laptop.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820164934.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820145730.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820133653.png",
