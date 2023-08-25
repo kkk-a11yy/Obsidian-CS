@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Outsource-data.md",
+                "file": "BEFORE/outsource/Automate Your Vault With Dataview.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Outsource-data.md",
+                "file": "BEFORE/outsource/Automate Your Vault With Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Outsource-data.md",
+                "file": "BEFORE/outsource/Automate Your Vault With Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Outsource-data.md"
+                "file": "BEFORE/outsource/Automate Your Vault With Dataview.md"
               }
             }
           },
@@ -189,6 +189,10 @@
   },
   "active": "8599d393a53d5be9",
   "lastOpenFiles": [
+    "BEFORE/Outsource-data.md",
+    "BEFORE/Person/YouTube-data.md",
+    "学习网站/笔记集合.canvas",
+    "BEFORE/outsource/Automate Your Vault With Dataview.md",
     "BEFORE/Home.md",
     "书籍/books/编译原理.md",
     "书籍/CS书籍推荐单.md",
@@ -212,11 +216,7 @@
     "书籍/计算机程序设计与艺术/The.Art.of.Computer.Programming.计算机程序设计艺术.Vol3.2nd.Edition_zh-cn[jb51.net]-annotate.md",
     "书籍/books/计算机程序设计艺术 - Donald E Knuth.md",
     "书籍/books/尤利西斯 - 乔伊斯.md",
-    "BEFORE/Outsource-data.md",
-    "BEFORE/Person/YouTube-data.md",
     "BEFORE/templetes/New outsource Template.md",
-    "BEFORE/templetes/New movie templete.md",
-    "BEFORE/templetes/lightball.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820164934.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820145730.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820133653.png",
@@ -229,7 +229,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230818144636.png",
     "Configuration/Mac/未命名",
     "Configuration/Mac",
-    "学习网站/笔记集合.canvas",
     "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs",
