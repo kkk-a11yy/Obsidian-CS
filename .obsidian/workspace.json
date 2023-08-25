@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "书籍/books/编译原理.md",
+                "file": "BEFORE/Outsource-data.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍/books/编译原理.md",
+                "file": "BEFORE/Outsource-data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书籍/books/编译原理.md",
+                "file": "BEFORE/Outsource-data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书籍/books/编译原理.md"
+                "file": "BEFORE/Outsource-data.md"
               }
             }
           },
@@ -189,12 +189,12 @@
   },
   "active": "8599d393a53d5be9",
   "lastOpenFiles": [
+    "BEFORE/Home.md",
+    "书籍/books/编译原理.md",
     "书籍/CS书籍推荐单.md",
     "书籍/数据结构与算法/数据结构与算法分析 Java语言描述=Data Structures and Algorithm Analysis in Java (韦斯 (Mark Allen Weiss),冯舜玺) (z-lib.org).pdf",
     "书籍/books/地基基础 - 郭继武 郭瑶.md",
-    "书籍/books/编译原理.md",
     "README.md",
-    "BEFORE/Home.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "学习网站/notes/advanced-java/ad-note/HA/Hystrix.md",
     "学习网站/notes/advanced-java/ad-note/限流/限流.md",
