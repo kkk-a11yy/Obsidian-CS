@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Outsource-data.md",
-                "mode": "source",
+                "file": "BEFORE/outsource/Automate Your Vault With Dataview.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Outsource-data.md",
+                "file": "BEFORE/outsource/Automate Your Vault With Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Outsource-data.md",
+                "file": "BEFORE/outsource/Automate Your Vault With Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Outsource-data.md"
+                "file": "BEFORE/outsource/Automate Your Vault With Dataview.md"
               }
             }
           },
@@ -189,9 +189,9 @@
   },
   "active": "8599d393a53d5be9",
   "lastOpenFiles": [
+    "BEFORE/Outsource-data.md",
     "BEFORE/outsource/Automate Your Vault With Dataview.md",
     "BEFORE/outsource/未命名.md",
-    "BEFORE/Outsource-data.md",
     "BEFORE/Person/YouTube-data.md",
     "学习网站/笔记集合.canvas",
     "BEFORE/Home.md",
