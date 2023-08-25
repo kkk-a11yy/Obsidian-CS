@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "书籍/CS书籍推荐单.md",
-                "mode": "preview",
+                "file": "书籍/books/编译原理.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍/CS书籍推荐单.md",
+                "file": "书籍/books/编译原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书籍/CS书籍推荐单.md",
+                "file": "书籍/books/编译原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书籍/CS书籍推荐单.md"
+                "file": "书籍/books/编译原理.md"
               }
             }
           },
@@ -189,6 +189,7 @@
   },
   "active": "8599d393a53d5be9",
   "lastOpenFiles": [
+    "书籍/CS书籍推荐单.md",
     "书籍/数据结构与算法/数据结构与算法分析 Java语言描述=Data Structures and Algorithm Analysis in Java (韦斯 (Mark Allen Weiss),冯舜玺) (z-lib.org).pdf",
     "书籍/books/地基基础 - 郭继武 郭瑶.md",
     "书籍/books/编译原理.md",
@@ -236,7 +237,6 @@
     "课程&笔记/未命名.canvas",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
-    "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "书籍/TPC&IP/TCP-IP.canvas",
     "未命名.canvas",
     "课程&笔记/计算机数学/UCB-CS70/未命名.canvas",
