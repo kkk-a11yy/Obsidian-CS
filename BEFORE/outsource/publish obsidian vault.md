@@ -1,5 +1,5 @@
 ---
-tags: publish_vault
+tags: publish_vault , digital_garden
 authorUrl: 
 author: 
 media: 
