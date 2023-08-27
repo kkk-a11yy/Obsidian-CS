@@ -1,4 +1,6 @@
 ---
+dg-publish: true
+dg-home: true
 tags:  synObsidian
 authorUrl: "[FromSergio](BEFORE/Person/YouTube/FromSergio.md)"
 author: FromSergio

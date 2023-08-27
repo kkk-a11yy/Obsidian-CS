@@ -1,4 +1,6 @@
 ---
+dg-publish: true
+dg-home: true
 tags: tech  OMBI  script emoj
 authorUrl: "[FromSergio](BEFORE/Person/YouTube/FromSergio.md)"
 author: FromSergio

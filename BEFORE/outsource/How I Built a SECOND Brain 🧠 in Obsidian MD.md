@@ -1,4 +1,6 @@
 ---
+dg-publish: true
+dg-home: true
 tags: second brain 
 author: John Mavrick
 media: youtube

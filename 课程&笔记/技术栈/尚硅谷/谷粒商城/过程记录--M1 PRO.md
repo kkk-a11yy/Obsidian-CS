@@ -1,5 +1,8 @@
+---
+dg-publish: true
+dg-home: true
+---
 
-----
 # AndyMall 架构图
 ![](https://i.imgur.com/PDv6F32.png)
 

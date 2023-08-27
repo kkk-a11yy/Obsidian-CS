@@ -1,5 +1,6 @@
-
 ---
+dg-publish: true
+dg-home: true
 tags: library 
 authorUrl: "[FromSergio](BEFORE/Person/YouTube/FromSergio.md)"
 author: FromSergio

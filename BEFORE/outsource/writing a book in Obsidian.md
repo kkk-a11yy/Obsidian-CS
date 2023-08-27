@@ -1,4 +1,6 @@
 ---
+dg-publish: true
+dg-home: true
 tags: writebook
 authorUrl: "[Nicole van der Hoeven](BEFORE/Person/YouTube/Nicole%20van%20der%20Hoeven.md)"
 author: Nicole van der Hoeven

@@ -1,4 +1,6 @@
 ---
+dg-publish: true
+dg-home: true
 tags: database
 authorUrl: "[FromSergio](BEFORE/Person/YouTube/FromSergio.md)"
 author: FromSergio

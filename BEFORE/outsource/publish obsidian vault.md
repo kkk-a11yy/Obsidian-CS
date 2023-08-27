@@ -1,4 +1,6 @@
 ---
+dg-publish: true
+dg-home: true
 tags: publish_vault , digital_garden
 authorUrl: 
 author: 

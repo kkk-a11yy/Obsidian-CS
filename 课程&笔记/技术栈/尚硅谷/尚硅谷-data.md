@@ -1,4 +1,6 @@
 ---
+dg-publish: true
+dg-home: true
 tags: full stack
 author: 尚硅谷
 link: 

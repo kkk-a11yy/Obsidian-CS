@@ -1,4 +1,6 @@
 ---
+dg-publish: true
+dg-home: true
 with: 我
 date: 8-22-23
 cardspread: 关系牌阵
