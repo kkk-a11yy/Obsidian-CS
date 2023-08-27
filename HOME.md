@@ -1,4 +1,6 @@
 ---
+dg-publish: true
+dg-home: true
 cssclass: dashboard
 banner_x: 1
 banner_y: 0.5
