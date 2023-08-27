@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/outsource/lt-wo.md",
+                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pyenv",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/outsource/lt-wo.md",
+                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/outsource/lt-wo.md",
+                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/outsource/lt-wo.md"
+                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "8599d393a53d5be9",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "BEFORE/outsource/lt-wo.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "BEFORE/outsource/Automate Your Vault With Dataview.md",
     "BEFORE/Outsource-data.md",
     "BEFORE/Person/YouTube-data.md",
