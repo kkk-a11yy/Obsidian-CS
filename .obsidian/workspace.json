@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.50271224975586
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md"
               }
             }
           },
@@ -187,8 +187,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8599d393a53d5be9",
+  "active": "2c6e3a3f75a490ef",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "BEFORE/outsource/lt-wo.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "BEFORE/outsource/Automate Your Vault With Dataview.md",
@@ -217,7 +218,6 @@
     "书籍/CS-BOOKS-DATA.md",
     "书籍/计算机程序设计与艺术/The.Art.of.Computer.Programming.计算机程序设计艺术.Vol3.2nd.Edition_zh-cn[jb51.net]-annotate.md",
     "书籍/books/计算机程序设计艺术 - Donald E Knuth.md",
-    "书籍/books/尤利西斯 - 乔伊斯.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820164934.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820145730.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820133653.png",
