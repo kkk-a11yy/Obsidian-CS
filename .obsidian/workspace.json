@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "BEFORE/outsource/publish obsidian vault.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "BEFORE/outsource/publish obsidian vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "BEFORE/outsource/publish obsidian vault.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "BEFORE/outsource/publish obsidian vault.md"
               }
             }
           },
@@ -170,11 +170,14 @@
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "dbfolder:创建一个新数据库表": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
   "active": "d96a27a0c94099a7",
   "lastOpenFiles": [
+    "HOME.md",
+    "BEFORE/outsource/publish obsidian vault.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/数据库初始化.md",
@@ -191,7 +194,6 @@
     "书籍/CS书籍推荐单.md",
     "书籍/数据结构与算法/数据结构与算法分析 Java语言描述=Data Structures and Algorithm Analysis in Java (韦斯 (Mark Allen Weiss),冯舜玺) (z-lib.org).pdf",
     "书籍/books/地基基础 - 郭继武 郭瑶.md",
-    "HOME.md",
     "学习网站/notes/advanced-java/ad-note/HA/Hystrix.md",
     "学习网站/notes/advanced-java/ad-note/限流/限流.md",
     "学习网站/notes/advanced-java/ad-note/熔断/熔断.md",
@@ -202,7 +204,6 @@
     "学习网站/notes/advanced-java/ad-note/分布式架构/系统拆分.md",
     "学习网站/notes/advanced-java/ad-note/分布式架构/分布式锁.md",
     "学习网站/notes/advanced-java/ad-note/分布式架构/分布式事务.md",
-    "学习网站/notes/advanced-java/ad-note/分布式架构/分布式会话.md",
     "书籍/计算机程序设计与艺术/The.Art.of.Computer.Programming.计算机程序设计艺术.Vol1.3rd.Edition_zh-cn[jb51.net].pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820164934.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820145730.png",
