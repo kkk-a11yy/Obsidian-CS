@@ -1,6 +1,6 @@
 ---
-dg-publish: true
-dg-home: true
+dg-publish: false
+dg-home: false
 tags: tech  OMBI  script emoj
 authorUrl: "[FromSergio](BEFORE/Person/YouTube/FromSergio.md)"
 author: FromSergio
@@ -21,7 +21,7 @@ OMDb API key : https://www.omdbapi.com/apikey.aspx
 Chhoumann's movies.js script - https://github.com/chhoumann/quickadd...
 
 My movie template:
-
+```
 poster: {{VALUE:Poster}}
 imdbId: {{VALUE:imdbID}}
 scoreImdb: {{VALUE:imdbRating}}
@@ -36,6 +36,8 @@ status:
 plot:: {{VALUE:Plot}}
 
 File name format: {{VALUE:fileName}}
+```
+
 
 Stephans Dataview query
 
