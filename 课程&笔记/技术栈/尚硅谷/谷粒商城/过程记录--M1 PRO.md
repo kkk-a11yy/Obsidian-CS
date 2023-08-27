@@ -6,19 +6,20 @@
 # 参考资料
 - [学习计划（资料）](https://www.yuque.com/zhangshuaiyin/guli-mall/wrbzgy)
 - [Linux开发环境配置（Docker）](https://www.yuque.com/zhangshuaiyin/guli-mall/lb4zw1)
+- [raymond-zhao.](https://raymond-zhao.top/campus-interview/#/Home)
 # 环境搭建：
 
 - 机器：m1 pro 2021  , macOS:13.4.1 
 - 包管理： [Homebrew](Configuration/homebrew/Homebrew.md) , sdkman 
 - CI/CD：
-	- GitHub ：
+	- Git：
 		- [SSH连接问题](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md)
 		- [AndyMall--SSH](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/AndyMall--SSH.md)
-- shell 工具：
+- Shell 工具：
 	- [ZOC8-下载与连接虚拟机](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ZOC8-下载与连接虚拟机.md)
 	- [Mac terminal](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Mac%20terminal.md)
 虚拟机：
-- parallels 18.1.1  
+- Parallels 18.1.1  
 	- [下载](https://luoxx.top/archives/pd-18-active)
 	- CenOS 9.  
 		- [centos9环境搭建](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/centos9环境搭建.md)
@@ -34,7 +35,7 @@
  - [IDEA-Mac m1 pro](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/IDEA-Mac%20m1%20pro.md)
  - [Navicat premium](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Navicat%20premium.md)
 
-- vue 环境搭建
+- Vue 环境搭建
 	- Node JS
 		- Npm
 			- Vue 脚手架
