@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md"
               }
             }
           },
@@ -200,7 +200,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -212,8 +212,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 856,
-        "y": 250,
+        "x": 1021,
+        "y": 147,
         "width": 782,
         "height": 662,
         "maximize": false,
@@ -223,15 +223,16 @@
   },
   "active": "511f3f9a67d4f312",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--修改pom.xml.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/renren-fast 的application-dev.yml（ip,username,password）.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--pom.xml添加renren-fast.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/数据库初始化.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/安装nvm 0.39.4.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "BEFORE/outsource/How To Create a Movie Database in Obsidian.md",
@@ -249,7 +250,6 @@
     "BEFORE/outsource/writing a book in Obsidian.md",
     "BEFORE/outsource/The BEST Way To Add Media To Your Obsidian Vault.md",
     "BEFORE/outsource/Publishing your Obsidian Vault Online with Quartz.md",
-    "BEFORE/outsource/Publish obsidian vault.md",
     "书籍/数据结构与算法/数据结构与算法分析 Java语言描述=Data Structures and Algorithm Analysis in Java (韦斯 (Mark Allen Weiss),冯舜玺) (z-lib.org).pdf",
     "书籍/计算机程序设计与艺术/The.Art.of.Computer.Programming.计算机程序设计艺术.Vol1.3rd.Edition_zh-cn[jb51.net].pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820164934.png",
