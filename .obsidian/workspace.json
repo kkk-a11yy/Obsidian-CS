@@ -169,8 +169,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "dbfolder:创建一个新数据库表": false,
-      "homepage:Open homepage": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "homepage:Open homepage": false
     }
   },
   "active": "70214fc34cc184be",
