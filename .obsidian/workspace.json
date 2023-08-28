@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "READ ME.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HOME.md",
+                "file": "READ ME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HOME.md",
+                "file": "READ ME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HOME.md"
+                "file": "READ ME.md"
               }
             }
           },
@@ -244,7 +244,7 @@
     "BEFORE/outsource/Automate Your Vault With Dataview.md",
     "BEFORE/Outsource-data.md",
     "Configuration/Config-data.md",
-    "HOME.md",
+    "READ ME.md",
     "BEFORE/学习进度.md",
     "学习网站/网站列表.md",
     "BEFORE/时间编表.md",
