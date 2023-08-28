@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,10 +217,10 @@
       }
     ]
   },
-  "active": "511f3f9a67d4f312",
+  "active": "70214fc34cc184be",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
