@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
+                "file": "READ ME.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
+                "file": "READ ME.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md"
+                "file": "READ ME.md"
               }
             }
           },
@@ -173,60 +173,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "floating": {
-    "id": "7d1e5008f4d36b43",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6ce3eab034729d6c",
-        "type": "window",
-        "children": [
-          {
-            "id": "6fc15ed6dec1546e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d96a27a0c94099a7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "511f3f9a67d4f312",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 1035,
-        "y": 211,
-        "width": 782,
-        "height": 662,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "511f3f9a67d4f312",
+  "active": "70214fc34cc184be",
   "lastOpenFiles": [
+    "2",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/Introduction to Linear Algebra by Gilbert Strang (z-lib.org)(1).pdf",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/Introduction to Linear Algebra by Gilbert Strang (z-lib.org).pdf",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
@@ -237,9 +187,7 @@
     "书籍/Algorithms for decisions making/dm.pdf",
     "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "书籍/TPC&IP/TCP-IP详解卷3：TCP事务协议，HTTP，NNTP和UNIX域协议.pdf",
-    "书籍/C语言/Stephen Prata - C Primer Plus-Sams (2004).pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "READ ME.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
