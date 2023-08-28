@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "15ed1426a4fbc364",
+        "id": "2a471c1ec84ce389",
         "type": "tabs",
         "children": [
           {
-            "id": "d96a27a0c94099a7",
+            "id": "70214fc34cc184be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "node",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,8 +169,49 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
+  "floating": {
+    "id": "7d1e5008f4d36b43",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6ce3eab034729d6c",
+        "type": "window",
+        "children": [
+          {
+            "id": "6fc15ed6dec1546e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d96a27a0c94099a7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 977,
+        "y": 258,
+        "width": 782,
+        "height": 662,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
   "active": "d96a27a0c94099a7",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/安装nvm 0.39.4.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "BEFORE/outsource/How To Create a Movie Database in Obsidian.md",
@@ -201,9 +236,6 @@
     "BEFORE/outsource/How To Backup Obsidian.md",
     "BEFORE/outsource/How I Built a SECOND Brain 🧠 in Obsidian MD.md",
     "BEFORE/outsource/Building a USEFUL Dashboard in Obsidian.md",
-    "BEFORE/outsource/Building A Book Library In Obsidian.md",
-    "BEFORE/Home.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "书籍/数据结构与算法/数据结构与算法分析 Java语言描述=Data Structures and Algorithm Analysis in Java (韦斯 (Mark Allen Weiss),冯舜玺) (z-lib.org).pdf",
     "书籍/计算机程序设计与艺术/The.Art.of.Computer.Programming.计算机程序设计艺术.Vol1.3rd.Edition_zh-cn[jb51.net].pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820164934.png",
