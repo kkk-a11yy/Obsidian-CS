@@ -69,14 +69,9 @@ method=auto
 
 - 打开网络设置，修改为以下值：
 	![](Pasted%20image%2020230829224225.png)
-- 重启网络服务以应用更改。执行以下命令：
-    
-    ```bash
-    sudo systemctl restart network
-    ```
-    
--  检查新的IP地址是否生效。您可以使用以下命令来验证网络设置是否正确：
-    
-    ```bash
-    ip addr show enp0s5
-    ```
+- 然后重启网络和网卡,查看ip：
+```java
+sudo nmcli c reload
+sudo nmcli c up enp0s5
+
+```
