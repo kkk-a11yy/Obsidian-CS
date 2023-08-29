@@ -8,15 +8,15 @@ dg-home: true
      "[过程记录--M1 PRO](课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1%20PRO.md)"
 # 1.  环境搭建
 ## 安装 vagrant :
-	    官网  cmd命令终端输入：`vagrant` 测试是否下载成功 ，`vagranr init centos/7`  创建vagrantfile（一般在C:\Users\KKK\下，请注意C盘的空余空间要留出来多一点，本人因为这个问题后续下载不成功，删除虚拟机，用分区助手重新划分C盘，空出来48G空间后又重新来了一遍）， `vagrant up` ，下载完毕后启动virtual box 查看新建的虚拟机
-	    ![](https://i.imgur.com/nGqShAf.png)
+官网  cmd命令终端输入：`vagrant` 测试是否下载成功 ，`vagranr init centos/7`  创建vagrantfile（一般在C:\Users\KKK\下，请注意C盘的空余空间要留出来多一点，本人因为这个问题后续下载不成功，删除虚拟机，用分区助手重新划分C盘，空出来48G空间后又重新来了一遍）， `vagrant up` ，下载完毕后启动virtual box 查看新建的虚拟机
+![](https://i.imgur.com/nGqShAf.png)
 ##  与虚拟机连接：
-	    终端 `ctrl+c` 退出 , `vagrant ssh ` 连接账户，可以在终端直接敲linux命令：`ls` , `exit` , `whoami` , 停止虚拟机可以在virtual box 停止或开启，也可以在终端使用 `vagrant up`(必须确保在有vagrant file 的目录下使用，"C:\Users\KKK")， 可以使用 `vagrant reload` 重启虚拟机
+终端 `ctrl+c` 退出 , `vagrant ssh ` 连接账户，可以在终端直接敲linux命令：`ls` , `exit` , `whoami` , 停止虚拟机可以在virtual box 停止或开启，也可以在终端使用 `vagrant up`(必须确保在有vagrant file 的目录下使用，"C:\Users\KKK")， 可以使用 `vagrant reload` 重启虚拟机
 ## 虚拟机网络配置：
-	    `ipconfig` 显示的这里是几![](https://i.imgur.com/uXtrT3l.png)
-	    ，这里是`169.254.228.175`， 在 vagrantfile里的对应修改为`169.254.228.几` ,这里是4 ，  并保存![](https://i.imgur.com/oGJx9fO.png)，修改后重启+连接虚拟机 `vagrant reload` ,  `vagrant ssh` ， 查看虚拟机ip `ip addr`, 检查主机与虚拟机是否能ping通：`C:\Users\KKK>ping 169.254.228.4` , `[vagrant@bogon ~]$ ping 192.168.1.8`  .  注意：如果换网络了，比如vpn换节点，要重新启动虚拟机
+`ipconfig` 显示的这里是几![](https://i.imgur.com/uXtrT3l.png)
+，这里是`169.254.228.175`， 在 vagrantfile里的对应修改为`169.254.228.几` ,这里是4 ，  并保存![](https://i.imgur.com/oGJx9fO.png)，修改后重启+连接虚拟机 `vagrant reload` ,  `vagrant ssh` ， 查看虚拟机ip `ip addr`, 检查主机与虚拟机是否能ping通：`C:\Users\KKK>ping 169.254.228.4` , `[vagrant@bogon ~]$ ping 192.168.1.8`  .  注意：如果换网络了，比如vpn换节点，要重新启动虚拟机
 ## 安装docker，配置阿里云镜像下载dockerhub中的镜像
-	   去docker hub安装镜像，"[Install Docker Engine on CentOS | Docker Documentation](https://docs.docker.com/engine/install/centos/)",本人用了魔法，but 这里还是配个阿里云镜像加速
+去docker hub安装镜像，"[Install Docker Engine on CentOS | Docker Documentation](https://docs.docker.com/engine/install/centos/)",本人用了魔法，but 这里还是配个阿里云镜像加速
 ###  卸载旧版本docker：
 ```    r
   sudo yum remove docker \

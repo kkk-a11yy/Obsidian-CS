@@ -1,6 +1,6 @@
 ## 参考资料
 - [CentOS Stream 9设置静态IP_centos-stream-9 7的qubie_zhongxj183的博客-CSDN博客](https://blog.csdn.net/zhongxj183/article/details/122811236)
-
+- [CentOS Stream 9设置静态IP_centos-stream-9 7的qubie_zhongxj183的博客-CSDN博客](https://blog.csdn.net/zhongxj183/article/details/122811236)
 ## 查看虚拟机当前ip
 
 ```java
@@ -65,3 +65,18 @@ method=auto
 ~                                                                               
 "enp0s5.nmconnection" 18L, 229B                               18,1         全部
 ```
+
+
+- 打开网络设置，修改为以下值：
+	![](Pasted%20image%2020230829224225.png)
+- 重启网络服务以应用更改。执行以下命令：
+    
+    ```bash
+    sudo systemctl restart network
+    ```
+    
+-  检查新的IP地址是否生效。您可以使用以下命令来验证网络设置是否正确：
+    
+    ```bash
+    ip addr show enp0s5
+    ```
