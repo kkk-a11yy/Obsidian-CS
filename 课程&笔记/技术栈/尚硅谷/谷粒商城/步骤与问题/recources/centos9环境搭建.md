@@ -36,6 +36,8 @@
 	- ![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted%20image%2020230809165010.png)
 	- ip地址变为：`192.168.0.104`
 	- 互相ping,可以ping通
+- but后续虚拟机还是会换ip , 故还是设置静态ip
+	- [[]]
 # 备用方法：
 - `CentOS Stream 9` 的网卡配置文件移动在 `/etc/NetworkManager/system-connections/` 目录下
 - 重启：
