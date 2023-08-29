@@ -1,3 +1,6 @@
+## 参考资料
+- [CentOS Stream 9设置静态IP_centos-stream-9 7的qubie_zhongxj183的博客-CSDN博客](https://blog.csdn.net/zhongxj183/article/details/122811236)
+
 ## 查看虚拟机当前ip
 
 ```java
@@ -26,3 +29,39 @@ Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
 [查看防火墙状态](https://so.csdn.net/so/search?q=%E6%9F%A5%E7%9C%8B%E9%98%B2%E7%81%AB%E5%A2%99%E7%8A%B6%E6%80%81&spm=1001.2101.3001.7020)：`systemctl status firewalld`  
 关闭当前防火墙：`systemctl stop firewalld.service`  
 永久关闭（重启后生效）： `systemctl disable firewalld.service`
+
+## 修改
+
+	m1pro 的enp0s5的文件路径：`/etc/NetworkManager/system-connections/enp0s5.nmconnection`
+	
+```java
+[root@bogon ~]# cd /etc/NetworkManager/system-connections/
+[root@bogon system-connections]# ls
+enp0s5.nmconnection
+[root@bogon system-connections]# vi enp0s5.nmconnection 
+
+[connection]
+id=enp0s5
+uuid=91bed26a-1729-3de5-a92e-072133c18cc9
+type=ethernet
+autoconnect-priority=-999
+interface-name=enp0s5
+timestamp=1690295354
+
+[ethernet]
+
+[ipv4]
+method=auto
+
+[ipv6]
+addr-gen-mode=eui64
+method=auto
+
+[proxy]
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+"enp0s5.nmconnection" 18L, 229B                               18,1         全部
+```
