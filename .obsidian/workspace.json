@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "READ ME.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "READ ME.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "READ ME.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "READ ME.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,9 +175,10 @@
   },
   "active": "70214fc34cc184be",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "README.md",
     "2",
     "Configuration/github/配置.md",
-    "READ ME.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/Introduction to Linear Algebra by Gilbert Strang (z-lib.org)(1).pdf",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/Introduction to Linear Algebra by Gilbert Strang (z-lib.org).pdf",
@@ -195,7 +197,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--pom.xml添加renren-fast.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/数据库初始化.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/安装nvm 0.39.4.md",
     "BEFORE/outsource/How To Create a Movie Database in Obsidian.md",
