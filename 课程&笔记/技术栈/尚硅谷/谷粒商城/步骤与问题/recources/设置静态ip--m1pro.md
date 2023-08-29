@@ -69,9 +69,10 @@ method=auto
 
 - 打开网络设置，修改为以下值：
 	![](Pasted%20image%2020230829224225.png)
-- 然后重启网络和网卡,查看ip：
+- 然后重启网络和网卡,查看ip,ping主机看是否能连通：
 ```java
 sudo nmcli c reload
 sudo nmcli c up enp0s5
 
 ```
+- ![](Pasted%20image%2020230829231000.png)
