@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -203,10 +202,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 912,
-        "y": 351,
+        "x": 693,
+        "y": 607,
         "width": 600,
-        "height": 702,
+        "height": 501,
         "maximize": false,
         "zoom": 0
       }
@@ -215,8 +214,9 @@
   "active": "2e01960f2efee0c3",
   "lastOpenFiles": [
     "Configuration/homebrew/Homebrew.md",
-    "README.md",
     "在 `product` 模块整合 mybatis-plus.md",
+    "application 1.yml",
+    "README.md",
     "application.yml",
     "Pasted image 20230830171424.png",
     "Pasted image 20230830171218.png",
@@ -242,7 +242,6 @@
     "书籍/计算机程序设计与艺术/The.Art.of.Computer.Programming.计算机程序设计艺术.Vol2.3rd.Edition_zh-cn[jb51.net].pdf",
     "书籍/数据结构与算法/算法和数据结构-ThomasCormen等：算法导论(第3版扫描版).pdf",
     "书籍/C语言/C Primer Plus（第五版）中文版.pdf",
-    "书籍/DL/Hands-On Machine Learning with Scikit-Learn, Ke... (Z-Library).pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/renren-fast 的application-dev.yml（ip,username,password）.md",
@@ -257,7 +256,6 @@
     "Configuration/Config-data.md",
     "BEFORE/学习进度.md",
     "学习网站/网站列表.md",
-    "BEFORE/时间编表.md",
     "学习网站/笔记集合.canvas",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820164934.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820145730.png",

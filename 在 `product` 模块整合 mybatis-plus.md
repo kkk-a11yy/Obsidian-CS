@@ -40,7 +40,6 @@
 				1. 在 `renren-generator/src/main/java/io/renren/utils/RRException.java`,复制过去
 		3. 创建 application.yml文件,在这里配置数据源信息
 			1. 路径：`andymall-product/src/main/resources/application.yml`
-			2. 内容：![](application.yml)
 	2. 配置 mybatis-plus 
 		1. 在 `AndymallProductApplication` 类名上面加 `@MapperScan` 注解
 			1. `@MapperScan("com/andymall/product/dao")` 告诉注解Mapper接口在哪
@@ -53,3 +52,6 @@
 							1. `/classpath*` 的意思是，不只扫描我自己的类路径，包括我引用的其他依赖的java包的类路径
 						2. 添加到yml文件里
 					3. 设置数据库主键自增
+						1. 路径：application.yml文件里
+						2. 内容：添加 db-config
+最终：application.yml
