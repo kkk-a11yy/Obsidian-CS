@@ -68,7 +68,7 @@ method=auto
 
 
 - 打开网络设置，修改为以下值：
-	![](Pasted%20image%2020230829224225.png)
+	![](Pasted%20image%2020230830134836.png)
 - 然后重启网络和网卡,查看ip,ping主机看是否能连通：
 ```java
 sudo nmcli c reload
