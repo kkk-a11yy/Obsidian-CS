@@ -87,9 +87,17 @@
 
 ## RequiresPermissions 爆红
 	`andymall-product/src/main/java/com/andymall/product/controller` 下的类中的 `org.apache.shiro.authz.annotation.RequiresPermissions` 爆红
-- 先全部都删掉
+- 先全部都删掉，因为要转成 `spring security` 的权限控制
 - 然后设置 `renren-generator` 先不生成这个
 	- 路径：`renren-generator/src/main/resources/template/Controller.java.vm`
 		- 把对应的 `@RequiresPermissions` 注释掉
 		- 把上面的 `import org.apache.shiro.authz.annotation.RequiresPermissions;` 删掉
 	- 然后重启这个逆向工程 `renren-generator`的`RenrenApplication.java`
+		访问80端口，重新生成文件，我们只需要 `controller` 里面的，所以对 `product` 模块
+最后总结 :
+- `common` 模块
+	- `pom.xml` 
+		![](pom.xml)
+	- 目录结构：
+		- ![](Pasted%20image%2020230830145304.png)
+		- 

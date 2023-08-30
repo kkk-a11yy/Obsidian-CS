@@ -203,10 +203,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1128,
-        "y": 453,
+        "x": 573,
+        "y": 377,
         "width": 600,
-        "height": 600,
+        "height": 702,
         "maximize": false,
         "zoom": 0
       }
@@ -214,6 +214,8 @@
   },
   "active": "70214fc34cc184be",
   "lastOpenFiles": [
+    "Pasted image 20230830145304.png",
+    "pom.xml",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
@@ -236,7 +238,6 @@
     "书籍/C语言/C Primer Plus（第五版）中文版.pdf",
     "书籍/DL/Hands-On Machine Learning with Scikit-Learn, Ke... (Z-Library).pdf",
     "书籍/Algorithms for decisions making/dm.pdf",
-    "书籍/DL/Deep Learning (Adaptive Computation and Machine... (Z-Library).pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/renren-fast 的application-dev.yml（ip,username,password）.md",
