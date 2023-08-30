@@ -34,4 +34,6 @@
 					<scope>provided</scope>
 				</dependency>
 				```
+				3. 这两个类可以先删掉
+					![](Pasted%20image%2020230830171424.png)
 	1. 配置 mybatis-plus 
