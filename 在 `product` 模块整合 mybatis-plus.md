@@ -13,7 +13,7 @@
 		1. 参考资料
 			- [Maven Repository: com.mysql » mysql-connector-j » 8.0.33](https://mvnrepository.com/artifact/com.mysql/mysql-connector-j/8.0.33)
 		2. 导入数据库的驱动
-			   要对应现在数据库的版本，
+			   要对应现在数据库的版本，我的是：8.0.34
 		```java
 				<!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
 		<dependency>
