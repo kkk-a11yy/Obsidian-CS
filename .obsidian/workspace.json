@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Configuration/homebrew/Homebrew.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "homebrew",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -214,6 +214,7 @@
   },
   "active": "2e01960f2efee0c3",
   "lastOpenFiles": [
+    "Configuration/homebrew/Homebrew.md",
     "README.md",
     "在 `product` 模块整合 mybatis-plus.md",
     "application.yml",
