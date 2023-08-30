@@ -24,4 +24,14 @@
 		</dependency>
 				```
 			2. 解决 `httpservletrequest` 爆红
+				1. 爆红路径：`com/andymall/product/common/xss/XssFilter.java`
+				2. 在 pom 导入
+				```java
+				<dependency>  
+					<groupId>javax.servlet</groupId>  
+					<artifactId>servlet-api</artifactId>  
+					<version>2.5</version>  
+					<scope>provided</scope>
+				</dependency>
+				```
 	1. 配置 mybatis-plus 
