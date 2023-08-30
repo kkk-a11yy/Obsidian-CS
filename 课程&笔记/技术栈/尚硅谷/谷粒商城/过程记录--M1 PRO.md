@@ -25,7 +25,7 @@ dg-home: true
 - Parallels 18.1.1  
 	- [下载](https://luoxx.top/archives/pd-18-active)
 	- CenOS 9.  
-		- [centos9环境搭建](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/centos9环境搭建.md)
+		- [Centos9环境搭建](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Centos9环境搭建.md)
 			- [Docker安装 --Mac m1pro](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Docker安装%20--Mac%20m1pro.md)
 			- [MySql8.0--centos stream9](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos%20stream9.md)
 			- [Redis--centos stream9](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos%20stream9.md)

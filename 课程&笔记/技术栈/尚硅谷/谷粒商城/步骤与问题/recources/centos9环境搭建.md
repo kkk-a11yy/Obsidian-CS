@@ -37,11 +37,4 @@
 	- ip地址变为：`192.168.0.104`
 	- 互相ping,可以ping通
 - but后续虚拟机还是会换ip , 故还是设置静态ip
-	- [[]]
-# 备用方法：
-- `CentOS Stream 9` 的网卡配置文件移动在 `/etc/NetworkManager/system-connections/` 目录下
-- 重启：
-``` r
-nmcli c reload
-nmcli c up enp0s5		
-```
+	- [设置静态ip--m1pro](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md)
