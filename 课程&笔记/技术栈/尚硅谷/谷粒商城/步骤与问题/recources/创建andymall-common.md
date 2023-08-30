@@ -22,7 +22,7 @@
 	<dependency>
 		<groupId>com.baomidou</groupId>
 		<artifactId>mybatis-plus-boot-starter</artifactId>
-		<version>最新版本</version>
+		<version>3.3.1</version>
 	</dependency>
 	```
 ## `entity` 层的 `@Date` 爆红
@@ -39,9 +39,9 @@
 - 路径：`renren-fast/src/main/java/io/renren/common/utils` 
 - 去这下面复制粘贴到对应模块
 - 例如：
-	- `com/andymall/andymallproduct/service/impl/AttrGroupServiceImpl.java` 下的  `query` ` 和 pageutils 
+	- `com/andymall/andymallproduct/service/impl/AttrGroupServiceImpl.java` 下的  `query` ` 和 pageutils 爆红
 		- ![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted%20image%2020230820164934.png)
-			- 那么就在 `common` 模块 创建这个包 ： `com.andymall.product.common.utils`
+			- 那么就在 `common` 模块 创建这个包 ，并把这两个类复制过来： `com.andymall.product.common.utils`
 ## `controller` 的注解 爆红
 - 例如：`com/andymall/product/controller/AttrController.java`
 	- `@RequiresPermissions`
