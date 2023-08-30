@@ -93,7 +93,7 @@
 		- 把对应的 `@RequiresPermissions` 注释掉
 		- 把上面的 `import org.apache.shiro.authz.annotation.RequiresPermissions;` 删掉
 	- 然后重启这个逆向工程 `renren-generator`的`RenrenApplication.java`
-		访问80端口，重新生成文件，我们只需要 `controller` 里面的，所以对 `product` 模块
+		访问80端口，重新生成文件，我们只需要 `controller` 里面的，所以对 `product` 模块下的controller进行替换
 最后总结 :
 - `common` 模块
 	- `pom.xml` 
