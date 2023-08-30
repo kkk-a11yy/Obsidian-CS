@@ -54,4 +54,4 @@
 					3. 设置数据库主键自增
 						1. 路径：application.yml文件里
 						2. 内容：添加 db-config
-最终：application.yml
+最终：![](application.yml)

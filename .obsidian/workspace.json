@@ -11,12 +11,9 @@
             "id": "24787e223aa43588",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Configuration/homebrew/Homebrew.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171424.png"
               }
             }
           }
@@ -78,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 295.5
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "在 `product` 模块整合 mybatis-plus.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "在 `product` 模块整合 mybatis-plus.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "在 `product` 模块整合 mybatis-plus.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md"
               }
             }
           },
@@ -191,7 +188,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "在 `product` 模块整合 mybatis-plus.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -202,8 +199,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 693,
-        "y": 607,
+        "x": 608,
+        "y": 422,
         "width": 600,
         "height": 501,
         "maximize": false,
@@ -213,35 +210,35 @@
   },
   "active": "2e01960f2efee0c3",
   "lastOpenFiles": [
+    "application.yml",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171424.png",
     "Configuration/homebrew/Homebrew.md",
-    "在 `product` 模块整合 mybatis-plus.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
+    "application 2.yml",
     "application 1.yml",
     "README.md",
-    "application.yml",
-    "Pasted image 20230830171424.png",
-    "Pasted image 20230830171218.png",
-    "Pasted image 20230830171209.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171218.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171209.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-    "Pasted image 20230830145304.png",
-    "pom.xml",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830145304.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/pom.xml",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
-    "Pasted image 20230830134836.png",
-    "Pasted image 20230829231000.png",
-    "Pasted image 20230829230953.png",
-    "Pasted image 20230829224225.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830134836.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829231000.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829230953.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829224225.png",
     "Configuration/github/配置.md",
     "2",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/Introduction to Linear Algebra by Gilbert Strang (z-lib.org)(1).pdf",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/Introduction to Linear Algebra by Gilbert Strang (z-lib.org).pdf",
     "书籍/面试/Gayle Laakmann McDowell - Cracking the Coding Interview_ 189 Programming Questions and Solutions-CareerCup (2015).pdf",
     "书籍/计算机程序设计与艺术/The.Art.of.Computer.Programming.计算机程序设计艺术.Vol2.3rd.Edition_zh-cn[jb51.net].pdf",
-    "书籍/数据结构与算法/算法和数据结构-ThomasCormen等：算法导论(第3版扫描版).pdf",
-    "书籍/C语言/C Primer Plus（第五版）中文版.pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/renren-fast 的application-dev.yml（ip,username,password）.md",

@@ -97,8 +97,8 @@
 最后总结 :
 - `common` 模块
 	- `pom.xml` 
-		![](pom.xml)
+		![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/pom.xml)
 	- 目录结构：
-		- ![](Pasted%20image%2020230830145304.png)
+		- ![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted%20image%2020230830145304.png)
 
-下一步：[在 `product` 模块整合 mybatis-plus](在%20`product`%20模块整合%20mybatis-plus.md)
+下一步：[在 `product` 模块整合 mybatis-plus](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在%20`product`%20模块整合%20mybatis-plus.md)
