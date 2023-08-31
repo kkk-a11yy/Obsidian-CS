@@ -71,3 +71,5 @@
 				<scope>test</scope>  
 			</dependency>
 			```
+	- `constant` 类的 `AliyunGroup;  QcloudGroup;  QiniuGroup;` 爆红
+		- 
