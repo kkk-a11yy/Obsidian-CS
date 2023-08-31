@@ -55,3 +55,9 @@
 						1. 路径：application.yml文件里
 						2. 内容：添加 db-config
 最终：![](application.yml)
+- 测试：
+	- 路径：`andymall-product/src/test/java/com/andymall/product/AndymallProductApplicationTests.java`
+	- @Test 爆红
+		- dependency 导入 junit5
+			- 参考资料：
+				- [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/#overview)
