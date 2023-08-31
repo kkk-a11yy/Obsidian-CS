@@ -74,3 +74,5 @@
 	- `constant` 类的 `AliyunGroup;  QcloudGroup;  QiniuGroup;` 爆红
 		- 在 `renren-fast` 模块下，复制过来
 	- ![](AndymallProductApplicationTests.java)
+	- run test 的时候：
+		- `java.lang.IllegalStateException: Failed to load ApplicationContext` 错误
