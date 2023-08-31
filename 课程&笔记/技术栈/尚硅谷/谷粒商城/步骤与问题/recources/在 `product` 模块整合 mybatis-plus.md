@@ -73,3 +73,4 @@
 			```
 	- `constant` 类的 `AliyunGroup;  QcloudGroup;  QiniuGroup;` 爆红
 		- 在 `renren-fast` 模块下，复制过来
+	- ![](AndymallProductApplicationTests.java)
