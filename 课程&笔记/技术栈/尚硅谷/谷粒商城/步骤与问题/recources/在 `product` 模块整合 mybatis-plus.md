@@ -58,6 +58,16 @@
 - 测试：
 	- 路径：`andymall-product/src/test/java/com/andymall/product/AndymallProductApplicationTests.java`
 	- @Test 爆红
-		- dependency 导入 junit5
+		- dependency 导入 junit5.8.1
 			- 参考资料：
 				- [JUnit 5 User Guide](https://junit.org/junit5/docs/current/user-guide/#overview)
+				- [Maven Repository: org.junit.jupiter » junit-jupiter-api » 5.8.1](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api/5.8.1)
+			```java
+		<!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->  
+			<dependency>  
+				<groupId>org.junit.jupiter</groupId>  
+				<artifactId>junit-jupiter-api</artifactId>  
+				<version>5.8.1</version>  
+				<scope>test</scope>  
+			</dependency>
+			```
