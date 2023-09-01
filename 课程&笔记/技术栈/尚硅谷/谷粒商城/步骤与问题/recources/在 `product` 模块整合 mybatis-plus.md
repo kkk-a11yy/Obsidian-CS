@@ -80,4 +80,6 @@
 			- 意思是：
 			  ```java
 			  你的代码似乎在运行时尝试实例化 `BootstrapApplicationListener` 这个类，但这个类是由一个较新版本的 Java 编译的，而你的运行时只支持较旧的 Java 版本。这可能是因为你的开发环境中的 Java 版本与项目所需的版本不匹配。
+			  我的java version:1.8
+			  
 			```
