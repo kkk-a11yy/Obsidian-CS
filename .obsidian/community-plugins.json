@@ -13,5 +13,6 @@
   "dbfolder",
   "obsidian-banners",
   "homepage",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-pandoc"
 ]
