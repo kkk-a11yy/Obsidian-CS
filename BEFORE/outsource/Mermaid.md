@@ -18,7 +18,7 @@ from "BEFORE/outsource/Mermaid.md"
 - [ ] [Flowchart](BEFORE/outsource/Mermaid/Flowchart.md)
 - [ ] [Sequence Diagram](BEFORE/outsource/Mermaid/Sequence%20Diagram.md)
 - [ ] [Class Diagram](BEFORE/outsource/Mermaid/Class%20Diagram.md)
-- [ ] 
+- [ ] [State Diagram](BEFORE/outsource/Mermaid/State%20Diagram.md)
 - [x]  [Quadrant chart](BEFORE/outsource/Mermaid/Quadrant%20chart.md)
 - [ ] [Requirement Diagram](BEFORE/outsource/Mermaid/Requirement%20Diagram.md)
 - [ ] [Gitgraph Diagram](BEFORE/outsource/Mermaid/Gitgraph%20Diagram.md)

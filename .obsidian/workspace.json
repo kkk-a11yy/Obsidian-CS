@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "State Diagram.md",
+                "file": "BEFORE/outsource/Mermaid/State Diagram.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State Diagram.md",
+                "file": "BEFORE/outsource/Mermaid/State Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State Diagram.md",
+                "file": "BEFORE/outsource/Mermaid/State Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "State Diagram.md"
+                "file": "BEFORE/outsource/Mermaid/State Diagram.md"
               }
             }
           },
@@ -279,9 +279,9 @@
   },
   "active": "560f7b35f0be7581",
   "lastOpenFiles": [
-    "BEFORE/outsource/Mermaid/Class Diagram.md",
-    "State Diagram.md",
     "BEFORE/outsource/Mermaid.md",
+    "BEFORE/outsource/Mermaid/State Diagram.md",
+    "BEFORE/outsource/Mermaid/Class Diagram.md",
     "BEFORE/outsource/Mermaid/Sequence Diagram.md",
     "BEFORE/outsource/Mermaid/Flowchart.md",
     "BEFORE/outsource/Mermaid/Gantie.md",
