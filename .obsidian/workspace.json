@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/README.md",
+                "file": "BEFORE/outsource/Mermaid.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "84119dfd84423cab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Callouts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/README.md",
+                "file": "BEFORE/outsource/Mermaid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/README.md",
+                "file": "BEFORE/outsource/Mermaid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/README.md"
+                "file": "BEFORE/outsource/Mermaid.md"
               }
             }
           },
@@ -213,9 +226,10 @@
   },
   "active": "94f764431084aa0d",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
-    "BEFORE/outsource/Mermaid/README.md",
+    "Callouts.md",
     "BEFORE/outsource/Mermaid.md",
+    "BEFORE/outsource/Mermaid/README.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
     "BEFORE/outsource/Mermaid/Flowchart.md",
     "BEFORE/附件/Mermaid.pdf",
     "BEFORE/outsource/Mermaid/State Diagram.md",

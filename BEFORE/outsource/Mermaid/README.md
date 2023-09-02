@@ -1,11 +1,13 @@
 ---
 dg-publish: true
 dg-home: true
-cssclass: dashboard
+cssclasses:
+  - dashboard
 banner_x: 1
 banner_y: 0.5
 banner: "![[BEFORE/Banners/hqwsbARJ9ec.jpg]]"
 ---
+
 
 # Family
 - 🏈 Sunday Game
