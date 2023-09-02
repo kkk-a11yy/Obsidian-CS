@@ -6,22 +6,10 @@
       {
         "id": "2a471c1ec84ce389",
         "type": "tabs",
+        "dimension": 46.495956873315365,
         "children": [
           {
             "id": "24787e223aa43588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fdc7605a3600bfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,12 +21,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ae93e8d1eb8a344e",
         "type": "tabs",
+        "dimension": 53.50404312668463,
         "children": [
           {
             "id": "f223f4b63867f433",
@@ -46,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zenuml.md",
+                "file": "BEFORE/outsource/Mermaid/Zenuml.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline.md",
+                "file": "BEFORE/outsource/Mermaid/Timeline.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MindMap.md",
+                "file": "BEFORE/outsource/Mermaid/MindMap.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C4 Diagram.md",
+                "file": "BEFORE/outsource/Mermaid/C4 Diagram.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -98,7 +86,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gitgraph Diagram.md",
+                "file": "BEFORE/outsource/Mermaid/Gitgraph Diagram.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b342fa42bbc1d2a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEFORE/outsource/Mermaid/Requirement Diagram.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b045c8bcd9c3ce18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEFORE/outsource/Mermaid/Quadrant chart.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dab3c1121d0662e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEFORE/outsource/Mermaid/Gantie.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -106,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 200
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -180,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gitgraph Diagram.md",
+                "file": "BEFORE/outsource/Mermaid/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gitgraph Diagram.md",
+                "file": "BEFORE/outsource/Mermaid/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gitgraph Diagram.md"
+                "file": "BEFORE/outsource/Mermaid/Timeline.md"
               }
             }
           },
@@ -310,22 +337,26 @@
       }
     ]
   },
-  "active": "91bfdccca159cd7a",
+  "active": "5209c703d2f53d97",
   "lastOpenFiles": [
     "BEFORE/outsource/Mermaid.md",
-    "Gitgraph Diagram.md",
-    "C4 Diagram.md",
-    "MindMap.md",
-    "Timeline.md",
-    "Zenuml.md",
+    "BEFORE/outsource/Mermaid/MindMap.md",
+    "BEFORE/outsource/Mermaid/C4 Diagram.md",
+    "BEFORE/outsource/Mermaid/Gitgraph Diagram.md",
+    "BEFORE/outsource/Mermaid/Requirement Diagram.md",
+    "BEFORE/outsource/Mermaid/Quadrant chart.md",
+    "BEFORE/outsource/Mermaid/Gantie.md",
+    "BEFORE/outsource/Mermaid/Pie chart.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "BEFORE/outsource/Mermaid/Timeline.md",
+    "BEFORE/outsource/Mermaid/Zenuml.md",
     "BEFORE/outsource/Mermaid/Sanksy diagram.md",
     "BEFORE/outsource/Mermaid",
     "BEFORE/时间编表.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
-    "README.md",
+    "BEFORE/outsource/Mermaid/README.md",
     "BEFORE/Outsource-data.md",
     "BEFORE/outsource/writing a book in Obsidian.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/进度-待办事项.md",
@@ -350,12 +381,8 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829231000.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829230953.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829224225.png",
-    "Configuration/github/配置.md",
     "2",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/Introduction to Linear Algebra by Gilbert Strang (z-lib.org)(1).pdf",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/renren-fast 的application-dev.yml（ip,username,password）.md",
     "学习网站/笔记集合.canvas",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820164934.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820145730.png",
