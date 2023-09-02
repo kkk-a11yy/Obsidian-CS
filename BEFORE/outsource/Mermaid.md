@@ -35,6 +35,31 @@ from "BEFORE/outsource/Mermaid.md"
 - [x] [Sanksy diagram](BEFORE/outsource/Mermaid/Sanksy%20diagram.md)
 
 
+## Callouts
+
+	u
+
+> [!success] success
+
+>[!warning]
+
+>[!info] info
+
+>[!failure] failure
+
+>[!bug] bug
+
+>[!quote] quote
+
+> [!tips] tips
+
+> [!question] 
+
+>[!example] example
+
+>[!todo] todo
+
+
 
 [^1]: This is the referenced text. 
 [^2]: Add 2 spaces at the start of each new line. This lets you write footnotes that span multiple lines. 
