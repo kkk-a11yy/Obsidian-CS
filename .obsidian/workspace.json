@@ -32,14 +32,73 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ae93e8d1eb8a344e",
+        "type": "tabs",
+        "children": [
           {
-            "id": "8d7a19b819d9a613",
+            "id": "f223f4b63867f433",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/时间编表.md",
+                "file": "Zenuml.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5209c703d2f53d97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0de9f8b4299adbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MindMap.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99ef91c3aaec4bce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C4 Diagram.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91bfdccca159cd7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gitgraph Diagram.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -121,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md",
+                "file": "Gitgraph Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md",
+                "file": "Gitgraph Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md"
+                "file": "Gitgraph Diagram.md"
               }
             }
           },
@@ -251,10 +310,17 @@
       }
     ]
   },
-  "active": "1fdc7605a3600bfa",
+  "active": "91bfdccca159cd7a",
   "lastOpenFiles": [
-    "BEFORE/时间编表.md",
     "BEFORE/outsource/Mermaid.md",
+    "Gitgraph Diagram.md",
+    "C4 Diagram.md",
+    "MindMap.md",
+    "Timeline.md",
+    "Zenuml.md",
+    "BEFORE/outsource/Mermaid/Sanksy diagram.md",
+    "BEFORE/outsource/Mermaid",
+    "BEFORE/时间编表.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
     "README.md",
     "BEFORE/Outsource-data.md",
@@ -287,16 +353,9 @@
     "Configuration/github/配置.md",
     "2",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/Introduction to Linear Algebra by Gilbert Strang (z-lib.org)(1).pdf",
-    "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/Introduction to Linear Algebra by Gilbert Strang (z-lib.org).pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/renren-fast 的application-dev.yml（ip,username,password）.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--pom.xml添加renren-fast.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/数据库初始化.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/安装nvm 0.39.4.md",
-    "BEFORE/outsource/How To Create a Movie Database in Obsidian.md",
-    "BEFORE/outsource/Automate Your Vault With Dataview.md",
     "学习网站/笔记集合.canvas",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820164934.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820145730.png",
