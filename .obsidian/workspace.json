@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/outsource/流程图.md",
+                "file": "BEFORE/outsource/Mermaid.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/时间编表.md",
+                "file": "BEFORE/outsource/Mermaid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/时间编表.md",
+                "file": "BEFORE/outsource/Mermaid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/时间编表.md"
+                "file": "BEFORE/outsource/Mermaid.md"
               }
             }
           },
@@ -251,13 +251,14 @@
       }
     ]
   },
-  "active": "8d7a19b819d9a613",
+  "active": "1fdc7605a3600bfa",
   "lastOpenFiles": [
+    "BEFORE/时间编表.md",
+    "BEFORE/outsource/Mermaid.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
     "README.md",
     "BEFORE/Outsource-data.md",
-    "BEFORE/outsource/流程图.md",
     "BEFORE/outsource/writing a book in Obsidian.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
@@ -296,7 +297,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/安装nvm 0.39.4.md",
     "BEFORE/outsource/How To Create a Movie Database in Obsidian.md",
     "BEFORE/outsource/Automate Your Vault With Dataview.md",
-    "Configuration/Config-data.md",
     "学习网站/笔记集合.canvas",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820164934.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230820145730.png",
