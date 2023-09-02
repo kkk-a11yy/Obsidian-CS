@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "BEFORE/outsource/Mermaid.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -213,8 +213,9 @@
   },
   "active": "b529cf8012bfe956",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
+    "BEFORE/outsource/Mermaid.html",
     "BEFORE/outsource/Mermaid.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
     "Footnote.md",
     "Callouts.md",
     "BEFORE/附件/Mermaid.pdf",
@@ -251,7 +252,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171218.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171209.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830145304.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/pom.xml",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830134836.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829231000.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829230953.png",

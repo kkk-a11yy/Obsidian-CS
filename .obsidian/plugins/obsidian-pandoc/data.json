@@ -5,11 +5,11 @@
   "injectThemeCSS": false,
   "customCSSFile": null,
   "displayYAMLFrontmatter": false,
-  "linkStrippingBehaviour": "link",
+  "linkStrippingBehaviour": "text",
   "highDPIDiagrams": true,
-  "pandoc": "/opt/homebrew/Cellar/pandoc",
+  "pandoc": " /opt/homebrew/bin/pandoc",
   "pdflatex": null,
   "outputFolder": null,
   "extraArguments": "",
-  "exportFrom": "html"
+  "exportFrom": "md"
 }
