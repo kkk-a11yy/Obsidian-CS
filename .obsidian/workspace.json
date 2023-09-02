@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md",
+                "file": "BEFORE/outsource/Mermaid/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md",
+                "file": "BEFORE/outsource/Mermaid/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md",
+                "file": "BEFORE/outsource/Mermaid/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md"
+                "file": "BEFORE/outsource/Mermaid/README.md"
               }
             }
           },
@@ -186,19 +186,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "2e01960f2efee0c3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "798f6ce164f209c4",
                 "type": "leaf",
                 "state": {
@@ -215,7 +202,7 @@
           }
         ],
         "direction": "vertical",
-        "x": 144,
+        "x": 179,
         "y": 519,
         "width": 600,
         "height": 501,
@@ -227,6 +214,7 @@
   "active": "94f764431084aa0d",
   "lastOpenFiles": [
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
+    "BEFORE/outsource/Mermaid/README.md",
     "BEFORE/outsource/Mermaid.md",
     "BEFORE/outsource/Mermaid/Flowchart.md",
     "BEFORE/附件/Mermaid.pdf",
@@ -247,7 +235,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "BEFORE/outsource/Mermaid",
     "BEFORE/时间编表.md",
-    "BEFORE/outsource/Mermaid/README.md",
     "BEFORE/Outsource-data.md",
     "BEFORE/outsource/writing a book in Obsidian.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
