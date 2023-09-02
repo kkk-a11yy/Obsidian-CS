@@ -11,12 +11,9 @@
             "id": "94f764431084aa0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "BEFORE/附件/Mermaid.pdf"
               }
             }
           },
@@ -120,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md",
+                "file": "BEFORE/附件/Mermaid.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md",
+                "file": "BEFORE/附件/Mermaid.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md"
+                "file": "BEFORE/附件/Mermaid.pdf"
               }
             }
           },
@@ -239,9 +236,9 @@
   },
   "active": "94f764431084aa0d",
   "lastOpenFiles": [
+    "BEFORE/outsource/Mermaid.md",
     "Footnote.md",
     "Callouts.md",
-    "BEFORE/outsource/Mermaid.md",
     "BEFORE/outsource/Mermaid/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
     "BEFORE/outsource/Mermaid/Flowchart.md",
