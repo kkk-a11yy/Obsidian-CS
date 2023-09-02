@@ -11,5 +11,5 @@
   "pdflatex": null,
   "outputFolder": null,
   "extraArguments": "",
-  "exportFrom": "md"
+  "exportFrom": "html"
 }
