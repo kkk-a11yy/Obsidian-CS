@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/State Diagram.md",
+                "file": "BEFORE/outsource/Mermaid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/State Diagram.md",
+                "file": "BEFORE/outsource/Mermaid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/State Diagram.md"
+                "file": "BEFORE/outsource/Mermaid.md"
               }
             }
           },
@@ -277,10 +276,10 @@
       }
     ]
   },
-  "active": "560f7b35f0be7581",
+  "active": "24787e223aa43588",
   "lastOpenFiles": [
-    "BEFORE/outsource/Mermaid.md",
     "BEFORE/outsource/Mermaid/State Diagram.md",
+    "BEFORE/outsource/Mermaid.md",
     "BEFORE/outsource/Mermaid/Class Diagram.md",
     "BEFORE/outsource/Mermaid/Sequence Diagram.md",
     "BEFORE/outsource/Mermaid/Flowchart.md",
