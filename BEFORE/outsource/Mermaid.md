@@ -17,12 +17,7 @@ from "BEFORE/outsource/Mermaid.md"
 
 [^1]:  footnote
 
-> quotes abcd
-
-%% 
-comment
-multipul
-%%
+>  这里的 tesk list 是本人测评在obsidian支持的 Mermaid 格式，check 的是不支持的，或者本人还需要核对是啥问题导致不能显示的 ，详细资料在上方 `resource` 下，请自行查看，另外本人测评的文件
 
 
 - [ ] [Pie chart](BEFORE/outsource/Mermaid/Pie%20chart.md)
