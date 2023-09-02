@@ -9,16 +9,16 @@
   ],
   "spellcheck": true,
   "showLineNumber": true,
-  "attachmentFolderPath": "lecture-note",
+  "attachmentFolderPath": "BEFORE/附件",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "readableLineLength": false,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "Letter",
+    "pageSize": "A5",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 84
   },
   "showFrontmatter": true
 }
