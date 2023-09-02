@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "94f764431084aa0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEFORE/outsource/Mermaid/Timeline.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6c7ec447f4bb1c81",
             "type": "leaf",
             "state": {
@@ -72,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md",
+                "file": "BEFORE/outsource/Mermaid/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md",
+                "file": "BEFORE/outsource/Mermaid/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md"
+                "file": "BEFORE/outsource/Mermaid/Timeline.md"
               }
             }
           },
@@ -276,10 +290,10 @@
       }
     ]
   },
-  "active": "24787e223aa43588",
+  "active": "94f764431084aa0d",
   "lastOpenFiles": [
-    "BEFORE/outsource/Mermaid/State Diagram.md",
     "BEFORE/outsource/Mermaid.md",
+    "BEFORE/outsource/Mermaid/State Diagram.md",
     "BEFORE/outsource/Mermaid/Class Diagram.md",
     "BEFORE/outsource/Mermaid/Sequence Diagram.md",
     "BEFORE/outsource/Mermaid/Flowchart.md",
