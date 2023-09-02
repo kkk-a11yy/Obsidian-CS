@@ -1,5 +1,5 @@
 ---
-tags: Mermaid , obsidian , 
+tags: Mermaid , obsidian 
 authorUrl: 
 author: 
 media: 
@@ -17,7 +17,10 @@ from "BEFORE/outsource/Mermaid.md"
 
 [^1]:  footnote
 
->  这里的 tesk list 是本人测评在obsidian支持的 Mermaid 格式，check 的是不支持的，或者本人还需要核对是啥问题导致不能显示的 ，详细资料在上方 `resource` 下，请自行查看，另外本人测评的文件
+
+
+>  这里的 tesk list 是本人测评在Obsidian支持的 Mermaid 格式，check 的是不支持的，或者本人还需要核对是啥问题导致不能显示的 ，详细资料在上方 `resource` 下，请自行查看，另外本人测评的文件由于还没有把知识库发布为网站，在这里无法显示跳转
+> 如要使用Mermaid ，建议在在线编辑网站做好后，复制粘贴到 MD文档进行娴
 
 
 - [ ] [Pie chart](BEFORE/outsource/Mermaid/Pie%20chart.md)
