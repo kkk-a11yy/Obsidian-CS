@@ -6,7 +6,6 @@
       {
         "id": "2a471c1ec84ce389",
         "type": "tabs",
-        "dimension": 46.495956873315365,
         "children": [
           {
             "id": "24787e223aa43588",
@@ -20,21 +19,14 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "ae93e8d1eb8a344e",
-        "type": "tabs",
-        "dimension": 53.50404312668463,
-        "children": [
+          },
           {
-            "id": "f223f4b63867f433",
+            "id": "6c7ec447f4bb1c81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/Zenuml.md",
+                "file": "BEFORE/outsource/Mermaid/Flowchart.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -42,12 +34,12 @@
             }
           },
           {
-            "id": "5209c703d2f53d97",
+            "id": "e91a89861770d8ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/Timeline.md",
+                "file": "BEFORE/outsource/Mermaid/Sequence Diagram.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -55,12 +47,12 @@
             }
           },
           {
-            "id": "f0de9f8b4299adbc",
+            "id": "a53edee9b00d62bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/MindMap.md",
+                "file": "BEFORE/outsource/Mermaid/Class Diagram.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -68,64 +60,12 @@
             }
           },
           {
-            "id": "99ef91c3aaec4bce",
+            "id": "560f7b35f0be7581",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/C4 Diagram.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91bfdccca159cd7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BEFORE/outsource/Mermaid/Gitgraph Diagram.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b342fa42bbc1d2a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BEFORE/outsource/Mermaid/Requirement Diagram.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b045c8bcd9c3ce18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BEFORE/outsource/Mermaid/Quadrant chart.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dab3c1121d0662e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BEFORE/outsource/Mermaid/Gantie.md",
+                "file": "State Diagram.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -133,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -207,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/Timeline.md",
+                "file": "State Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/Timeline.md",
+                "file": "State Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/Timeline.md"
+                "file": "State Diagram.md"
               }
             }
           },
@@ -337,20 +277,24 @@
       }
     ]
   },
-  "active": "5209c703d2f53d97",
+  "active": "560f7b35f0be7581",
   "lastOpenFiles": [
+    "BEFORE/outsource/Mermaid/Class Diagram.md",
+    "State Diagram.md",
     "BEFORE/outsource/Mermaid.md",
-    "BEFORE/outsource/Mermaid/MindMap.md",
-    "BEFORE/outsource/Mermaid/C4 Diagram.md",
-    "BEFORE/outsource/Mermaid/Gitgraph Diagram.md",
-    "BEFORE/outsource/Mermaid/Requirement Diagram.md",
-    "BEFORE/outsource/Mermaid/Quadrant chart.md",
+    "BEFORE/outsource/Mermaid/Sequence Diagram.md",
+    "BEFORE/outsource/Mermaid/Flowchart.md",
     "BEFORE/outsource/Mermaid/Gantie.md",
-    "BEFORE/outsource/Mermaid/Pie chart.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "BEFORE/outsource/Mermaid/Quadrant chart.md",
+    "BEFORE/outsource/Mermaid/Requirement Diagram.md",
+    "BEFORE/outsource/Mermaid/Gitgraph Diagram.md",
+    "BEFORE/outsource/Mermaid/C4 Diagram.md",
+    "BEFORE/outsource/Mermaid/MindMap.md",
     "BEFORE/outsource/Mermaid/Timeline.md",
     "BEFORE/outsource/Mermaid/Zenuml.md",
     "BEFORE/outsource/Mermaid/Sanksy diagram.md",
+    "BEFORE/outsource/Mermaid/Pie chart.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "BEFORE/outsource/Mermaid",
     "BEFORE/时间编表.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
@@ -371,12 +315,8 @@
     "application 1.yml",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171218.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171209.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830145304.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/pom.xml",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Centos9环境搭建.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830134836.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829231000.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829230953.png",
