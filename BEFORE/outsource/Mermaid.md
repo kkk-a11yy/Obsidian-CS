@@ -7,6 +7,11 @@ resource:
 - "[A Mermaid User-Guide for Beginners | Mermaid](https://mermaid.js.org/intro/n00b-gettingStarted.html)"
 - "[Advanced formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax)"
 - "[Editor | Mermaid Chart](https://www.mermaidchart.com/app/projects/be6d9cf8-8665-4e37-9ce0-0085c2f00e4c/diagrams/062b7bfa-85bc-49e4-b902-5a8ea1d0bed9/version/v0.1/edit)"
+iframe {
+  border: 1px solid black;
+  width: 100%; /* takes precedence over the width set with the HTML width attribute */
+}
+
 ---
 
 ```dataview
@@ -17,6 +22,18 @@ from "BEFORE/outsource/Mermaid.md"
 
 >  - 这里的 task list 是本人测评在Obsidian支持的 Mermaid 格式，check 的是不支持的，或者还需要核对是啥问题导致不能显示的 ，详细资料在上方 `resource` 下，请自行查看，另外本人测评的文件（下面的task list）由于还没有把知识库发布为网站，在这里无法显示跳转
 > - 如要使用Mermaid ，建议在在线编辑网站（resource中的：[Editor | Mermaid Chart]）做好后，复制粘贴到 .md文档进行保存显示，也可以在这个网站将图表导出为.svg .png格式
+
+
+
+<iframe
+  id="inlineFrameExample"
+  title="Inline Frame Example"
+  width="300"
+  height="200"
+  src="https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik"
+>
+</iframe>
+
 
 
 - [ ] [Pie chart](BEFORE/outsource/Mermaid/Pie%20chart.md)

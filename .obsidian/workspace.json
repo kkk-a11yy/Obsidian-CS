@@ -14,9 +14,9 @@
               "type": "markdown",
               "state": {
                 "file": "BEFORE/outsource/Mermaid.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
