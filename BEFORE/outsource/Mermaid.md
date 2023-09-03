@@ -7,11 +7,6 @@ resource:
 - "[A Mermaid User-Guide for Beginners | Mermaid](https://mermaid.js.org/intro/n00b-gettingStarted.html)"
 - "[Advanced formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax)"
 - "[Editor | Mermaid Chart](https://www.mermaidchart.com/app/projects/be6d9cf8-8665-4e37-9ce0-0085c2f00e4c/diagrams/062b7bfa-85bc-49e4-b902-5a8ea1d0bed9/version/v0.1/edit)"
-iframe {
-  border: 1px solid black;
-  width: 100%; /* takes precedence over the width set with the HTML width attribute */
-}
-
 ---
 
 ```dataview
@@ -26,14 +21,14 @@ from "BEFORE/outsource/Mermaid.md"
 
 
 <iframe
-  id="inlineFrameExample"
-  title="Inline Frame Example"
-  width="300"
-  height="200"
-  src="https://www.openstreetmap.org/export/embed.html?bbox=-0.004017949104309083%2C51.47612752641776%2C0.00030577182769775396%2C51.478569861898606&layer=mapnik"
+  id="3"
+  title="[Editor | Mermaid Chart]"
+  src="https://www.mermaidchart.com/app/projects/be6d9cf8-8665-4e37-9ce0-0085c2f00e4c/diagrams/062b7bfa-85bc-49e4-b902-5a8ea1d0bed9/version/v0.1/edit"
 >
 </iframe>
 
+<p>My cat is very grumpy</p>
+<p>My cat is <strong>very</strong> grumpy.</p>
 
 
 - [ ] [Pie chart](BEFORE/outsource/Mermaid/Pie%20chart.md)
