@@ -27,14 +27,6 @@ from "BEFORE/outsource/Mermaid.md"
 >
 </iframe>
 
->[!note] 思路：
->本人 先把这个文件分享给别人，但是尝试解决通过插件pandoc  导出为HTML和 obsidian自带的导出为PDF,不能把格式很好地保留出来，比如超链接访问问题，dataview数据无法显示问题
-> 找到的解决方法：
-> 
-> 	gatsby-garden
-> 		- [binnyva/gatsby-garden: A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes](https://github.com/binnyva/gatsby-garden)
-> 	视频资源
-> 		- [(233) How to customize and publish your digital garden for free with obsidian and gatsby (Ep. 73) - YouTube](https://www.youtube.com/watch?v=pm0mhkWj5ac)
 
 
 
@@ -54,3 +46,11 @@ from "BEFORE/outsource/Mermaid.md"
 - [x] [Sanksy diagram](BEFORE/outsource/Mermaid/Sanksy%20diagram.md)
 
 
+
+>[!note] 思路：
+>本人 先把这个文件分享给别人，但是尝试解决通过插件pandoc  导出为HTML和 obsidian自带的导出为PDF,不能把格式很好地保留出来，比如超链接访问问题，dataview数据无法显示问题
+> 找到的解决方法：
+> 	gatsby-garden
+> 		- [binnyva/gatsby-garden: A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes](https://github.com/binnyva/gatsby-garden)
+> 	视频资源
+> 		- [(233) How to customize and publish your digital garden for free with obsidian and gatsby (Ep. 73) - YouTube](https://www.youtube.com/watch?v=pm0mhkWj5ac)
