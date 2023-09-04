@@ -54,3 +54,14 @@ from "BEFORE/outsource/Mermaid.md"
 > 		- [binnyva/gatsby-garden: A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes](https://github.com/binnyva/gatsby-garden)
 > 	视频资源
 > 		- [(233) How to customize and publish your digital garden for free with obsidian and gatsby (Ep. 73) - YouTube](https://www.youtube.com/watch?v=pm0mhkWj5ac)
+
+>[!todo] 
+>- [ ] 研究咋把这玩意发网站，要不然分享的数据链接瞅不见
+>- [ ] 电影推荐
+>	- [ ] 奥本海默
+>	- [ ] 梅尔罗斯五部曲
+>	- [ ] 后翼弃兵
+>	- [ ] 我的天才女友
+>	- [ ] 
+>- [ ] 
+
