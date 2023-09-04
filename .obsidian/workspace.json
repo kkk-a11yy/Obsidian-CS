@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md"
               }
             }
           },
@@ -237,11 +237,11 @@
       }
     ]
   },
-  "active": "b529cf8012bfe956",
+  "active": "798f6ce164f209c4",
   "lastOpenFiles": [
+    "BEFORE/outsource/Mermaid.md",
     "BEFORE/outsource/Mermaid/Zenuml.md",
     "BEFORE/outsource/Mermaid/Timeline.md",
-    "BEFORE/outsource/Mermaid.md",
     "BEFORE/outsource/Mermaid/State Diagram.md",
     "BEFORE/outsource/Mermaid/Sequence Diagram.md",
     "BEFORE/outsource/Mermaid/Sanksy diagram.md",
