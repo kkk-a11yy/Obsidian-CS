@@ -47,7 +47,8 @@ Task list：
 > 		- [(233) How to customize and publish your digital garden for free with obsidian and gatsby (Ep. 73) - YouTube](https://www.youtube.com/watch?v=pm0mhkWj5ac)
 
 >[!todo] 
->- [ ] 1. 研究咋把这玩意发网站，要不然分享的数据链接瞅不见
+>- [ ] 研究咋把这玩意发网站
+>- [ ] 塔罗分析……等你有空，给我语音视频都行
 
 
 > [!info] 近期分享：
@@ -60,12 +61,14 @@ Task list：
 >	- [ ] 香水
 >	- [ ] 八月迷情
 >	- [ ] 奥兰多
-> 2. Mermaid ：图表编辑
-> 	   **Mermaid lets you create diagrams and visualizations using text and code.**
-> 	   It is a JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
+> 2. Mermaid ：图表编辑，通过代码跟md编辑器等
+> 	 **Mermaid lets you create diagrams and visualizations using text and code.**
+> 	 It is a JavaScript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
 > 	Resource：
 > 	- [A Mermaid User-Guide for Beginners | Mermaid](https://mermaid.js.org/intro/n00b-gettingStarted.html)
 > 	- [Advanced formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax)
 > 	- [Editor | Mermaid Chart](https://www.mermaidchart.com/app/projects/be6d9cf8-8665-4e37-9ce0-0085c2f00e4c/diagrams/062b7bfa-85bc-49e4-b902-5a8ea1d0bed9/version/v0.1/edit)
->
+> 3. 本人近期碎碎念
+>    我在紧锣密鼓的敲代码，人吧，干活多就想
+>    释放多巴胺：研究刷墙，想把我这房间改色（克莱因蓝+黑），目前还在纠结当中……，施工以及选漆以及有啥必要 
 
