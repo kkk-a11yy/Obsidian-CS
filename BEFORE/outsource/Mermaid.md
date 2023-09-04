@@ -53,7 +53,7 @@ Task list：
 > 		- [(233) How to customize and publish your digital garden for free with obsidian and gatsby (Ep. 73) - YouTube](https://www.youtube.com/watch?v=pm0mhkWj5ac)
 
 >[!todo] 
->- [ ] 研究咋把这玩意发网站,现在要么电脑使用md编辑器打开是可以看跟编辑：
+>- [ ] 文档问题，要么电脑端使用md编辑器打开是可以看跟编辑：
 >	- typora
 >	- obsidian
 >- [ ] 塔罗分析以及沟通……等你有空，给我语音视频都行
@@ -71,5 +71,5 @@ Task list：
 >	- [ ] 奥兰多
 > 2. 本人近期碎碎念
 >    我在紧锣密鼓的敲代码，于是：
->    释放多巴胺：研究刷墙，想把我这房间、入户门改色（克莱因蓝+黑），目前还在纠结当中……，施工以及选漆以及有啥必要 ，刷哪些是必要的
+>    释放多巴胺：研究刷墙，想把我这房间、入户门、钢琴改色（克莱因蓝+黑+……），目前还在纠结当中……，施工以及选漆以及有啥必要 ，刷哪些是必要的
 
