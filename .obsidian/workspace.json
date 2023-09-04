@@ -19,6 +19,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3ce9c925ea291f53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Callouts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -213,11 +226,12 @@
   },
   "active": "b529cf8012bfe956",
   "lastOpenFiles": [
+    "Callouts.md",
+    "BEFORE/outsource/Mermaid.md",
+    "BEFORE/outsource/lt-wo.md",
     "BEFORE/outsource/Mermaid.html",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
-    "BEFORE/outsource/Mermaid.md",
     "Footnote.md",
-    "Callouts.md",
     "BEFORE/附件/Mermaid.pdf",
     "BEFORE/outsource/Mermaid/README.md",
     "BEFORE/outsource/Mermaid/Flowchart.md",
