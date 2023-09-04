@@ -53,7 +53,7 @@ Task list：
 > 		- [(233) How to customize and publish your digital garden for free with obsidian and gatsby (Ep. 73) - YouTube](https://www.youtube.com/watch?v=pm0mhkWj5ac)
 
 >[!todo] 
->- [ ] 研究咋把这玩意发网站,要么使用md编辑器打开是可以看跟编辑
+>- [ ] 研究咋把这玩意发网站,要么电脑使用md编辑器打开是可以看跟编辑：
 >	- typora
 >	- obsidian
 >- [ ] 塔罗分析以及沟通……等你有空，给我语音视频都行
