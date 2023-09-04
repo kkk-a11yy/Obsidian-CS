@@ -1,11 +1,10 @@
-
-```mermaid
 ---
 config:
   sankey:
     showValues: false
 ---
 
+```mermaid
 sankey-beta
 
 Agricultural 'waste',Bio-conversion,124.729

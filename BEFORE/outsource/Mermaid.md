@@ -1,8 +1,5 @@
 ---
-tags:
-  - Mermaid
-  - obsidian
-  - pubWeb
+tags: Mermaid obsidian pubWeb gatsby-gardenb
 authorUrl: 
 author: 
 media: 

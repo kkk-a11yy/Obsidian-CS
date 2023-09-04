@@ -1,4 +1,5 @@
-	每一个微服务公共的类、依赖、工具类等放在这里
+>  每一个微服务公共的类、依赖、工具类等放在这里
+
 # 在andymall 总项目下 new module创建 maven类
 - ![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted%20image%2020230820133653.png)
 - pom.xml添加description
@@ -101,4 +102,4 @@
 	- 目录结构：
 		- ![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted%20image%2020230830145304.png)
 
-下一步：[在 `product` 模块整合 mybatis-plus](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在%20`product`%20模块整合%20mybatis-plus.md)
+下一步：[在 product 模块整合 mybatis-plus](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在%20product%20模块整合%20mybatis-plus.md)
