@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
+                "file": "BEFORE/outsource/Mermaid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
+                "file": "BEFORE/outsource/Mermaid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md"
+                "file": "BEFORE/outsource/Mermaid.md"
               }
             }
           },
@@ -237,9 +237,13 @@
       }
     ]
   },
-  "active": "798f6ce164f209c4",
+  "active": "b529cf8012bfe956",
   "lastOpenFiles": [
+    "BEFORE/Outsource-data.md",
     "BEFORE/outsource/Mermaid.md",
+    "BEFORE/outsource/Writing a book in Obsidian.md",
+    "BEFORE/附件/Mermaid.pdf",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
     "BEFORE/outsource/Mermaid/Zenuml.md",
     "BEFORE/outsource/Mermaid/Timeline.md",
     "BEFORE/outsource/Mermaid/State Diagram.md",
@@ -253,9 +257,7 @@
     "BEFORE/outsource/Mermaid/Gantie.md",
     "BEFORE/outsource/Mermaid/Flowchart.md",
     "Callouts.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 `product` 模块整合 mybatis-plus.md",
     "BEFORE/outsource/Mermaid 1.md",
-    "BEFORE/附件/Mermaid.pdf",
     "BEFORE/outsource/lt-wo.md",
     "BEFORE/outsource/Mermaid.html",
     "Footnote.md",
@@ -266,9 +268,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "BEFORE/outsource/Mermaid",
     "BEFORE/时间编表.md",
-    "BEFORE/Outsource-data.md",
-    "BEFORE/outsource/writing a book in Obsidian.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171424.png",
     "AndymallProductApplicationTests.java",
     "AndymallProductApplicationTests 1.java",

@@ -1,12 +1,15 @@
 ---
-tags: Mermaid , obsidian , footnote , callout
+tags:
+  - Mermaid
+  - obsidian
+  - pubWeb
 authorUrl: 
 author: 
 media: 
-resource: 
-- "[A Mermaid User-Guide for Beginners | Mermaid](https://mermaid.js.org/intro/n00b-gettingStarted.html)"
-- "[Advanced formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax)"
-- "[Editor | Mermaid Chart](https://www.mermaidchart.com/app/projects/be6d9cf8-8665-4e37-9ce0-0085c2f00e4c/diagrams/062b7bfa-85bc-49e4-b902-5a8ea1d0bed9/version/v0.1/edit)"
+resource:
+  - "[A Mermaid User-Guide for Beginners | Mermaid](https://mermaid.js.org/intro/n00b-gettingStarted.html)"
+  - "[Advanced formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax)"
+  - "[Editor | Mermaid Chart](https://www.mermaidchart.com/app/projects/be6d9cf8-8665-4e37-9ce0-0085c2f00e4c/diagrams/062b7bfa-85bc-49e4-b902-5a8ea1d0bed9/version/v0.1/edit)"
 ---
 
 ```dataview
