@@ -15,21 +15,15 @@ from "BEFORE/outsource/Mermaid.md"
 ```
 
 
->  - 这里的 task list 是本人测评在Obsidian支持的 Mermaid 格式，check 的是不支持的，或者还需要核对是啥问题导致不能显示的 ，详细资料在上方 `resource` 下，请自行查看，另外本人测评的文件（下面的task list）由于还没有把知识库发布为网站，在这里无法显示跳转
+>  - 下面的 task list 是本人测评在Obsidian支持的 Mermaid 格式（在这里无法显示跳转），check 的是不支持的，或者还需要核对是啥问题导致不能显示的 ，详细资料在上方 `resource` 下（非常好，导出为pdf,html不能显示，遂加入todo list，网站贴在下面resource）
 > - 如要使用Mermaid ，建议在在线编辑网站（resource中的：[Editor | Mermaid Chart]）做好后，复制粘贴到 .md文档进行保存显示，也可以在这个网站将图表导出为.svg .png格式
 
+ Resource：
+- "[A Mermaid User-Guide for Beginners | Mermaid](https://mermaid.js.org/intro/n00b-gettingStarted.html)"
+- "[Advanced formatting syntax - Obsidian Help](https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax)"
+- "[Editor | Mermaid Chart](https://www.mermaidchart.com/app/projects/be6d9cf8-8665-4e37-9ce0-0085c2f00e4c/diagrams/062b7bfa-85bc-49e4-b902-5a8ea1d0bed9/version/v0.1/edit)"
 
-
-<iframe
-  id="3"
-  title="[Editor | Mermaid Chart]"
-  src="https://www.mermaidchart.com/app/projects/be6d9cf8-8665-4e37-9ce0-0085c2f00e4c/diagrams/062b7bfa-85bc-49e4-b902-5a8ea1d0bed9/version/v0.1/edit"
->
-</iframe>
-
-
-
-
+Task list：
 - [ ] [Pie chart](BEFORE/outsource/Mermaid/Pie%20chart.md)
 - [ ] [Gantie](BEFORE/outsource/Mermaid/Gantie.md)
 - [ ] [Flowchart](BEFORE/outsource/Mermaid/Flowchart.md)
@@ -48,7 +42,7 @@ from "BEFORE/outsource/Mermaid.md"
 
 
 >[!note] 思路：
->本人 先把这个文件分享给别人，但是尝试解决通过插件pandoc  导出为HTML和 obsidian自带的导出为PDF,不能把格式很好地保留出来，比如超链接访问问题，dataview数据无法显示问题
+>本人想把这个文件分享给别人，但是尝试解决通过插件pandoc  导出为HTML和 obsidian自带的导出为PDF,不能把格式很好地保留出来，比如超链接访问问题，dataview数据无法显示问题
 > 找到的解决方法：
 > 	gatsby-garden
 > 		- [binnyva/gatsby-garden: A Digital Garden Theme for Gatsby. Gatsby Garden lets you create a static HTML version of your markdown notes](https://github.com/binnyva/gatsby-garden)
@@ -56,8 +50,8 @@ from "BEFORE/outsource/Mermaid.md"
 > 		- [(233) How to customize and publish your digital garden for free with obsidian and gatsby (Ep. 73) - YouTube](https://www.youtube.com/watch?v=pm0mhkWj5ac)
 
 >[!todo] 
->- [ ] 研究咋把这玩意发网站，要不然分享的数据链接瞅不见
->- [ ] 电影推荐
+>- [ ] 1. 研究咋把这玩意发网站，要不然分享的数据链接瞅不见
+>- [ ] 2. 电影推荐
 >	- [ ] 奥本海默
 >	- [ ] 梅尔罗斯五部曲
 >	- [ ] 后翼弃兵
@@ -65,5 +59,6 @@ from "BEFORE/outsource/Mermaid.md"
 >	- [ ] 心之全蚀
 >	- [ ] 香水
 >	- [ ] 八月迷情
->- [ ] 
+>	- [ ] 奥兰多
+>- [ ] 3. 
 
