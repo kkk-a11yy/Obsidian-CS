@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/outsource/Mermaid.md",
-                "mode": "preview",
+                "file": "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "tag:#高并发",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,12 +88,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 261.5,
-    "collapsed": true
+    "width": 261.5
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
+                "file": "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
+                "file": "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md"
+                "file": "学习网站/notes/advanced-java/ad-note/高并发/ES.md"
               }
             }
           },
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,9 +225,15 @@
       }
     ]
   },
-  "active": "798f6ce164f209c4",
+  "active": "0b7653dace4a4e0c",
   "lastOpenFiles": [
+    "学习网站/notes/advanced-java/ad-note/高并发/消息队列.md",
+    "学习网站/notes/advanced-java/ad-note/高并发/缓存-redis.md",
+    "学习网站/notes/advanced-java/ad-note/高并发/分库分表.md",
+    "Configuration/LaTeX/LaTeX使用教程.md",
+    "BEFORE/Outsource-data.md",
     "BEFORE/outsource/Mermaid.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "BEFORE/outsource/Mermaid/State Diagram.md",
     "BEFORE/outsource/Mermaid/Gitgraph Diagram.md",
     "BEFORE/outsource/Mermaid/Timeline.md",
@@ -239,7 +244,6 @@
     "BEFORE/outsource/Mermaid/Gantie.md",
     "BEFORE/outsource/Mermaid/Pie chart.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
@@ -249,12 +253,7 @@
     "BEFORE/README.md",
     "BEFORE/outsource/Mermaid/MindMap.md",
     "BEFORE/outsource/Mermaid/Class Diagram.md",
-    "BEFORE/Outsource-data.md",
-    "Footnote.md",
-    "BEFORE/outsource/Writing a book in Obsidian.md",
     "BEFORE/附件/Mermaid.pdf",
-    "Callouts.md",
-    "BEFORE/outsource/Mermaid 1.md",
     "BEFORE/outsource/Mermaid.html",
     "BEFORE/附件",
     "BEFORE/outsource/Mermaid",
