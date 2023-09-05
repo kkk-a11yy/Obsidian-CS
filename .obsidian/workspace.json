@@ -4,23 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "2a471c1ec84ce389",
-        "type": "tabs",
+        "id": "11e0e0f8334aad81",
+        "type": "split",
         "children": [
           {
-            "id": "b529cf8012bfe956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+            "id": "2a471c1ec84ce389",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b529cf8012bfe956",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "0b7653dace4a4e0c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BEFORE/outsource/Mermaid/Gantie.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "029e706a9f0317f4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "63adb2ef298208de",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "BEFORE/outsource/Mermaid/Gantie.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -74,12 +114,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 261.5,
+    "collapsed": true
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -95,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
+                "file": "BEFORE/outsource/Mermaid/Gantie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
+                "file": "BEFORE/outsource/Mermaid/Gantie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md"
+                "file": "BEFORE/outsource/Mermaid/Gantie.md"
               }
             }
           },
@@ -212,11 +252,13 @@
       }
     ]
   },
-  "active": "798f6ce164f209c4",
+  "active": "63adb2ef298208de",
   "lastOpenFiles": [
+    "BEFORE/outsource/Mermaid.md",
+    "BEFORE/outsource/Mermaid/Pie chart.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "BEFORE/outsource/Mermaid/Sanksy diagram.md",
@@ -227,7 +269,6 @@
     "BEFORE/outsource/Mermaid/Sequence Diagram.md",
     "BEFORE/outsource/Mermaid/Quadrant chart.md",
     "BEFORE/README.md",
-    "BEFORE/outsource/Mermaid/Pie chart.md",
     "BEFORE/outsource/Mermaid/MindMap.md",
     "BEFORE/outsource/Mermaid/Gitgraph Diagram.md",
     "BEFORE/outsource/Mermaid/Gantie.md",
@@ -236,7 +277,6 @@
     "BEFORE/outsource/Mermaid/C4 Diagram.md",
     "BEFORE/Outsource-data.md",
     "Footnote.md",
-    "BEFORE/outsource/Mermaid.md",
     "BEFORE/outsource/Writing a book in Obsidian.md",
     "BEFORE/附件/Mermaid.pdf",
     "Callouts.md",
