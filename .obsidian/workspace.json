@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习网站/notes/advanced-java/ad-note/高并发/ES.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md"
               }
             }
           },
@@ -225,8 +225,9 @@
       }
     ]
   },
-  "active": "0b7653dace4a4e0c",
+  "active": "798f6ce164f209c4",
   "lastOpenFiles": [
+    "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
     "学习网站/notes/advanced-java/ad-note/高并发/消息队列.md",
     "学习网站/notes/advanced-java/ad-note/高并发/缓存-redis.md",
     "学习网站/notes/advanced-java/ad-note/高并发/分库分表.md",
@@ -252,7 +253,6 @@
     "BEFORE/outsource/Mermaid/Quadrant chart.md",
     "BEFORE/README.md",
     "BEFORE/outsource/Mermaid/MindMap.md",
-    "BEFORE/outsource/Mermaid/Class Diagram.md",
     "BEFORE/附件/Mermaid.pdf",
     "BEFORE/outsource/Mermaid.html",
     "BEFORE/附件",
