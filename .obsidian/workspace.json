@@ -19,22 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "0b7653dace4a4e0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,8 +201,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 179,
-        "y": 519,
+        "x": 290,
+        "y": 365,
         "width": 600,
         "height": 501,
         "maximize": false,
@@ -228,13 +213,13 @@
   "active": "798f6ce164f209c4",
   "lastOpenFiles": [
     "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "学习网站/notes/advanced-java/ad-note/高并发/消息队列.md",
     "学习网站/notes/advanced-java/ad-note/高并发/缓存-redis.md",
     "学习网站/notes/advanced-java/ad-note/高并发/分库分表.md",
     "Configuration/LaTeX/LaTeX使用教程.md",
     "BEFORE/Outsource-data.md",
     "BEFORE/outsource/Mermaid.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "BEFORE/outsource/Mermaid/State Diagram.md",
     "BEFORE/outsource/Mermaid/Gitgraph Diagram.md",
     "BEFORE/outsource/Mermaid/Timeline.md",
