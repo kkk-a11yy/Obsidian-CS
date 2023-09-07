@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
+                "file": "BEFORE/outsource/Mermaid/Sanksy diagram.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
+                "file": "BEFORE/outsource/Mermaid/Sanksy diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
+                "file": "BEFORE/outsource/Mermaid/Sanksy diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md"
+                "file": "BEFORE/outsource/Mermaid/Sanksy diagram.md"
               }
             }
           },
@@ -151,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,26 +211,26 @@
       }
     ]
   },
-  "active": "798f6ce164f209c4",
+  "active": "b529cf8012bfe956",
   "lastOpenFiles": [
-    "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
+    "BEFORE/outsource/Mermaid/Sequence Diagram.md",
+    "BEFORE/outsource/Mermaid/State Diagram.md",
+    "BEFORE/outsource/Mermaid/Timeline.md",
+    "BEFORE/outsource/Mermaid/Zenuml.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
+    "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
     "学习网站/notes/advanced-java/ad-note/高并发/消息队列.md",
     "学习网站/notes/advanced-java/ad-note/高并发/缓存-redis.md",
     "学习网站/notes/advanced-java/ad-note/高并发/分库分表.md",
     "Configuration/LaTeX/LaTeX使用教程.md",
     "BEFORE/Outsource-data.md",
     "BEFORE/outsource/Mermaid.md",
-    "BEFORE/outsource/Mermaid/State Diagram.md",
     "BEFORE/outsource/Mermaid/Gitgraph Diagram.md",
-    "BEFORE/outsource/Mermaid/Timeline.md",
-    "BEFORE/outsource/Mermaid/Zenuml.md",
     "BEFORE/outsource/Mermaid/C4 Diagram.md",
-    "BEFORE/outsource/Mermaid/Sequence Diagram.md",
     "BEFORE/outsource/Mermaid/Flowchart.md",
     "BEFORE/outsource/Mermaid/Gantie.md",
     "BEFORE/outsource/Mermaid/Pie chart.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
