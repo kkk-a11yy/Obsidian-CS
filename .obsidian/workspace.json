@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md"
+              }
             }
           },
           {
@@ -183,7 +187,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
@@ -193,8 +197,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 810,
-        "y": 172,
+        "x": 830,
+        "y": 83,
         "width": 898,
         "height": 654,
         "maximize": false,
@@ -202,7 +206,7 @@
       }
     ]
   },
-  "active": "afed229485d609ff",
+  "active": "8173824347d96ff8",
   "lastOpenFiles": [
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "BEFORE/README.md",
