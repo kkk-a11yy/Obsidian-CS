@@ -33,7 +33,8 @@
 				<dependency>  
 					<groupId>javax.servlet</groupId>  
 					<artifactId>servlet-api</artifactId>  
-					<version>2.5</version>  
+					<version>2.5</version> 
+					//目标环境已提供--tomcat自带的，打包的时候就不用带这个servlet-api了
 					<scope>provided</scope>
 				</dependency>
 				```
