@@ -81,7 +81,7 @@
 - `constant` 类的 `AliyunGroup;  QcloudGroup;  QiniuGroup;` 爆红
 	- 在 `renren-fast` 模块下，复制过来
 - ![](AndymallProductApplicationTests.java)
-- run test 的时候：
+- run test 的时候（测试失败的  注意springboot 和 cloud 版本匹配问题）：
 	- `java.lang.IllegalStateException: Failed to load ApplicationContext` 错误
 		```java
 		`Caused by: java.lang.IllegalArgumentException: Cannot instantiate interface org.springframework.context.ApplicationListener : org.springframework.cloud.bootstrap.BootstrapApplicationListener`
