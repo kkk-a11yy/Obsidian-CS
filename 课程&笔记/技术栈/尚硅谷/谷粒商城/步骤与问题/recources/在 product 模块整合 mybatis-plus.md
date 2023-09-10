@@ -19,7 +19,7 @@
 	2. 导入数据库的驱动
 		  1.  要对应现在数据库的版本，我的是：8.0.34 , mysql官方支持的connector版本是8.1
 				```java
-				<!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
+			<!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector-j -->
 				<dependency>
 					<groupId>com.mysql</groupId>
 					<artifactId>mysql-connector-j</artifactId>
