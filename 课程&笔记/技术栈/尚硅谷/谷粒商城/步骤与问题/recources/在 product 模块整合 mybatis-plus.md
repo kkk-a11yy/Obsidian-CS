@@ -85,10 +85,20 @@
 	- `java.lang.IllegalStateException: Failed to load ApplicationContext` 错误
 		```java
 		`Caused by: java.lang.IllegalArgumentException: Cannot instantiate interface org.springframework.context.ApplicationListener : org.springframework.cloud.bootstrap.BootstrapApplicationListener`
+		Caused by: java.lang.UnsupportedClassVersionError: org/springframework/cloud/bootstrap/BootstrapApplicationListener has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 52.0
+		
+		note:
+		- the major version numbers map to Java versions:
+			- 52 = Java 8
+			- 61 = Java 17
+		
 		```
 		- 意思是：
 		  ```java
 		你的代码似乎在运行时尝试实例化 `BootstrapApplicationListener` 这个类，但这个类是由一个较新版本的 Java 编译的，而你的运行时只支持较旧的 Java 版本。这可能是因为你的开发环境中的 Java 版本与项目所需的版本不匹配。
 		我的java version:1.8  
+		
 			```
-			
+		- java version 对应
+			- [How to Fix java.lang.UnsupportedClassVersionError | Baeldung](https://www.baeldung.com/java-lang-unsupportedclassversion)
+			- [你该不会不知道SpringBoot版本与springCloud的版本关系吧 - mdnice 墨滴](https://mdnice.com/writing/c08e9d1917b0439f92babc0734955ed4)
