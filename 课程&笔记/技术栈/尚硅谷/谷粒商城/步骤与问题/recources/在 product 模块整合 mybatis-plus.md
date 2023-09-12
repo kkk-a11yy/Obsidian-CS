@@ -97,10 +97,13 @@
 		  ```java
 		我的java version:1.8  
 		应该对应的spring boot ：2.4.x
+		改成了：2.1.8.RELEASE
 			```
 		- java version 对应
 			- [How to Fix java.lang.UnsupportedClassVersionError | Baeldung](https://www.baeldung.com/java-lang-unsupportedclassversion)
 			- [你该不会不知道SpringBoot版本与springCloud的版本关系吧 - mdnice 墨滴](https://mdnice.com/writing/c08e9d1917b0439f92babc0734955ed4)
-
+- renren-fast. pom.xml
+	- 本来的：![](BEFORE/附件/pom.xml)
+	- 老师的：![](BEFORE/附件/pom%201.xml)
 > [!note]
 > 这里测试一定要注意springboot和cloud版本问题，老师用的是2.1.8.RELEASE对应的cloud是Greenwich.SR3
