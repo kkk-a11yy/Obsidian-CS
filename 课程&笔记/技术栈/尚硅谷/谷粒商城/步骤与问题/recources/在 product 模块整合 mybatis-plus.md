@@ -7,7 +7,7 @@
 	<dependency>  
 		<groupId>com.baomidou</groupId>  
 		<artifactId>mybatis-plus-boot-starter</artifactId>  
-		<version>3..2.0</version>  
+		<version>3.2.0</version>  
 	</dependency>
 ```
 
@@ -101,3 +101,6 @@
 		- java version 对应
 			- [How to Fix java.lang.UnsupportedClassVersionError | Baeldung](https://www.baeldung.com/java-lang-unsupportedclassversion)
 			- [你该不会不知道SpringBoot版本与springCloud的版本关系吧 - mdnice 墨滴](https://mdnice.com/writing/c08e9d1917b0439f92babc0734955ed4)
+
+> [!note]
+> 这里测试一定要注意springboot和cloud版本问题，老师用的是2.1.8.RELEASE对应的cloud是Greenwich.SR3
