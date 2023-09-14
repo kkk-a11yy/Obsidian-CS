@@ -60,7 +60,7 @@
 				1. 路径：application.yml文件里
 				2. 内容：添加 db-config
 
-最终：![](application.yml)
+最终：![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/application.yml)
 
 ## 测试：
 - 路径：`andymall-product/src/test/java/com/andymall/product/AndymallProductApplicationTests.java`
@@ -80,7 +80,7 @@
 				```
 - `constant` 类的 `AliyunGroup;  QcloudGroup;  QiniuGroup;` 爆红
 	- 在 `renren-fast` 模块下，复制过来
-- ![](AndymallProductApplicationTests.java)
+- ![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/AndymallProductApplicationTests.java)
 - run test 的时候（测试失败的  注意springboot 和 cloud 版本匹配问题）：
 	- `java.lang.IllegalStateException: Failed to load ApplicationContext` 错误
 		```java

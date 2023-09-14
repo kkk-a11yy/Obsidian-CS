@@ -11,4 +11,6 @@ lombok //注意2021版本后，内置lombok不需要安装Lombok
 mybatisx
 quickredis
 free mybatis tools
+
+maven search
 ```

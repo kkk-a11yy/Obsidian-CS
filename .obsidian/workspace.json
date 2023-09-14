@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Outsource-data.md",
-                "mode": "preview",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/IDEA-Mac m1 pro.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 320.50390243530273
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/IDEA-Mac m1 pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/IDEA-Mac m1 pro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/IDEA-Mac m1 pro.md"
               }
             }
           },
@@ -225,15 +225,19 @@
       }
     ]
   },
-  "active": "0a977b1193722c82",
+  "active": "afed229485d609ff",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+    "BEFORE/README.md",
+    "BEFORE/Outsource-data.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/微服务-pom.xml.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/andymall-pom.xml.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "BEFORE/附件/pom 1.xml",
     "BEFORE/附件/pom.xml",
-    "BEFORE/Outsource-data.md",
-    "BEFORE/README.md",
     "BEFORE/时间编表.md",
     "BEFORE/Person/YouTube/Nicole van der Hoeven.md",
     "BEFORE/outsource/Writing a book in Obsidian.md",
@@ -251,17 +255,14 @@
     "BEFORE/outsource/Mermaid.md",
     "BEFORE/outsource/Mermaid/Gitgraph Diagram.md",
     "BEFORE/outsource/Mermaid/C4 Diagram.md",
-    "BEFORE/outsource/Mermaid/Flowchart.md",
-    "BEFORE/outsource/Mermaid/Gantie.md",
-    "BEFORE/outsource/Mermaid/Pie chart.md",
     "BEFORE/附件/Mermaid.pdf",
     "BEFORE/outsource/Mermaid.html",
     "BEFORE/附件",
     "BEFORE/outsource/Mermaid",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171424.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/AndymallProductApplicationTests.java",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/AndymallProductApplicationTests.java",
     "AndymallProductApplicationTests 1.java",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/application.yml",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/application.yml",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171218.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171209.png",
