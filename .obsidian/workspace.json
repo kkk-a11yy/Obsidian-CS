@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/README.md",
-                "mode": "source",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/README.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
               }
             }
           },
@@ -185,6 +185,12 @@
   },
   "active": "016e45f3121c3c83",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+    "BEFORE/README.md",
     "学习网站/notes/advanced-java/ad-data.md",
     "学习网站/notes/advanced-java/ad-note/springboot-freecodecamp/Spring Boot ----freeCodeCamp.org.md",
     "学习网站/notes/advanced-java/ad-note/JVM/hotspot.md",
@@ -210,14 +216,8 @@
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/Assignments/MIT18_06S10_pset1_s10_soln.pdf",
     "课程&笔记/计算机数学/算数表.md",
     "书籍/CS-BOOKS-DATA.md",
-    "书籍/CS书籍推荐单.md",
-    "书籍/books/计算机程序设计艺术 - Donald E Knuth.md",
-    "书籍/books/被讨厌的勇气：“自我启发之父”阿德勒的哲学课 - （日）岸见一郎 古贺史健 渠海霞（译）.md",
     "书籍/计算机数学/mcs.pdf",
     "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
-    "BEFORE/README.md",
-    "BEFORE/学习进度.md",
-    "BEFORE/Person/YouTube-data.md",
     "BEFORE/附件/pom 1.xml",
     "BEFORE/附件/pom.xml",
     "BEFORE/附件/Mermaid.pdf",
