@@ -29,9 +29,19 @@
                 "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf"
               }
             }
+          },
+          {
+            "id": "944b7ee80575ae22",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
+                "file": "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
+                "file": "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf"
+                "file": "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf"
               }
             }
           },
@@ -194,10 +204,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3bcfc7f1b45fcb5b",
+  "active": "944b7ee80575ae22",
   "lastOpenFiles": [
-    "书籍/CS-BOOKS-DATA.md",
     "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
+    "书籍/CS-BOOKS-DATA.md",
     "书籍/books/中国大百科全书 (A-Z).md",
     "书籍/books/计算机程序的构造和解释 - 埃布尔森.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
@@ -223,7 +233,6 @@
     "学习网站/notes/advanced-java/ad-note/分布式架构/系统拆分.md",
     "学习网站/notes/advanced-java/ad-note/分布式架构/分布式锁.md",
     "学习网站/notes/advanced-java/ad-note/分布式架构/分布式事务.md",
-    "学习网站/notes/advanced-java/ad-note/分布式架构/分布式会话.md",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/1712.08880.pdf",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/exams/MIT18_06S10_exam1_s10_sol.pdf",
