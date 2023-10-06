@@ -9,10 +9,10 @@
   "obsidian-annotator",
   "dataview",
   "templater-obsidian",
-  "obsidian-book-search-plugin",
   "dbfolder",
   "obsidian-banners",
   "homepage",
   "obsidian-git",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "obsidian-book-search-plugin"
 ]
