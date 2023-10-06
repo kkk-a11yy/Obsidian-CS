@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#高并发",
+                "query": "java解惑",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,11 +206,12 @@
   },
   "active": "3bcfc7f1b45fcb5b",
   "lastOpenFiles": [
+    "书籍/books/Java解惑 - 布洛克 哈夫特.md",
+    "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
     "书籍/books/给想当程序员的你——程序员面试宝典与进阶秘笈 - 郑萌.md",
     "书籍/books/Offer来了：Java面试核心知识点精讲（框架篇） - 王磊编著.md",
     "书籍/books/Offer来了：Java面试核心知识点精讲（原理篇） - 王磊编著.md",
     "书籍/books/进入IT企业必读的324个Java面试题 - 张昆.md",
-    "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
     "书籍/books/Java puzzlers - 布洛克 加夫特 陈昊鹏.md",
     "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
     "书籍/CS-BOOKS-DATA.md",
@@ -233,8 +234,6 @@
     "学习网站/notes/advanced-java/ad-note/限流/限流.md",
     "学习网站/notes/advanced-java/ad-note/HA/Hystrix.md",
     "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
-    "学习网站/notes/advanced-java/ad-note/高并发/消息队列.md",
-    "学习网站/notes/advanced-java/ad-note/高并发/缓存-redis.md",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/1712.08880.pdf",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/exams/MIT18_06S10_exam1_s10_sol.pdf",
