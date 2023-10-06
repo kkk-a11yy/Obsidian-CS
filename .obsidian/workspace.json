@@ -41,7 +41,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
+                "file": "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
+                "file": "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf"
+                "file": "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf"
               }
             }
           },
@@ -204,10 +204,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "3bcfc7f1b45fcb5b",
+  "active": "944b7ee80575ae22",
   "lastOpenFiles": [
-    "书籍/books/Java解惑 - 布洛克 哈夫特.md",
     "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
+    "书籍/books/Java解惑 - 布洛克 哈夫特.md",
     "书籍/books/给想当程序员的你——程序员面试宝典与进阶秘笈 - 郑萌.md",
     "书籍/books/Offer来了：Java面试核心知识点精讲（框架篇） - 王磊编著.md",
     "书籍/books/Offer来了：Java面试核心知识点精讲（原理篇） - 王磊编著.md",
