@@ -41,7 +41,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
+                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
+                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf"
+                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf"
               }
             }
           },
@@ -204,8 +204,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "944b7ee80575ae22",
+  "active": "3bcfc7f1b45fcb5b",
   "lastOpenFiles": [
+    "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
     "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
     "书籍/books/Java解惑 - 布洛克 哈夫特.md",
     "书籍/books/给想当程序员的你——程序员面试宝典与进阶秘笈 - 郑萌.md",
@@ -213,7 +214,6 @@
     "书籍/books/Offer来了：Java面试核心知识点精讲（原理篇） - 王磊编著.md",
     "书籍/books/进入IT企业必读的324个Java面试题 - 张昆.md",
     "书籍/books/Java puzzlers - 布洛克 加夫特 陈昊鹏.md",
-    "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
     "书籍/CS-BOOKS-DATA.md",
     "书籍/books/中国大百科全书 (A-Z).md",
     "书籍/books/计算机程序的构造和解释 - 埃布尔森.md",
