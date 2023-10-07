@@ -24,19 +24,12 @@
             "id": "3bcfc7f1b45fcb5b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf"
-              }
-            }
-          },
-          {
-            "id": "944b7ee80575ae22",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf"
+                "file": "BEFORE/outsource/Mermaid/C4 Diagram.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -115,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
+                "file": "BEFORE/outsource/Mermaid/C4 Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
+                "file": "BEFORE/outsource/Mermaid/C4 Diagram.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf"
+                "file": "BEFORE/outsource/Mermaid/C4 Diagram.md"
               }
             }
           },
@@ -206,8 +199,18 @@
   },
   "active": "3bcfc7f1b45fcb5b",
   "lastOpenFiles": [
-    "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
+    "BEFORE/outsource/Mermaid/Class Diagram.md",
+    "BEFORE/outsource/Mermaid/Gantie.md",
+    "BEFORE/outsource/Mermaid/Gitgraph Diagram.md",
+    "BEFORE/outsource/Mermaid/MindMap.md",
+    "BEFORE/outsource/Mermaid/Pie chart.md",
+    "BEFORE/outsource/Mermaid/Quadrant chart.md",
+    "BEFORE/outsource/Mermaid/Sanksy diagram.md",
+    "BEFORE/outsource/Mermaid/State Diagram.md",
+    "BEFORE/outsource/Mermaid/Zenuml.md",
+    "BEFORE/outsource/Mermaid/Timeline.md",
     "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
+    "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
     "书籍/books/Java解惑 - 布洛克 哈夫特.md",
     "书籍/books/给想当程序员的你——程序员面试宝典与进阶秘笈 - 郑萌.md",
     "书籍/books/Offer来了：Java面试核心知识点精讲（框架篇） - 王磊编著.md",
@@ -224,16 +227,7 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "BEFORE/README.md",
     "学习网站/notes/advanced-java/ad-data.md",
-    "学习网站/notes/advanced-java/ad-note/springboot-freecodecamp/Spring Boot ----freeCodeCamp.org.md",
-    "学习网站/notes/advanced-java/ad-note/JVM/hotspot.md",
-    "学习网站/notes/advanced-java/ad-note/JVM/JVM.md",
-    "学习网站/notes/advanced-java/ad-note/JVM/内存分配.md",
-    "学习网站/notes/advanced-java/ad-note/JVM/类文件结构.md",
-    "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
     "学习网站/notes/advanced-java/ad-note/JVM/hotspot/d8f42904d5ca36254d8d01807718b042.png",
-    "学习网站/notes/advanced-java/ad-note/限流/限流.md",
-    "学习网站/notes/advanced-java/ad-note/HA/Hystrix.md",
-    "学习网站/notes/advanced-java/ad-note/高并发/ES.md",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/1712.08880.pdf",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/exams/MIT18_06S10_exam1_s10_sol.pdf",
