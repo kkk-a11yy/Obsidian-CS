@@ -29,17 +29,9 @@
                 "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf"
               }
             }
-          },
-          {
-            "id": "e4f05b8138c954d7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf"
+              }
             }
           },
           {
@@ -198,7 +194,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e4f05b8138c954d7",
+  "active": "50710c35784ce100",
   "lastOpenFiles": [
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
