@@ -21,15 +21,12 @@
             }
           },
           {
-            "id": "3bcfc7f1b45fcb5b",
+            "id": "50710c35784ce100",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/C4 Diagram.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf"
               }
             }
           }
@@ -108,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/C4 Diagram.md",
+                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/C4 Diagram.md",
+                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/outsource/Mermaid/C4 Diagram.md"
+                "file": "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf"
               }
             }
           },
@@ -197,8 +194,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "3bcfc7f1b45fcb5b",
+  "active": "50710c35784ce100",
   "lastOpenFiles": [
+    "BEFORE/outsource/Mermaid/C4 Diagram.md",
     "BEFORE/outsource/Mermaid/Class Diagram.md",
     "BEFORE/outsource/Mermaid/Gantie.md",
     "BEFORE/outsource/Mermaid/Gitgraph Diagram.md",
@@ -226,7 +224,6 @@
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "BEFORE/README.md",
-    "学习网站/notes/advanced-java/ad-data.md",
     "学习网站/notes/advanced-java/ad-note/JVM/hotspot/d8f42904d5ca36254d8d01807718b042.png",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/1712.08880.pdf",
