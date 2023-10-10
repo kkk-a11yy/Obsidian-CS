@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/资源.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/资源.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/资源.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md"
               }
             }
           },
@@ -183,57 +183,20 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "floating": {
-    "id": "78fcf441a8df9145",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9fcdb4e4fca256e1",
-        "type": "window",
-        "children": [
-          {
-            "id": "94170d86205f0ea2",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c947d89b71a6964d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/黑马/resourse/资源.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1142,
-        "y": 75,
-        "width": 503,
-        "height": 695,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "c947d89b71a6964d",
+  "active": "016e45f3121c3c83",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/微服务-pom.xml.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
-    "BEFORE/outsource/Building a USEFUL Dashboard in Obsidian.md",
     "课程&笔记/技术栈/黑马/resourse/资源.md",
+    "BEFORE/outsource/Building a USEFUL Dashboard in Obsidian.md",
     "BEFORE/Outsource-data.md",
     "BEFORE/templetes/New outsource Template.md",
     "BEFORE/templetes/youtube-author.md",
     "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
     "课程&笔记/技术栈/黑马/resourse",
     "课程&笔记/技术栈/黑马",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "BEFORE/outsource/Mermaid/C4 Diagram.md",
     "BEFORE/outsource/Mermaid/Class Diagram.md",
     "BEFORE/outsource/Mermaid/Gantie.md",
@@ -252,7 +215,6 @@
     "书籍/books/Offer来了：Java面试核心知识点精讲（原理篇） - 王磊编著.md",
     "书籍/books/进入IT企业必读的324个Java面试题 - 张昆.md",
     "书籍/books/Java puzzlers - 布洛克 加夫特 陈昊鹏.md",
-    "书籍/CS-BOOKS-DATA.md",
     "学习网站/notes/advanced-java/ad-note/JVM/hotspot/d8f42904d5ca36254d8d01807718b042.png",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/1712.08880.pdf",
