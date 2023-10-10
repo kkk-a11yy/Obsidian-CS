@@ -19,35 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "50710c35784ce100",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BEFORE/outsource/Building a USEFUL Dashboard in Obsidian.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c947d89b71a6964d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/资源.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,17 +183,55 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
+  "floating": {
+    "id": "78fcf441a8df9145",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9fcdb4e4fca256e1",
+        "type": "window",
+        "children": [
+          {
+            "id": "94170d86205f0ea2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c947d89b71a6964d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "课程&笔记/技术栈/黑马/resourse/资源.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1142,
+        "y": 75,
+        "width": 503,
+        "height": 695,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
   "active": "c947d89b71a6964d",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "BEFORE/outsource/Building a USEFUL Dashboard in Obsidian.md",
-    "BEFORE/Outsource-data.md",
     "课程&笔记/技术栈/黑马/resourse/资源.md",
+    "BEFORE/Outsource-data.md",
     "BEFORE/templetes/New outsource Template.md",
     "BEFORE/templetes/youtube-author.md",
     "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
     "课程&笔记/技术栈/黑马/resourse",
     "课程&笔记/技术栈/黑马",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "BEFORE/outsource/Mermaid/C4 Diagram.md",
