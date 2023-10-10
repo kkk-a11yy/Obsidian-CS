@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d1ff20baf7e09cfa",
+        "id": "bfaa5b06a92bcb6d",
         "type": "tabs",
         "children": [
           {
-            "id": "016e45f3121c3c83",
+            "id": "49170936c1f1b257",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -183,12 +178,50 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
+  "floating": {
+    "id": "78fcf441a8df9145",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8f8ebc7e72d44e33",
+        "type": "window",
+        "children": [
+          {
+            "id": "1fc23778d2f5e5a1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "016e45f3121c3c83",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 605,
+        "y": 93,
+        "width": 611,
+        "height": 695,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
   "active": "016e45f3121c3c83",
   "lastOpenFiles": [
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/微服务-pom.xml.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "课程&笔记/技术栈/黑马/resourse/资源.md",
     "BEFORE/outsource/Building a USEFUL Dashboard in Obsidian.md",
     "BEFORE/Outsource-data.md",
