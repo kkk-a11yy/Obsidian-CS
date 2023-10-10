@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md"
               }
             }
           },
@@ -209,20 +209,19 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 351,
-        "y": 121,
+        "x": 638,
+        "y": 222,
         "width": 611,
         "height": 695,
         "maximize": false,
@@ -230,8 +229,12 @@
       }
     ]
   },
-  "active": "04fcc4a3df8dada2",
+  "active": "016e45f3121c3c83",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/renren-fast 的application-dev.yml（ip,username,password）.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--pom.xml添加renren-fast.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
@@ -258,10 +261,6 @@
     "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
     "书籍/books/Java解惑 - 布洛克 哈夫特.md",
     "书籍/books/给想当程序员的你——程序员面试宝典与进阶秘笈 - 郑萌.md",
-    "书籍/books/Offer来了：Java面试核心知识点精讲（框架篇） - 王磊编著.md",
-    "书籍/books/Offer来了：Java面试核心知识点精讲（原理篇） - 王磊编著.md",
-    "书籍/books/进入IT企业必读的324个Java面试题 - 张昆.md",
-    "书籍/books/Java puzzlers - 布洛克 加夫特 陈昊鹏.md",
     "学习网站/notes/advanced-java/ad-note/JVM/hotspot/d8f42904d5ca36254d8d01807718b042.png",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/1712.08880.pdf",
