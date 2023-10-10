@@ -26,6 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "BEFORE/outsource/Building a USEFUL Dashboard in Obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c947d89b71a6964d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "课程&笔记/技术栈/黑马/resourse/资源.md",
                 "mode": "preview",
                 "backlinks": true,
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,11 +210,13 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "50710c35784ce100",
+  "active": "c947d89b71a6964d",
   "lastOpenFiles": [
+    "BEFORE/outsource/Building a USEFUL Dashboard in Obsidian.md",
+    "BEFORE/Outsource-data.md",
+    "课程&笔记/技术栈/黑马/resourse/资源.md",
     "BEFORE/templetes/New outsource Template.md",
     "BEFORE/templetes/youtube-author.md",
-    "课程&笔记/技术栈/黑马/resourse/资源.md",
     "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
     "课程&笔记/技术栈/黑马/resourse",
     "课程&笔记/技术栈/黑马",
@@ -227,8 +242,6 @@
     "书籍/books/进入IT企业必读的324个Java面试题 - 张昆.md",
     "书籍/books/Java puzzlers - 布洛克 加夫特 陈昊鹏.md",
     "书籍/CS-BOOKS-DATA.md",
-    "书籍/books/中国大百科全书 (A-Z).md",
-    "书籍/books/计算机程序的构造和解释 - 埃布尔森.md",
     "学习网站/notes/advanced-java/ad-note/JVM/hotspot/d8f42904d5ca36254d8d01807718b042.png",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/1712.08880.pdf",
