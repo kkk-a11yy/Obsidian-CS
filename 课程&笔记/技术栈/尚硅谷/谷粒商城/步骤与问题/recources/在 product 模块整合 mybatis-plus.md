@@ -89,7 +89,7 @@
 		note:
 		- the major version numbers map to Java versions:
 			- 52 = Java 8
-			- 61 = Java 17
+			- 61 = Java 17---springboot 2.6往上
 		
 		```
 		- 意思是：
