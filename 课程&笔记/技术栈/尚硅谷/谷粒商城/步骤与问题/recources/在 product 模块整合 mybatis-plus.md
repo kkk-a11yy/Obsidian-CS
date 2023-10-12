@@ -84,7 +84,6 @@
 - run test 的时候（测试失败的  注意springboot 和 cloud 版本匹配问题）：
 	- `java.lang.IllegalStateException: Failed to load ApplicationContext` 错误
 		```java
-		`Caused by: java.lang.IllegalArgumentException: Cannot instantiate interface org.springframework.context.ApplicationListener : org.springframework.cloud.bootstrap.BootstrapApplicationListener`
 		Caused by: java.lang.UnsupportedClassVersionError: org/springframework/cloud/bootstrap/BootstrapApplicationListener has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 52.0
 		
 		note:
@@ -107,4 +106,4 @@
 	- 老师的：![](BEFORE/附件/pom%201.xml)
 > [!note]
 > 这里测试一定要注意springboot和cloud版本问题，老师用的是2.1.8.RELEASE对应的cloud是Greenwich.SR3
-
+> 遇到了RenrenApplication启动问题，common模块clean package一下
