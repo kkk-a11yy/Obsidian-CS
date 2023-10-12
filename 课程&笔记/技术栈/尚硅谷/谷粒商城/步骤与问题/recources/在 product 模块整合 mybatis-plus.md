@@ -94,7 +94,7 @@
 		```
 		- 意思是：
 		  ```java
-		我的java version:1.8  
+		我的java version: 8  
 		应该对应的spring boot ：2.4.x
 		改成了：2.1.8.RELEASE
 			```
