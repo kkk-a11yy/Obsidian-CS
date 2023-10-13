@@ -96,7 +96,7 @@
 		  ```java
 		我的java version: 8  
 		应该对应的spring boot ：2.4.x
-		改成了：2.1.8.RELEASE
+		改成了：2.3.2.RELEASE
 			```
 		- java version 对应
 			- [How to Fix java.lang.UnsupportedClassVersionError | Baeldung](https://www.baeldung.com/java-lang-unsupportedclassversion)
