@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BEFORE/README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -229,8 +225,9 @@
       }
     ]
   },
-  "active": "016e45f3121c3c83",
+  "active": "0808b0964a9191f9",
   "lastOpenFiles": [
+    "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
@@ -259,7 +256,6 @@
     "BEFORE/outsource/Mermaid/Gantie.md",
     "BEFORE/outsource/Mermaid/Gitgraph Diagram.md",
     "BEFORE/outsource/Mermaid/MindMap.md",
-    "BEFORE/outsource/Mermaid/Pie chart.md",
     "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
     "学习网站/notes/advanced-java/ad-note/JVM/hotspot/d8f42904d5ca36254d8d01807718b042.png",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
