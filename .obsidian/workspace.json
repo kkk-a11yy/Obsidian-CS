@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "Configuration/ChatGpt/Gpt-Acdemic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "Configuration/ChatGpt/Gpt-Acdemic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/README.md"
+                "file": "Configuration/ChatGpt/Gpt-Acdemic.md"
               }
             }
           },
@@ -234,11 +234,11 @@
       }
     ]
   },
-  "active": "016e45f3121c3c83",
+  "active": "0808b0964a9191f9",
   "lastOpenFiles": [
+    "BEFORE/README.md",
     "Configuration/ChatGpt/Gpt-Acdemic.md",
     "Configuration/ChatGpt",
-    "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
