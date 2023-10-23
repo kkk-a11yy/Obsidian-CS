@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Python.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Python.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Python.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md"
               }
             }
           },
@@ -202,7 +201,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "BEFORE/README.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -226,8 +225,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 179,
-        "y": 151,
+        "x": 895,
+        "y": 504,
         "width": 696,
         "height": 695,
         "maximize": false,
@@ -235,16 +234,17 @@
       }
     ]
   },
-  "active": "0808b0964a9191f9",
+  "active": "016e45f3121c3c83",
   "lastOpenFiles": [
+    "BEFORE/README.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Python.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Alfred 安装OCR截图识别.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
     "Configuration/ChatGpt/Gpt-Acdemic.md",
-    "BEFORE/README.md",
     "Configuration/ChatGpt",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--pom.xml添加renren-fast.md",
@@ -266,7 +266,6 @@
     "课程&笔记/技术栈/黑马",
     "BEFORE/outsource/Mermaid/C4 Diagram.md",
     "BEFORE/outsource/Mermaid/Class Diagram.md",
-    "BEFORE/outsource/Mermaid/Gantie.md",
     "书籍/计算机程序设计与艺术/英文原版/The Art of Computer Programming Volume 3 Sortin... (Z-Library).pdf",
     "学习网站/notes/advanced-java/ad-note/JVM/hotspot/d8f42904d5ca36254d8d01807718b042.png",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
