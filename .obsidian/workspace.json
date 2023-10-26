@@ -225,10 +225,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 356,
-        "y": 378,
+        "x": 1078,
+        "y": 776,
         "width": 696,
-        "height": 695,
+        "height": 263,
         "maximize": false,
         "zoom": 0.5
       }
@@ -236,11 +236,11 @@
   },
   "active": "016e45f3121c3c83",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Centos9环境搭建.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Alfred 安装OCR截图识别.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Python.md",
     "BEFORE/README.md",
