@@ -34,7 +34,7 @@
 	-  [Parallels Desktop 16共享网络、桥接网络和Host-Only网络设置方法-软件-众番科技资讯网](https://www.szxnet.com/articles/501.html)	
 - 设置虚拟机网络为桥接模式的默认适配器模式
 	- ![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted%20image%2020230809165010.png)
-	- ip地址变为：`192.168.0.104`
+	- ip地址变为：`192.168.101.104`
 	- 互相ping,可以ping通
 - but后续虚拟机还是会换ip , 故还是设置静态ip
 	- [设置静态ip--m1pro](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md)
