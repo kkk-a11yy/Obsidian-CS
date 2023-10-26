@@ -111,4 +111,7 @@
 ```java
 Caused by: org.springframework.beans.factory.BeanCreationException
 	bean无法创建 是springboot版本问题
+	
 ```
+
+最后springboot. and springcloud 版本：
