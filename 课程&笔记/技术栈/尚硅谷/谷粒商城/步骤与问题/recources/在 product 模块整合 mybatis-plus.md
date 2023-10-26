@@ -105,5 +105,5 @@
 	- 本来的：![](BEFORE/附件/pom.xml)
 	- 老师的：![](BEFORE/附件/pom%201.xml)
 > [!note]
-> 这里测试一定要注意springboot和cloud版本问题，老师用的是2.1.8.RELEASE对应的cloud是Greenwich.SR3
+> 这里测试一定要注意springboot和cloud版本问题，老师用的是2.1.8.RELEASE, 对应的cloud是Greenwich.SR3
 > 遇到了RenrenApplication启动问题，common模块clean package一下
