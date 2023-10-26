@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
+                "file": "给所有微服务逆向生成代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
+                "file": "给所有微服务逆向生成代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md"
+                "file": "给所有微服务逆向生成代码.md"
               }
             }
           },
@@ -220,27 +220,14 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "8d7432d5e6f0d16a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 179,
-        "y": 319,
+        "x": 142,
+        "y": 467,
         "width": 696,
         "height": 549,
         "maximize": false,
@@ -248,8 +235,9 @@
       }
     ]
   },
-  "active": "8d7432d5e6f0d16a",
+  "active": "b88139ff2b8dd578",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "给所有微服务逆向生成代码.md",
@@ -261,7 +249,6 @@
     "BEFORE/README.md",
     "Configuration/ChatGpt/Gpt-Acdemic.md",
     "Configuration/ChatGpt",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--pom.xml添加renren-fast.md",
