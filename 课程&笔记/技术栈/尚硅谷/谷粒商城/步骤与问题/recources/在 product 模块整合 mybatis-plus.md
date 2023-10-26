@@ -135,3 +135,5 @@ Caused by: org.springframework.beans.factory.BeanCreationException
 ```
 
 `AndymallProductApplicationTests` 测试成功
+
+然后用`renren-generator` 给 其他 服务生成数据库 [[]]
