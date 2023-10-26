@@ -107,3 +107,8 @@
 > [!note]
 > 这里测试一定要注意springboot和cloud版本问题，老师用的是2.1.8.RELEASE, 对应的cloud是Greenwich.SR3
 > 遇到了RenrenApplication启动问题，common模块clean package一下
+
+```java
+Caused by: org.springframework.beans.factory.BeanCreationException
+	bean无法创建 是springboot版本问题
+```
