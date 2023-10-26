@@ -136,4 +136,4 @@ Caused by: org.springframework.beans.factory.BeanCreationException
 
 `AndymallProductApplicationTests` 测试成功
 
-然后用`renren-generator` 给 其他 服务生成数据库 [[]]
+然后用`renren-generator` 给 其他 服务生成数据库 [给所有微服务逆向生成代码](给所有微服务逆向生成代码.md)

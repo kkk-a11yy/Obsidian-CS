@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "给所有微服务逆向生成代码.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "给所有微服务逆向生成代码.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "给所有微服务逆向生成代码.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md"
               }
             }
           },
@@ -227,7 +227,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -235,24 +235,24 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 77,
-        "y": 760,
+        "x": 179,
+        "y": 319,
         "width": 696,
-        "height": 263,
+        "height": 549,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "b88139ff2b8dd578",
+  "active": "8d7432d5e6f0d16a",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "给所有微服务逆向生成代码.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Centos9环境搭建.md",
