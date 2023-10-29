@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "34957fadf4a18293",
+        "id": "b20ff76ca826c70f",
         "type": "tabs",
         "children": [
           {
-            "id": "c21075937c4df9bf",
+            "id": "959cf647ca4d3950",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "给所有微服务逆向生成代码.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring cloud alibaba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring cloud alibaba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring cloud alibaba.md"
+              }
             }
           },
           {
@@ -184,42 +183,57 @@
     "type": "floating",
     "children": [
       {
-        "id": "d446f8989376ebb0",
+        "id": "20a9ac7fc738f99d",
         "type": "window",
         "children": [
           {
-            "id": "0b6375666c9469b2",
+            "id": "5de0243417db4b22",
             "type": "tabs",
             "children": [
               {
-                "id": "fb4c3b3f33f51f39",
+                "id": "c21075937c4df9bf",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "给所有微服务逆向生成代码.md",
-                    "mode": "preview",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "edb6d17055184cb5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Spring cloud alibaba.md",
+                    "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 627,
-        "y": 98,
-        "width": 867,
+        "x": 686,
+        "y": 95,
+        "width": 600,
         "height": 695,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "2c6e3a3f75a490ef",
+  "active": "edb6d17055184cb5",
   "lastOpenFiles": [
     "给所有微服务逆向生成代码.md",
+    "Spring cloud alibaba.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
@@ -245,7 +259,6 @@
     "课程&笔记/技术栈/黑马/resourse/资源.md",
     "BEFORE/outsource/Building a USEFUL Dashboard in Obsidian.md",
     "BEFORE/Outsource-data.md",
-    "BEFORE/templetes/New outsource Template.md",
     "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
     "课程&笔记/技术栈/黑马/resourse",
     "课程&笔记/技术栈/黑马",
