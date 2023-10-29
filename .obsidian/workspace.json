@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "94f8e82fe3bb203e",
+        "id": "34957fadf4a18293",
         "type": "tabs",
         "children": [
           {
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "给所有微服务逆向生成代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "给所有微服务逆向生成代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "给所有微服务逆向生成代码.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,12 +217,12 @@
       }
     ]
   },
-  "active": "c21075937c4df9bf",
+  "active": "2c6e3a3f75a490ef",
   "lastOpenFiles": [
+    "给所有微服务逆向生成代码.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "给所有微服务逆向生成代码.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
