@@ -22,8 +22,8 @@ dg-home: true
 	- [ZOC8-下载与连接虚拟机](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ZOC8-下载与连接虚拟机.md)
 	- [Mac terminal](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Mac%20terminal.md)
 虚拟机：
-- Parallels 18.1.1  
-	- [下载](https://luoxx.top/archives/pd-18-active)
+- Parallels 19.1
+	- [Parallels Desktop 19.1.0 54729 破解教程（pd19永久授权）](https://luoxx.top/archives/pd-18-active)
 	- CenOS 9.  
 		- [Centos9环境搭建](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Centos9环境搭建.md)
 			- [Docker安装 --Mac m1pro](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Docker安装%20--Mac%20m1pro.md)
