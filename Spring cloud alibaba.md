@@ -24,6 +24,7 @@
 </dependency>
 ```
 	- 下载 nacos server(可以用docker安装,Mac m1 :pull slim版本)
+		- 我的docker: nacos/nacos-server:v2.2.2-slim
 		```java
 		mac终端启动nacos，到bin目录下启动终端，然后输入sh startup.sh -m standalone
 		启动闪退的，jdk版本换成1.8的版本，环境变量也配一下
