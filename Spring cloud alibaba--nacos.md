@@ -70,4 +70,4 @@ SpringApplication.run(AndymallCouponApplication.class, args);
   
 }
 ```
-## rerun 微服务
+- rerun 微服务，nacos查看注册的服务
