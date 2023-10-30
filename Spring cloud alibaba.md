@@ -45,4 +45,11 @@
 **nacos初始账号密码都为nacos**
 ```
 
+## 微服务application.yml
+```java
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848
+```
 ## 访问 127.0.0.1:8848
