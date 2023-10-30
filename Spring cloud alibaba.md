@@ -23,4 +23,4 @@
     <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
 </dependency>
 ```
-	- 下载 nacos server
+	- 下载 nacos server(可以用docker安装)
