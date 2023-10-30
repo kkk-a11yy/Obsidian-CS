@@ -24,3 +24,13 @@
 </dependency>
 ```
 	- 下载 nacos server(可以用docker安装)
+		```java
+		mac终端启动nacos，到bin目录下启动终端，然后输入sh startup.sh -m standalone
+		启动闪退的，jdk版本换成1.8的版本，环境变量也配一下
+		./startup.cmd -m standalone
+		用nacos2.0的同学 需要注意9848这个端口, 阿里云和docker都要做好处理
+		前面改版本导致test错误的要去掉原来的import 并且注解是@RunWith(SpringRunner.class)
+		用junit4的，在测试方法的类型和方法名前加上 public 即可
+		@enableDiscoveryClient后面版本nacos自动配置那里默认开启了
+		这注解新版本是默认开启了,可以不用写了
+		```
