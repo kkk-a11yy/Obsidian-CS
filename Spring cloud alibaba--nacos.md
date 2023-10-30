@@ -33,9 +33,9 @@
 >前面改版本导致test错误的要去掉原来的import 并且注解是@RunWith(SpringRunner.class)
 >用junit4的，在测试方法的类型和方法名前加上 public 即可
 >@enableDiscoveryClient后面版本nacos自动配置那里默认开启了
->这注解新版本是默认开启了,可以不用写了
+>
 
-## 拉取m1版本的nacos并启动(我在虚拟机docker安装)
+### 拉取m1版本的nacos并启动
 - [解决M1 无法使用nacos高版本(2.0.3)问题 · Issue #8674 · alibaba/nacos](https://github.com/alibaba/nacos/issues/8674)
 
 ```java
@@ -57,4 +57,17 @@
     name: andymall-coupon
 ```
 
+### 开启注册发现功能
+
+```java
+//添加这个注释，这注解新版本是默认开启了,可以不用写了
+@EnableDiscoveryClient  
+public class AndymallCouponApplication {  
+  
+public static void main(String[] args) {  
+SpringApplication.run(AndymallCouponApplication.class, args);  
+}  
+  
+}
+```
 ## rerun 微服务
