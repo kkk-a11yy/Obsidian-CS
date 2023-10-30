@@ -36,8 +36,10 @@
 >这注解新版本是默认开启了,可以不用写了
 
 ## 拉取m1版本的nacos并启动(我在虚拟机docker安装)
+- [解决M1 无法使用nacos高版本(2.0.3)问题 · Issue #8674 · alibaba/nacos](https://github.com/alibaba/nacos/issues/8674)
 
 ```java
+## pull 的时候关魔法
 	docker pull zhusaidong/nacos-server-m1:2.0.3
 ## 映射端口并启动
 	docker run -d -p 8848:8848 --env MODE=standalone  --name nacos  zhusaidong/nacos-server-m1:2.0.3
@@ -51,5 +53,8 @@
     nacos:
       discovery:
         server-addr: 127.0.0.1:8848
+  application:
+    name: andymall-coupon
 ```
-## 访问 127.0.0.1:8848
+
+## rerun 微服务

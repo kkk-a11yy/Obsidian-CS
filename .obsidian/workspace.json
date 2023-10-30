@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring cloud alibaba.md",
+                "file": "Spring cloud alibaba--nacos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring cloud alibaba.md",
+                "file": "Spring cloud alibaba--nacos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring cloud alibaba.md"
+                "file": "Spring cloud alibaba--nacos.md"
               }
             }
           },
@@ -209,7 +209,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Spring cloud alibaba.md",
+                    "file": "Spring cloud alibaba--nacos.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -221,8 +221,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 41,
-        "y": 524,
+        "x": 61,
+        "y": 410,
         "width": 743,
         "height": 695,
         "maximize": false,
@@ -234,7 +234,7 @@
   "lastOpenFiles": [
     "BEFORE/附件/Pasted image 20231030130229.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
-    "Spring cloud alibaba.md",
+    "Spring cloud alibaba--nacos.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "给所有微服务逆向生成代码.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
