@@ -14,3 +14,14 @@
             <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
         </dependency>
 ```
+
+## 微服务配置 Nacos Config 地址并引入服务配置
+```java
+//微服务模块 application.yml添加
+  config:
+    import:
+      - nacos:nacos-config-example.properties?refresh=true
+```
+
+>![note]
+>could版本用的如果跟老师不一样  高版本一定要映入bootstarp依赖

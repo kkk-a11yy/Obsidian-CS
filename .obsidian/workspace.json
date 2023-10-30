@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NACOS--.md",
+                "file": "Spring cloud alibaba--nacos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NACOS--.md",
+                "file": "Spring cloud alibaba--nacos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NACOS--.md"
+                "file": "Spring cloud alibaba--nacos.md"
               }
             }
           },
@@ -243,7 +243,7 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -256,10 +256,10 @@
       }
     ]
   },
-  "active": "b1884b1ba78b42ce",
+  "active": "edb6d17055184cb5",
   "lastOpenFiles": [
-    "Spring cloud alibaba--Feign.md",
     "NACOS--.md",
+    "Spring cloud alibaba--Feign.md",
     "Spring cloud alibaba--nacos.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "BEFORE/附件/Pasted image 20231030130229.png",
