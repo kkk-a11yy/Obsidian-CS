@@ -196,7 +196,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "给所有微服务逆向生成代码.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -223,7 +223,7 @@
         "direction": "vertical",
         "x": 686,
         "y": 95,
-        "width": 600,
+        "width": 743,
         "height": 695,
         "maximize": false,
         "zoom": 0.5
@@ -232,12 +232,13 @@
   },
   "active": "edb6d17055184cb5",
   "lastOpenFiles": [
-    "给所有微服务逆向生成代码.md",
+    "BEFORE/附件/Pasted image 20231030130229.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "Spring cloud alibaba.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "给所有微服务逆向生成代码.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
@@ -258,7 +259,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/微服务-pom.xml.md",
     "课程&笔记/技术栈/黑马/resourse/资源.md",
     "BEFORE/outsource/Building a USEFUL Dashboard in Obsidian.md",
-    "BEFORE/Outsource-data.md",
     "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
     "课程&笔记/技术栈/黑马/resourse",
     "课程&笔记/技术栈/黑马",

@@ -81,40 +81,28 @@
 - `constant` 类的 `AliyunGroup;  QcloudGroup;  QiniuGroup;` 爆红
 	- 在 `renren-fast` 模块下，复制过来
 - ![](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/AndymallProductApplicationTests.java)
-- run test 的时候（测试失败的  注意springboot 和 cloud 版本匹配问题）：
+- run test 的时候（注意springboot 和 cloud 版本匹配问题）：
 	- `java.lang.IllegalStateException: Failed to load ApplicationContext` 错误
 		```java
-		Caused by: java.lang.UnsupportedClassVersionError: org/springframework/cloud/bootstrap/BootstrapApplicationListener has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 52.0
-		
-		note:
-		- the major version numbers map to Java versions:
+		Caused by: java.lang.UnsupportedClassVersionError:
 			- 52 = Java 8
 			- 61 = Java 17---springboot 2.6往上
 		
 		```
-		- 意思是：
-		  ```java
-		我的java version: 8  
-		应该对应的spring boot ：2.4.x
-		改成了：2.3.2.RELEASE
-			```
-		- java version 对应
-			- [How to Fix java.lang.UnsupportedClassVersionError | Baeldung](https://www.baeldung.com/java-lang-unsupportedclassversion)
-			- [你该不会不知道SpringBoot版本与springCloud的版本关系吧 - mdnice 墨滴](https://mdnice.com/writing/c08e9d1917b0439f92babc0734955ed4)
+	- bean无法创建问题：
+		- `Caused by: org.springframework.beans.factory.BeanCreationException`
+	- 解决：version 对应
+		- [How to Fix java.lang.UnsupportedClassVersionError | Baeldung](https://www.baeldung.com/java-lang-unsupportedclassversion)
+		- [你该不会不知道SpringBoot版本与springCloud的版本关系吧 - mdnice 墨滴](https://mdnice.com/writing/c08e9d1917b0439f92babc0734955ed4)
 - renren-fast. pom.xml
 	- 本来的：![](BEFORE/附件/pom.xml)
 	- 老师的：![](BEFORE/附件/pom%201.xml)
 > [!note]
-> 这里测试一定要注意springboot和cloud版本问题，老师用的是2.1.8.RELEASE, 对应的cloud是Greenwich.SR3
+> springboot和cloud版本问题，老师用的是2.1.8.RELEASE, 对应的cloud是Greenwich.SR3
 > 遇到了RenrenApplication启动问题，common模块clean package一下
 
-```java
-Caused by: org.springframework.beans.factory.BeanCreationException
-	bean无法创建 是springboot版本问题
-	
-```
 
-最后springboot. and springcloud 版本：
+最后我的springboot. and springcloud 版本：
 	AndyMall--product-pom.xml
 ```java
 	<parent>
