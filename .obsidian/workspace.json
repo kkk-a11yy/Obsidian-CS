@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,8 +221,9 @@
       }
     ]
   },
-  "active": "ee4bce9d18ef4092",
+  "active": "2c6e3a3f75a490ef",
   "lastOpenFiles": [
+    "Configuration/未命名",
     "Spring cloud alibaba--nacos.md",
     "BEFORE/README.md",
     "NACOS--.md",
@@ -251,7 +251,6 @@
     "书籍/books/尤利西斯 - 乔伊斯.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/renren-fast 的application-dev.yml（ip,username,password）.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/微服务-pom.xml.md",
-    "课程&笔记/技术栈/黑马/resourse/资源.md",
     "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
     "课程&笔记/技术栈/黑马/resourse",
     "课程&笔记/技术栈/黑马",
