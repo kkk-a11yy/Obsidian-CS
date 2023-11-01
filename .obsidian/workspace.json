@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
+                "file": "Configuration/Docker/docker--problem.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
+                "file": "Configuration/Docker/docker--problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
+                "file": "Configuration/Docker/docker--problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md"
+                "file": "Configuration/Docker/docker--problem.md"
               }
             }
           },
@@ -223,8 +223,8 @@
   },
   "active": "ee4bce9d18ef4092",
   "lastOpenFiles": [
-    "Configuration/Docker/docker--problem.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
+    "Configuration/Docker/docker--problem.md",
     "Configuration/Docker",
     "Spring cloud alibaba--nacos.md",
     "BEFORE/README.md",
