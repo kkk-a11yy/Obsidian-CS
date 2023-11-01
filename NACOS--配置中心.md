@@ -23,5 +23,6 @@
       - nacos:nacos-config-example.properties?refresh=true
 ```
 
+![](BEFORE/附件/Pasted%20image%2020231101160650.png)
 >![note]
 >could版本用的如果跟老师不一样  高版本一定要映入bootstarp依赖
