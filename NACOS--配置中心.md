@@ -23,6 +23,7 @@
       - nacos:nacos-config-example.properties?refresh=true
 ```
 
-![](BEFORE/附件/Pasted%20image%2020231101160650.png)
+![Pasted image 20231101160650|400](BEFORE/附件/Pasted%20image%2020231101160650.png)
+
 >![note]
->could版本用的如果跟老师不一样  高版本一定要映入bootstarp依赖
+>spring-boot2.4以后的版本需要在common pom里导入spring-cloud-starter-bootstrap依赖
