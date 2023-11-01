@@ -1,4 +1,4 @@
-微服务之间相互调用
+微服务之间相互调用:http
 
 ## dependency
 ```java
@@ -12,4 +12,7 @@
             <artifactId>spring-cloud-starter-openfeign</artifactId>
         </dependency>
 ```
+## @EnableFeignClient
+
+## @FeignClient
 下一个[NACOS--](NACOS--.md)
