@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "Spring cloud alibaba--nacos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "Spring cloud alibaba--nacos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/README.md"
+                "file": "Spring cloud alibaba--nacos.md"
               }
             }
           },
@@ -216,8 +216,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -230,8 +229,9 @@
       }
     ]
   },
-  "active": "866b4618d6877912",
+  "active": "edb6d17055184cb5",
   "lastOpenFiles": [
+    "BEFORE/README.md",
     "Spring cloud alibaba--nacos.md",
     "NACOS--.md",
     "Spring cloud alibaba--Feign.md",
@@ -241,7 +241,6 @@
     "给所有微服务逆向生成代码.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
