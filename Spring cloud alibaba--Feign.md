@@ -1,4 +1,6 @@
 微服务之间相互调用:http
+![Pasted image 20231101150611|500](BEFORE/附件/Pasted%20image%2020231101150611.png)
+
 
 ## dependency
 ```java

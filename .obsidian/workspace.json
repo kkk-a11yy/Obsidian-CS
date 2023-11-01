@@ -207,8 +207,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 88,
-        "y": 559,
+        "x": 84,
+        "y": 592,
         "width": 800,
         "height": 447,
         "maximize": false,
@@ -218,6 +218,7 @@
   },
   "active": "edb6d17055184cb5",
   "lastOpenFiles": [
+    "BEFORE/附件/Pasted image 20231101150611.png",
     "NACOS--.md",
     "Spring cloud alibaba--Feign.md",
     "Spring cloud alibaba--nacos.md",
@@ -246,7 +247,6 @@
     "书籍/CS书籍推荐单.md",
     "书籍/CS-BOOKS-DATA.md",
     "书籍/books/尤利西斯 - 乔伊斯.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/renren-fast 的application-dev.yml（ip,username,password）.md",
     "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
     "课程&笔记/技术栈/黑马/resourse",
     "课程&笔记/技术栈/黑马",
