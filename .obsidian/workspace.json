@@ -221,9 +221,11 @@
       }
     ]
   },
-  "active": "2c6e3a3f75a490ef",
+  "active": "ee4bce9d18ef4092",
   "lastOpenFiles": [
-    "Configuration/未命名",
+    "Configuration/Docker/docker--problem.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
+    "Configuration/Docker",
     "Spring cloud alibaba--nacos.md",
     "BEFORE/README.md",
     "NACOS--.md",
@@ -250,7 +252,6 @@
     "书籍/CS-BOOKS-DATA.md",
     "书籍/books/尤利西斯 - 乔伊斯.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/renren-fast 的application-dev.yml（ip,username,password）.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/files/微服务-pom.xml.md",
     "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
     "课程&笔记/技术栈/黑马/resourse",
     "课程&笔记/技术栈/黑马",
@@ -261,7 +262,6 @@
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/exams/MIT18_06S10_exam1_s10_sol.pdf",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/Assignments/MIT18_06S10_pset1_s10_soln.pdf",
     "书籍/计算机数学/mcs.pdf",
-    "BEFORE/附件/pom 1.xml",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171424.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171218.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171209.png",
