@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring cloud alibaba--Feign.md",
+                "file": "NACOS--配置中心.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring cloud alibaba--Feign.md",
+                "file": "NACOS--配置中心.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring cloud alibaba--Feign.md"
+                "file": "NACOS--配置中心.md"
               }
             }
           },
@@ -196,7 +196,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Spring cloud alibaba--Feign.md",
+                    "file": "NACOS--配置中心.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -207,8 +207,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 118,
-        "y": 320,
+        "x": 99,
+        "y": 409,
         "width": 616,
         "height": 651,
         "maximize": false,
@@ -218,11 +218,11 @@
   },
   "active": "edb6d17055184cb5",
   "lastOpenFiles": [
+    "Feign--远程调用.md",
+    "nacos--服务注册.md",
     "BEFORE/附件/Pasted image 20231101151935.png",
     "BEFORE/附件/Pasted image 20231101150611.png",
-    "NACOS--.md",
-    "Spring cloud alibaba--Feign.md",
-    "Spring cloud alibaba--nacos.md",
+    "NACOS--配置中心.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
     "Configuration/Docker/docker--problem.md",
     "Configuration/Docker",
@@ -264,7 +264,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830145304.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830134836.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829231000.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829230953.png",
     "学习网站/笔记集合.canvas",
     "课程&笔记/未命名.canvas",
     "书籍/TPC&IP/TCP-IP.canvas",

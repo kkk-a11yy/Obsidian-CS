@@ -69,4 +69,4 @@ SpringApplication.run(AndymallCouponApplication.class, args);
 ```
 - rerun 微服务，nacos查看注册的服务
 
-下一个[Spring cloud alibaba--Feign](Spring%20cloud%20alibaba--Feign.md)
+下一个[Feign--远程调用](Feign--远程调用.md)
