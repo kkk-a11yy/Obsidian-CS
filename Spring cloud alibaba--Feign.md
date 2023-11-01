@@ -14,7 +14,11 @@
             <artifactId>spring-cloud-starter-openfeign</artifactId>
         </dependency>
 ```
-## @EnableFeignClient
 
+![Pasted image 20231101151935](BEFORE/附件/Pasted%20image%2020231101151935.png)
+
+- 重启服务
+- 给member发请求：`http://127.0.0.1:14000/member/member/coupons`
+	是发到MemberController
 ## @FeignClient
 下一个[NACOS--](NACOS--.md)

@@ -207,10 +207,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 84,
-        "y": 592,
-        "width": 800,
-        "height": 447,
+        "x": 118,
+        "y": 320,
+        "width": 616,
+        "height": 651,
         "maximize": false,
         "zoom": 0.5
       }
@@ -218,6 +218,7 @@
   },
   "active": "edb6d17055184cb5",
   "lastOpenFiles": [
+    "BEFORE/附件/Pasted image 20231101151935.png",
     "BEFORE/附件/Pasted image 20231101150611.png",
     "NACOS--.md",
     "Spring cloud alibaba--Feign.md",
@@ -264,7 +265,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830134836.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829231000.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829230953.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230829224225.png",
     "学习网站/笔记集合.canvas",
     "课程&笔记/未命名.canvas",
     "书籍/TPC&IP/TCP-IP.canvas",
