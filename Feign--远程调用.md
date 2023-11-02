@@ -31,4 +31,8 @@
 ## 引入连接池
 
 ![Pasted image 20231102164247](BEFORE/附件/Pasted%20image%2020231102164247.png)
+
+## 最佳实践
+![Pasted image 20231102165407](BEFORE/附件/Pasted%20image%2020231102165407.png)
+
 下一个[NACOS--配置中心](NACOS--配置中心.md)
