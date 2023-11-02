@@ -27,4 +27,8 @@
 ![Pasted image 20231102162149|500](BEFORE/附件/Pasted%20image%2020231102162149.png)
 
 ![Pasted image 20231102162232](BEFORE/附件/Pasted%20image%2020231102162232.png)
+
+## 引入连接池
+
+![Pasted image 20231102164247](BEFORE/附件/Pasted%20image%2020231102164247.png)
 下一个[NACOS--配置中心](NACOS--配置中心.md)
