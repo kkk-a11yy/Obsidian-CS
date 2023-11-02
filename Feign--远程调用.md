@@ -21,4 +21,9 @@
 - 给member发请求：`http://127.0.0.1:14000/member/member/coupons`
 	是发到MemberController
 
+
+------
+# 这里是黑马课程的openfeign配置
+![[
+![](BEFORE/附件/Pasted%20image%2020231102162149.png)
 下一个[NACOS--配置中心](NACOS--配置中心.md)
