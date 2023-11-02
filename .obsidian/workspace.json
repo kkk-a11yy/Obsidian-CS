@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feign--远程调用.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feign--远程调用.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feign--远程调用.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md"
               }
             }
           },
@@ -221,8 +221,9 @@
       }
     ]
   },
-  "active": "edb6d17055184cb5",
+  "active": "cfb1c25b6a1edfd8",
   "lastOpenFiles": [
+    "Feign--远程调用.md",
     "BEFORE/附件/Pasted image 20231102165407.png",
     "BEFORE/附件/Pasted image 20231102164247.png",
     "BEFORE/附件/Pasted image 20231102162232.png",
@@ -235,7 +236,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "BEFORE/附件/Pasted image 20231101160650.png",
-    "Feign--远程调用.md",
     "nacos--服务注册.md",
     "BEFORE/附件/Pasted image 20231101151935.png",
     "BEFORE/附件/Pasted image 20231101150611.png",
@@ -269,7 +269,6 @@
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/Assignments/MIT18_06S10_pset1_s10_soln.pdf",
     "书籍/计算机数学/mcs.pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171424.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171218.png",
     "学习网站/笔记集合.canvas",
     "课程&笔记/未命名.canvas",
     "书籍/TPC&IP/TCP-IP.canvas",
