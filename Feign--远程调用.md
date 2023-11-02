@@ -24,6 +24,7 @@
 
 ------
 # 这里是黑马课程的openfeign配置
-![[
-![](BEFORE/附件/Pasted%20image%2020231102162149.png)
+![Pasted image 20231102162149|500](BEFORE/附件/Pasted%20image%2020231102162149.png)
+
+![Pasted image 20231102162232](BEFORE/附件/Pasted%20image%2020231102162232.png)
 下一个[NACOS--配置中心](NACOS--配置中心.md)
