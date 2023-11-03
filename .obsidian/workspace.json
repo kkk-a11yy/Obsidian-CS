@@ -40,14 +40,13 @@
               "type": "markdown",
               "state": {
                 "file": "虚拟机镜像下载.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nacos--服务注册.md",
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nacos--服务注册.md",
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nacos--服务注册.md"
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md"
               }
             }
           },
@@ -211,11 +210,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c3f5981aa879bed0",
+  "active": "cfb1c25b6a1edfd8",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
-    "nacos--服务注册.md",
     "虚拟机镜像下载.md",
+    "nacos--服务注册.md",
+    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "docker--安装nacos.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Docker安装 --Mac m1pro.md",
