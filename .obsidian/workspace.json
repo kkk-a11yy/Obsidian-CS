@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b3f868bb0bbd154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "虚拟机镜像下载.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+                "file": "虚拟机镜像下载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+                "file": "虚拟机镜像下载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md"
+                "file": "虚拟机镜像下载.md"
               }
             }
           },
@@ -183,11 +197,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "cfb1c25b6a1edfd8",
+  "active": "0b3f868bb0bbd154",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+    "虚拟机镜像下载.md",
     "BEFORE/附件/Pasted image 20231103152957.png",
     "课程&笔记/技术栈/黑马/resourse/资源.md",
-    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "课程&笔记/技术栈/黑马/黑马头条",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "Feign--远程调用.md",
@@ -231,7 +246,6 @@
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/1712.08880.pdf",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/exams/MIT18_06S10_exam1_s10_sol.pdf",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/Assignments/MIT18_06S10_pset1_s10_soln.pdf",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171424.png",
     "学习网站/笔记集合.canvas",
     "课程&笔记/未命名.canvas",
     "书籍/TPC&IP/TCP-IP.canvas",
