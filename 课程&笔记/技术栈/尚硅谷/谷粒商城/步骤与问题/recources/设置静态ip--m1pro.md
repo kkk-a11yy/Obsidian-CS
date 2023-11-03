@@ -1,6 +1,6 @@
 ## 参考资料
 - [CentOS Stream 9设置静态IP_centos-stream-9 7的qubie_zhongxj183的博客-CSDN博客](https://blog.csdn.net/zhongxj183/article/details/122811236)
-- [CentOS Stream 9设置静态IP_centos-stream-9 7的qubie_zhongxj183的博客-CSDN博客](https://blog.csdn.net/zhongxj183/article/details/122811236)
+
 ## 查看虚拟机当前ip
 
 ```java
