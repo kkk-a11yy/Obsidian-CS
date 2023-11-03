@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feign--远程调用.md",
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feign--远程调用.md",
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feign--远程调用.md"
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md"
               }
             }
           },
@@ -183,46 +183,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "floating": {
-    "id": "78fcf441a8df9145",
-    "type": "floating",
-    "children": [
-      {
-        "id": "20a9ac7fc738f99d",
-        "type": "window",
-        "children": [
-          {
-            "id": "5de0243417db4b22",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "edb6d17055184cb5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Feign--远程调用.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 90,
-        "y": 501,
-        "width": 616,
-        "height": 651,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "edb6d17055184cb5",
+  "active": "cfb1c25b6a1edfd8",
   "lastOpenFiles": [
+    "BEFORE/附件/Pasted image 20231103152957.png",
+    "课程&笔记/技术栈/黑马/resourse/资源.md",
+    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+    "课程&笔记/技术栈/黑马/黑马头条",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "Feign--远程调用.md",
     "BEFORE/附件/Pasted image 20231102165407.png",
@@ -256,8 +222,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--pom.xml添加renren-fast.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
     "书籍/CS书籍推荐单.md",
-    "书籍/CS-BOOKS-DATA.md",
-    "书籍/books/尤利西斯 - 乔伊斯.md",
     "书籍/行业/编程人生：15位软件先驱访谈录（美）赛贝尔 (1).pdf",
     "课程&笔记/技术栈/黑马/resourse",
     "课程&笔记/技术栈/黑马",
@@ -267,7 +231,6 @@
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/1712.08880.pdf",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/exams/MIT18_06S10_exam1_s10_sol.pdf",
     "课程&笔记/计算机数学/麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)/Assignments/MIT18_06S10_pset1_s10_soln.pdf",
-    "书籍/计算机数学/mcs.pdf",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/imgs/Pasted image 20230830171424.png",
     "学习网站/笔记集合.canvas",
     "课程&笔记/未命名.canvas",
