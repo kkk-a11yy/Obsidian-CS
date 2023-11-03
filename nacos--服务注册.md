@@ -23,7 +23,12 @@
 <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
 </dependency>
 ```
+
+
 ## 下载 nacos server(可以用docker安装,Mac m1 )
+
+^bcff8b
+
 - 我的docker: **zhusaidong/nacos-server-m1**
 >[!info]
 >mac终端启动nacos，到bin目录下启动终端，然后输入sh startup.sh -m standalone
@@ -33,6 +38,9 @@
 >用junit4的，在测试方法的类型和方法名前加上 public 即可
 
 ### 拉取m1版本的nacos并启动
+
+^1d36ee
+
 - [解决M1 无法使用nacos高版本(2.0.3)问题 · Issue #8674 · alibaba/nacos](https://github.com/alibaba/nacos/issues/8674)
 
 ```java
