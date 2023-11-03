@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feign--远程调用.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Feign--远程调用.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feign--远程调用.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md"
               }
             }
           },
@@ -212,8 +212,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 99,
-        "y": 409,
+        "x": 90,
+        "y": 501,
         "width": 616,
         "height": 651,
         "maximize": false,
@@ -221,10 +221,10 @@
       }
     ]
   },
-  "active": "edb6d17055184cb5",
+  "active": "cfb1c25b6a1edfd8",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "Feign--远程调用.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "BEFORE/附件/Pasted image 20231102165407.png",
     "BEFORE/附件/Pasted image 20231102164247.png",
     "BEFORE/附件/Pasted image 20231102162232.png",
