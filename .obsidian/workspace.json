@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+                "file": "虚拟机镜像下载.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+                "file": "虚拟机镜像下载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+                "file": "虚拟机镜像下载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md"
+                "file": "虚拟机镜像下载.md"
               }
             }
           },
@@ -211,10 +211,10 @@
   },
   "active": "cfb1c25b6a1edfd8",
   "lastOpenFiles": [
-    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407203818808.png.md",
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
-    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
     "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407203818808.png.md",
+    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210416095950485.png",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162511873.png",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162511873.png.baiduyun.p.downloading",
