@@ -18,11 +18,9 @@
 ![image-20210407204320559](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407204320559.png)
 
 ### 2.4)项目术语
-![[]]
+![image-20210407204345614](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407204345614.png)
 ### 2.5)业务说明
-
-![image-20210407204405774](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210407204405774.png)
-
+![image-20210407204405774](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407204405774.png)
 项目演示地址：
 
 - 平台管理：[http://heima-admin-java.research.itcast.cn](http://heima-admin-java.research.itcast.cn/) 
@@ -39,12 +37,9 @@
 
 - 手机浏览器打开或扫描右侧二维码
 
-  ![image-20210407204213963](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210407204213963.png)
-
+![image-20210407204213963](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407204213963.png)
 ## 3)技术栈
-
-![img](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\f3accd2ba01c41b0a9ac98370241eba3.png)
-
+![f3accd2ba01c41b0a9ac98370241eba3](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/f3accd2ba01c41b0a9ac98370241eba3.png)
 - Spring-Cloud-Gateway : 微服务之前架设的网关服务，实现服务注册中的API请求路由，以及控制流速控制和熔断处理都是常用的架构手段，而这些功能Gateway天然支持
 - 运用Spring Boot快速开发框架，构建项目工程；并结合Spring Cloud全家桶技术，实现后端个人中心、自媒体、管理中心等微服务。
 - 运用Spring Cloud Alibaba Nacos作为项目中的注册中心和配置中心
@@ -66,30 +61,21 @@
 1)打开当天资料文件中的镜像，拷贝到一个地方，然后解压
 
 2)解压后，双击ContOS7-hmtt.vmx文件，前提是电脑上已经安装了VMware
-
-![image-20210407205305080](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210407205305080.png)
-
+![image-20210407205305080](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407205305080.png)
 3) 修改虚拟网络地址（NAT）
+![image-20210407205325182](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407205325182.png)
+​①，选中VMware中的编辑
 
-![image-20210407205325182](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210407205325182.png)
+​②，选择虚拟网络编辑器
 
-​		                                                        ①，选中VMware中的编辑
-
-​		                                                        ②，选择虚拟网络编辑器
-
-​		                                                        ③，找到NAT网卡，把网段改为200（当前挂载的虚拟机已固定ip地址）
+​③，找到NAT网卡，把网段改为200（当前挂载的虚拟机已固定ip地址）
 
 4)修改虚拟机的网络模式为NAT
-
-![image-20210407205431849](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210407205431849.png)
-
+![image-20210407205431849](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407205431849.png)
 5)启动虚拟机，**用户名：root  密码：itcast**，当前虚拟机的ip已手动固定（静态IP）, 地址为：**192.168.200.130**
 
 6)使用FinalShell客户端链接
-
-![image-20210407205502305](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210407205502305.png)
-
-
+![image-20210407205502305](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407205502305.png)
 
 
 
@@ -116,11 +102,7 @@ docker run --env MODE=standalone --name nacos --restart=always  -d -p 8848:8848 
 - -d 创建一个守护式容器在后台运行
 
 ③：访问地址：http://192.168.200.130:8848/nacos 
-
-![image-20210412141353694](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210412141353694.png)
-
-
-
+![image-20210412141353694](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412141353694.png)
 ## 5)初始工程搭建
 
 ### 5.1)环境准备
@@ -138,31 +120,20 @@ docker run --env MODE=standalone --name nacos --restart=always  -d -p 8848:8848 
 
 
 ②：在当天资料中解压heima-leadnews.zip文件，拷贝到一个没有中文和空格的目录，使用idea打开即可
-
-![image-20210412141517519](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210412141517519.png)
-
+![image-20210412141517519](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412141517519.png)
 ③：IDEA开发工具配置
-
-![image-20210412141601018](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210412141601018.png)
-
+![image-20210412141601018](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412141601018.png)
 设置本地仓库，建议使用资料中提供好的仓库
 
 ④：设置项目编码格式
-
-![image-20210412141631441](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210412141631441.png)
-
+![image-20210412141631441](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412141631441.png)
 ### 5.2)主体结构
-
-![image-20210412141711919](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210412141711919.png)
-
-
+![image-20210412141711919](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412141711919.png)
 
 ## 6)登录
 
 ### 6.1)需求分析
-
-![image-20210412141809919](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210412141809919.png)
-
+![image-20210412141809919](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412141809919.png)
 - 用户点击**开始使用**
 
   登录后的用户权限较大，可以查看，也可以操作（点赞，关注，评论）
