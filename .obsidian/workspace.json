@@ -27,14 +27,13 @@
               "type": "markdown",
               "state": {
                 "file": "虚拟机镜像下载.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "虚拟机镜像下载.md",
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "虚拟机镜像下载.md",
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "虚拟机镜像下载.md"
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md"
               }
             }
           },
@@ -197,8 +196,9 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "0b3f868bb0bbd154",
+  "active": "cfb1c25b6a1edfd8",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
     "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "虚拟机镜像下载.md",
     "BEFORE/附件/Pasted image 20231103152957.png",
@@ -226,7 +226,6 @@
     "BEFORE/README.md",
     "BEFORE/附件/Pasted image 20231030130229.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Alfred 安装OCR截图识别.md",
