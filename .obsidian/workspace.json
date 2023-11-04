@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Navicat premium.md",
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "model--创建实体类对应数据库.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Navicat premium.md",
+                "file": "model--创建实体类对应数据库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Navicat premium.md",
+                "file": "model--创建实体类对应数据库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Navicat premium.md"
+                "file": "model--创建实体类对应数据库.md"
               }
             }
           },
@@ -249,13 +250,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "cfb1c25b6a1edfd8",
+  "active": "0a4842986cdcac59",
   "lastOpenFiles": [
+    "BEFORE/附件/Pasted image 20231104134818.png",
+    "BEFORE/附件/Pasted image 20231104134628.png",
+    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+    "model--创建实体类对应数据库.md",
+    "BEFORE/附件/Pasted image 20231104134331.png",
     "项目结构.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Navicat premium.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql-Mac m1pro.md",
-    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
-    "未命名.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "BEFORE/附件/Pasted image 20231104124421.png",
     "BEFORE/附件/Pasted image 20231104124125.png",
@@ -276,8 +281,6 @@
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162511873.png",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162511873.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210416095950485.png.baiduyun.p.downloading",
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413203203456.png",
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162558657.png",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162558657.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210705110434492.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407205305080.png.baiduyun.p.downloading",
@@ -295,8 +298,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
-    "Configuration/Docker/docker--problem.md",
-    "BEFORE/README.md",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
     "学习网站/笔记集合.canvas",
     "课程&笔记/未命名.canvas",
