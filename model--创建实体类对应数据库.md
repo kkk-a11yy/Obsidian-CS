@@ -19,9 +19,9 @@ spring:
   cloud:
     nacos:
       discovery:
-        server-addr: 192.168.200.130:8848
+        server-addr: 192.168.101.130:8848
       config:
-        server-addr: 192.168.200.130:8848
+        server-addr: 192.168.101.130:8848
         file-extension: yml
     
 ```
@@ -31,4 +31,4 @@ spring:
 路径：heima-leadnews-service/heima-leadnews-user/src/main/resources/logback.xml
 ```
 
-## 配置 na
+## 配置 nacos

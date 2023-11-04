@@ -21,58 +21,20 @@
             }
           },
           {
-            "id": "0a4842986cdcac59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c3f5981aa879bed0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nacos--服务注册.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b3f868bb0bbd154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "虚拟机镜像下载.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bd96990d5f3dacc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Docker安装 --Mac m1pro.md",
+                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "model--创建实体类对应数据库.md",
+                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "model--创建实体类对应数据库.md",
+                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "model--创建实体类对应数据库.md"
+                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md"
               }
             }
           },
@@ -236,18 +197,21 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "cfb1c25b6a1edfd8",
+  "active": "c3f5981aa879bed0",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "model--创建实体类对应数据库.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "课程&笔记/技术栈/黑马/resourse/资源.md",
+    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png 2.md",
+    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png 1.md",
+    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png.md",
     "nacos--服务注册.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Docker安装 --Mac m1pro.md",
     "虚拟机镜像下载.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
+    "课程&笔记/技术栈/黑马/resourse/资源.md",
     "项目结构.md",
     "BEFORE/附件/Pasted image 20231104134818.png",
     "BEFORE/附件/Pasted image 20231104134628.png",
@@ -281,9 +245,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "Feign--远程调用.md",
     "NACOS--配置中心.md",
-    "给所有微服务逆向生成代码.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
     "学习网站/笔记集合.canvas",
     "课程&笔记/未命名.canvas",

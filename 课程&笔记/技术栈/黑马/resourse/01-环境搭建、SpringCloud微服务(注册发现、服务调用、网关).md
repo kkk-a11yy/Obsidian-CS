@@ -342,8 +342,7 @@ spring:
 ```
 
 在nacos中创建配置文件
-
-![image-20210412143121648](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210412143121648.png)
+![image-20210412143121648](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png)
 
 ```yaml
 spring:
