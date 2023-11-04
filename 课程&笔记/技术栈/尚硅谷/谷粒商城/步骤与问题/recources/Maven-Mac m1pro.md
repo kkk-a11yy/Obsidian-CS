@@ -78,4 +78,11 @@ ksia@bogon ~ % sdk default maven 3.6.1
 </profiles>
 ```
 
+# 项目settings
+
+![](BEFORE/附件/Pasted%20image%2020231104124125.png)
+
+file encoding: utf-8
+![Pasted image 20231104124421](BEFORE/附件/Pasted%20image%2020231104124421.png)
+
 下一步：[[
