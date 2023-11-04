@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -27,19 +27,6 @@
               "type": "markdown",
               "state": {
                 "file": "model--创建实体类对应数据库.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95039d02be2cacd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目结构.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -161,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "model--创建实体类对应数据库.md",
+                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "model--创建实体类对应数据库.md",
+                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "model--创建实体类对应数据库.md"
+                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md"
               }
             }
           },
@@ -250,14 +235,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "0a4842986cdcac59",
+  "active": "cfb1c25b6a1edfd8",
   "lastOpenFiles": [
+    "model--创建实体类对应数据库.md",
+    "nacos--服务注册.md",
+    "项目结构.md",
+    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+    "课程&笔记/技术栈/黑马/resourse/资源.md",
+    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "BEFORE/附件/Pasted image 20231104134818.png",
     "BEFORE/附件/Pasted image 20231104134628.png",
-    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
-    "model--创建实体类对应数据库.md",
     "BEFORE/附件/Pasted image 20231104134331.png",
-    "项目结构.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Navicat premium.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql-Mac m1pro.md",
@@ -265,7 +253,6 @@
     "BEFORE/附件/Pasted image 20231104124421.png",
     "BEFORE/附件/Pasted image 20231104124125.png",
     "BEFORE/附件/Pasted image 20231104122318.png",
-    "nacos--服务注册.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Docker安装 --Mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
@@ -274,11 +261,9 @@
     "虚拟机镜像下载.md",
     "BEFORE/附件/Pasted image 20231103210153.png",
     "BEFORE/附件/Pasted image 20231103205614.png",
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407203818808.png.md",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210416095950485.png",
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162511873.png",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162511873.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210416095950485.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162558657.png.baiduyun.p.downloading",
@@ -290,7 +275,6 @@
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407205431849.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "docker--安装nacos.md",
-    "课程&笔记/技术栈/黑马/resourse/资源.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "Feign--远程调用.md",
     "NACOS--配置中心.md",
