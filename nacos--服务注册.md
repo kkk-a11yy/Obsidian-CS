@@ -42,6 +42,7 @@
 ^1d36ee
 
 - [解决M1 无法使用nacos高版本(2.0.3)问题 · Issue #8674 · alibaba/nacos](https://github.com/alibaba/nacos/issues/8674)
+- [nacos/nacos-server Tags | Docker Hub](https://hub.docker.com/r/nacos/nacos-server/tags?page=1)
 
 ```java
 ## pull 的时候关魔法
