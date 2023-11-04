@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目结构.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Navicat premium.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maven",
+                "query": "mysql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.50390243530273,
-    "collapsed": true
+    "width": 260.50390243530273
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目结构.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Navicat premium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目结构.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Navicat premium.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目结构.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Navicat premium.md"
               }
             }
           },
@@ -252,16 +251,17 @@
   },
   "active": "cfb1c25b6a1edfd8",
   "lastOpenFiles": [
+    "项目结构.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql-Mac m1pro.md",
     "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "未命名.md",
-    "项目结构.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "BEFORE/附件/Pasted image 20231104124421.png",
     "BEFORE/附件/Pasted image 20231104124125.png",
     "BEFORE/附件/Pasted image 20231104122318.png",
     "nacos--服务注册.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Docker安装 --Mac m1pro.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
     "centos9-toutiao-config.md",
@@ -297,7 +297,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
     "Configuration/Docker/docker--problem.md",
     "BEFORE/README.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
     "学习网站/笔记集合.canvas",
     "课程&笔记/未命名.canvas",
