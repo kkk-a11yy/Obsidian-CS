@@ -85,3 +85,16 @@ ksia@bogon ~ % sdk default maven 3.6.1
 file encoding: utf-8
 ![Pasted image 20231104124421](BEFORE/附件/Pasted%20image%2020231104124421.png)
 
+#maven项目编译太慢
+
+路径：`/Applications/Delevopment/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/conf/settings.xml`
+修改添加：
+```java
+<mirror>  
+    <id>nexus-aliyun</id>  
+    <mirrorOf>central</mirrorOf>    
+    <name>Nexus aliyun</name>  
+    <url>http://maven.aliyun.com/nexus/content/groups/public</url>
+</mirror>
+
+```
