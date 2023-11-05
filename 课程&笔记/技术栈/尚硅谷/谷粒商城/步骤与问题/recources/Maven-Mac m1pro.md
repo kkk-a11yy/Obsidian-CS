@@ -86,7 +86,7 @@ file encoding: utf-8
 ![Pasted image 20231104124421](BEFORE/附件/Pasted%20image%2020231104124421.png)
 
 #maven项目编译太慢
-
+参考：- [解决idea加载maven速度慢问题_idea中加载maven原型列表很慢怎么解决-CSDN博客](https://blog.csdn.net/weixin_44894962/article/details/107871578)
 路径：`/Applications/Delevopment/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/conf/settings.xml`
 修改添加：
 ```java
