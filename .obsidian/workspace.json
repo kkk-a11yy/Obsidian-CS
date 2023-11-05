@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+                "file": "app登陆--接口定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+                "file": "app登陆--接口定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md"
+                "file": "app登陆--接口定义.md"
               }
             }
           },
@@ -197,10 +197,51 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "db1be212d72e80cc",
+  "floating": {
+    "id": "b945ee5a7e5a14c5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8f368cdedb162651",
+        "type": "window",
+        "children": [
+          {
+            "id": "58ba551051d1d7a9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e0122a97ab868e0",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "app登陆--接口定义.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 134,
+        "y": 660,
+        "width": 815,
+        "height": 367,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "5e0122a97ab868e0",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+    "app登陆--接口定义.md",
+    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
     "课程&笔记/技术栈/黑马/黑马头条/resource/虚拟机镜像下载.md",
     "课程&笔记/技术栈/黑马/黑马头条/resource/项目结构.md",
@@ -226,7 +267,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "BEFORE/附件/Pasted image 20231104154259.png",
     "课程&笔记/技术栈/黑马/黑马头条/resource/model--创建实体类对应数据库.md",
-    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png 2.md",
     "BEFORE/附件/Pasted image 20231104134818.png",
     "BEFORE/附件/Pasted image 20231104134628.png",
     "BEFORE/附件/Pasted image 20231104134331.png",
