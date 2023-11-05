@@ -81,4 +81,4 @@ SpringApplication.run(AndymallCouponApplication.class, args);
 ```
 - rerun 微服务，nacos查看注册的服务
 
-下一个[Feign--远程调用](Feign--远程调用.md)
+下一个[Feign--远程调用](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Feign--远程调用.md)

@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c0b104216c7b927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.50390243530273
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/README.md"
+                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md"
               }
             }
           },
@@ -185,8 +199,18 @@
   },
   "active": "db1be212d72e80cc",
   "lastOpenFiles": [
-    "BEFORE/时间编表.md",
+    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
+    "课程&笔记/技术栈/黑马/黑马头条/resource/虚拟机镜像下载.md",
+    "课程&笔记/技术栈/黑马/黑马头条/resource/项目结构.md",
+    "课程&笔记/技术栈/黑马/黑马头条/resource",
+    "课程&笔记/技术栈/黑马/resourse/资源.md",
+    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png 1.md",
+    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png.md",
+    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407203818808.png.md",
     "BEFORE/README.md",
+    "BEFORE/时间编表.md",
     "BEFORE/Person/YouTube-data.md",
     "BEFORE/Outsource-data.md",
     "BEFORE/outsource/Automate Your Vault With Dataview.md",
@@ -195,23 +219,14 @@
     "BEFORE/outsource/How To Backup Obsidian.md",
     "BEFORE/outsource/How I Built a SECOND Brain 🧠 in Obsidian MD.md",
     "BEFORE/outsource/How To Create a Movie Database in Obsidian.md",
-    "app登陆--微服务搭建.md",
+    "课程&笔记/技术栈/黑马/黑马头条/resource/app登陆--微服务搭建.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
-    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "Configuration/win10安装macos/VMware/参考资料.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "BEFORE/附件/Pasted image 20231104154259.png",
-    "model--创建实体类对应数据库.md",
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+    "课程&笔记/技术栈/黑马/黑马头条/resource/model--创建实体类对应数据库.md",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png 2.md",
-    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png 1.md",
-    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png.md",
-    "nacos--服务注册.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Docker安装 --Mac m1pro.md",
-    "虚拟机镜像下载.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
-    "课程&笔记/技术栈/黑马/resourse/资源.md",
     "BEFORE/附件/Pasted image 20231104134818.png",
     "BEFORE/附件/Pasted image 20231104134628.png",
     "BEFORE/附件/Pasted image 20231104134331.png",
@@ -230,7 +245,6 @@
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407205325182.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407204345614.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412141353694.png.baiduyun.p.downloading",
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407205431849.png.baiduyun.p.downloading",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
     "学习网站/笔记集合.canvas",
     "课程&笔记/未命名.canvas",

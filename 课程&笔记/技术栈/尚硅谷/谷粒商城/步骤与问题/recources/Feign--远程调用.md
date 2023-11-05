@@ -35,4 +35,4 @@
 ## 最佳实践
 ![Pasted image 20231102165407](BEFORE/附件/Pasted%20image%2020231102165407.png)
 
-下一个[NACOS--配置中心](NACOS--配置中心.md)
+下一个[NACOS--配置中心](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md)
