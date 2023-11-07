@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "app登陆--接口定义.md",
+                "file": "leadnews--maven 问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "app登陆--接口定义.md",
+                "file": "leadnews--maven 问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "app登陆--接口定义.md"
+                "file": "leadnews--maven 问题.md"
               }
             }
           },
@@ -223,8 +223,22 @@
                   },
                   "pinned": true
                 }
+              },
+              {
+                "id": "89071f468d511c3f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "leadnews--maven 问题.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -237,10 +251,11 @@
       }
     ]
   },
-  "active": "5e0122a97ab868e0",
+  "active": "89071f468d511c3f",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "app登陆--接口定义.md",
+    "leadnews--maven 问题.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/JDK1.8-Mac m1 pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
@@ -265,7 +280,6 @@
     "BEFORE/outsource/How To Create a Movie Database in Obsidian.md",
     "课程&笔记/技术栈/黑马/黑马头条/resource/app登陆--微服务搭建.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
-    "Configuration/win10安装macos/VMware/参考资料.md",
     "BEFORE/附件/Pasted image 20231104154259.png",
     "BEFORE/附件/Pasted image 20231104134818.png",
     "BEFORE/附件/Pasted image 20231104134628.png",
