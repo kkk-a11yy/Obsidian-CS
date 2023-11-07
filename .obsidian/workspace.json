@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " maven",
+                "query": "bean",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leadnews--maven 问题.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leadnews--maven 问题.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leadnews--maven 问题.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md"
               }
             }
           },
@@ -212,7 +212,6 @@
               {
                 "id": "5e0122a97ab868e0",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -220,8 +219,7 @@
                     "mode": "source",
                     "backlinks": true,
                     "source": false
-                  },
-                  "pinned": true
+                  }
                 }
               },
               {
@@ -242,20 +240,21 @@
           }
         ],
         "direction": "vertical",
-        "x": 52,
-        "y": 696,
+        "x": 194,
+        "y": 416,
         "width": 815,
-        "height": 367,
+        "height": 645,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "89071f468d511c3f",
+  "active": "db1be212d72e80cc",
   "lastOpenFiles": [
-    "app登陆--接口定义.md",
     "leadnews--maven 问题.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+    "app登陆--接口定义.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/JDK1.8-Mac m1 pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
@@ -279,7 +278,6 @@
     "BEFORE/outsource/How I Built a SECOND Brain 🧠 in Obsidian MD.md",
     "BEFORE/outsource/How To Create a Movie Database in Obsidian.md",
     "课程&笔记/技术栈/黑马/黑马头条/resource/app登陆--微服务搭建.md",
-    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "BEFORE/附件/Pasted image 20231104154259.png",
     "BEFORE/附件/Pasted image 20231104134818.png",
     "BEFORE/附件/Pasted image 20231104134628.png",
