@@ -1,0 +1,3 @@
+- jwt token : 
+	- 不存token，登录之后的功能没token无法访问
+	- token里放jwt令牌，用来校验和传输用户id
