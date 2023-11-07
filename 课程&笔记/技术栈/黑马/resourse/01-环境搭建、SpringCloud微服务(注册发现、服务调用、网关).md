@@ -158,10 +158,10 @@ docker run --env MODE=standalone --name nacos --restart=always  -d -p 8848:8848 
 
 
 登录需要用到的是ap_user表，表结构如下：
+![image-20210412142006558](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412142006558.png)
 
-![image-20210412142006558](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210412142006558.png)
+![image-20210412142055047](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412142055047.png)
 
-![image-20210412142055047](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210412142055047.png)
 
 项目中的持久层使用的mybatis-plus，一般都使用mybais-plus逆向生成对应的实体类
 
