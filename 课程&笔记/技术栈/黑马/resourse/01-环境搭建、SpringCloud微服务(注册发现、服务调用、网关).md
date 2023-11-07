@@ -347,7 +347,8 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/leadnews_user?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
     username: root
-    password: root
+    password:123456root
+    //password: root
 # 设置Mapper接口所对应的XML文件位置，如果你在Mapper接口中有自定义方法，需要进行该配置
 mybatis-plus:
   mapper-locations: classpath*:mapper/*.xml
@@ -362,7 +363,7 @@ logback.xml
 
 <configuration>
     <!--定义日志文件的存储地址,使用绝对路径-->
-    <property name="LOG_HOME" value="e:/logs"/>
+    <property name="LOG_HOME" value="/Volumes/DATA/leadnews/logs"/>
 
     <!-- Console 输出设置 -->
     <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
