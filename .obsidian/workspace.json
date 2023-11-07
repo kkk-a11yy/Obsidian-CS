@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
-                "mode": "preview",
+                "file": "课程&笔记/技术栈/黑马/黑马头条/resource/app登陆--微服务搭建.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+                "file": "课程&笔记/技术栈/黑马/黑马头条/resource/app登陆--微服务搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+                "file": "课程&笔记/技术栈/黑马/黑马头条/resource/app登陆--微服务搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md"
+                "file": "课程&笔记/技术栈/黑马/黑马头条/resource/app登陆--微服务搭建.md"
               }
             }
           },
@@ -249,15 +248,17 @@
       }
     ]
   },
-  "active": "7c0b104216c7b927",
+  "active": "db1be212d72e80cc",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/黑马/黑马头条/resource/model--创建实体类对应数据库.md",
+    "课程&笔记/技术栈/黑马/黑马头条/resource/app登陆--微服务搭建.md",
     "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql-Mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Feign--远程调用.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412142428499.png.md",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/docker--安装nacos.md",
@@ -277,8 +278,6 @@
     "BEFORE/时间编表.md",
     "BEFORE/Person/YouTube-data.md",
     "BEFORE/Outsource-data.md",
-    "BEFORE/outsource/Automate Your Vault With Dataview.md",
-    "BEFORE/outsource/Building A Book Library In Obsidian.md",
     "BEFORE/附件/Pasted image 20231104154259.png",
     "BEFORE/附件/Pasted image 20231104134818.png",
     "BEFORE/附件/Pasted image 20231104134628.png",

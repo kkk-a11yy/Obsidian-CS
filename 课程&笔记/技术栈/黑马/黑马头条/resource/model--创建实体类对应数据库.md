@@ -29,6 +29,7 @@ spring:
 ## 配置logback.xml
 ```java
 路径：heima-leadnews-service/heima-leadnews-user/src/main/resources/logback.xml
+修改日志输出路径
 ```
 
 ## 配置 nacos

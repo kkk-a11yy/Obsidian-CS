@@ -559,12 +559,10 @@ Postman是一款功能强大的网页调试与发送网页HTTP请求的Chrome插
 官方网址：https://www.postman.com/
 
 解压资料文件夹中的软件，安装即可
-
-![image-20210413162511873](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210413162511873.png)
+![image-20210413162511873](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162511873.png)
 
 通常的接口测试查看请求和响应，下面是登录请求的测试
-
-![image-20210413162558657](01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets\image-20210413162558657.png)
+![image-20210413162558657](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162558657.png)
 
 ### 7.2)swagger
 
