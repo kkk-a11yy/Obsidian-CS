@@ -46,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leadnews--maven 问题.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leadnews--maven 问题.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leadnews--maven 问题.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md"
               }
             }
           },
@@ -252,8 +253,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 315,
-        "y": 496,
+        "x": 483,
+        "y": 301,
         "width": 815,
         "height": 645,
         "maximize": false,
@@ -261,13 +262,13 @@
       }
     ]
   },
-  "active": "89071f468d511c3f",
+  "active": "df55e704be05b3d4",
   "lastOpenFiles": [
     "课程&笔记/技术栈/黑马/黑马头条/resource/app登陆--微服务搭建.md",
+    "leadnews--maven 问题.md",
     "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
-    "leadnews--maven 问题.md",
     "课程&笔记/技术栈/黑马/黑马头条/resource/model--创建实体类对应数据库.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql-Mac m1pro.md",
