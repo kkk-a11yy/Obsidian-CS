@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/README.md"
+                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md"
               }
             }
           },
@@ -198,89 +197,20 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "floating": {
-    "id": "b945ee5a7e5a14c5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8f368cdedb162651",
-        "type": "window",
-        "children": [
-          {
-            "id": "58ba551051d1d7a9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "89071f468d511c3f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "leadnews--maven 问题.md",
-                    "mode": "preview",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 483,
-        "y": 301,
-        "width": 815,
-        "height": 645,
-        "maximize": false,
-        "zoom": 0.5
-      },
-      {
-        "id": "0ceec195d82ffdc5",
-        "type": "window",
-        "children": [
-          {
-            "id": "a6df7a2aa52b9bf5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f5f0ade21155cfbd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "BEFORE/README.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1178,
-        "y": 168,
-        "width": 550,
-        "height": 695,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "f5f0ade21155cfbd",
+  "active": "7c0b104216c7b927",
   "lastOpenFiles": [
+    "leadnews--maven 问题.md",
+    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+    "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
     "课程&笔记/技术栈/尚硅谷/红包雨/红包雨.md",
     "课程&笔记/技术栈/尚硅谷/红包雨",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md",
     "版本对应.md",
     "课程&笔记/技术栈/黑马/黑马头条/resource/app登陆--微服务搭建.md",
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
-    "leadnews--maven 问题.md",
     "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "课程&笔记/技术栈/黑马/黑马头条/resource/model--创建实体类对应数据库.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql-Mac m1pro.md",
@@ -298,7 +228,6 @@
     "课程&笔记/技术栈/黑马/resourse/资源.md",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png 1.md",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png.md",
-    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407203818808.png.md",
     "BEFORE/附件/Pasted image 20231104154259.png",
     "BEFORE/附件/Pasted image 20231104134818.png",
     "BEFORE/附件/Pasted image 20231104134628.png",
