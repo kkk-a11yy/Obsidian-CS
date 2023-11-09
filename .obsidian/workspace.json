@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+                "file": "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+                "file": "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+                "file": "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md"
+                "file": "学习网站/notes/advanced-java/ad-note/JVM/类加载.md"
               }
             }
           },
@@ -199,11 +198,12 @@
   },
   "active": "7c0b104216c7b927",
   "lastOpenFiles": [
-    "leadnews--maven 问题.md",
+    "课程&笔记/技术栈/尚硅谷/红包雨/红包雨.md",
+    "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+    "leadnews--maven 问题.md",
     "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
-    "课程&笔记/技术栈/尚硅谷/红包雨/红包雨.md",
     "课程&笔记/技术栈/尚硅谷/红包雨",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md",
     "版本对应.md",
@@ -227,7 +227,6 @@
     "课程&笔记/技术栈/黑马/黑马头条/resource",
     "课程&笔记/技术栈/黑马/resourse/资源.md",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png 1.md",
-    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png.md",
     "BEFORE/附件/Pasted image 20231104154259.png",
     "BEFORE/附件/Pasted image 20231104134818.png",
     "BEFORE/附件/Pasted image 20231104134628.png",
