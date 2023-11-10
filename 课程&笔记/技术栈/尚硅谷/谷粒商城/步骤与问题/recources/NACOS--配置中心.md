@@ -28,6 +28,34 @@ spring.cloud.nacos.config.server-addr=127.0.0.1:8848
 	``Located property source: [BootstrapPropertySource {name='bootstrapProperties-andymall-coupon.properties,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-andymall-coupon,DEFAULT_GROUP'}]
 	意思：定位数据源从nacos当中的`andymall-coupon.properties`这个文件
 		于是在nacos当中配置这个文件
+
+## controller测试
+- 添加
+	- @RefreshScope
+	- 
+
+```java
+//添加
+@RefreshScope
+@RestController
+@RequestMapping("coupon/coupon")
+public class CouponController {
+    @Autowired
+    private CouponService couponService;
+
+    @Value("${coupon.user.name}")
+    private String name;
+    @Value("${coupon.user.age}")
+    private Integer age;
+
+    @RequestMapping("/test")
+    public R test(){
+        return R.ok().put("name",name).put("age",age);
+    }
+```
+然后重启微服务，访问微服务端口：http://127.0.0.1:13000/coupon/coupon/test
+
+动态刷新成功，数据改变后不用再重新打包运行发布
 ## 配置 Nacos Config 地址并引入服务配置
 ```java
 //微服务模块 application.yml添加
