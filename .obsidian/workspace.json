@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md"
               }
             }
           },
@@ -201,7 +201,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -214,30 +214,31 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Feign--远程调用.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 968,
-        "y": 581,
+        "x": 943,
+        "y": 314,
         "width": 742,
-        "height": 439,
+        "height": 564,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "869ead8d26668c00",
+  "active": "8309ece468890dd3",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Feign--远程调用.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "版本对应.md",
