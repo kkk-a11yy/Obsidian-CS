@@ -6,7 +6,7 @@
 
 ## 在不同命名空间新建配置
 
-![](BEFORE/附件/Pasted%20image%2020231110173030.png)
+![](BEFORE/附件/Pasted%20image%2020231110173738.png)
 
 ## bootstrap.properties 添加
 ```java
@@ -19,3 +19,5 @@ spring.cloud.nacos.config.group=dev
 - 重启微服务
 - 访问 http://127.0.0.1:13000/coupon/coupon/test
 - 获得不同命名空间的配置信息
+
+下一个：

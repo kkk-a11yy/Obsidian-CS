@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nacos--命名空间与配置分组.md",
+                "file": "nacos--加载多配置集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nacos--命名空间与配置分组.md",
+                "file": "nacos--加载多配置集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nacos--命名空间与配置分组.md"
+                "file": "nacos--加载多配置集.md"
               }
             }
           },
@@ -259,9 +259,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "fa44d0c3313bc0ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "nacos--加载多配置集.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -274,15 +287,17 @@
       }
     ]
   },
-  "active": "76a3d48f1dc0475c",
+  "active": "fa44d0c3313bc0ff",
   "lastOpenFiles": [
+    "nacos--命名空间与配置分组.md",
+    "nacos--加载多配置集.md",
+    "BEFORE/附件/Pasted image 20231110173738.png",
     "BEFORE/附件/Pasted image 20231110173030.png",
     "BEFORE/附件/Pasted image 20231110172541.png",
     "BEFORE/附件/Pasted image 20231110170626.png",
     "BEFORE/附件/Pasted image 20231110165526.png",
     "BEFORE/附件/Pasted image 20231110165317.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
-    "nacos--命名空间与配置分组.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
@@ -313,8 +328,6 @@
     "BEFORE/附件/Pasted image 20231104134818.png",
     "BEFORE/附件/Pasted image 20231104134628.png",
     "BEFORE/附件/Pasted image 20231104134331.png",
-    "BEFORE/附件/Pasted image 20231104124421.png",
-    "BEFORE/附件/Pasted image 20231104124125.png",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162511873.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210416095950485.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162558657.png.baiduyun.p.downloading",
