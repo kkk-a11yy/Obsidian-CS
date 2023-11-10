@@ -80,13 +80,17 @@ SpringApplication.run(AndymallCouponApplication.class, args);
 }
 ```
 - rerun 微服务，nacos查看注册的服务
-
+localhost:8848/nacos/
 
 
 #necos_ConnectException 
 - java.net.ConnectException: [NACOS HTTP-POST] 
 	- [nacos报错([NACOS ConnectException httpPost] currentServerAddr: http://) 没有配置本地但是一直发生localhost:8848连接异常_一名陈序员的博客-CSDN博客](https://blog.csdn.net/m0_56864757/article/details/124996361)
 
+#failed_to_req_API_/api//nacos/v1/ns/instance 
+- Caused by: com.alibaba.nacos.api.exception.NacosException: failed to req API:/api//nacos/v1/ns/instance 
+	- [com.alibaba.nacos.api.exception.NacosException: failed to req API:/nacos/v1/ns/instance_hzz_321的博客-CSDN博客](https://blog.csdn.net/hzz_321/article/details/128241776)
+	- 原因：nacos服务未启动
 
 
 下一个[Feign--远程调用](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Feign--远程调用.md)
