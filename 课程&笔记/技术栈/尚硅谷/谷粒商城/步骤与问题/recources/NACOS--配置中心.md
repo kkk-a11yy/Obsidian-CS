@@ -23,6 +23,11 @@ spring.application.name=andymall-coupon
 //配置中心地址
 spring.cloud.nacos.config.server-addr=127.0.0.1:8848
 ```
+
+启动后有一行：
+	``Located property source: [BootstrapPropertySource {name='bootstrapProperties-andymall-coupon.properties,DEFAULT_GROUP'}, BootstrapPropertySource {name='bootstrapProperties-andymall-coupon,DEFAULT_GROUP'}]
+	意思：定位数据源从nacos当中的`andymall-coupon.properties`这个文件
+		于是在nacos当中配置这个文件
 ## 配置 Nacos Config 地址并引入服务配置
 ```java
 //微服务模块 application.yml添加
@@ -35,3 +40,4 @@ spring.cloud.nacos.config.server-addr=127.0.0.1:8848
 
 >![note]
 >spring-boot2.4以后的版本需要在common pom里导入spring-cloud-starter-bootstrap依赖
+>注意以下几点：1.添加bootstrap依赖.2配置完重启nacos
