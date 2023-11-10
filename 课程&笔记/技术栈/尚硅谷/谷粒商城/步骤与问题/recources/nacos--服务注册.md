@@ -80,8 +80,9 @@ SpringApplication.run(AndymallCouponApplication.class, args);
 }
 ```
 - rerun 微服务，nacos查看注册的服务
-localhost:8848/nacos/
-
+http://localhost:8848/nacos/
+#无法建立安全连接
+	可能是https,换成http
 
 #necos_ConnectException 
 - java.net.ConnectException: [NACOS HTTP-POST] 
