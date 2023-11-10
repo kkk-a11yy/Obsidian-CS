@@ -51,4 +51,6 @@ spring:
 
 #无法找到名称查询的RoutePredicateFactory
 
-#bean_of_type_org_springframework_http.codec.ServerCodecConfigurer' that could not be found](https://stackoverflow.com/questions/52447223/bean-of-type-org-springframework-http-codec-servercodecconfigurer-that-could-n)
+#bean_of_type_org_springframework_http_codec_ServerCodecConfigurer_that_could_not_be_found
+- [java - bean of type 'org.springframework.http.codec.ServerCodecConfigurer' that could not be found - Stack Overflow](https://stackoverflow.com/questions/52447223/bean-of-type-org-springframework-http-codec-servercodecconfigurer-that-could-n)
+	- 排除掉start-web的依赖
