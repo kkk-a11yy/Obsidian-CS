@@ -41,7 +41,7 @@ spring:
 
 #datasource_url错误
 1. 因为引入common的mybatis依赖，就有了数据源的操作，但是这里还没有用到数据源，所以可以屏蔽mybatis的依赖
-	1. 在项目的application添加：`@SpringBootApplication(exclude = DataSourceAutoConfiguration.class)`
+	1. 在项目的application添加：`@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class, DruidDataSourceAutoConfigure.class})`
 	2. 排除了还是报错的话，不导入common包直接导入config和discover就好
 	3. DataSourceAutoConfiguration和DruidDataSourceAutoConfigure都要排除
 	4. 如果common中引入了web启动器，注意在引入common的时候排除掉web-starter
@@ -55,4 +55,4 @@ spring:
 - [java - bean of type 'org.springframework.http.codec.ServerCodecConfigurer' that could not be found - Stack Overflow](https://stackoverflow.com/questions/52447223/bean-of-type-org-springframework-http-codec-servercodecconfigurer-that-could-n)
 	- 排除掉start-web的依赖
 		- [about spring boot how to disable web environment correctly - Stack Overflow](https://stackoverflow.com/questions/37187519/about-spring-boot-how-to-disable-web-environment-correctly)
-		- `@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class, WebApplicationType.class})`
+		- 解决：application.properties 添加: `spring.main.web-application-type=reactive`
