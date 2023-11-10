@@ -42,17 +42,23 @@ spring:
 #datasource_url错误
 1. 因为引入common的mybatis依赖，就有了数据源的操作，但是这里还没有用到数据源，所以可以屏蔽mybatis的依赖
 	1. 在项目的application添加：`@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class, DruidDataSourceAutoConfigure.class})`
-	2. 排除了还是报错的话，不导入common包直接导入config和discover就好
-	3. DataSourceAutoConfiguration和DruidDataSourceAutoConfigure都要排除
-	4. 如果common中引入了web启动器，注意在引入common的时候排除掉web-starter
-	5. 正解：排除mysql驱动依赖，排除mybatis依赖，可以在子模块pom依赖下加scope test就能排除了
-	6. 启动报错的是网关版本!!!!!!!!!!!!!!!
-	7. 访问不到的，看看pom.xml中是不是引入了tomcat服务器，排除就好了
+		1. 排除了还是报错的话，不导入common包直接导入config和discover就好
+		2. DataSourceAutoConfiguration和DruidDataSourceAutoConfigure都要排除
+		3. 如果common中引入了web启动器，注意在引入common的时候排除掉web-starter
+		4. 正解：排除mysql驱动依赖，排除mybatis依赖，可以在子模块pom依赖下加scope test就能排除了
+		5. 启动报错的是网关版本!!!!!!!!!!!!!!!
+		6. 访问不到的，看看pom.xml中是不是引入了tomcat服务器，排除就好了
 
 #无法找到名称查询的RoutePredicateFactory
+
+
 
 #bean_of_type_org_springframework_http_codec_ServerCodecConfigurer_that_could_not_be_found
 - [java - bean of type 'org.springframework.http.codec.ServerCodecConfigurer' that could not be found - Stack Overflow](https://stackoverflow.com/questions/52447223/bean-of-type-org-springframework-http-codec-servercodecconfigurer-that-could-n)
 	- 排除掉start-web的依赖
 		- [about spring boot how to disable web environment correctly - Stack Overflow](https://stackoverflow.com/questions/37187519/about-spring-boot-how-to-disable-web-environment-correctly)
 		- 解决：application.properties 添加: `spring.main.web-application-type=reactive`
+
+启动gatewayapplication 
+访问：
+http://127.0.0.1:88/hello?url=qq
