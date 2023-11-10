@@ -29,3 +29,8 @@ spring.cloud.nacos.config.extension-configs[2].refresh=true
 - 访问：
 - http://127.0.0.1:13000/coupon/coupon/list
 - http://127.0.0.1:13000/coupon/coupon/test
+
+>[!note] 
+>此时的配置文件是临时的，重启nacos数据会消失，要数据持久化，可以nacos配置成自己的数据库
+
+下一个：[SpringCloudGateway--配置网关](SpringCloudGateway--配置网关.md)

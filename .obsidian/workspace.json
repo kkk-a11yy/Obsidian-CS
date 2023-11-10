@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nacos--加载多配置集.md",
+                "file": "SpringCloudGateway--配置网关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nacos--加载多配置集.md",
+                "file": "SpringCloudGateway--配置网关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nacos--加载多配置集.md"
+                "file": "SpringCloudGateway--配置网关.md"
               }
             }
           },
@@ -222,45 +222,6 @@
                 }
               },
               {
-                "id": "5f4230ef29af16c3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8309ece468890dd3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "76a3d48f1dc0475c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "nacos--命名空间与配置分组.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "fa44d0c3313bc0ff",
                 "type": "leaf",
                 "state": {
@@ -272,26 +233,41 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "967804ff25190519",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "SpringCloudGateway--配置网关.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 4
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 55,
-        "y": 554,
+        "x": 75,
+        "y": 637,
         "width": 742,
-        "height": 375,
+        "height": 396,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "fa44d0c3313bc0ff",
+  "active": "967804ff25190519",
   "lastOpenFiles": [
-    "BEFORE/附件/Pasted image 20231110174457.png",
-    "nacos--命名空间与配置分组.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "nacos--加载多配置集.md",
+    "SpringCloudGateway--配置网关.md",
+    "nacos--命名空间与配置分组.md",
+    "BEFORE/附件/Pasted image 20231110174457.png",
     "BEFORE/附件/Pasted image 20231110173738.png",
     "BEFORE/附件/Pasted image 20231110173030.png",
     "BEFORE/附件/Pasted image 20231110172541.png",
@@ -304,7 +280,6 @@
     "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Feign--远程调用.md",
     "版本对应.md",
     "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
@@ -327,7 +302,6 @@
     "BEFORE/附件/Pasted image 20231104154259.png",
     "BEFORE/附件/Pasted image 20231104134818.png",
     "BEFORE/附件/Pasted image 20231104134628.png",
-    "BEFORE/附件/Pasted image 20231104134331.png",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162511873.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210416095950485.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162558657.png.baiduyun.p.downloading",
