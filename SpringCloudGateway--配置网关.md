@@ -13,4 +13,11 @@
 	- java.version：1.8
 	- spring-cloud.version：Hoxton.SR3
 - AndymallGatewayApplication 开启注册发现：@EnableDiscoveryClient
-- 配置注册中心地址：
+- application.properties:
+	- 添加配置注册中心地址：nacos.config.server-addr=127.0.0.1:8848
+	- 添加服务名称：application.name=andymall-gateway
+- bootstrap.properties:
+	- 添加项目名字：application.name=andymall-gateway
+	- 添加nacos.config.server-addr=127.0.0.1:8848
+	- 添加 gateway命名空间的id
+- nacos添加gateway命名空间
