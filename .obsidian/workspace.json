@@ -265,8 +265,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 60,
-        "y": 718,
+        "x": 55,
+        "y": 554,
         "width": 742,
         "height": 375,
         "maximize": false,
@@ -276,6 +276,7 @@
   },
   "active": "76a3d48f1dc0475c",
   "lastOpenFiles": [
+    "BEFORE/附件/Pasted image 20231110170626.png",
     "BEFORE/附件/Pasted image 20231110165526.png",
     "BEFORE/附件/Pasted image 20231110165317.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
@@ -314,7 +315,6 @@
     "BEFORE/附件/Pasted image 20231104124125.png",
     "BEFORE/附件/Pasted image 20231104122318.png",
     "BEFORE/附件/Pasted image 20231103213500.png",
-    "BEFORE/附件/Pasted image 20231103210153.png",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162511873.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210416095950485.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162558657.png.baiduyun.p.downloading",
