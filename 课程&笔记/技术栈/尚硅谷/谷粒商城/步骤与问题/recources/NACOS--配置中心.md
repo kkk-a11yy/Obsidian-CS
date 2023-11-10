@@ -70,3 +70,5 @@ public class CouponController {
 >![note]
 >spring-boot2.4以后的版本需要在common pom里导入spring-cloud-starter-bootstrap依赖
 >注意以下几点：1.添加bootstrap依赖.2配置完重启nacos
+
+下一个：[nacos--命名空间与配置分组](nacos--命名空间与配置分组.md)
