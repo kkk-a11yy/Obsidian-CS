@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0cfac93f3a39503d",
+        "id": "8b3413a2c1ce582a",
         "type": "tabs",
         "children": [
           {
-            "id": "7c0b104216c7b927",
+            "id": "41271b558c41d97c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "946838aa81720576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "版本对应.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -91,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 345.50390243530273
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习网站/notes/advanced-java/ad-note/JVM/类加载.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md"
               }
             }
           },
@@ -196,8 +183,50 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "7c0b104216c7b927",
+  "floating": {
+    "id": "b945ee5a7e5a14c5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ff8db3cb6e0f0a31",
+        "type": "window",
+        "children": [
+          {
+            "id": "869a5e76ccb791aa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "869ead8d26668c00",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 882,
+        "y": 117,
+        "width": 846,
+        "height": 695,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "869ead8d26668c00",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "版本对应.md",
+    "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
     "课程&笔记/技术栈/尚硅谷/红包雨/红包雨.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
@@ -206,10 +235,7 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
     "课程&笔记/技术栈/尚硅谷/红包雨",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md",
-    "版本对应.md",
     "课程&笔记/技术栈/黑马/黑马头条/resource/app登陆--微服务搭建.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
     "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "课程&笔记/技术栈/黑马/黑马头条/resource/model--创建实体类对应数据库.md",
@@ -226,7 +252,6 @@
     "课程&笔记/技术栈/黑马/黑马头条/resource/项目结构.md",
     "课程&笔记/技术栈/黑马/黑马头条/resource",
     "课程&笔记/技术栈/黑马/resourse/资源.md",
-    "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412143121648.png 1.md",
     "BEFORE/附件/Pasted image 20231104154259.png",
     "BEFORE/附件/Pasted image 20231104134818.png",
     "BEFORE/附件/Pasted image 20231104134628.png",

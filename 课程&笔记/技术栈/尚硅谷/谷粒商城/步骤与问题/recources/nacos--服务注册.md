@@ -4,7 +4,7 @@
 	  - [alibaba/spring-cloud-alibaba: Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.](https://github.com/alibaba/spring-cloud-alibaba)
 	    - [spring-cloud-alibaba/spring-cloud-alibaba-docs/src/main/asciidoc-zh/nacos-discovery.adoc at 2022.x · alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba/blob/2022.x/spring-cloud-alibaba-docs/src/main/asciidoc-zh/nacos-discovery.adoc)
 	![Pasted image 20231030130229](BEFORE/附件/Pasted%20image%2020231030130229.png)
-## 在 common 模块 引入 SpringCloudAlibaba2.2.1 以及nacos
+##  `common`  引入 SpringCloudAlibaba2.2.1 && nacos
   ```java
   <dependencyManagement>
 <dependencies>
