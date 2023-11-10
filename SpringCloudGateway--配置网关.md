@@ -50,3 +50,5 @@ spring:
 	7. 访问不到的，看看pom.xml中是不是引入了tomcat服务器，排除就好了
 
 #无法找到名称查询的RoutePredicateFactory
+
+#bean_of_type_org_springframework_http.codec.ServerCodecConfigurer' that could not be found](https://stackoverflow.com/questions/52447223/bean-of-type-org-springframework-http-codec-servercodecconfigurer-that-could-n)
