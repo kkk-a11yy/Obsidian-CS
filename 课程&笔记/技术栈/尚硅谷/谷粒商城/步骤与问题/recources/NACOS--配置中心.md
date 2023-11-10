@@ -32,7 +32,8 @@ spring.cloud.nacos.config.server-addr=127.0.0.1:8848
 ## controller测试
 - 添加
 	- @RefreshScope
-	- 
+	- @Value("${配置项的名}")
+	- 配置中心的配置优先于当前应用的配置文件中的配置
 
 ```java
 //添加
