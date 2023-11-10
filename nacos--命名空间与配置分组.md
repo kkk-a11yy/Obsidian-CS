@@ -6,13 +6,14 @@
 
 ## 在不同命名空间新建配置
 
-![](BEFORE/附件/Pasted%20image%2020231110165526.png)
+![](BEFORE/附件/Pasted%20image%2020231110173030.png)
 
 ## bootstrap.properties 添加
 ```java
 //添加不同命名空间的配置管理信息（在nacos查看，这里是coupon的）
 spring.cloud.nacos.config.namespace=20bb1b87-a7f3-49e5-82ac-b1cf0500a872
-
+//读取dev组下的配置
+spring.cloud.nacos.config.group=dev
 ```
 
 - 重启微服务
