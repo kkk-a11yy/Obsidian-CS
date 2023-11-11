@@ -1,0 +1,2 @@
+- VS Code 
+	- 生成html: `!! ; shift+!` 
