@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用vue 脚手架模块化开发.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用vue 脚手架模块化开发.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用vue 脚手架模块化开发.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md"
               }
             }
           },
@@ -286,13 +286,12 @@
                   }
                 }
               }
-            ],
-            "currentTab": 5
+            ]
           }
         ],
         "direction": "vertical",
-        "x": -35,
-        "y": 260,
+        "x": 90,
+        "y": 223,
         "width": 804,
         "height": 745,
         "maximize": false,
@@ -300,15 +299,15 @@
       }
     ]
   },
-  "active": "cb2569bb91a795c5",
+  "active": "869ead8d26668c00",
   "lastOpenFiles": [
+    "nacos--加载多配置集.md",
+    "SpringCloudGateway--配置网关.md",
+    "ES6--let&const.md",
     "vue--.md",
     "使用vue 脚手架模块化开发.md",
-    "ES6--let&const.md",
-    "SpringCloudGateway--配置网关.md",
     "BEFORE/附件/Pasted image 20231110185740.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-    "nacos--加载多配置集.md",
     "nacos--命名空间与配置分组.md",
     "BEFORE/附件/Pasted image 20231110174457.png",
     "BEFORE/附件/Pasted image 20231110173738.png",

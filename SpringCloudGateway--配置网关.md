@@ -62,3 +62,5 @@ spring:
 启动gatewayapplication 
 访问：
 http://127.0.0.1:88/hello?url=qq
+
+下一个：[ES6--let&const](ES6--let&const.md)
