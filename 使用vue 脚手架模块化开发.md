@@ -13,3 +13,6 @@
 ```
 
 #安装element-ui
+
+#快速生成vue代码片段
+- [VSCode 快速生成 .vue 基本模板、发送http请求模板 - 农夫三拳有点疼~ - 博客园](https://www.cnblogs.com/songjilong/p/12635448.html)
