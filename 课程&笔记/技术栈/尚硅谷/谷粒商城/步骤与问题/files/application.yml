@@ -4,6 +4,7 @@ spring:
     password: root
     url: jdbc:mysql://192.168.101.104:3306/andymall_pms
     driver-class-name: com.mysql.jdbc.Driver
+    //用8.0的驱动貌似是有个cj文件夹,8.0版本应该用com.mysql.cj.jdbc.Driver
 mybatis-plus:
   mapper-locations: classpath*:/mapper/**/*.xml
   global-config:
