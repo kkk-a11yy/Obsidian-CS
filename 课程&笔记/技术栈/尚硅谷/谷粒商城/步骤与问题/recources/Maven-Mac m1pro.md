@@ -98,3 +98,7 @@ file encoding: utf-8
 </mirror>
 
 ```
+
+#maven一直在加载
+- [IDEA创建Maven项目一直显示正在加载的问题 - 悠然现南山 - 博客园](https://www.cnblogs.com/yrxns/p/9850162.html)
+- Runner: VM Option: `-DarchetypeCatalog=internal`
