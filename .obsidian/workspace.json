@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mysql",
+                "query": "maven",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-三级分类-查询递归.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-三级分类-查询递归.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-三级分类-查询递归.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md"
               }
             }
           },
@@ -304,8 +305,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 108,
-        "y": 618,
+        "x": 75,
+        "y": 733,
         "width": 793,
         "height": 385,
         "maximize": false,
@@ -313,10 +314,13 @@
       }
     ]
   },
-  "active": "79499a9e1b626ffd",
+  "active": "41271b558c41d97c",
   "lastOpenFiles": [
-    "使用vue 脚手架模块化开发.md",
+    "leadnews--maven 问题.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/IDEA-Mac m1 pro.md",
+    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "商品服务-三级分类-查询递归.md",
+    "使用vue 脚手架模块化开发.md",
     "vue--.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "nacos--加载多配置集.md",
@@ -333,7 +337,6 @@
     "BEFORE/附件/Pasted image 20231110165317.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md",
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
@@ -341,7 +344,6 @@
     "版本对应.md",
     "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
     "课程&笔记/技术栈/尚硅谷/红包雨/红包雨.md",
-    "leadnews--maven 问题.md",
     "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
     "课程&笔记/技术栈/尚硅谷/红包雨",
@@ -350,7 +352,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql-Mac m1pro.md",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412142428499.png.md",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/docker--安装nacos.md",
     "课程&笔记/技术栈/黑马/黑马头条/resource",
     "BEFORE/附件/Pasted image 20231104154259.png",
     "BEFORE/附件/Pasted image 20231104134818.png",
