@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed8ca3d58eacadaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,8 +239,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 395,
-        "y": 522,
+        "x": 98,
+        "y": 508,
         "width": 793,
         "height": 366,
         "maximize": false,
@@ -264,13 +250,16 @@
   },
   "active": "9c8be7bab5227cb5",
   "lastOpenFiles": [
-    "商品服务-三级分类-查询递归.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "leadnews--maven 问题.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
+    "课程&笔记/技术栈/黑马/黑马头条/resource/项目结构.md",
     "商品服务-三级分类-配置网管路由和路径重写.md",
+    "商品服务-三级分类-查询递归.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "nacos--加载多配置集.md",
     "BEFORE/附件/Pasted image 20231113183144.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
-    "leadnews--maven 问题.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/IDEA-Mac m1 pro.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "使用vue 脚手架模块化开发.md",
@@ -288,9 +277,7 @@
     "BEFORE/附件/Pasted image 20231110165317.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/NACOS--配置中心.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/nacos--服务注册.md",
-    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Feign--远程调用.md",
     "版本对应.md",
     "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
@@ -299,7 +286,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
     "课程&笔记/技术栈/尚硅谷/红包雨",
     "课程&笔记/技术栈/黑马/黑马头条/resource/app登陆--微服务搭建.md",
-    "课程&笔记/技术栈/黑马/黑马头条/resource/model--创建实体类对应数据库.md",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
     "课程&笔记/技术栈/黑马/黑马头条/resource",
     "BEFORE/附件/Pasted image 20231104154259.png",
