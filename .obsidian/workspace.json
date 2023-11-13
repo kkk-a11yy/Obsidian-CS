@@ -304,10 +304,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 135,
-        "y": 277,
-        "width": 804,
-        "height": 745,
+        "x": 108,
+        "y": 618,
+        "width": 793,
+        "height": 385,
         "maximize": false,
         "zoom": 0.5
       }
