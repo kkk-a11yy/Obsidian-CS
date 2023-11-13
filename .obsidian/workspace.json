@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用vue 脚手架模块化开发.md",
+                "file": "商品服务-三级分类-查询递归.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用vue 脚手架模块化开发.md",
+                "file": "商品服务-三级分类-查询递归.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用vue 脚手架模块化开发.md"
+                "file": "商品服务-三级分类-查询递归.md"
               }
             }
           },
@@ -285,9 +285,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "79499a9e1b626ffd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "商品服务-三级分类-查询递归.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 5
+            "currentTab": 6
           }
         ],
         "direction": "vertical",
@@ -300,10 +313,11 @@
       }
     ]
   },
-  "active": "cb2569bb91a795c5",
+  "active": "79499a9e1b626ffd",
   "lastOpenFiles": [
-    "vue--.md",
     "使用vue 脚手架模块化开发.md",
+    "商品服务-三级分类-查询递归.md",
+    "vue--.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "nacos--加载多配置集.md",
     "SpringCloudGateway--配置网关.md",
@@ -337,7 +351,6 @@
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412142428499.png.md",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/docker--安装nacos.md",
-    "app登陆--接口定义.md",
     "课程&笔记/技术栈/黑马/黑马头条/resource",
     "BEFORE/附件/Pasted image 20231104154259.png",
     "BEFORE/附件/Pasted image 20231104134818.png",
