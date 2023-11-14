@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-三级分类-tree删除.md",
+                "file": "商品服务-三级分类-tree删除--逻辑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-三级分类-tree删除.md",
+                "file": "商品服务-三级分类-tree删除--逻辑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-三级分类-tree删除.md"
+                "file": "商品服务-三级分类-tree删除--逻辑.md"
               }
             }
           },
@@ -266,7 +266,20 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "商品服务-三级分类-tree删除.md",
+                    "file": "商品服务-三级分类-tree删除--页面.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a84171768a227743",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "商品服务-三级分类-tree删除--逻辑.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -274,7 +287,7 @@
                 }
               }
             ],
-            "currentTab": 5
+            "currentTab": 6
           }
         ],
         "direction": "vertical",
@@ -287,10 +300,11 @@
       }
     ]
   },
-  "active": "6e2c6244eadb440b",
+  "active": "a84171768a227743",
   "lastOpenFiles": [
+    "商品服务-三级分类-tree删除--页面.md",
+    "商品服务-三级分类-tree删除--逻辑.md",
     "商品服务-三级分类-查询-树形查询.md",
-    "商品服务-三级分类-tree删除.md",
     "BEFORE/附件/Pasted image 20231114173504.png",
     "商品服务-三级分类-网关统一配置跨域.md",
     "商品服务-三级分类-查询递归.md",
@@ -324,7 +338,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Feign--远程调用.md",
     "版本对应.md",
     "学习网站/notes/advanced-java/ad-note/JVM/类加载.md",
-    "课程&笔记/技术栈/尚硅谷/红包雨/红包雨.md",
     "课程&笔记/技术栈/尚硅谷/红包雨",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
     "课程&笔记/技术栈/黑马/黑马头条/resource",

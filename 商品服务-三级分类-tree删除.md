@@ -1,4 +1,0 @@
-- element:  scoped slot
-	- 复制 `<span>` 标签的内容，放到 category.vue 的 `<el-tree>` 当中
-	- 复制 `append` 、`remove` 方法到 `methods`
-	- 只有一级二级菜单显示`append` 
