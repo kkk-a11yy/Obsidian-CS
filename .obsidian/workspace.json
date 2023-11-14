@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-三级分类-查询-树形查询.md",
+                "file": "商品服务-三级分类-网关统一配置跨域.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-三级分类-查询-树形查询.md",
+                "file": "商品服务-三级分类-网关统一配置跨域.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-三级分类-查询-树形查询.md"
+                "file": "商品服务-三级分类-网关统一配置跨域.md"
               }
             }
           },
@@ -261,7 +261,7 @@
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -274,10 +274,10 @@
       }
     ]
   },
-  "active": "5e383ca444fce40a",
+  "active": "e412c5137bda0b00",
   "lastOpenFiles": [
-    "商品服务-三级分类-网关统一配置跨域.md",
     "商品服务-三级分类-查询-树形查询.md",
+    "商品服务-三级分类-网关统一配置跨域.md",
     "商品服务-三级分类-查询递归.md",
     "商品服务-三级分类-配置网管路由和路径重写.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
