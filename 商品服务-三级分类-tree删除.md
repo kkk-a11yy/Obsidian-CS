@@ -1,0 +1,2 @@
+- element:  scoped slot
+	- 复制 `<span>` 标签的内容，放到 category.vue 的 `<el-tree>` 当中
