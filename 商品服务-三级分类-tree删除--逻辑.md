@@ -21,3 +21,4 @@ http://localhost:88/api/product/category/delete
 	- `UPDATE `pms_category` SET show_status=1`
 
 下一个：[商品服务-三级分类-新增效果](商品服务-三级分类-新增效果.md)
+- element-对话框
