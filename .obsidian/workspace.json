@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-三级分类-拖拽数据收集.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-三级分类-拖拽数据收集.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-三级分类-拖拽数据收集.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md"
               }
             }
           },
@@ -202,7 +202,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "backlinks": true,
                     "source": false
                   }
@@ -234,13 +234,12 @@
                   }
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 228,
-        "y": 565,
+        "x": 143,
+        "y": 594,
         "width": 793,
         "height": 505,
         "maximize": false,
@@ -248,10 +247,10 @@
       }
     ]
   },
-  "active": "d8f54a173e2a22c0",
+  "active": "869ead8d26668c00",
   "lastOpenFiles": [
-    "商品服务-三级分类-拖拽效果.md",
     "商品服务-三级分类-拖拽数据收集.md",
+    "商品服务-三级分类-拖拽效果.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "商品服务-三级分类-修改效果.md",
     "商品服务-三级分类-新增逻辑.md",
