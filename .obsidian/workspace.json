@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+                "file": "商品服务-三级分类-拖拽数据收集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+                "file": "商品服务-三级分类-拖拽数据收集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md"
+                "file": "商品服务-三级分类-拖拽数据收集.md"
               }
             }
           },
@@ -202,7 +202,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
@@ -234,7 +234,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -247,11 +248,12 @@
       }
     ]
   },
-  "active": "869ead8d26668c00",
+  "active": "d8f54a173e2a22c0",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "vue--安装.md",
     "商品服务-三级分类-拖拽数据收集.md",
     "商品服务-三级分类-拖拽效果.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "商品服务-三级分类-修改效果.md",
     "商品服务-三级分类-新增逻辑.md",
     "商品服务-三级分类-新增效果.md",
@@ -273,7 +275,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/IDEA-Mac m1 pro.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "使用vue 脚手架模块化开发.md",
-    "vue--.md",
     "SpringCloudGateway--配置网关.md",
     "ES6--let&const.md",
     "BEFORE/附件/Pasted image 20231110185740.png",
