@@ -209,124 +209,7 @@
                 }
               },
               {
-                "id": "79499a9e1b626ffd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "商品服务-三级分类-查询递归.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9c8be7bab5227cb5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "商品服务-三级分类-配置网管路由和路径重写.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e412c5137bda0b00",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "商品服务-三级分类-网关统一配置跨域.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5e383ca444fce40a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "商品服务-三级分类-查询-树形查询.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "6e2c6244eadb440b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "商品服务-三级分类-tree删除--页面.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a84171768a227743",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "商品服务-三级分类-tree删除--逻辑.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d60224d32702d692",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "商品服务-三级分类-新增效果.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "74d07864a7a4ec5e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "商品服务-三级分类-新增逻辑.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "dd9719c42ddec9e8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "商品服务-三级分类-修改效果.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "779d7e13c5b2638f",
+                "id": "743d5d0feba06dfb",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -339,39 +222,39 @@
                 }
               }
             ],
-            "currentTab": 10
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 112,
-        "y": 547,
+        "x": 258,
+        "y": 128,
         "width": 793,
-        "height": 366,
+        "height": 644,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "779d7e13c5b2638f",
+  "active": "743d5d0feba06dfb",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "商品服务-三级分类-修改效果.md",
-    "商品服务-三级分类-拖拽效果.md",
-    "商品服务-三级分类-修改效果category.vue.md",
-    "商品服务-三级分类-tree删除--逻辑.md",
-    "商品服务-三级分类-新增效果.md",
     "商品服务-三级分类-新增逻辑.md",
+    "商品服务-三级分类-新增效果.md",
+    "商品服务-三级分类-tree删除--逻辑.md",
     "商品服务-三级分类-tree删除--页面.md",
     "商品服务-三级分类-查询-树形查询.md",
-    "BEFORE/附件/Pasted image 20231114173504.png",
     "商品服务-三级分类-网关统一配置跨域.md",
-    "商品服务-三级分类-查询递归.md",
     "商品服务-三级分类-配置网管路由和路径重写.md",
+    "商品服务-三级分类-查询递归.md",
+    "商品服务-三级分类-拖拽效果.md",
+    "商品服务-三级分类-修改效果category.vue.md",
+    "BEFORE/附件/Pasted image 20231114173504.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "leadnews--maven 问题.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "课程&笔记/技术栈/黑马/黑马头条/resource/项目结构.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "nacos--加载多配置集.md",
     "BEFORE/附件/Pasted image 20231113183144.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/IDEA-Mac m1 pro.md",
