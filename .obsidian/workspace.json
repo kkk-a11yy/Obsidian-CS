@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "maven",
+                "query": "前端",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "商品服务-三级分类-拖拽数据收集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "商品服务-三级分类-拖拽数据收集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "商品服务-三级分类-拖拽数据收集.md"
+              }
             }
           },
           {
@@ -193,7 +198,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
@@ -225,12 +230,13 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 143,
-        "y": 594,
+        "x": 127,
+        "y": 547,
         "width": 793,
         "height": 505,
         "maximize": false,
@@ -238,10 +244,15 @@
       }
     ]
   },
-  "active": "41271b558c41d97c",
+  "active": "d8f54a173e2a22c0",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
+    "Nacos--加载多配置集.md",
+    "Nacos--命名空间与配置分组.md",
+    "未命名.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--配置中心.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "商品服务-三级分类-拖拽数据收集.md",
     "vue--安装.md",
     "商品服务-三级分类-拖拽效果.md",
@@ -260,15 +271,10 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "课程&笔记/技术栈/黑马/黑马头条/resource/项目结构.md",
-    "nacos--加载多配置集.md",
     "BEFORE/附件/Pasted image 20231113183144.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/IDEA-Mac m1 pro.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
-    "使用vue 脚手架模块化开发.md",
-    "SpringCloudGateway--配置网关.md",
-    "ES6--let&const.md",
     "BEFORE/附件/Pasted image 20231110185740.png",
-    "nacos--命名空间与配置分组.md",
     "BEFORE/附件/Pasted image 20231110174457.png",
     "BEFORE/附件/Pasted image 20231110173738.png",
     "BEFORE/附件/Pasted image 20231110173030.png",
