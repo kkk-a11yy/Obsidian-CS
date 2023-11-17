@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-三级分类-修改效果category.vue.md",
+                "file": "商品服务-三级分类-修改效果.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-三级分类-修改效果category.vue.md",
+                "file": "商品服务-三级分类-修改效果.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-三级分类-修改效果category.vue.md"
+                "file": "商品服务-三级分类-修改效果.md"
               }
             }
           },
@@ -197,7 +197,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "商品服务-三级分类-修改效果category.vue.md",
+                    "file": "商品服务-三级分类-修改效果.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -258,6 +258,7 @@
   },
   "active": "869ead8d26668c00",
   "lastOpenFiles": [
+    "商品服务-三级分类-修改效果category.vue.md",
     "商品服务-三级分类-修改效果.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "商品服务-三级分类-拖拽效果.md",
@@ -278,7 +279,6 @@
     "商品服务-三级分类-网关统一配置跨域.md",
     "商品服务-三级分类-配置网管路由和路径重写.md",
     "商品服务-三级分类-查询递归.md",
-    "商品服务-三级分类-修改效果category.vue.md",
     "BEFORE/附件/Pasted image 20231114173504.png",
     "leadnews--maven 问题.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
