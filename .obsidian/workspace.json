@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-三级分类-拖拽功能完成.md",
+                "file": "商品服务-三级分类-修改效果category.vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-三级分类-拖拽功能完成.md",
+                "file": "商品服务-三级分类-修改效果category.vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-三级分类-拖拽功能完成.md"
+                "file": "商品服务-三级分类-修改效果category.vue.md"
               }
             }
           },
@@ -197,7 +197,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+                    "file": "商品服务-三级分类-修改效果category.vue.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -243,8 +243,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical",
@@ -257,11 +256,13 @@
       }
     ]
   },
-  "active": "622a956e51a0cd43",
+  "active": "869ead8d26668c00",
   "lastOpenFiles": [
+    "商品服务-三级分类-修改效果.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "商品服务-三级分类-拖拽效果.md",
     "商品服务-三级分类-拖拽数据收集.md",
     "商品服务-三级分类-拖拽功能完成.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
     "Nacos--加载多配置集.md",
     "Nacos--命名空间与配置分组.md",
@@ -269,8 +270,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--配置中心.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "vue--安装.md",
-    "商品服务-三级分类-拖拽效果.md",
-    "商品服务-三级分类-修改效果.md",
     "商品服务-三级分类-新增逻辑.md",
     "商品服务-三级分类-新增效果.md",
     "商品服务-三级分类-tree删除--逻辑.md",
