@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-三级分类-批量删除.md",
+                "file": "商品服务-品牌管理-使用逆向工程前后端代码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-三级分类-批量删除.md",
+                "file": "商品服务-品牌管理-使用逆向工程前后端代码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-三级分类-批量删除.md"
+                "file": "商品服务-品牌管理-使用逆向工程前后端代码.md"
               }
             }
           },
@@ -268,31 +268,45 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "85569f2da036000f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "商品服务-品牌管理-使用逆向工程前后端代码.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 5
+            "currentTab": 6
           }
         ],
         "direction": "vertical",
         "x": 127,
-        "y": 547,
+        "y": 646,
         "width": 793,
-        "height": 505,
+        "height": 406,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "65562f8e8a8958ed",
+  "active": "85569f2da036000f",
   "lastOpenFiles": [
-    "商品服务-三级分类-批量拖拽效果.md",
     "商品服务-三级分类-批量删除.md",
+    "商品服务-三级分类-批量拖拽效果.md",
     "商品服务-三级分类-拖拽功能完成.md",
+    "商品服务-三级分类-拖拽数据收集.md",
+    "商品服务-三级分类-拖拽效果.md",
     "商品服务-三级分类-修改效果.md",
+    "商品服务-品牌管理-使用逆向工程前后端代码.md",
     "商品服务-三级分类-修改效果category.vue.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-    "商品服务-三级分类-拖拽效果.md",
-    "商品服务-三级分类-拖拽数据收集.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
     "Nacos--加载多配置集.md",
     "Nacos--命名空间与配置分组.md",
@@ -311,7 +325,6 @@
     "BEFORE/附件/Pasted image 20231114173504.png",
     "leadnews--maven 问题.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
-    "课程&笔记/技术栈/黑马/黑马头条/头条--介绍.md",
     "BEFORE/附件/Pasted image 20231113183144.png",
     "BEFORE/附件/Pasted image 20231110185740.png",
     "BEFORE/附件/Pasted image 20231110174457.png",
