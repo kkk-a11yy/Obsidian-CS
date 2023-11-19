@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-品牌管理-品牌logo.md",
+                "file": "商品服务-品牌管理-云存储.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-品牌管理-品牌logo.md",
+                "file": "商品服务-品牌管理-云存储.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-品牌管理-品牌logo.md"
+                "file": "商品服务-品牌管理-云存储.md"
               }
             }
           },
@@ -192,32 +192,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "743d5d0feba06dfb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "商品服务-三级分类-拖拽效果.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "622a956e51a0cd43",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "商品服务-三级分类-拖拽功能完成.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "65562f8e8a8958ed",
                 "type": "leaf",
                 "state": {
@@ -236,7 +210,20 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "商品服务-品牌管理-品牌logo.md",
+                    "file": "商品服务-品牌管理-云存储.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f3e8e73da9f40a91",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -244,12 +231,12 @@
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 53,
-        "y": 707,
+        "x": 56,
+        "y": 534,
         "width": 876,
         "height": 435,
         "maximize": false,
@@ -259,19 +246,20 @@
   },
   "active": "83df28c69dc7d9f8",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "商品服务-品牌管理-使用逆向工程前后端代码.md",
-    "商品服务-品牌管理-品牌logo.md",
     "商品服务-三级分类-批量删除.md",
+    "商品服务-品牌管理-云存储.md",
+    "商品服务-三级分类-批量拖拽效果.md",
+    "商品服务-三级分类-拖拽功能完成.md",
+    "商品服务-三级分类.md",
+    "商品服务-三级分类-拖拽数据收集.md",
+    "商品服务-三级分类-拖拽效果.md",
     "Alfred.md",
     "BEFORE/README.md",
     "BEFORE/附件/category-cascader.vue",
-    "商品服务-三级分类-批量拖拽效果.md",
-    "商品服务-三级分类-拖拽功能完成.md",
-    "商品服务-三级分类-拖拽数据收集.md",
-    "商品服务-三级分类-拖拽效果.md",
     "商品服务-三级分类-修改效果.md",
     "商品服务-三级分类-修改效果category.vue.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
     "Nacos--加载多配置集.md",
     "Nacos--命名空间与配置分组.md",
@@ -285,7 +273,6 @@
     "商品服务-三级分类-tree删除--页面.md",
     "商品服务-三级分类-查询-树形查询.md",
     "商品服务-三级分类-网关统一配置跨域.md",
-    "商品服务-三级分类-配置网管路由和路径重写.md",
     "BEFORE/附件/Pasted image 20231114173504.png",
     "BEFORE/附件/Pasted image 20231113183144.png",
     "BEFORE/附件/Pasted image 20231110185740.png",
