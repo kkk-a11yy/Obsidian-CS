@@ -1,2 +1,4 @@
 - 创建新的微服务
-	- `andymall-third-part`
+	- `andymall-third-part` dependency: SpringWeb , OpenFeign , andymall-common
+	- `<spring-cloud.version>Hoxton.SR3`
+	- `<spring-boot-starter-parent> <version>2.2.5.RELEASE`
