@@ -1,0 +1,1 @@
+- [Mac效率神器Alfred 配置以及教程 - 哔哩哔哩](https://www.bilibili.com/read/cv15495316/)
