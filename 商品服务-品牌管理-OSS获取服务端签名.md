@@ -2,3 +2,5 @@
 	- `andymall-third-part` dependency: SpringWeb , OpenFeign , andymall-common
 	- `<spring-cloud.version>Hoxton.SR3`
 	- `<spring-boot-starter-parent> <version>2.2.5.RELEASE`
+	- `depemdencymanagement> spring-cloud-alibaba-dependencies><version>2.2.1.RELEASE`
+	- `<aliyun-oss-spring-boot-starter</artifactId>  <version>1.0.0`
