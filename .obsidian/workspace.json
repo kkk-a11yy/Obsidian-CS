@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-品牌管理-云存储.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-品牌管理-云存储.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "商品服务-品牌管理-云存储.md"
-              }
+              "state": {}
             }
           },
           {
@@ -235,8 +231,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 56,
-        "y": 534,
+        "x": 192,
+        "y": 270,
         "width": 876,
         "height": 435,
         "maximize": false,
@@ -244,13 +240,13 @@
       }
     ]
   },
-  "active": "83df28c69dc7d9f8",
+  "active": "41271b558c41d97c",
   "lastOpenFiles": [
+    "商品服务-品牌管理-云存储.md",
     "BEFORE/附件/Pasted image 20231119162001.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "商品服务-品牌管理-使用逆向工程前后端代码.md",
     "商品服务-三级分类-批量删除.md",
-    "商品服务-品牌管理-云存储.md",
     "商品服务-三级分类-批量拖拽效果.md",
     "商品服务-三级分类-拖拽功能完成.md",
     "商品服务-三级分类.md",
@@ -282,7 +278,6 @@
     "BEFORE/附件/Pasted image 20231110172541.png",
     "BEFORE/附件/Pasted image 20231110170626.png",
     "BEFORE/附件/Pasted image 20231110165526.png",
-    "BEFORE/附件/Pasted image 20231110165317.png",
     "课程&笔记/技术栈/尚硅谷/红包雨",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
     "课程&笔记/技术栈/黑马/黑马头条/resource",
