@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nacos--加载多配置集.md",
+                "file": "商品服务-三级分类-查询-树形查询.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sql",
+                "query": "list/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nacos--加载多配置集.md",
+                "file": "商品服务-三级分类-查询-树形查询.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nacos--加载多配置集.md",
+                "file": "商品服务-三级分类-查询-树形查询.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nacos--加载多配置集.md"
+                "file": "商品服务-三级分类-查询-树形查询.md"
               }
             }
           },
@@ -277,8 +277,9 @@
   },
   "active": "41271b558c41d97c",
   "lastOpenFiles": [
-    "商品服务-品牌管理-OSS前后端联调测试上传.md",
     "Nacos--加载多配置集.md",
+    "商品服务-三级分类-查询-树形查询.md",
+    "商品服务-品牌管理-OSS前后端联调测试上传.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "商品服务-三级分类.md",
     "商品服务-三级分类-查询递归.md",
@@ -303,7 +304,6 @@
     "商品服务-三级分类-批量删除.md",
     "商品服务-三级分类-批量拖拽效果.md",
     "商品服务-三级分类-拖拽功能完成.md",
-    "商品服务-三级分类-拖拽数据收集.md",
     "BEFORE/附件/category-cascader.vue",
     "BEFORE/附件/Pasted image 20231114173504.png",
     "BEFORE/附件/Pasted image 20231113183144.png",
