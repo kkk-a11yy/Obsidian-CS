@@ -2,3 +2,7 @@
 - 复制 Bucket 域名：`andymall.oss-cn-shanghai.aliyuncs.com`
 	- 替换：multiUpload.vue
 		- `<el-upload action=`
+	- `view/s/modules/product/brand-add-or-upload`
+		- `<script> import singleUpload from '@/components/upload/singleUpload';`
+		- `export default {components:{singleUpload},`
+		- `<single-Upload v-model="dataForm.logo"></single-Upload>`
