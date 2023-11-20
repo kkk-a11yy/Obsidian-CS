@@ -10,14 +10,21 @@
 	- `testUpload01()` 测试成功
 - [如何进行服务端签名直传_对象存储 OSS-阿里云帮助中心](https://help.aliyun.com/zh/oss/use-cases/obtain-signature-information-from-the-server-and-upload-data-to-oss?spm=a2c4g.11186623.0.0.618e2bdbs0o2WZ)
 - [如何通过Java在服务端签名直传并设置上传回调_对象存储 OSS-阿里云帮助中心](https://help.aliyun.com/zh/oss/use-cases/java-1?spm=a2c4g.11186623.0.i33#concept-ahk-rfz-2fb)
+	- 通过在 `application.yml`里面配置oss配置信息，在controller 读取配置信息内容 
+	- `OssController`
+	- `third-party: application.yml`
+http://127.0.0.1:30000/oss/policy
 
+- 配置网关
+	- ·
 ------
 ## 问题
 
 #datasource_url错误
 	- `exclude: renrenfast ; mybatus-plus-boot-starter`
 
-#使用OSS接口而不是OSSClient
-
  #空指针
-	 低版本SpringBoot加@RunWith(SpringRunner.class)
+	 - 低版本SpringBoot加@RunWith(SpringRunner.class)
+
+#OSSClient问题 
+	- 使用OSS接口而不是OSSClient
