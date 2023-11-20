@@ -9,7 +9,7 @@
 - `AndymallThirdPartyApplicationTests`
 	- `testUpload01()` 测试成功
 - [如何进行服务端签名直传_对象存储 OSS-阿里云帮助中心](https://help.aliyun.com/zh/oss/use-cases/obtain-signature-information-from-the-server-and-upload-data-to-oss?spm=a2c4g.11186623.0.0.618e2bdbs0o2WZ)
-
+- [如何通过Java在服务端签名直传并设置上传回调_对象存储 OSS-阿里云帮助中心](https://help.aliyun.com/zh/oss/use-cases/java-1?spm=a2c4g.11186623.0.i33#concept-ahk-rfz-2fb)
 
 ------
 ## 问题
