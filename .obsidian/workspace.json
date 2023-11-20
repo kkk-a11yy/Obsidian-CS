@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-品牌管理-OSS获取服务端签名.md",
+                "file": "商品服务-品牌管理-云存储.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-品牌管理-OSS获取服务端签名.md",
+                "file": "商品服务-品牌管理-云存储.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-品牌管理-OSS获取服务端签名.md"
+                "file": "商品服务-品牌管理-云存储.md"
               }
             }
           },
@@ -250,12 +250,12 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 31,
-        "y": 607,
+        "x": 15,
+        "y": 693,
         "width": 876,
         "height": 435,
         "maximize": false,
@@ -263,14 +263,14 @@
       }
     ]
   },
-  "active": "cd2273ea412d17b3",
+  "active": "83df28c69dc7d9f8",
   "lastOpenFiles": [
-    "SpringCloudGateway--配置网关.md",
-    "商品服务-品牌管理-OSS获取服务端签名.md",
+    "商品服务-品牌管理-使用逆向工程前后端代码.md",
     "商品服务-品牌管理-云存储.md",
+    "商品服务-品牌管理-OSS获取服务端签名.md",
+    "SpringCloudGateway--配置网关.md",
     "BEFORE/附件/Pasted image 20231119162001.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-    "商品服务-品牌管理-使用逆向工程前后端代码.md",
     "商品服务-三级分类-批量删除.md",
     "商品服务-三级分类-批量拖拽效果.md",
     "商品服务-三级分类-拖拽功能完成.md",
