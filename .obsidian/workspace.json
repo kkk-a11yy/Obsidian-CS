@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-三级分类-查询-树形查询.md",
+                "file": "商品服务-品牌管理-OSS前后端联调测试上传.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-三级分类-查询-树形查询.md",
+                "file": "商品服务-品牌管理-OSS前后端联调测试上传.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-三级分类-查询-树形查询.md"
+                "file": "商品服务-品牌管理-OSS前后端联调测试上传.md"
               }
             }
           },
@@ -275,10 +275,10 @@
       }
     ]
   },
-  "active": "41271b558c41d97c",
+  "active": "7c2d1c57987154e7",
   "lastOpenFiles": [
-    "商品服务-品牌管理-OSS前后端联调测试上传.md",
     "商品服务-三级分类-查询-树形查询.md",
+    "商品服务-品牌管理-OSS前后端联调测试上传.md",
     "Nacos--加载多配置集.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "商品服务-三级分类.md",
