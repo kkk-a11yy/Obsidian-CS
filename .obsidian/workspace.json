@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "商品服务-三级分类-查询递归.md",
+                "file": "Nacos--加载多配置集.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-三级分类-查询递归.md",
+                "file": "Nacos--加载多配置集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-三级分类-查询递归.md",
+                "file": "Nacos--加载多配置集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-三级分类-查询递归.md"
+                "file": "Nacos--加载多配置集.md"
               }
             }
           },
@@ -266,8 +266,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 71,
-        "y": 617,
+        "x": 109,
+        "y": 512,
         "width": 876,
         "height": 435,
         "maximize": false,
@@ -277,18 +277,19 @@
   },
   "active": "41271b558c41d97c",
   "lastOpenFiles": [
-    "商品服务-三级分类.md",
+    "商品服务-品牌管理-OSS前后端联调测试上传.md",
+    "Nacos--加载多配置集.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "商品服务-三级分类.md",
+    "商品服务-三级分类-查询递归.md",
     "使用vue 脚手架模块化开发.md",
     "vue--安装.md",
     "ES6--let&const.md",
     "SpringCloudGateway--配置网关.md",
-    "Nacos--加载多配置集.md",
     "Nacos--命名空间与配置分组.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--配置中心.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Feign--远程调用.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
-    "商品服务-品牌管理-OSS前后端联调测试上传.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/给所有微服务逆向生成代码.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
@@ -303,7 +304,6 @@
     "商品服务-三级分类-批量拖拽效果.md",
     "商品服务-三级分类-拖拽功能完成.md",
     "商品服务-三级分类-拖拽数据收集.md",
-    "商品服务-三级分类-拖拽效果.md",
     "BEFORE/附件/category-cascader.vue",
     "BEFORE/附件/Pasted image 20231114173504.png",
     "BEFORE/附件/Pasted image 20231113183144.png",
