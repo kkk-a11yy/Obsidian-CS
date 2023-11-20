@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SpringCloudGateway--配置网关.md",
+                "file": "商品服务-品牌管理-OSS获取服务端签名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SpringCloudGateway--配置网关.md",
+                "file": "商品服务-品牌管理-OSS获取服务端签名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SpringCloudGateway--配置网关.md"
+                "file": "商品服务-品牌管理-OSS获取服务端签名.md"
               }
             }
           },
@@ -254,8 +254,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 13,
-        "y": 444,
+        "x": 31,
+        "y": 607,
         "width": 876,
         "height": 435,
         "maximize": false,
@@ -263,10 +263,10 @@
       }
     ]
   },
-  "active": "41271b558c41d97c",
+  "active": "cd2273ea412d17b3",
   "lastOpenFiles": [
-    "商品服务-品牌管理-OSS获取服务端签名.md",
     "SpringCloudGateway--配置网关.md",
+    "商品服务-品牌管理-OSS获取服务端签名.md",
     "商品服务-品牌管理-云存储.md",
     "BEFORE/附件/Pasted image 20231119162001.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
