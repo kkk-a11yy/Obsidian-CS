@@ -6,4 +6,4 @@
 	- `<aliyun-oss-spring-boot-starter</artifactId>  <version>1.0.0`
 - nacos 注册 `third-party` 命名空间，创建 `oss.yml`,写入oss 配置数据（key,secret,endpoint）
 	- `third-party: bootstarp.properties`:命名空间id
-		- 
+#datasource_url错误
