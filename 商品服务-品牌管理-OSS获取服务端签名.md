@@ -16,7 +16,9 @@
 http://127.0.0.1:30000/oss/policy
 
 - 配置网关
-	- ·
+	- `id: andymall_party_route`
+	- 重启 gateway
+	- http://127.0.0.1:88/api/thirdparty/oss/policy
 ------
 ## 问题
 
