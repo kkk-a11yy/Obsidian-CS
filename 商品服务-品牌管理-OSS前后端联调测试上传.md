@@ -1,0 +1,4 @@
+- 老师的 `upload`文件夹复制到 `renren-fast-vue/../src/components/` 文件夹下
+- 复制 Bucket 域名：`andymall.oss-cn-shanghai.aliyuncs.com`
+	- 替换：multiUpload.vue
+		- `<el-upload action=`

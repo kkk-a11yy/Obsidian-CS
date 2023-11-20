@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-品牌管理-OSS获取服务端签名.md",
+                "file": "商品服务-品牌管理-OSS前后端联调测试上传.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-品牌管理-OSS获取服务端签名.md",
+                "file": "商品服务-品牌管理-OSS前后端联调测试上传.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-品牌管理-OSS获取服务端签名.md"
+                "file": "商品服务-品牌管理-OSS前后端联调测试上传.md"
               }
             }
           },
@@ -237,6 +237,19 @@
                 }
               },
               {
+                "id": "7c2d1c57987154e7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "商品服务-品牌管理-OSS前后端联调测试上传.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "f3e8e73da9f40a91",
                 "type": "leaf",
                 "state": {
@@ -250,7 +263,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 3
           }
         ],
         "direction": "vertical",
@@ -263,11 +276,12 @@
       }
     ]
   },
-  "active": "cd2273ea412d17b3",
+  "active": "7c2d1c57987154e7",
   "lastOpenFiles": [
+    "商品服务-品牌管理-OSS获取服务端签名.md",
+    "商品服务-品牌管理-OSS前后端联调测试上传.md",
     "商品服务-品牌管理-云存储.md",
     "商品服务-品牌管理-使用逆向工程前后端代码.md",
-    "商品服务-品牌管理-OSS获取服务端签名.md",
     "SpringCloudGateway--配置网关.md",
     "BEFORE/附件/Pasted image 20231119162001.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
@@ -292,7 +306,6 @@
     "商品服务-三级分类-新增逻辑.md",
     "商品服务-三级分类-新增效果.md",
     "商品服务-三级分类-tree删除--逻辑.md",
-    "商品服务-三级分类-tree删除--页面.md",
     "BEFORE/附件/Pasted image 20231114173504.png",
     "BEFORE/附件/Pasted image 20231113183144.png",
     "BEFORE/附件/Pasted image 20231110185740.png",

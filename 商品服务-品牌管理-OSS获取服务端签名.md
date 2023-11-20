@@ -19,6 +19,9 @@ http://127.0.0.1:30000/oss/policy
 	- `id: andymall_party_route`
 	- 重启 gateway
 	- http://127.0.0.1:88/api/thirdparty/oss/policy
+下一个： 
+
+
 ------
 ## 问题
 
