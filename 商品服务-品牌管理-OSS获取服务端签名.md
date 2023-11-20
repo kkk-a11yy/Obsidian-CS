@@ -7,3 +7,7 @@
 - nacos 注册 `third-party` 命名空间，创建 `oss.yml`,写入oss 配置数据（key,secret,endpoint）
 	- `third-party: bootstarp.properties`:命名空间id
 #datasource_url错误
+
+#使用OSS接口而不是OSSClient
+ 空指针加_@RunWith真的好使
+ 低版本SpringBoot需要加@RunWith(SpringRunner.class)
