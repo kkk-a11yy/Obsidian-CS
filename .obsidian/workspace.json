@@ -249,6 +249,19 @@
                 }
               },
               {
+                "id": "99849be20a7ca167",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "商品服务-品牌管理-品牌新增与修改.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "f3e8e73da9f40a91",
                 "type": "leaf",
                 "state": {
@@ -277,9 +290,10 @@
   },
   "active": "7c2d1c57987154e7",
   "lastOpenFiles": [
+    "商品服务-品牌管理-品牌新增与修改.md",
+    "商品服务-品牌管理-OSS前后端联调测试上传.md",
     "BEFORE/附件/Pasted image 20231121155406.png",
     "商品服务-三级分类-查询-树形查询.md",
-    "商品服务-品牌管理-OSS前后端联调测试上传.md",
     "Nacos--加载多配置集.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "商品服务-三级分类.md",
@@ -313,7 +327,6 @@
     "BEFORE/附件/Pasted image 20231110173030.png",
     "BEFORE/附件/Pasted image 20231110172541.png",
     "BEFORE/附件/Pasted image 20231110170626.png",
-    "BEFORE/附件/Pasted image 20231110165526.png",
     "课程&笔记/技术栈/尚硅谷/红包雨",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
     "课程&笔记/技术栈/黑马/黑马头条/resource",
