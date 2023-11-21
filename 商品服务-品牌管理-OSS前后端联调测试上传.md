@@ -5,4 +5,4 @@
 	- `view/s/modules/product/brand-add-or-upload`
 		- `<script> import singleUpload from '@/components/upload/singleUpload';`
 		- `export default {components:{singleUpload},`
-		- `<single-Upload v-model="dataForm.logo"></single-Upload>`
+		- `<single-upload v-model="dataForm.logo"></single-upload>`
