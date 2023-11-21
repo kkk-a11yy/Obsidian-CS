@@ -8,5 +8,5 @@
 		- `<single-upload v-model="dataForm.logo"></single-upload>`
 - `OssController`
 	- `R polic(){}`
-- 配置允许跨域访问
-	- 
+- 阿里云 bucket 配置允许跨域访问
+- ![](BEFORE/附件/Pasted%20image%2020231121155406.png)
