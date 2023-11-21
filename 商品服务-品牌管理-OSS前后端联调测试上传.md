@@ -1,6 +1,6 @@
 - 老师的 `upload`文件夹复制到 `renren-fast-vue/../src/components/` 文件夹下
 - 复制 Bucket 域名：`andymall.oss-cn-shanghai.aliyuncs.com`
-	- 替换：multiUpload.vue
+	- 替换：multiUpload.vue. ; singleUpload.vue
 		- `<el-upload action=`
 	- `view/s/modules/product/brand-add-or-upload`
 		- `<script> import singleUpload from '@/components/upload/singleUpload';`
