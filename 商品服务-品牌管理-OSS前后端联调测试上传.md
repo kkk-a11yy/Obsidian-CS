@@ -6,3 +6,7 @@
 		- `<script> import singleUpload from '@/components/upload/singleUpload';`
 		- `export default {components:{singleUpload},`
 		- `<single-upload v-model="dataForm.logo"></single-upload>`
+- `OssController`
+	- `R polic(){}`
+- 配置允许跨域访问
+	- 
