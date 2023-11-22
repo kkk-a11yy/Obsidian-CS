@@ -90,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BEFORE/README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -244,8 +240,9 @@
       }
     ]
   },
-  "active": "99849be20a7ca167",
+  "active": "7154232622568f80",
   "lastOpenFiles": [
+    "BEFORE/README.md",
     "商品服务-三级分类-查询-树形查询.md",
     "商品服务-品牌管理-品牌新增与修改.md",
     "商品服务-品牌管理-OSS前后端联调测试上传.md",
@@ -273,7 +270,6 @@
     "商品服务-品牌管理-使用逆向工程前后端代码.md",
     "BEFORE/附件/Pasted image 20231119162001.png",
     "商品服务-三级分类-批量删除.md",
-    "商品服务-三级分类-批量拖拽效果.md",
     "BEFORE/附件/category-cascader.vue",
     "BEFORE/附件/Pasted image 20231114173504.png",
     "BEFORE/附件/Pasted image 20231113183144.png",
