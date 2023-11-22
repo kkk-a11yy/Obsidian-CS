@@ -33,4 +33,4 @@ spring.cloud.nacos.config.extension-configs[2].refresh=true
 >[!note] 
 >此时的配置文件是临时的，重启nacos数据会消失，要数据持久化，可以nacos配置成自己的数据库
 
-下一个：[SpringCloudGateway--配置网关](SpringCloudGateway--配置网关.md)
+下一个：[SpringCloudGateway--配置网关](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SpringCloudGateway--配置网关.md)

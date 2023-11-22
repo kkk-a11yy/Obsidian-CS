@@ -20,5 +20,5 @@ http://localhost:88/api/product/category/delete
 - 还原数据库
 	- `UPDATE `pms_category` SET show_status=1`
 
-下一个：[商品服务-三级分类-新增效果](商品服务-三级分类-新增效果.md)
+下一个：[商品服务-三级分类-新增效果](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-三级分类-新增效果.md)
 

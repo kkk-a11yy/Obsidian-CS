@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "969476206f150c47",
+        "id": "d3e85965c335a277",
         "type": "tabs",
         "children": [
           {
-            "id": "7154232622568f80",
+            "id": "0572916738906fbc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -69,12 +74,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 345.50390243530273
+    "width": 257.5
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md"
+              }
             }
           },
           {
@@ -193,7 +201,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "商品服务-品牌管理-云存储.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-云存储.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -206,7 +214,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "商品服务-品牌管理-OSS前后端联调测试上传.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-OSS前后端联调测试上传.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -240,36 +248,36 @@
       }
     ]
   },
-  "active": "7154232622568f80",
+  "active": "0572916738906fbc",
   "lastOpenFiles": [
-    "BEFORE/README.md",
-    "商品服务-三级分类-查询-树形查询.md",
-    "商品服务-品牌管理-品牌新增与修改.md",
-    "商品服务-品牌管理-OSS前后端联调测试上传.md",
-    "BEFORE/附件/Pasted image 20231121155406.png",
-    "Nacos--加载多配置集.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/修改pom.xml文件并提交.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-    "商品服务-三级分类.md",
-    "商品服务-三级分类-查询递归.md",
-    "使用vue 脚手架模块化开发.md",
-    "vue--安装.md",
-    "ES6--let&const.md",
-    "SpringCloudGateway--配置网关.md",
-    "Nacos--命名空间与配置分组.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/vue--安装.md",
+    "BEFORE/README.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-三级分类-查询-树形查询.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-品牌新增与修改.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-OSS前后端联调测试上传.md",
+    "BEFORE/附件/Pasted image 20231121155406.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--加载多配置集.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-三级分类.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-三级分类-查询递归.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/使用vue 脚手架模块化开发.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SpringCloudGateway--配置网关.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--命名空间与配置分组.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--配置中心.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Feign--远程调用.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/给所有微服务逆向生成代码.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/在 product 模块整合 mybatis-plus.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "版本对应.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/版本对应.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
-    "商品服务-品牌管理-OSS获取服务端签名.md",
-    "商品服务-品牌管理-云存储.md",
-    "商品服务-品牌管理-使用逆向工程前后端代码.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-OSS获取服务端签名.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-云存储.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-使用逆向工程前后端代码.md",
     "BEFORE/附件/Pasted image 20231119162001.png",
-    "商品服务-三级分类-批量删除.md",
     "BEFORE/附件/category-cascader.vue",
     "BEFORE/附件/Pasted image 20231114173504.png",
     "BEFORE/附件/Pasted image 20231113183144.png",

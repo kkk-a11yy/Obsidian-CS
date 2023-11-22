@@ -6,4 +6,4 @@
 		- `v-if="node.level <=2"`
 		- `v-if="node.childNodes.length==0"`
 
-下一个：[商品服务-三级分类-tree删除--逻辑](商品服务-三级分类-tree删除--逻辑.md)
+下一个：[商品服务-三级分类-tree删除--逻辑](课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-三级分类-tree删除--逻辑.md)
