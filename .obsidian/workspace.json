@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-品牌管理-JSR303自定义校验注解.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-品牌管理-JSR303自定义校验注解.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-品牌管理-JSR303自定义校验注解.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md"
               }
             }
           },
@@ -196,90 +196,37 @@
             "type": "tabs",
             "children": [
               {
-                "id": "83df28c69dc7d9f8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-云存储.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7c2d1c57987154e7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-表单校验&自定义校验器.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "53358279cf5a3750",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "商品服务-品牌管理-JSR303数据校验.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "127d0fa7e0b86269",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "商品服务-品牌管理-统一异常处理.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ddee3e8c2761e801",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "商品服务-品牌管理-JSR303分组校验.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "089a66a389822fa5",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "商品服务-品牌管理-JSR303自定义校验注解.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "10b5043ee6f734e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "商品服务-概念-SPU&SKU&规格参数&销售属性.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 5
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 105,
-        "y": 634,
+        "x": 77,
+        "y": 470,
         "width": 876,
         "height": 435,
         "maximize": false,
@@ -289,18 +236,21 @@
   },
   "active": "089a66a389822fa5",
   "lastOpenFiles": [
-    "商品服务-品牌管理-JSR303分组校验.md",
+    "商品服务-概念-SPU&SKU&规格参数&销售属性.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "商品服务-品牌管理.md",
     "商品服务-品牌管理-JSR303自定义校验注解.md",
+    "商品服务-品牌管理-JSR303分组校验.md",
     "商品服务-品牌管理-统一异常处理.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-云存储.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-表单校验&自定义校验器.md",
     "商品服务-品牌管理-JSR303数据校验.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-表单校验&自定义校验器.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-云存储.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-使用逆向工程前后端代码.md",
     "BEFORE/附件/Pasted image 20231123231439.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-OSS前后端联调测试上传.md",
     "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/renren-fast 的application-dev.yml（ip,username,password）.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
@@ -314,9 +264,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/使用vue 脚手架模块化开发.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SpringCloudGateway--配置网关.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--命名空间与配置分组.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--配置中心.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Feign--远程调用.md",
     "BEFORE/附件/Pasted image 20231119162001.png",
     "BEFORE/附件/category-cascader.vue",
     "BEFORE/附件/Pasted image 20231114173504.png",
