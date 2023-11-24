@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+                "file": "商品服务-概念-SPU&SKU&规格参数&销售属性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+                "file": "商品服务-概念-SPU&SKU&规格参数&销售属性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md"
+                "file": "商品服务-概念-SPU&SKU&规格参数&销售属性.md"
               }
             }
           },
@@ -221,7 +221,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -234,10 +235,10 @@
       }
     ]
   },
-  "active": "089a66a389822fa5",
+  "active": "10b5043ee6f734e9",
   "lastOpenFiles": [
-    "商品服务-概念-SPU&SKU&规格参数&销售属性.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "商品服务-概念-SPU&SKU&规格参数&销售属性.md",
     "商品服务-品牌管理.md",
     "商品服务-品牌管理-JSR303自定义校验注解.md",
     "商品服务-品牌管理-JSR303分组校验.md",

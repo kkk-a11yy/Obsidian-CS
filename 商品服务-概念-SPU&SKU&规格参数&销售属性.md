@@ -1,0 +1,1 @@
+- 导入 `sql/sys_menus.sql` 到数据库
