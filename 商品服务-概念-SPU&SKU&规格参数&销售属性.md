@@ -1,1 +1,3 @@
 - 导入 `sql/sys_menus.sql` 到数据库
+- 复制文件夹到 `src/views/modules/common`; `src/views/modules/product`
+- [01、获取所有分类及子分类 - 谷粒商城 - 易文档](https://easydoc.net/s/78237135/ZUqEdvA4/HqQGp9TI)
