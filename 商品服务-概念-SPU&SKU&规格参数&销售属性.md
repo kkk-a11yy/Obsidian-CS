@@ -7,7 +7,9 @@
 		- `method: nodeclick(data, node, component) {}`
 	- `import Category from "../common/category";`
 - 后端 Attrgroup: 三级分类查询id
-	- 
+	- `AttrGroupServiceImpl: queryPage(){}`
+- 测试get请求
+	- `http://localhost:88/api/product/attrgroup/list/1?page=1&key=aaa`
 - 导入问题：
 	- 右边一直转圈是因为走这个接口的时候后面带了一个catid，去了就行了
 	- 转圈的原因是，查询列表的那个接口，如果你是直接使用现成的前端代码，他传了一些参数，你暂时把那些参数给注释掉
