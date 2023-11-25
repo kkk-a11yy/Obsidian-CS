@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-概念-SPU&SKU&规格参数&销售属性.md",
+                "file": "商品服务-属性分组-分组新增&级联选择器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-概念-SPU&SKU&规格参数&销售属性.md",
+                "file": "商品服务-属性分组-分组新增&级联选择器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-概念-SPU&SKU&规格参数&销售属性.md"
+                "file": "商品服务-属性分组-分组新增&级联选择器.md"
               }
             }
           },
@@ -220,9 +220,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "4af3da5d74aa2099",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "商品服务-属性分组-分组新增&级联选择器.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -235,11 +248,12 @@
       }
     ]
   },
-  "active": "10b5043ee6f734e9",
+  "active": "4af3da5d74aa2099",
   "lastOpenFiles": [
-    "BEFORE/附件/Pasted image 20231125145601.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "商品服务-概念-SPU&SKU&规格参数&销售属性.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "商品服务-属性分组-分组新增&级联选择器.md",
+    "BEFORE/附件/Pasted image 20231125145601.png",
     "商品服务-品牌管理.md",
     "商品服务-品牌管理-JSR303自定义校验注解.md",
     "商品服务-品牌管理-JSR303分组校验.md",
@@ -273,7 +287,6 @@
     "BEFORE/附件/Pasted image 20231110174457.png",
     "BEFORE/附件/Pasted image 20231110173738.png",
     "BEFORE/附件/Pasted image 20231110173030.png",
-    "BEFORE/附件/Pasted image 20231110172541.png",
     "课程&笔记/技术栈/尚硅谷/红包雨",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
     "课程&笔记/技术栈/黑马/黑马头条/resource",
