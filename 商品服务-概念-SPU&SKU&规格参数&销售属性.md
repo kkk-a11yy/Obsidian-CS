@@ -7,6 +7,7 @@
 		- `method: nodeclick(data, node, component) {}`
 	- `import Category from "../common/category";`
 - 后端 Attrgroup: 三级分类查询id
+	- `AttrGroupController: R list`
 	- `AttrGroupServiceImpl: queryPage(){}`
 - 测试get请求
 	- `http://localhost:88/api/product/attrgroup/list/1?page=1&key=aaa`
