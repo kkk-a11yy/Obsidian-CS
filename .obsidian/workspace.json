@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-品牌管理-品牌分类关联与级联更新.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-品牌管理-品牌分类关联与级联更新.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-品牌管理-品牌分类关联与级联更新.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md"
               }
             }
           },
@@ -274,8 +274,9 @@
       }
     ]
   },
-  "active": "726f372a23c19818",
+  "active": "0572916738906fbc",
   "lastOpenFiles": [
+    "商品服务-品牌管理-品牌分类关联与级联更新.md",
     "BEFORE/附件/Pasted image 20231126125554.png",
     "BEFORE/附件/Pasted image 20231126125530.png",
     "BEFORE/附件/Pasted image 20231125200629.png",
@@ -283,7 +284,6 @@
     "BEFORE/附件/Pasted image 20231125192034.png",
     "BEFORE/附件/pms_catelog.sql",
     "商品服务-属性分组-分组修改&级联选择器回显.md",
-    "商品服务-品牌管理-品牌分类关联与级联更新.md",
     "BEFORE/附件/Pasted image 20231125183448.png",
     "商品服务-属性分组-分组新增&级联选择器.md",
     "商品服务-概念-SPU&SKU&规格参数&销售属性.md",
@@ -313,7 +313,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-三级分类.md",
     "BEFORE/附件/Pasted image 20231119162001.png",
     "BEFORE/附件/category-cascader.vue",
-    "BEFORE/附件/Pasted image 20231114173504.png",
     "课程&笔记/技术栈/尚硅谷/红包雨",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
     "课程&笔记/技术栈/黑马/黑马头条/resource",
