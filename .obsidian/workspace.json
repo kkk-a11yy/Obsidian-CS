@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "商品服务-平台属性-规格参数新增与VO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "商品服务-平台属性-规格参数新增与VO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "商品服务-平台属性-规格参数新增与VO.md"
               }
             }
           },
@@ -266,7 +266,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "未命名.md",
+                    "file": "商品服务-平台属性-规格参数新增与VO.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -289,8 +289,10 @@
   },
   "active": "e1b91561a6946b8c",
   "lastOpenFiles": [
+    "BEFORE/附件/Pasted image 20231126194450.png",
     "商品服务-品牌管理-品牌分类关联与级联更新.md",
-    "未命名.md",
+    "商品服务-属性分组-分组修改&级联选择器回显.md",
+    "商品服务-平台属性-规格参数新增与VO.md",
     "BEFORE/附件/Pasted image 20231126191638.png",
     "BEFORE/附件/Pasted image 20231126185335.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
@@ -300,7 +302,6 @@
     "BEFORE/附件/Pasted image 20231125200022.png",
     "BEFORE/附件/Pasted image 20231125192034.png",
     "BEFORE/附件/pms_catelog.sql",
-    "商品服务-属性分组-分组修改&级联选择器回显.md",
     "BEFORE/附件/Pasted image 20231125183448.png",
     "商品服务-属性分组-分组新增&级联选择器.md",
     "商品服务-概念-SPU&SKU&规格参数&销售属性.md",
@@ -325,7 +326,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/vue--安装.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-三级分类-查询-树形查询.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--加载多配置集.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-三级分类.md",
     "BEFORE/附件/category-cascader.vue",
     "课程&笔记/技术栈/尚硅谷/红包雨",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
