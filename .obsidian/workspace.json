@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+                "file": "商品服务-品牌管理-品牌分类关联与级联更新.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+                "file": "商品服务-品牌管理-品牌分类关联与级联更新.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md"
+                "file": "商品服务-品牌管理-品牌分类关联与级联更新.md"
               }
             }
           },
@@ -274,8 +274,9 @@
       }
     ]
   },
-  "active": "0572916738906fbc",
+  "active": "726f372a23c19818",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "商品服务-品牌管理-品牌分类关联与级联更新.md",
     "BEFORE/附件/Pasted image 20231126125554.png",
     "BEFORE/附件/Pasted image 20231126125530.png",
@@ -300,7 +301,6 @@
     "BEFORE/附件/Pasted image 20231123231439.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-OSS前后端联调测试上传.md",
     "BEFORE/README.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--后台管理系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/renren-fast 的application-dev.yml（ip,username,password）.md",
