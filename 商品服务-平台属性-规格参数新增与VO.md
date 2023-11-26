@@ -13,3 +13,4 @@
 - 不推荐这个： 
 	- `AttrEntity: @JsonInclude(JsonInclude.Include.NON_EMPTY) @TableField(exist = false) private Long attrGroupId`
 - 引入VO
+	- `AttrServiceImpl: public void saveAttr(){}`
