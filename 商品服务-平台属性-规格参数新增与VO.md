@@ -17,3 +17,5 @@
 - 测试： 新增规格参数：` http://localhost:88/api/product/attr/save`
 - 数据库：`pms_attr_attrgroup_relation` 数据改变
 	- ![](BEFORE/附件/Pasted%20image%2020231126220212.png)
+
+下一个：[商品服务-平台属性-规格参数列表](商品服务-平台属性-规格参数列表.md)
