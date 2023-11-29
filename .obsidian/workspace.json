@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController--mermaid.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController--mermaid.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController--mermaid.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -309,16 +309,16 @@
         "width": 876,
         "height": 435,
         "maximize": false,
-        "zoom": 0.5
+        "zoom": 1.5
       }
     ]
   },
-  "active": "0572916738906fbc",
+  "active": "39061399391fc5c4",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController--mermaid.md",
     "BEFORE/附件/Pasted image 20231129140339.png",
     "BEFORE/附件/Pasted image 20231129140337.png",
     "未命名.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController--mermaid.md",
     "BEFORE/附件/Pasted image 20231129140312.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController 1",
@@ -332,7 +332,6 @@
     "BEFORE/附件/Pasted image 20231126220212.png",
     "BEFORE/附件/Pasted image 20231126201918.png",
     "BEFORE/附件/Pasted image 20231126201314.png",
-    "BEFORE/附件/Pasted image 20231126195358.png",
     "商品服务-品牌管理-品牌分类关联与级联更新.md",
     "商品服务-属性分组-分组修改&级联选择器回显.md",
     "BEFORE/附件/pms_catelog.sql",
