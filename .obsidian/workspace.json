@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/未命名.md"
               }
             }
           },
@@ -304,8 +304,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 43,
-        "y": 545,
+        "x": 69,
+        "y": 595,
         "width": 876,
         "height": 435,
         "maximize": false,
@@ -313,15 +313,18 @@
       }
     ]
   },
-  "active": "39061399391fc5c4",
+  "active": "0572916738906fbc",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/未命名.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController 1",
+    "未命名.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController",
     "BEFORE/附件/Pasted image 20231128181416.png",
     "商品服务-平台属性-规格参数列表.md",
-    "未命名.md",
     "BEFORE/附件/Pasted image 20231128180945.png",
     "BEFORE/附件/Pasted image 20231127140317.png",
     "BEFORE/附件/Pasted image 20231127134456.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "商品服务-平台属性-规格参数新增与VO.md",
     "BEFORE/附件/Pasted image 20231126220212.png",
     "BEFORE/附件/Pasted image 20231126201918.png",
@@ -331,7 +334,6 @@
     "BEFORE/附件/Pasted image 20231126194450.png",
     "商品服务-品牌管理-品牌分类关联与级联更新.md",
     "商品服务-属性分组-分组修改&级联选择器回显.md",
-    "BEFORE/附件/Pasted image 20231126191638.png",
     "BEFORE/附件/pms_catelog.sql",
     "商品服务-属性分组-分组新增&级联选择器.md",
     "商品服务-概念-SPU&SKU&规格参数&销售属性.md",
@@ -359,8 +361,6 @@
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162511873.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210416095950485.png.baiduyun.p.downloading",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210413162558657.png.baiduyun.p.downloading",
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210705110434492.png.baiduyun.p.downloading",
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210407205305080.png.baiduyun.p.downloading",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
     "学习网站/笔记集合.canvas",
     "课程&笔记/未命名.canvas",
