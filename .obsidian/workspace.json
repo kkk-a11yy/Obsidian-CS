@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-平台属性-销售属性维护.md",
+                "file": "商品服务-平台属性-查询分组关联属性&删除关联.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-平台属性-销售属性维护.md",
+                "file": "商品服务-平台属性-查询分组关联属性&删除关联.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-平台属性-销售属性维护.md"
+                "file": "商品服务-平台属性-查询分组关联属性&删除关联.md"
               }
             }
           },
@@ -311,9 +311,22 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "affa142b435f7d65",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "商品服务-平台属性-查询分组关联属性&删除关联.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 8
+            "currentTab": 9
           }
         ],
         "direction": "vertical",
@@ -326,13 +339,14 @@
       }
     ]
   },
-  "active": "344ddc38d7f36351",
+  "active": "affa142b435f7d65",
   "lastOpenFiles": [
+    "商品服务-平台属性-销售属性维护.md",
+    "商品服务-平台属性-查询分组关联属性&删除关联.md",
     "BEFORE/附件/Pasted image 20231130143219.png",
     "商品服务-平台属性-规格修改.md",
     "商品服务-平台属性-规格参数列表.md",
     "商品服务-平台属性-规格参数新增与VO.md",
-    "商品服务-平台属性-销售属性维护.md",
     "BEFORE/附件/Pasted image 20231130131332.png",
     "BEFORE/附件/Pasted image 20231130122945.png",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController--mermaid.md",
@@ -346,7 +360,6 @@
     "BEFORE/附件/Pasted image 20231128180945.png",
     "BEFORE/附件/Pasted image 20231127140317.png",
     "BEFORE/附件/Pasted image 20231127134456.png",
-    "BEFORE/附件/Pasted image 20231126220212.png",
     "商品服务-品牌管理-品牌分类关联与级联更新.md",
     "商品服务-属性分组-分组修改&级联选择器回显.md",
     "BEFORE/附件/pms_catelog.sql",
