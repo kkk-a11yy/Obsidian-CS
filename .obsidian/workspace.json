@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-新增商品-获取分类下所有分组以及属性.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-新增商品-获取分类下所有分组以及属性.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-新增商品-获取分类下所有分组以及属性.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -220,14 +220,27 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "3f6d9a24b7630cd9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "未命名.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
-        "x": 56,
-        "y": 526,
+        "x": 11,
+        "y": 636,
         "width": 829,
         "height": 435,
         "maximize": false,
@@ -235,15 +248,16 @@
       }
     ]
   },
-  "active": "f0acdcddf79f9703",
+  "active": "3f6d9a24b7630cd9",
   "lastOpenFiles": [
+    "商品服务-新增商品-获取分类下所有分组以及属性.md",
+    "未命名.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "商品服务-平台属性-规格参数新增与VO.md",
     "商品服务-品牌管理-品牌分类关联与级联更新.md",
     "商品服务-属性分组-分组修改&级联选择器回显.md",
     "商品服务-属性分组-分组新增&级联选择器.md",
     "商品服务-概念-SPU&SKU&规格参数&销售属性.md",
-    "商品服务-新增商品-获取分类下所有分组以及属性.md",
     "商品服务-新增商品-调试会员等级相关接口.md",
     "商品服务-平台属性-新增分组与属性关联.md",
     "商品服务-平台属性-查询分组未关联的属性.md",
@@ -275,7 +289,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-云存储.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-使用逆向工程前后端代码.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-OSS前后端联调测试上传.md",
-    "BEFORE/README.md",
     "BEFORE/附件/category-cascader.vue",
     "课程&笔记/技术栈/尚硅谷/红包雨",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
