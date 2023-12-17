@@ -11,8 +11,13 @@
             "id": "59297ba26026ea5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BEFORE/Outsource-data.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "BEFORE/Outsource-data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "BEFORE/Outsource-data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/README.md"
+                "file": "BEFORE/Outsource-data.md"
               }
             }
           },
@@ -196,7 +201,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "商品服务-新增商品-获取分类下所有分组以及属性.md",
+                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": false
@@ -221,8 +226,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 179,
-        "y": 600,
+        "x": 158,
+        "y": 560,
         "width": 829,
         "height": 435,
         "maximize": false,
@@ -230,26 +235,32 @@
       }
     ]
   },
-  "active": "3f6d9a24b7630cd9",
+  "active": "59297ba26026ea5a",
   "lastOpenFiles": [
+    "BEFORE/outsource/Automate Your Vault With Dataview.md",
+    "BEFORE/Outsource-data.md",
+    "BEFORE/README.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Centos9环境搭建.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-概念-SPU&SKU&规格参数&销售属性.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController--mermaid.md",
-    "商品服务-新增商品-商品新增业务流程分析.md",
-    "商品服务-新增商品-获取分类下所有分组以及属性.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-商品新增业务流程分析.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-    "商品服务-平台属性-规格参数新增与VO.md",
-    "商品服务-品牌管理-品牌分类关联与级联更新.md",
-    "商品服务-属性分组-分组修改&级联选择器回显.md",
-    "商品服务-属性分组-分组新增&级联选择器.md",
-    "商品服务-概念-SPU&SKU&规格参数&销售属性.md",
-    "商品服务-新增商品-调试会员等级相关接口.md",
-    "商品服务-平台属性-新增分组与属性关联.md",
-    "商品服务-平台属性-查询分组未关联的属性.md",
-    "商品服务-平台属性-查询分组关联属性&删除关联.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-规格参数新增与VO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-品牌分类关联与级联更新.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-属性分组-分组修改&级联选择器回显.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-属性分组-分组新增&级联选择器.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-调试会员等级相关接口.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-新增分组与属性关联.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-查询分组未关联的属性.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-查询分组关联属性&删除关联.md",
     "BEFORE/附件/Pasted image 20231202154349.png",
-    "商品服务-平台属性-销售属性维护.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-销售属性维护.md",
     "BEFORE/附件/Pasted image 20231130143219.png",
-    "商品服务-平台属性-规格修改.md",
-    "商品服务-平台属性-规格参数列表.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-规格修改.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-规格参数列表.md",
     "BEFORE/附件/Pasted image 20231130131332.png",
     "BEFORE/附件/Pasted image 20231130122945.png",
     "BEFORE/附件/Pasted image 20231129140339.png",
@@ -262,15 +273,9 @@
     "BEFORE/附件/Pasted image 20231128180945.png",
     "BEFORE/附件/Pasted image 20231127140317.png",
     "BEFORE/附件/pms_catelog.sql",
-    "商品服务-品牌管理.md",
-    "商品服务-品牌管理-JSR303自定义校验注解.md",
-    "商品服务-品牌管理-JSR303分组校验.md",
-    "商品服务-品牌管理-统一异常处理.md",
-    "商品服务-品牌管理-JSR303数据校验.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-表单校验&自定义校验器.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-云存储.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-使用逆向工程前后端代码.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-OSS前后端联调测试上传.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-JSR303自定义校验注解.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-JSR303分组校验.md",
     "BEFORE/附件/category-cascader.vue",
     "课程&笔记/技术栈/尚硅谷/红包雨",
     "01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets",
