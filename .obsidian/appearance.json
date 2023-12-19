@@ -4,7 +4,7 @@
   "monospaceFontFamily": "Cambria Math",
   "textFontFamily": "Ink Free,新宋体",
   "interfaceFontFamily": "Sitka Heading",
-  "baseFontSize": 15,
+  "baseFontSize": 10,
   "enabledCssSnippets": [
     "dashboard",
     "dashboard-ReadLineLength"

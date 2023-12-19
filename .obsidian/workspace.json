@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1251aeace442a1f5",
+        "id": "4c4011aafe0d90d1",
         "type": "tabs",
         "children": [
           {
-            "id": "59297ba26026ea5a",
+            "id": "59f035e5d621143a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BEFORE/Person/YouTube-data.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Person/YouTube-data.md",
+                "file": "BEFORE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Person/YouTube-data.md",
+                "file": "BEFORE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Person/YouTube-data.md"
+                "file": "BEFORE/README.md"
               }
             }
           },
@@ -196,20 +191,7 @@
             "type": "tabs",
             "children": [
               {
-                "id": "f0acdcddf79f9703",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "3f6d9a24b7630cd9",
+                "id": "bc341c8352be251d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -221,13 +203,12 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 158,
-        "y": 560,
+        "x": 179,
+        "y": 287,
         "width": 829,
         "height": 435,
         "maximize": false,
@@ -235,14 +216,17 @@
       }
     ]
   },
-  "active": "59297ba26026ea5a",
+  "active": "bc341c8352be251d",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
+    "DEBUG.md",
+    "BEFORE/README.md",
+    "BEFORE/Person/YouTube-data.md",
     "BEFORE/Outsource-data.md",
     "书籍/CS-BOOKS-DATA.md",
     "书籍/books/计算机程序设计艺术 - Donald E Knuth.md",
     "书籍/books/中国哲学史论文索引 - 方克立 杨守义 肖文德.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-    "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
@@ -253,7 +237,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-概念-SPU&SKU&规格参数&销售属性.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController--mermaid.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-商品新增业务流程分析.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-规格参数新增与VO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-品牌分类关联与级联更新.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-属性分组-分组修改&级联选择器回显.md",
@@ -261,9 +244,7 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-调试会员等级相关接口.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-新增分组与属性关联.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-查询分组未关联的属性.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-查询分组关联属性&删除关联.md",
     "BEFORE/附件/Pasted image 20231202154349.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-销售属性维护.md",
     "BEFORE/附件/Pasted image 20231130143219.png",
     "BEFORE/附件/Pasted image 20231130131332.png",
     "BEFORE/附件/Pasted image 20231130122945.png",
