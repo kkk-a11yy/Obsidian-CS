@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BEFORE/README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,49 +174,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "floating": {
-    "id": "b945ee5a7e5a14c5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ff8db3cb6e0f0a31",
-        "type": "window",
-        "children": [
-          {
-            "id": "869a5e76ccb791aa",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bc341c8352be251d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "BEFORE/README.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 179,
-        "y": 287,
-        "width": 829,
-        "height": 435,
-        "maximize": false,
-        "zoom": 1.5
-      }
-    ]
-  },
-  "active": "bc341c8352be251d",
+  "active": "59f035e5d621143a",
   "lastOpenFiles": [
+    "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
     "DEBUG.md",
-    "BEFORE/README.md",
     "BEFORE/Person/YouTube-data.md",
     "BEFORE/Outsource-data.md",
     "书籍/CS-BOOKS-DATA.md",
