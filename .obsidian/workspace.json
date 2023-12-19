@@ -11,8 +11,13 @@
             "id": "860953cae8372bc6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEBUG.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEBUG.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEBUG.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md"
               }
             }
           },
@@ -216,10 +221,10 @@
       }
     ]
   },
-  "active": "59f035e5d621143a",
+  "active": "860953cae8372bc6",
   "lastOpenFiles": [
-    "BEFORE/附件/Pasted image 20231219100332.png",
     "DEBUG.md",
+    "BEFORE/附件/Pasted image 20231219100332.png",
     "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
     "BEFORE/Person/YouTube-data.md",
@@ -255,7 +260,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController",
     "BEFORE/附件/Pasted image 20231128181416.png",
     "BEFORE/附件/Pasted image 20231128180945.png",
-    "BEFORE/附件/Pasted image 20231127140317.png",
     "BEFORE/附件/pms_catelog.sql",
     "BEFORE/附件/category-cascader.vue",
     "课程&笔记/技术栈/尚硅谷/红包雨",
