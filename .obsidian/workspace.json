@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4c4011aafe0d90d1",
+        "id": "6f4e736405b82fc9",
         "type": "tabs",
         "children": [
           {
-            "id": "59f035e5d621143a",
+            "id": "860953cae8372bc6",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DEBUG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DEBUG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DEBUG.md"
+              }
             }
           },
           {
@@ -174,11 +178,50 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
+  "floating": {
+    "id": "b945ee5a7e5a14c5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3228867d44c5466a",
+        "type": "window",
+        "children": [
+          {
+            "id": "cb10e62d821a6d77",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "59f035e5d621143a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DEBUG.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 70,
+        "y": 686,
+        "width": 820,
+        "height": 357,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
   "active": "59f035e5d621143a",
   "lastOpenFiles": [
+    "BEFORE/附件/Pasted image 20231219100332.png",
+    "DEBUG.md",
     "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
-    "DEBUG.md",
     "BEFORE/Person/YouTube-data.md",
     "BEFORE/Outsource-data.md",
     "书籍/CS-BOOKS-DATA.md",
@@ -201,7 +244,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-属性分组-分组新增&级联选择器.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-调试会员等级相关接口.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-新增分组与属性关联.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-查询分组未关联的属性.md",
     "BEFORE/附件/Pasted image 20231202154349.png",
     "BEFORE/附件/Pasted image 20231130143219.png",
     "BEFORE/附件/Pasted image 20231130131332.png",
