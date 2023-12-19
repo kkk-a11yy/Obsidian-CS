@@ -212,8 +212,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 70,
-        "y": 686,
+        "x": 93,
+        "y": 289,
         "width": 820,
         "height": 357,
         "maximize": false,
@@ -224,6 +224,7 @@
   "active": "860953cae8372bc6",
   "lastOpenFiles": [
     "DEBUG.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
     "BEFORE/附件/Pasted image 20231219100332.png",
     "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
@@ -238,7 +239,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "BEFORE/时间编表.md",
     "BEFORE/outsource/Automate Your Vault With Dataview.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-概念-SPU&SKU&规格参数&销售属性.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController--mermaid.md",
