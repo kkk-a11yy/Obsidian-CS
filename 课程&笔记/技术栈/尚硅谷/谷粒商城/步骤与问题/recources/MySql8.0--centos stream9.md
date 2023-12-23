@@ -106,7 +106,7 @@ mysql
 ## 在容器mysql内部查看挂载目录下文件的修改内容
 
 ``` r
-//进入到mysql的交互模式
+	//进入到mysql的交互模式
 [root@bogon ~]# docker exec -it mysql /bin/bash
 
 	//查看文件my.cnf,路径为：/etc/mysql/conf.d/my.cnf
