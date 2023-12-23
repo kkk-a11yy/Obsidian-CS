@@ -4,7 +4,7 @@
 
 - 由于是m1pro的芯片， 要选择支持arm架构的mysql版本
 ```r
-docker pull mysq:8.0
+docker pull mysql:8.0
 
 root@bogon ~]# docker images
 REPOSITORY   TAG       IMAGE ID       CREATED                  SIZE
