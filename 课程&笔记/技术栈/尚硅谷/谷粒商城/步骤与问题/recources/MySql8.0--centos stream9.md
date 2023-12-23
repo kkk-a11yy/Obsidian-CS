@@ -16,7 +16,10 @@ mysql        8.0       6a0560a40914   Less than a second ago   599MB
 
 	//注意8的版本mysql位子已经改变了-v /mydata/mysql/conf:/etc/mysql \  这个改为 -v /mydata/mysql/conf:/etc/mysql/conf.d \
 
-sudo docker run -p 3306:3306 --name mysql \ 
+```
+
+```
+docker run -p 3306:3306 --name mysql \ 
 -v /mydata/mysql/log:/var/log/mysql \
 -v /mydata/mysql/data:/var/lib/mysql \
 -v /mydata/mysql/conf:/etc/mysql/conf.d \
