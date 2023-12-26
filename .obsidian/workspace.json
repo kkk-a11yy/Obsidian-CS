@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
+                "file": "DEBUG.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
+                "file": "DEBUG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
+                "file": "DEBUG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md"
+                "file": "DEBUG.md"
               }
             }
           },
@@ -185,23 +185,24 @@
   },
   "active": "860953cae8372bc6",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
     "DEBUG.md",
+    "BEFORE/附件/Pasted image 20231226153814.png",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql-Mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Redis--centos stream9.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Docker安装 --Mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Centos9环境搭建.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/设置静态ip--m1pro.md",
     "BEFORE/附件/Pasted image 20231219100332.png",
     "BEFORE/README.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
     "BEFORE/Person/YouTube-data.md",
     "BEFORE/Outsource-data.md",
     "书籍/CS-BOOKS-DATA.md",
     "书籍/books/计算机程序设计艺术 - Donald E Knuth.md",
     "书籍/books/中国哲学史论文索引 - 方克立 杨守义 肖文德.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "BEFORE/时间编表.md",
@@ -211,7 +212,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-商品新增业务流程分析.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-规格参数新增与VO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-品牌分类关联与级联更新.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-属性分组-分组修改&级联选择器回显.md",
     "BEFORE/附件/Pasted image 20231202154349.png",
     "BEFORE/附件/Pasted image 20231130143219.png",
     "BEFORE/附件/Pasted image 20231130131332.png",
@@ -222,7 +222,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController 1",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController",
     "BEFORE/附件/Pasted image 20231128181416.png",
-    "BEFORE/附件/Pasted image 20231128180945.png",
     "BEFORE/附件/pms_catelog.sql",
     "BEFORE/附件/category-cascader.vue",
     "课程&笔记/技术栈/尚硅谷/红包雨",
