@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29a93e5ee0a55d65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "书籍/books/计算机程序的构造和解释 - Abelson Harold·埃布尔森.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--配置中心.md",
+                "file": "书籍/books/计算机程序的构造和解释 - Abelson Harold·埃布尔森.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--配置中心.md",
+                "file": "书籍/books/计算机程序的构造和解释 - Abelson Harold·埃布尔森.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--配置中心.md"
+                "file": "书籍/books/计算机程序的构造和解释 - Abelson Harold·埃布尔森.md"
               }
             }
           },
@@ -197,8 +210,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "3e5b59c9c8126f6d",
+  "active": "29a93e5ee0a55d65",
   "lastOpenFiles": [
+    "书籍/books/算法竞赛入门经典 - 汝佳·刘.md",
+    "书籍/books/计算机程序的构造和解释 - Abelson Harold·埃布尔森.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--配置中心.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "DEBUG.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
@@ -224,8 +240,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-概念-SPU&SKU&规格参数&销售属性.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/AttrController--mermaid.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-商品新增业务流程分析.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-规格参数新增与VO.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-品牌分类关联与级联更新.md",
     "BEFORE/附件/Pasted image 20231202154349.png",
     "BEFORE/附件/Pasted image 20231130143219.png",
     "BEFORE/附件/Pasted image 20231130131332.png",
