@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "ee7df75fcca7096f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3fa7683a93472cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "200. ★算法题目汇总★/★算法面试题汇总/让字符串成为回文串的最少插入次数.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3a3b501bede29ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "182c75e6b2f9ab2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7833c12824a6b45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "513359307c9df4cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bed1be3f407700e3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 467
+  },
+  "right": {
+    "id": "9e2e917389f95ecc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f17992c0d51cd6fd",
+        "type": "tabs",
+        "dimension": 67.85340314136126,
+        "children": [
+          {
+            "id": "542d75e43aff8ec9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "200. ★算法题目汇总★/★算法面试题汇总/让字符串成为回文串的最少插入次数.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "dded9b1ad080759c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6b7c26e3b816d28f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "200. ★算法题目汇总★/★算法面试题汇总/让字符串成为回文串的最少插入次数.md"
+              }
+            }
+          },
+          {
+            "id": "4f1fe1f1021e4478",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "2d6951b986383dd0",
+        "type": "tabs",
+        "dimension": 32.146596858638745,
+        "children": [
+          {
+            "id": "c8e6e71ff5031b2f",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318,
+    "collapsed": true
+  },
+  "active": "e3fa7683a93472cf",
+  "lastOpenFiles": [
+    "200. ★算法题目汇总★/★算法面试题汇总/让字符串成为回文串的最少插入次数.md",
+    "100. 算法课程/02. 大厂刷题班/大厂刷题班11.md",
+    "000. 学习大纲/_大厂刷题班课程.md",
+    "100. 算法课程/02. 大厂刷题班/大厂刷题班12.md",
+    "200. ★算法题目汇总★/★算法面试题汇总/旋变字符串.md",
+    "大厂刷题班13.md",
+    "大厂刷题班12.md",
+    "分割回文串 II.md",
+    "让字符串成为回文串的最少插入次数.md",
+    "200. ★算法题目汇总★/★算法面试题汇总/寻找两个正序数组的中位数.md"
+  ]
+}
