@@ -8,16 +8,27 @@
 # 教育背景
 
 ------
+
 | | | | |
 |:-------|:-------:|:-------:|-------:|
-| 上海立信会计金融学院 | 工商管理 | 全日制本科 | 2016-2020 |
+| 上海立信会计金融学院 | <img width=200/>工商管理 <img width=200/>| <img width=200/>全日制本科 <img width=200/>| 2016-2020 |
                                        
+
+<span style="display:inline-block;width:100px">文本</span>
 
 
 <p style="text-align:left;">上海立信会计金融学院
 <span style="float:right;">2016-2020</span>
 </p>
-<span style="float:center;">需要居中的文字</span>
+
+
+
+
+| a | b | c | 
+|---|---|---| 
+| 1 | <img width=200/> | 3 |
+
+
 
 # 专业技能
 
