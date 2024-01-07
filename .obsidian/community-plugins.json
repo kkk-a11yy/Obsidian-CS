@@ -14,5 +14,6 @@
   "homepage",
   "obsidian-git",
   "obsidian-pandoc",
-  "obsidian-book-search-plugin"
+  "obsidian-book-search-plugin",
+  "obsidian-style-settings"
 ]
