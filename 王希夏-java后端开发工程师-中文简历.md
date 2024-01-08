@@ -17,10 +17,11 @@
 
 
 <p style="text-align:left;">上海立信会计金融学院
-<span letter-spacing:20px;>工商管理</span>
+;<span letter-spacing:20px;>工商管理</span>
 <span >全日制本科</span>
 <span style="float:right;">2016-2020</span>
 </p>
+
 
 
 
