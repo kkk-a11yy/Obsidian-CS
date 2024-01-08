@@ -1,6 +1,6 @@
 
 ------
-👩‍💻 王希夏/1998/9                            📧 ksiafor@gmail.com
+<p style="text-align:left;">👩‍💻 王希夏/1998/9                            📧 ksiafor@gmail.com
 📞 15593598291                             👉️ https://github.com/kkk-a11yy
 
 目标职位：Java后端开发工程师            目标地点：上海/杭州
@@ -17,7 +17,8 @@
 
 
 <p style="text-align:left;">上海立信会计金融学院
-<span >2016-2020</span>
+<span letter-spacing:20px;>工商管理</span>
+<span >全日制本科</span>
 <span style="float:right;">2016-2020</span>
 </p>
 
