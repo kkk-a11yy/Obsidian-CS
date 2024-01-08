@@ -38,7 +38,7 @@
 - 熟悉 JVM、JMM, GC 底层算法，熟悉多种常见的垃圾回收器，熟悉 JVM 调优，有实战经验  
 - 精通 Redis 数据持久化机制、多数据类型缓存应用、高可用机制以及多种分布式集群实现  
 - 熟悉 zookeeper，服务注册和发现，分布式锁；  
-- 熟练使用版本管理工具(git、svn)以及项目管理工具 Maven；  
+- 熟练使用版本管理工具(git)以及项目管理工具 Maven；  
 - 熟练使用 Elasticsearch、Logstash、Kibana 搭建 ELK 日志收集系统；
 - 熟练掌握 activeMQ、rocketMQ、kafka 等消息中间件及集群部署；  
 - 熟练掌握 Nginx、KeepAlived、zookeeper、LVS 等负载均衡组件。
@@ -51,9 +51,9 @@
 # 项目经历
 
 ------
-- 
-**项目时间**: 2018 年 11 月 - 2019 年 3 月  
+- Andymall
+**项目时间**: 2023 年 6 月 --  
 **开发环境**：Idea, JDK8 , SpringMvc, spring boot, Mybatis, Mysql, Dubbo, Redis  
 **项目描述**：  
-	该项目是一个幼教电商平台, 包含三个模块, 一个用户 app, 一个商家后台管理系统, 一个总后台运营管理 系统, 我主要负责的是商品, 订单, 售后。
+	该项目是一个电商平台, 包含三个模块, 一个用户 app, 一个商家后台管理系统, 一个总后台运营管理 系统, 我主要负责的是商品, 订单, 售后。
 
