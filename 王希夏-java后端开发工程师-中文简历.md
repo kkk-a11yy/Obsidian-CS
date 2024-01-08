@@ -1,9 +1,9 @@
 
 ------
 <p style="text-align:left;">👩‍💻 王希夏/1998/9                           <span style="float:right;"> 📧 ksiafor@gmail.com</span></p>
-<p style="text-align:left;">📞 15593598291                             <span style="float:right;">👉️ https://github.com/kkk-a11yy</span></p>
+<p style="text-align:left;">📞 15593598291                             <span style="float:right;">👉️<a href="https://github.com/kkk-a11yy">https://github.com/kkk-a11yy </a></span></p>
 
-<p style="text-align:left;">目标职位：Java后端开发工程师            <span style="float:right;">🌏️目标地点：上海/杭州</span></p>
+<p style="text-align:left;">👐目标职位：Java后端开发工程师            <span style="float:right;">🌏️目标地点：上海/杭州</span></p>
 
 # 教育背景
 
@@ -11,7 +11,7 @@
 
 | | | | |
 |:-------|:-------:|:-------:|-------:|
-| 上海立信会计金融学院 <img width=200/> | <img width=100/>工商管理 <img width=100/>| <img width=200/>全日制本科 <img width=200/>| <img width=200/>2016-2020 |
+| 上海立信会计金融学院 <img width=100/> | <img width=100/>工商管理 <img width=100/>| <img width=100/>全日制本科 <img width=100/>| <img width=100/>2016-2020 |
                                        
 
 
