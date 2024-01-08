@@ -22,7 +22,6 @@
 <span style="float:right;">2016-2020</span>
 </p>
 
-<span{display:block;float:left;padding:3px;margin-right:5px; background:#ccc;}>
 
 
 
