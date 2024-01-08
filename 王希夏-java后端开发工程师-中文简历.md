@@ -1,7 +1,7 @@
 
 ------
 <p style="text-align:left;">👩‍💻 王希夏/1998/9                           <span style="float:right;"> 📧 ksiafor@gmail.com</span></p>
-<p style="text-align:left;">📞 15593598291                             <span style="float:right;">👉️<a href="https://github.com/kkk-a11yy">https://github.com/kkk-a11yy </a></span></p>
+<p style="text-align:left;">📞 15593598291                             <span style="float:right;">👉️<a href="https://github.com/kkk-a11yy">github.com/kkk-a11yy </a></span></p>
 
 <p style="text-align:left;">👐目标职位：Java后端开发工程师            <span style="float:right;">🌏️目标地点：上海/杭州</span></p>
 
