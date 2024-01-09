@@ -101,7 +101,7 @@ docker run --env MODE=standalone --name nacos --restart=always  -d -p 8848:8848 
 
 - -d 创建一个守护式容器在后台运行
 
-③：访问地址：http://192.168.101.130:8848/nacos 
+③：访问地址：http://192.168.101.104:8848/nacos 
 ![image-20210412141353694](课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).assets/image-20210412141353694.png)
 ## 5)初始工程搭建
 

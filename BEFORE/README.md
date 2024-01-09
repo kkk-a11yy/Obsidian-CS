@@ -45,7 +45,6 @@ banner: "![[BEFORE/Banners/hqwsbARJ9ec.jpg]]"
 
 - 👥 Personnel Review
     - [YouTube](BEFORE/Person/YouTube-data.md)
-
 # Vault Info
 - 🗄️ Recent file updates
  `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(10).file.link)`
