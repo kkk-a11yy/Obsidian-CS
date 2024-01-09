@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--配置中心.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29a93e5ee0a55d65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md"
               }
             }
           },
@@ -211,10 +197,12 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "29a93e5ee0a55d65",
+  "active": "3e5b59c9c8126f6d",
   "lastOpenFiles": [
-    "BEFORE/README.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--配置中心.md",
+    "BEFORE/README.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/010. 代码模板/选择排序.md",
     "王希夏-java后端开发工程师-中文简历.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md",
@@ -237,8 +225,6 @@
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/非负数组中两个数相与的最大结果.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/非常频繁的数组查询.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/零钱兑换.md",
-    "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/除自身以外数组的乘积.md",
-    "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/阶乘后的零.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 27.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 26.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 25.png",
