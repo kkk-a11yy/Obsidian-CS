@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "云服务器mysql数据没了.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "云服务器mysql数据没了.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "云服务器mysql数据没了.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "云服务器mysql数据没了.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md"
               }
             }
           },
@@ -213,11 +213,12 @@
   },
   "active": "b5dc548989a36efb",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
-    "云服务器mysql数据没了.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--配置中心.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--命名空间与配置分组.md",
+    "云服务器mysql数据没了.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
+    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "BEFORE/README.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/010. 代码模板/选择排序.md",
     "王希夏-java后端开发工程师-中文简历.md",
@@ -238,7 +239,6 @@
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/非负数组子序列中累加和%m的最大值.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/非负数组切分成左右两部分累加和的最大值的数组.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/非负数组切分成左右两部分累加和的最大值.md",
-    "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/非负数组中两个数相与的最大结果.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 27.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 26.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 25.png",
