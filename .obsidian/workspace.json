@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "3278642f0f6e636a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "商品服务-API-商品管理-SPU检索.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "60f29332be7eb823",
             "type": "leaf",
             "state": {
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-API-新增商品-商品新增vo抽取.md",
+                "file": "商品服务-API-商品管理-SPU检索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-API-新增商品-商品新增vo抽取.md",
+                "file": "商品服务-API-商品管理-SPU检索.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-API-新增商品-商品新增vo抽取.md"
+                "file": "商品服务-API-商品管理-SPU检索.md"
               }
             }
           },
@@ -210,10 +223,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "b18736dbed587687",
+  "active": "3278642f0f6e636a",
   "lastOpenFiles": [
-    "DEBUG.md",
     "商品服务-API-新增商品-商品新增vo抽取.md",
+    "商品服务-API-商品管理-SPU检索.md",
+    "DEBUG.md",
     "王希夏-java后端开发工程师-中文简历.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
@@ -237,7 +251,6 @@
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/骑士能见到公主的最少初始血量.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/验证二叉搜索树.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/验证回文串.md",
-    "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/颠倒二进制位.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 27.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 26.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 25.png",

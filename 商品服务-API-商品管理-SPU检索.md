@@ -1,0 +1,1 @@
+- `SpuInfoController: product/spuinfo/list`
