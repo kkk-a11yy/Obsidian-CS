@@ -1,1 +1,2 @@
 - `SpuInfoController: product/spuinfo/list`
+- 前端：`Spu管理`
