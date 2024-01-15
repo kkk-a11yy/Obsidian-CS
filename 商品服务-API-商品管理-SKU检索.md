@@ -1,1 +1,3 @@
 - `/product/skuinfo/list`
+	- #检索价格区间
+	- #非空判断
