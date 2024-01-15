@@ -1,1 +1,1 @@
-- `/ware/purchasedetail/list`
+- 采购需求查询：`/ware/purchasedetail/list`
