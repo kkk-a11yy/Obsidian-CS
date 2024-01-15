@@ -1,0 +1,2 @@
+- 合并采购单（新建且已分配的）
+	- `/ware/purchase/unreceive/list`
