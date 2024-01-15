@@ -1,2 +1,4 @@
 - 合并采购单（新建且已分配的）
 	- `/ware/purchase/unreceive/list`
+- 合并采购需求
+	- `/ware/purchase/merge`
