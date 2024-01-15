@@ -1,3 +1,3 @@
 - `/product/skuinfo/list`
-	- #检索价格区间
+	- #检索价格区间  BigDecimal.compareTo
 	- #非空判断
