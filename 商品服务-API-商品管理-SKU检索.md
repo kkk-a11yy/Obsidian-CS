@@ -1,0 +1,1 @@
+- `/product/skuinfo/list`
