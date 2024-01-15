@@ -73,6 +73,19 @@
             }
           },
           {
+            "id": "24c5c7597d9f649a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓储服务-API-仓库管理-查询库存&创建采购需求.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "60f29332be7eb823",
             "type": "leaf",
             "state": {
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "仓储服务-API-仓库管理-整合ware服务&获取仓库列表.md",
+                "file": "仓储服务-API-仓库管理-查询库存&创建采购需求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "仓储服务-API-仓库管理-整合ware服务&获取仓库列表.md",
+                "file": "仓储服务-API-仓库管理-查询库存&创建采购需求.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "仓储服务-API-仓库管理-整合ware服务&获取仓库列表.md"
+                "file": "仓储服务-API-仓库管理-查询库存&创建采购需求.md"
               }
             }
           },
@@ -249,10 +262,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "524af020e93066f0",
+  "active": "24c5c7597d9f649a",
   "lastOpenFiles": [
-    "商品服务-API-商品管理-SKU检索.md",
     "仓储服务-API-仓库管理-整合ware服务&获取仓库列表.md",
+    "仓储服务-API-仓库管理-查询库存&创建采购需求.md",
+    "商品服务-API-商品管理-SKU检索.md",
     "商品服务-API-商品管理-SPU检索.md",
     "商品服务-API-新增商品-商品新增vo抽取.md",
     "DEBUG.md",
@@ -276,7 +290,6 @@
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/000. 学习大纲/_课程题目Summary.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/100. 算法课程/02. 大厂刷题班/大厂刷题班01.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/000. 学习大纲/_大厂刷题班课程.md",
-    "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总/骑士能见到公主的最少初始血量.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 27.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 26.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 25.png",
