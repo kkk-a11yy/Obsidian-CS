@@ -4,3 +4,4 @@
 	- `/ware/purchase/merge`
 - 领取采购单
 	- `/ware/purchase/received`
+	- postAir 测试
