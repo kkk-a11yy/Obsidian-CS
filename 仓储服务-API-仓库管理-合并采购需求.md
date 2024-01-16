@@ -2,3 +2,5 @@
 	- `/ware/purchase/unreceive/list`
 - 合并采购需求
 	- `/ware/purchase/merge`
+- 领取采购单
+	- `/ware/purchase/received`
