@@ -1,0 +1,1 @@
+- `/ware/purchase/done`

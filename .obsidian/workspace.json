@@ -99,6 +99,19 @@
             }
           },
           {
+            "id": "c26e5e0000cc3d62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "仓储服务-API-仓库管理-完成采购.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "60f29332be7eb823",
             "type": "leaf",
             "state": {
@@ -112,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "仓储服务-API-仓库管理-合并采购需求.md",
+                "file": "仓储服务-API-仓库管理-完成采购.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "仓储服务-API-仓库管理-合并采购需求.md",
+                "file": "仓储服务-API-仓库管理-完成采购.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "仓储服务-API-仓库管理-合并采购需求.md"
+                "file": "仓储服务-API-仓库管理-完成采购.md"
               }
             }
           },
@@ -275,10 +288,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "a482b6c28abb9c6e",
+  "active": "c26e5e0000cc3d62",
   "lastOpenFiles": [
-    "仓储服务-API-仓库管理-查询库存&创建采购需求.md",
     "仓储服务-API-仓库管理-合并采购需求.md",
+    "仓储服务-API-仓库管理-完成采购.md",
+    "仓储服务-API-仓库管理-查询库存&创建采购需求.md",
     "仓储服务-API-仓库管理-整合ware服务&获取仓库列表.md",
     "商品服务-API-商品管理-SKU检索.md",
     "商品服务-API-商品管理-SPU检索.md",
@@ -302,7 +316,6 @@
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/000. 学习大纲/_算法数据结构体系学习班.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/000. 学习大纲/_课程题目Summary.md",
-    "课程&笔记/技术栈/马士兵/zuoAlgorithm/100. 算法课程/02. 大厂刷题班/大厂刷题班01.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 27.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 26.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 25.png",
