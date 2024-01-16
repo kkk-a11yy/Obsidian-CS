@@ -1,0 +1,1 @@
+- `/product/attr/base/listforspu/{spuId}`
