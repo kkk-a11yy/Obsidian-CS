@@ -38,6 +38,8 @@ docker run --name elasticsearch -p 9200:9200 -p 9300:9300 \
 -d elasticsearch:8.11.3
 
 挂载出错要添加到白名单chcon -Rt svirt_sandbox_file_t（需要挂载的文件目录）或者chmod -R 777 /mydata/elasticsearch/ 保证权限
+记得改成自己的ip地址
+echo "" 那个 host:冒号和0.0之间有空格不能漏
 ```
 
 - `-p 9200:9200 -p 9300:9300`：向外暴露两个端口，9200用于HTTP REST API请求，9300 ES 在分布式集群状态下 ES 之间的通信端口；
