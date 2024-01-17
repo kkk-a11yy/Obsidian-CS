@@ -13,132 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEBUG.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "b18736dbed587687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "商品服务-API-新增商品-商品新增vo抽取.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3278642f0f6e636a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "商品服务-API-商品管理-SPU检索.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70b7301edde3339b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "商品服务-API-商品管理-SKU检索.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "524af020e93066f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "仓储服务-API-仓库管理-整合ware服务&获取仓库列表.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24c5c7597d9f649a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "仓储服务-API-仓库管理-查询库存&创建采购需求.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a482b6c28abb9c6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "仓储服务-API-仓库管理-合并采购需求.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c26e5e0000cc3d62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "仓储服务-API-仓库管理-完成采购.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e19f202bf02ee2a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "商品服务-API-商品管理-SPU规格维护.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60f29332be7eb823",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "王希夏-java后端开发工程师-中文简历.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商品服务-API-商品管理-SPU规格维护.md",
+                "file": "Elastisearch-介绍及安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商品服务-API-商品管理-SPU规格维护.md",
+                "file": "Elastisearch-介绍及安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商品服务-API-商品管理-SPU规格维护.md"
+                "file": "Elastisearch-介绍及安装.md"
               }
             }
           },
@@ -301,21 +183,60 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "e19f202bf02ee2a2",
+  "floating": {
+    "id": "b945ee5a7e5a14c5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "370a1d28f5843df2",
+        "type": "window",
+        "children": [
+          {
+            "id": "961e629230bd133c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a5de284bf41f26a0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Elastisearch-介绍及安装.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 910,
+        "y": 257,
+        "width": 675,
+        "height": 747,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "a5de284bf41f26a0",
   "lastOpenFiles": [
-    "仓储服务-API-仓库管理-完成采购.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "Elastisearch-介绍及安装.md",
     "商品服务-API-商品管理-SPU规格维护.md",
+    "仓储服务-API-仓库管理-完成采购.md",
+    "仓储服务-API-仓库管理-整合ware服务&获取仓库列表.md",
     "仓储服务-API-仓库管理-合并采购需求.md",
     "仓储服务-API-仓库管理-查询库存&创建采购需求.md",
-    "仓储服务-API-仓库管理-整合ware服务&获取仓库列表.md",
     "商品服务-API-商品管理-SKU检索.md",
     "商品服务-API-商品管理-SPU检索.md",
     "商品服务-API-新增商品-商品新增vo抽取.md",
     "DEBUG.md",
-    "王希夏-java后端开发工程师-中文简历.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "王希夏-java后端开发工程师-中文简历.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SpringCloudGateway--配置网关.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--加载多配置集.md",
@@ -328,7 +249,6 @@
     "BEFORE/README.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/010. 代码模板/选择排序.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/100. 算法课程/01. 体系学习班/01 认识复杂度、对数器、二分法.md",
-    "课程&笔记/技术栈/马士兵/zuoAlgorithm/000. 学习大纲/_算法数据结构体系学习班.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 27.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 26.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 25.png",
