@@ -101,3 +101,5 @@ docker-compose up -d  嗖嗖。。。
 ```
 
 访问：http://192.168.101.104:5601
+
+使用apiPost测试命令
