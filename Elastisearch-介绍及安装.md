@@ -78,3 +78,26 @@ xpack.security.enrollment.enabled: true
 # 当前 Docker 开机自启，所以 ES 现在也是开机自启
 docker update elasticsearch --restart=always
 ```
+
+
+# 启动可视化Kibana
+```java
+docker run --name kibana \
+-e ELASTICSEARCH_HOSTS=http://192.168.101.104:9200 \
+-p 5601:5601 \
+-d kibana:8.11.3
+
+//我的docker inspect elasticsearch 的ip为172.17.0.4，但这里使用的是虚拟机ip，可以访问成功
+docker run --name kibana \
+-e ELASTICSEARCH_HOSTS=http://172.17.0.4:9200 \
+-p 5601:5601 \
+-d kibana:8.11.3
+
+注意 这个ip不是虚拟机地址 要查docker inspect XXXXXXX |grep IPAddress  XXXX代表的是elastic的容器id
+
+可以用docker inspect elasticsearch查看NetworkSettings:IPAddress获取ip
+
+docker-compose up -d  嗖嗖。。。
+```
+
+访问：http://192.168.101.104:5601
