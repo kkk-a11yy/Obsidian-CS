@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nacos",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
+                "file": "Elastisearch-介绍及安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
+                "file": "Elastisearch-介绍及安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md"
+                "file": "Elastisearch-介绍及安装.md"
               }
             }
           },
@@ -222,8 +222,9 @@
       }
     ]
   },
-  "active": "b5dc548989a36efb",
+  "active": "a5de284bf41f26a0",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "仓储服务-API-仓库管理-整合ware服务&获取仓库列表.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
@@ -245,7 +246,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SpringCloudGateway--配置网关.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--加载多配置集.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--命名空间与配置分组.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--配置中心.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Feign--远程调用.md",
     "云服务器mysql数据没了.md",
