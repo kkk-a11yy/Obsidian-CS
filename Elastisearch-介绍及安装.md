@@ -54,3 +54,9 @@ echo "" 那个 host:冒号和0.0之间有空格不能漏
 - `-d elasticsearch:8.11.3`：指定要启动的镜像
 
 访问 IP:9200 看到返回的 json 数据说明启动成功。
+
+# 设置 Elasticsearch 随Docker启动
+```java
+# 当前 Docker 开机自启，所以 ES 现在也是开机自启
+docker update elasticsearch --restart=always
+```
