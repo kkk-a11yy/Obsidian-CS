@@ -55,6 +55,24 @@ echo "" 那个 host:冒号和0.0之间有空格不能漏
 
 访问 IP:9200 看到返回的 json 数据说明启动成功。
 
+- [神坑：ElasticSearch8集群启动报错“Device or resource busy”（Docker方式）_/usr/share/elasticsearch/config/elasticsearch.yml:-CSDN博客](https://blog.csdn.net/tiancao222/article/details/131469295)
+
+最终解决：我的elasticsearch.yml:
+```java
+[root@localhost ~]# cat /mydata/elasticsearch/config/elasticsearch.yml
+
+http.host:  0.0.0.0
+
+  # 开启x-pack插件,用于添加账号密码、安全控制等配置
+
+xpack.security.enabled: false #最关键的一句
+
+xpack.security.transport.ssl.enabled: false
+
+xpack.security.enrollment.enabled: true
+```
+
+访问：http://192.168.101.104:9200
 # 设置 Elasticsearch 随Docker启动
 ```java
 # 当前 Docker 开机自启，所以 ES 现在也是开机自启
