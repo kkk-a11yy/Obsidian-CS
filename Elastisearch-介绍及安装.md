@@ -18,7 +18,7 @@ mkdir -p /mydata/elasticsearch/data
 # 将/mydata/elasticsearch/文件夹中文件都可读可写
 chmod -R 777 /mydata/elasticsearch/
 
-# 配置任意机器可以访问 elasticsearch
+# 配置任意机器可以访问 elasticsearch，这里注意冒号后面有空格！
 echo "http.host: 0.0.0.0" >/mydata/elasticsearch/config/elasticsearch.yml
 
 检查，查看文件内容是否修改
@@ -40,6 +40,7 @@ docker run --name elasticsearch -p 9200:9200 -p 9300:9300 \
 挂载出错要添加到白名单chcon -Rt svirt_sandbox_file_t（需要挂载的文件目录）或者chmod -R 777 /mydata/elasticsearch/ 保证权限
 记得改成自己的ip地址
 echo "" 那个 host:冒号和0.0之间有空格不能漏
+还是不行 换成7.10.1版本
 ```
 
 - `-p 9200:9200 -p 9300:9300`：向外暴露两个端口，9200用于HTTP REST API请求，9300 ES 在分布式集群状态下 ES 之间的通信端口；
