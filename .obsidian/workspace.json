@@ -213,8 +213,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1036,
-        "y": 114,
+        "x": 1027,
+        "y": 135,
         "width": 675,
         "height": 747,
         "maximize": false,
@@ -225,11 +225,11 @@
   "active": "a5de284bf41f26a0",
   "lastOpenFiles": [
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
+    "Elastisearch-介绍及安装.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "仓储服务-API-仓库管理-整合ware服务&获取仓库列表.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
-    "Elastisearch-介绍及安装.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
     "商品服务-API-商品管理-SPU规格维护.md",
     "仓储服务-API-仓库管理-完成采购.md",
