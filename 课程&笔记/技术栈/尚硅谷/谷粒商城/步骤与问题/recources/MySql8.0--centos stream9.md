@@ -18,7 +18,7 @@ mysql        8.0       6a0560a40914   Less than a second ago   599MB
 
 ```
 
-```
+```java
 docker run -p 3306:3306 --name mysql \ 
 -v /mydata/mysql/log:/var/log/mysql \
 -v /mydata/mysql/data:/var/lib/mysql \
