@@ -44,6 +44,6 @@ docker run --name elasticsearch -p 9200:9200 -p 9300:9300 \
 - `-e  "discovery.type=single-node"`：es 以单节点运行
 - `-e ES_JAVA_OPTS="-Xms64m -Xmx512m"`：设置启动占用内存，不设置可能会占用当前系统所有内存
 - -v：挂载容器中的配置文件、数据文件、插件数据到本机的文件夹；
-- `-d elasticsearch:7.6.2`：指定要启动的镜像
+- `-d elasticsearch:8.11.3`：指定要启动的镜像
 
 访问 IP:9200 看到返回的 json 数据说明启动成功。
