@@ -105,4 +105,13 @@ docker-compose up -d  嗖嗖。。。
 - 使用apiPost测试命令
 - 使用kibana 测试
 	- http://192.168.101.104:5601/app/dev_tools#/console
-	- 
+```java
+POST /books/_bulk
+{"delete":{"_index":"website","_id":"123"}}
+{"create":{"_index":"website","_id":"123"}}
+{"title":"my first blog post"}
+{"index":{"_index":"website"}}
+{"title":"my second blog post"}
+{"update":{"_index":"website","_id":"123"}}
+{"doc":{"title":"my updated blog post"}}
+```
