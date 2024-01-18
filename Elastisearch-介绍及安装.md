@@ -102,4 +102,7 @@ docker-compose up -d  嗖嗖。。。
 
 访问：http://192.168.101.104:5601
 
-使用apiPost测试命令
+- 使用apiPost测试命令
+- 使用kibana 测试
+	- http://192.168.101.104:5601/app/dev_tools#/console
+	- 
