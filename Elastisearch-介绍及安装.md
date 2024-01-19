@@ -168,4 +168,4 @@ exit
 elasticsearch
 
 ```
-然后重新进入：http://192.168.101.104:5601/app/home#/
+然后重新进入：http://192.168.101.104:5601/app/dev_tools#/console
