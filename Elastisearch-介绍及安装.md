@@ -118,3 +118,54 @@ POST /books/_bulk
 - 测试数据
 	- https://github.com/elastic/elasticsearch/blob/v6.8.18/docs/src/test/resources/accounts.json
 	- [Query DSL | Elasticsearch Guide [8.9] | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/8.9/query-dsl.html)
+
+# 安装分词器
+```java
+[root@localhost plugins]# mkdir ik8.11.3
+
+[root@localhost plugins]# ls
+
+**ik8.11.3**
+
+[root@localhost plugins]# pwd
+
+/mydata/elasticsearch/plugins
+
+[root@localhost plugins]# cd ik8.11.3/
+
+[root@localhost ik8.11.3]# ls
+
+**analysis-icu-8.11.3.jar**  **icu4j-68.2.jar**  LICENSE.txt  **lucene-analysis-icu-9.8.0.jar**  NOTICE.txt  plugin-descriptor.properties
+
+[root@localhost ik8.11.3]# cd ../
+
+[root@localhost plugins]# docker restart elasticsearch 
+
+elasticsearch
+
+
+[root@localhost plugins]# docker exec -it 20c /bin/bash
+
+elasticsearch@20cecd37a51e:~$ ls
+
+LICENSE.txt  NOTICE.txt  README.asciidoc  **bin**  **config**  data  **jdk**  **lib**  **logs**  **modules**  plugins
+
+elasticsearch@20cecd37a51e:~$ cd bin/
+
+elasticsearch@20cecd37a51e:~/bin$ ls
+
+         **elasticsearch-plugin**  
+elasticsearch@20cecd37a51e:~/bin$ elasticsearch-plugin list
+
+ik8.11.3
+
+elasticsearch@20cecd37a51e:~/bin$ exit
+
+exit
+
+[root@localhost plugins]# docker restart elasticsearch 
+
+elasticsearch
+
+```
+然后重新进入：http://192.168.101.104:5601/app/home#/
