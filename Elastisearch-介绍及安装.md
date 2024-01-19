@@ -161,11 +161,8 @@ ik8.11.3
 
 elasticsearch@20cecd37a51e:~/bin$ exit
 
-exit
-
 [root@localhost plugins]# docker restart elasticsearch 
 
-elasticsearch
 
 ```
 然后重新进入：http://192.168.101.104:5601/app/dev_tools#/console
