@@ -169,6 +169,6 @@ elasticsearch@20cecd37a51e:~/bin$ exit
 
 #检查虚拟机内存
 ```java
-[root@localhost plugins]# free -m
-
+[root@localhost ~]# free -m
+[root@localhost ~]# docker stats
 ```
