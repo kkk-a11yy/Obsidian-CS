@@ -166,3 +166,9 @@ elasticsearch@20cecd37a51e:~/bin$ exit
 
 ```
 然后重新进入：http://192.168.101.104:5601/app/dev_tools#/console
+
+#检查虚拟机内存
+```java
+[root@localhost plugins]# free -m
+
+```
