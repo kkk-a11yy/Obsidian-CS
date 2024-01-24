@@ -120,22 +120,20 @@ POST /books/_bulk
 	- [Query DSL | Elasticsearch Guide [8.9] | Elastic](https://www.elastic.co/guide/en/elasticsearch/reference/8.9/query-dsl.html)
 
 # 安装分词器
+
+- [Releases · medcl/elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik/releases)
+- 下载8.11.3版本
+```java
+
+put /Users/ksia/Downloads/elasticsearch-analysis-ik-8/*  /mydata/elasticsearch/plugins/ik8.11.3/
+```
+
 ```java
 [root@localhost plugins]# mkdir ik8.11.3
-
-[root@localhost plugins]# ls
-
-**ik8.11.3**
-
-[root@localhost plugins]# pwd
 
 /mydata/elasticsearch/plugins
 
 [root@localhost plugins]# cd ik8.11.3/
-
-[root@localhost ik8.11.3]# ls
-
-[root@localhost ik8.11.3]# cd ../
 
 [root@localhost plugins]# docker restart elasticsearch 
 

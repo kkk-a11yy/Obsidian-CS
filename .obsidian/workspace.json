@@ -252,8 +252,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 110,
-        "y": 314,
+        "x": 347,
+        "y": 98,
         "width": 1200,
         "height": 747,
         "maximize": false,
@@ -263,9 +263,9 @@
   },
   "active": "a5de284bf41f26a0",
   "lastOpenFiles": [
-    "安装Nginx.md",
-    "Elastisearch-介绍及安装.md",
     "centos-stream9-yum.md",
+    "Elastisearch-介绍及安装.md",
+    "安装Nginx.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
     "未命名.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
