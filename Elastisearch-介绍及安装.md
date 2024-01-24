@@ -135,8 +135,6 @@ POST /books/_bulk
 
 [root@localhost ik8.11.3]# ls
 
-**analysis-icu-8.11.3.jar**  **icu4j-68.2.jar**  LICENSE.txt  **lucene-analysis-icu-9.8.0.jar**  NOTICE.txt  plugin-descriptor.properties
-
 [root@localhost ik8.11.3]# cd ../
 
 [root@localhost plugins]# docker restart elasticsearch 
