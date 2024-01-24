@@ -94,6 +94,8 @@ nginx
 
 
 ```java
+[root@localhost config]# vim /mydata/elasticsearch/plugins/ik/config/IKAnalyzer.cfg.xml
+
 <?xml version="1.0" encoding="UTF-8"?>
 
 **<!**DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"**>**
