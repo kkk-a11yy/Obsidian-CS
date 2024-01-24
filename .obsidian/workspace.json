@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elastisearch-介绍及安装.md",
+                "file": "安装Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elastisearch-介绍及安装.md",
+                "file": "安装Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elastisearch-介绍及安装.md"
+                "file": "安装Nginx.md"
               }
             }
           },
@@ -248,12 +248,13 @@
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 143,
-        "y": 218,
+        "x": 127,
+        "y": 327,
         "width": 712,
         "height": 747,
         "maximize": false,
@@ -261,10 +262,10 @@
       }
     ]
   },
-  "active": "a5de284bf41f26a0",
+  "active": "6f9680156f5a5970",
   "lastOpenFiles": [
-    "centos-stream9-yum.md",
     "Elastisearch-介绍及安装.md",
+    "centos-stream9-yum.md",
     "安装Nginx.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
     "未命名.md",

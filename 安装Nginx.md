@@ -90,21 +90,51 @@ nginx
 
 [root@localhost es]# vi fenci.txt
 
-[root@localhost es]# cd /mydata/
+```
 
-[root@localhost mydata]# cd elasticsearch/
 
-[root@localhost elasticsearch]# cd plugins/
+```java
+<?xml version="1.0" encoding="UTF-8"?>
 
-[root@localhost plugins]# ls
+**<!**DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd"**>**
 
-**ik8.11.3**
+**<properties>**
 
-[root@localhost plugins]# cd ik8.11.3/
+        **<comment>**IK Analyzer 扩展配置**</comment>**
 
-[root@localhost ik8.11.3]# ls
+        <!--用户可以在这里配置自己的扩展字典 -->
 
-**analysis-icu-8.11.3.jar**  **icu4j-68.2.jar**  LICENSE.txt  **lucene-analysis-icu-9.8.0.jar**  NOTICE.txt  plugin-descriptor.properties
+        **<entry** key="ext_dict"**></entry>**
 
-[root@localhost ik8.11.3]#
+         <!--用户可以在这里配置自己的扩展停止词字典-->
+
+        **<entry** key="ext_stopwords"**></entry>**
+
+        <!--用户可以在这里配置远程扩展字典 -->
+
+        **<entry** key="remote_ext_dict"**>**http://192.168.101.104/es/fenci.txt**</entry>**
+
+        <!--用户可以在这里配置远程扩展停止词字典-->
+
+        <!-- <entry key="remote_ext_stopwords">words_location</entry> -->
+
+**</properties>**
+
+~                                                                                                      
+
+~                                                                                                      
+
+~                                                                                                      
+
+~                                                                                                      
+
+~                                                                                                      
+
+~                                                                                                      
+
+~                                                                                                      
+
+~                                                                                                      
+
+~
 ```
