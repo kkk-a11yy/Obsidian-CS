@@ -140,7 +140,7 @@ put /Users/ksia/Downloads/elasticsearch-analysis-ik-8/*  /mydata/elasticsearch/
 elasticsearch
 
 
-[root@localhost plugins]# docker exec -it 20c /bin/bash
+[root@localhost plugins]# c d
 
 elasticsearch@20cecd37a51e:~$ ls
 
