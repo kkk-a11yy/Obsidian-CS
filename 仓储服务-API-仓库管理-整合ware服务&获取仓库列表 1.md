@@ -18,4 +18,4 @@
 #调整日志级别
 - `gateway: application.yml: logging:   level:   com.andymall: debug`
 
-下一个：[仓储服务-API-仓库管理-查询库存&创建采购需求](仓储服务-API-仓库管理-查询库存&创建采购需求.md)
+下一个：[仓储服务-API-仓库管理-查询库存&创建采购需求 1](仓储服务-API-仓库管理-查询库存&创建采购需求%201.md)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+                "file": "安装Nginx.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+                "file": "安装Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+                "file": "安装Nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md"
+                "file": "安装Nginx.md"
               }
             }
           },
@@ -188,28 +187,28 @@
   },
   "active": "3995cc12363d3acd",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "仓储服务-API-仓库管理-合并采购需求 1.md",
+    "安装Nginx.md",
+    "仓储服务-API-仓库管理-查询库存&创建采购需求 1.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/JDK1.8-Mac m1 pro.md",
     "centos-stream9-yum.md",
-    "安装Nginx.md",
     "Elastisearch-介绍及安装.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--服务注册.md",
     "未命名.md",
-    "仓储服务-API-仓库管理-整合ware服务&获取仓库列表.md",
+    "仓储服务-API-仓库管理-整合ware服务&获取仓库列表 1.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/MySql8.0--centos stream9.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--Windows.md",
-    "商品服务-API-商品管理-SPU规格维护.md",
-    "仓储服务-API-仓库管理-完成采购.md",
-    "仓储服务-API-仓库管理-合并采购需求.md",
-    "仓储服务-API-仓库管理-查询库存&创建采购需求.md",
-    "商品服务-API-商品管理-SKU检索.md",
-    "商品服务-API-商品管理-SPU检索.md",
-    "商品服务-API-新增商品-商品新增vo抽取.md",
+    "商品服务-API-商品管理-SPU规格维护 1.md",
+    "仓储服务-API-仓库管理-完成采购 1.md",
+    "商品服务-API-商品管理-SKU检索 1.md",
+    "商品服务-API-商品管理-SPU检索 1.md",
+    "商品服务-API-新增商品-商品新增vo抽取 1.md",
     "DEBUG.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
     "王希夏-java后端开发工程师-中文简历.md",
