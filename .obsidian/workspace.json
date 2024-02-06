@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+                "file": "BEFORE/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+                "file": "BEFORE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
+                "file": "BEFORE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md"
+                "file": "BEFORE/README.md"
               }
             }
           },
@@ -186,46 +186,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "floating": {
-    "id": "b945ee5a7e5a14c5",
-    "type": "floating",
-    "children": [
-      {
-        "id": "370a1d28f5843df2",
-        "type": "window",
-        "children": [
-          {
-            "id": "961e629230bd133c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6f9680156f5a5970",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "安装Nginx.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 302,
-        "y": 250,
-        "width": 712,
-        "height": 747,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
   "active": "3995cc12363d3acd",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/JDK1.8-Mac m1 pro.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
@@ -250,8 +214,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-新增商品-获取分类下所有分组以及属性.md",
     "王希夏-java后端开发工程师-中文简历.md",
     "课程&笔记/技术栈/尚硅谷/尚硅谷-data.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SpringCloudGateway--配置网关.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Nacos--加载多配置集.md",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 27.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 26.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 25.png",
