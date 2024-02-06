@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "商城业务-商品上架-构造基本数据.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "商城业务-商品上架-构造基本数据.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "商城业务-商品上架-构造基本数据.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
+                "file": "商城业务-商品上架-构造基本数据.md"
               }
             }
           },
@@ -198,10 +199,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "3995cc12363d3acd",
+  "active": "eb6ee533419fa89d",
   "lastOpenFiles": [
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-    "未命名 1.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "商城业务-商品上架-构造基本数据.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-API-商品管理-SPU规格维护.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/仓储服务-API-仓库管理-合并采购需求.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/仓储服务-API-仓库管理-查询库存&创建采购需求.md",
@@ -210,7 +212,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-API-商品管理-SPU检索.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-API-新增商品-商品新增vo抽取.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/仓储服务-API-仓库管理-完成采购.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/云服务器mysql数据没了.md",
     "未命名.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/安装Nginx.md",
