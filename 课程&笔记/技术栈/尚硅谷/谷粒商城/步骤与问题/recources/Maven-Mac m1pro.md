@@ -102,3 +102,6 @@ file encoding: utf-8
 #maven一直在加载
 - [IDEA创建Maven项目一直显示正在加载的问题 - 悠然现南山 - 博客园](https://www.cnblogs.com/yrxns/p/9850162.html)
 - Runner: VM Option: `-DarchetypeCatalog=internal`
+
+#错误的uxxxx编码
+- [macos - java.lang.IllegalArgumentException：mvn安装时错误的\uxxxx编码-堆栈溢出](https://stackoverflow.com/questions/68003423/java-lang-illegalargumentexception-malformed-uxxxx-encoding-while-mvn-install)
