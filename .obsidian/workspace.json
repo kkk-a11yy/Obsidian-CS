@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "整合MyBatisX.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "整合MyBatisX.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "整合MyBatisX.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md"
               }
             }
           },
@@ -213,16 +212,16 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c634fd04462b31c8",
+  "active": "3995cc12363d3acd",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "商城业务-商品上架-构造基本数据.md",
     "整合MyBatisX.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/版本对应.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/给所有微服务逆向生成代码.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Elastisearch-介绍及安装.md",
-    "商城业务-商品上架-构造基本数据.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-API-商品管理-SPU规格维护.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/仓储服务-API-仓库管理-合并采购需求.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/仓储服务-API-仓库管理-查询库存&创建采购需求.md",
