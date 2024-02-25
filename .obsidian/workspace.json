@@ -21,16 +21,6 @@
             }
           },
           {
-            "id": "2ec21490c291c376",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
             "id": "c634fd04462b31c8",
             "type": "leaf",
             "state": {
@@ -56,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,16 +202,16 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-import-json:JSON/CSV Importer": false,
-      "templater-obsidian:Templater": false,
-      "dbfolder:Create a new database table": false,
-      "homepage:Open homepage": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "dbfolder:Create a new database table": false
     }
   },
-  "active": "2ec21490c291c376",
+  "active": "3995cc12363d3acd",
   "lastOpenFiles": [
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
     "商城业务-商品上架-构造基本数据.md",
