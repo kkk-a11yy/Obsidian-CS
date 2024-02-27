@@ -8,5 +8,6 @@
   "enabledCssSnippets": [
     "dashboard",
     "dashboard-ReadLineLength"
-  ]
+  ],
+  "cssTheme": "Obsidian gruvbox"
 }
