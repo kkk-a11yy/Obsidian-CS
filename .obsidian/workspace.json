@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6f4e736405b82fc9",
+        "id": "793aeffaba6b8530",
         "type": "tabs",
         "children": [
           {
-            "id": "3995cc12363d3acd",
+            "id": "92d92ea4a3e9a5b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c634fd04462b31c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb6ee533419fa89d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商城业务-商品上架-构造基本数据.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -202,7 +176,6 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "obsidian-import-json:JSON/CSV Importer": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
@@ -211,8 +184,9 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "2c6e3a3f75a490ef",
+  "active": "92d92ea4a3e9a5b1",
   "lastOpenFiles": [
+    "BEFORE/README.md",
     "BEFORE/Utility/Tools.md",
     "BEFORE/Utility/ZK Processing.md",
     "BEFORE/Utility/Readwise Items To Review.md",
@@ -252,7 +226,6 @@
     "BEFORE/Templetes/PluginTemplates/Note Extractor.md",
     "BEFORE/Templetes/Metadata/Re Name.md",
     "BEFORE/Templetes/Metadata/related.md",
-    "BEFORE/Templetes/Metadata/highlight.md",
     "BEFORE/Templetes/Temporal",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 27.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 26.png",
