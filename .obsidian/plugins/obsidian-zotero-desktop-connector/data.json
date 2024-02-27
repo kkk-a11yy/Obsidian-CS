@@ -6,11 +6,20 @@
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "Format #1",
-      "format": "formatted-citation"
+      "name": "Cite",
+      "format": "template",
+      "template": "{{Citekey}}"
     }
   ],
-  "exportFormats": [],
+  "exportFormats": [
+    {
+      "name": "Import Paper",
+      "outputPathTemplate": "BEFORE/Inbox/{{citekey}}.md",
+      "imageOutputPathTemplate": "BEFORE/Media/zotero/{{citekey}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "templatePath": "BEFORE/Templetes/Inputs/Paper.md"
+    }
+  ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
   "openNoteAfterImport": true,
   "whichNotesToOpenAfterImport": "first-imported-note",
