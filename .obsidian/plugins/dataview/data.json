@@ -7,9 +7,9 @@
   "recursiveSubTaskCompletion": false,
   "warnOnEmptyResult": true,
   "refreshEnabled": true,
-  "refreshInterval": 2500,
-  "defaultDateFormat": "MMMM dd, yyyy",
-  "defaultDateTimeFormat": "h:mm a - MMMM dd, yyyy",
+  "refreshInterval": 250,
+  "defaultDateFormat": "yyyy-MM-dd",
+  "defaultDateTimeFormat": "yyyy-MM-dd HHmm",
   "maxRecursiveRenderDepth": 4,
   "tableIdColumnName": "File",
   "tableGroupColumnName": "Group",
@@ -22,5 +22,6 @@
   "enableDataviewJs": true,
   "enableInlineDataviewJs": true,
   "prettyRenderInlineFields": true,
+  "prettyRenderInlineFieldsInLivePreview": true,
   "dataviewJsKeyword": "dataviewjs"
 }

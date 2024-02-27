@@ -1,0 +1,1 @@
+<sup><%tp.file.selection()%><%tp.file.cursor(0)%></sup><%tp.file.cursor(1)%>

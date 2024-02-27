@@ -1,18 +1,18 @@
 {
   "command_timeout": 5,
-  "templates_folder": "BEFORE/templetes",
+  "templates_folder": "BEFORE/Templetes",
   "templates_pairs": [
     [
       "",
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
-  "auto_jump_to_cursor": false,
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
+  "enable_folder_templates": false,
   "folder_templates": [
     {
       "folder": "",
@@ -20,6 +20,7 @@
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
     "BEFORE/templetes/1 star.md",
     "BEFORE/templetes/2 stars.md",
@@ -31,5 +32,5 @@
   "startup_templates": [
     ""
   ],
-  "enable_ribbon_icon": true
+  "enable_ribbon_icon": false
 }

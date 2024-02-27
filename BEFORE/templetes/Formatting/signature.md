@@ -1,0 +1,1 @@
+<span class="signature"> - <%tp.file.selection()%><%tp.file.cursor(0)%></span>

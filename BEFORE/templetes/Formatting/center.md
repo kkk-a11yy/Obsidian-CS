@@ -1,0 +1,1 @@
+<center><% tp.file.selection() %><% tp.file.cursor(0) %></center>
