@@ -8,7 +8,9 @@
     "Green": "#BBFABBA6",
     "Blue": "#ADCCFFA6",
     "Purple": "#D2B3FFA6",
-    "Grey": "#CACFD9A6"
+    "Grey": "#CACFD9A6",
+    "magenta": "#5720B4A6",
+    "aqua": "#2040A3A6"
   },
   "highlighterOrder": [
     "Red",
@@ -17,6 +19,8 @@
     "Green",
     "Blue",
     "Purple",
-    "Grey"
+    "Grey",
+    "magenta",
+    "aqua"
   ]
 }
