@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "商城业务-商品上架-构造基本数据.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "整合MyBatisX.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "商城业务-商品上架-构造基本数据.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商城业务-商品上架-构造基本数据.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商城业务-商品上架-构造基本数据.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商城业务-商品上架-构造基本数据.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商城业务-商品上架-构造基本数据.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md"
               }
             }
           },
@@ -213,10 +213,13 @@
   },
   "active": "2c6e3a3f75a490ef",
   "lastOpenFiles": [
+    "未命名.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商城业务-商品上架-构造基本数据.md",
+    "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
+    "BEFORE/Me",
     "课程&笔记/Zotero notes",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
-    "商城业务-商品上架-构造基本数据.md",
-    "整合MyBatisX.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/版本对应.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/给所有微服务逆向生成代码.md",
@@ -231,7 +234,6 @@
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-API-新增商品-商品新增vo抽取.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/仓储服务-API-仓库管理-完成采购.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/云服务器mysql数据没了.md",
-    "未命名.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/安装Nginx.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Maven-Mac m1pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
@@ -257,8 +259,6 @@
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/智力_概率题目",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/200. ★算法题目汇总★/★算法面试题汇总",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/100. 算法课程/41. LeetCodeTop100Like",
-    "课程&笔记/技术栈/马士兵/zuoAlgorithm/100. 算法课程/40. LeetCode高频题",
-    "课程&笔记/技术栈/马士兵/zuoAlgorithm/100. 算法课程/33. 经典面试题讲解",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
     "学习网站/笔记集合.canvas",
     "课程&笔记/未命名.canvas",
