@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fbecb2dea243dff8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-2-27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3f73f0d423b9a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zotero.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md",
+                "file": "2024-2-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md",
+                "file": "2024-2-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md"
+                "file": "2024-2-27.md"
               }
             }
           },
@@ -184,8 +211,11 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "92d92ea4a3e9a5b1",
+  "active": "fbecb2dea243dff8",
   "lastOpenFiles": [
+    "Zotero.md",
+    "2024-2-27.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md",
     "BEFORE/README.md",
     "BEFORE/Utility/Tools.md",
     "BEFORE/Utility/ZK Processing.md",
@@ -223,9 +253,6 @@
     "BEFORE/Templetes/Temporal/Daily.md",
     "BEFORE/Templetes/Temporal/Date.md",
     "BEFORE/Templetes/Temporal/Today.md",
-    "BEFORE/Templetes/PluginTemplates/Note Extractor.md",
-    "BEFORE/Templetes/Metadata/Re Name.md",
-    "BEFORE/Templetes/Metadata/related.md",
     "BEFORE/Templetes/Temporal",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 27.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 26.png",
