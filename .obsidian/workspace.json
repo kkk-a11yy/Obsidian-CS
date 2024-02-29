@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emacs.md",
+                "file": "Zotero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emacs.md",
+                "file": "Zotero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emacs.md"
+                "file": "Zotero.md"
               }
             }
           },
@@ -224,10 +224,10 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "940c53d191b61fb2",
+  "active": "b3f73f0d423b9a17",
   "lastOpenFiles": [
-    "2024-2-27.md",
     "Emacs.md",
+    "2024-2-27.md",
     "Zotero.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md",
     "BEFORE/README.md",
