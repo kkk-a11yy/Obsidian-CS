@@ -36,7 +36,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "2024-W09.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c496bf1f3bffdbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-M02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "2024-M02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "2024-M02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "2024-M02.md"
               }
             }
           },
@@ -208,10 +221,12 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "0940471dd667c7df",
+  "active": "6c496bf1f3bffdbf",
   "lastOpenFiles": [
+    "BEFORE/Templetes/Temporal/weekly.md",
+    "2024-W09.md",
+    "2024-M02.md",
     "BEFORE/Journal/Daily/2024-02-27.md",
-    "Untitled.md",
     "BEFORE/README.md",
     "BEFORE/Journal/Daily/2023-06-25.md",
     "BEFORE/Outsource-data.md",
@@ -237,8 +252,6 @@
     "BEFORE/Z/HOME.md",
     "BEFORE/Z/Tag Taxonomy.md",
     "BEFORE/Z/ISO 8601.md",
-    "BEFORE/Z/Obsidian.md",
-    "BEFORE/Z/Evergreen Notes.md",
     "BEFORE/Z",
     "BEFORE/Journal/Weekly",
     "BEFORE/Journal/Monthly",
