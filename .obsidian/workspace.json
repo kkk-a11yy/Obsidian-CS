@@ -11,12 +11,9 @@
             "id": "b7f2bffed8fa2c37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "BEFORE/Inbox/Untitled database.md"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
+                "file": "BEFORE/Inbox/Untitled database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
+                "file": "BEFORE/Inbox/Untitled database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md"
+                "file": "BEFORE/Inbox/Untitled database.md"
               }
             }
           },
@@ -186,11 +183,12 @@
   },
   "active": "b7f2bffed8fa2c37",
   "lastOpenFiles": [
-    "BEFORE/README.md",
     "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
+    "BEFORE/Inbox/Untitled database.md",
+    "BEFORE/Research.md",
+    "BEFORE/README.md",
     "Zotero.md",
     "Emacs.md",
-    "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
     "BEFORE/Media/Pasted image 20210124122438.png",
     "BEFORE/Media/Pasted image 20210124122444.png",
     "2024-2-27.md",
@@ -225,7 +223,6 @@
     "BEFORE/Templetes/Temporal/weekly.md",
     "BEFORE/Templetes/Temporal/time.md",
     "BEFORE/Templetes/Temporal/Annual Note.md",
-    "BEFORE/Templetes/Temporal/monthly.md",
     "BEFORE/Templetes/Temporal",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 27.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 26.png",
