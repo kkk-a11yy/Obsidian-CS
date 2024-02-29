@@ -16,8 +16,22 @@
                 "file": "BEFORE/Inbox/Untitled database.md"
               }
             }
+          },
+          {
+            "id": "88ed351fccfd2bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BEFORE/Journal/Daily/2024-2-27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Inbox/Untitled database.md",
+                "file": "BEFORE/Journal/Daily/2024-2-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Inbox/Untitled database.md",
+                "file": "BEFORE/Journal/Daily/2024-2-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Inbox/Untitled database.md"
+                "file": "BEFORE/Journal/Daily/2024-2-27.md"
               }
             }
           },
@@ -181,17 +195,21 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "b7f2bffed8fa2c37",
+  "active": "88ed351fccfd2bbe",
   "lastOpenFiles": [
-    "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
-    "BEFORE/Inbox/Untitled database.md",
-    "BEFORE/Research.md",
+    "BEFORE/Journal/Daily/2023-06-25.md",
+    "BEFORE/Outsource-data.md",
     "BEFORE/README.md",
+    "BEFORE/Inbox/Untitled database.md",
+    "BEFORE/学习进度.md",
+    "BEFORE/时间编表.md",
+    "BEFORE/Journal/Daily/2024-2-27.md",
+    "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
+    "BEFORE/Research.md",
     "Zotero.md",
     "Emacs.md",
     "BEFORE/Media/Pasted image 20210124122438.png",
     "BEFORE/Media/Pasted image 20210124122444.png",
-    "2024-2-27.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md",
     "BEFORE/Utility/Tools.md",
     "BEFORE/Utility/ZK Processing.md",
@@ -219,10 +237,6 @@
     "BEFORE/Media/Pasted image 20210124122452.png",
     "BEFORE/Media/Pasted image 20210224210010.png",
     "BEFORE/Media",
-    "BEFORE/Templetes/Temporal/Now.md",
-    "BEFORE/Templetes/Temporal/weekly.md",
-    "BEFORE/Templetes/Temporal/time.md",
-    "BEFORE/Templetes/Temporal/Annual Note.md",
     "BEFORE/Templetes/Temporal",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 27.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 26.png",
