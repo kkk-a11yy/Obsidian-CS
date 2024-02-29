@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-W09.md",
+                "file": "BEFORE/Journal/Weekly/2024-W09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-M02.md",
+                "file": "BEFORE/Journal/Monthly/2024-M02.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mybatis",
+                "query": "\"Journal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-M02.md",
+                "file": "BEFORE/Journal/Daily/2024-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-M02.md",
+                "file": "BEFORE/Journal/Daily/2024-02-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-M02.md"
+                "file": "BEFORE/Journal/Daily/2024-02-27.md"
               }
             }
           },
@@ -221,12 +222,17 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "6c496bf1f3bffdbf",
+  "active": "88ed351fccfd2bbe",
   "lastOpenFiles": [
-    "BEFORE/Templetes/Temporal/weekly.md",
-    "2024-W09.md",
-    "2024-M02.md",
+    "BEFORE/Journal/Weekly/2024-W09.md",
+    "BEFORE/Journal/Monthly/2024-M02.md",
     "BEFORE/Journal/Daily/2024-02-27.md",
+    "BEFORE/Templetes/Temporal/Annual Note.md",
+    "BEFORE/Templetes/Temporal/Daily.md",
+    "BEFORE/Templetes/Temporal/monthly.md",
+    "BEFORE/Templetes/Temporal/weekly.md",
+    "BEFORE/Templetes/Temporal/Date.md",
+    "BEFORE/Templetes/Temporal/Now.md",
     "BEFORE/README.md",
     "BEFORE/Journal/Daily/2023-06-25.md",
     "BEFORE/Outsource-data.md",
@@ -246,12 +252,7 @@
     "BEFORE/Utility/Research.md",
     "BEFORE/Utility/Timeline.md",
     "BEFORE/Utility/Tasks.md",
-    "BEFORE/Utility/Flows.md",
     "BEFORE/Utility",
-    "BEFORE/Z/Zettelkasten.md",
-    "BEFORE/Z/HOME.md",
-    "BEFORE/Z/Tag Taxonomy.md",
-    "BEFORE/Z/ISO 8601.md",
     "BEFORE/Z",
     "BEFORE/Journal/Weekly",
     "BEFORE/Journal/Monthly",

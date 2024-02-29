@@ -12,7 +12,7 @@ videos: <% tp.file.cursor(0) %>
 
 ```dataview
 TABLE highlights
-FROM "Journal/Daily"
+FROM "BEFORE/Journal/Daily"
 WHERE highlights != null
 AND file.day.year = number(substring(string(this.file.name), 0, 4))
 AND file.day.weekyear = number(substring(string(this.file.name), 6, 8))

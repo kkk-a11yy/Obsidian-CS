@@ -15,7 +15,7 @@ social_outing:
 
 ```dataview
 TABLE aliases
-FROM "Journal"
+FROM "BEFORE/Journal"
 WHERE aliases != null
 AND file.day.year = number(substring(this.file.name, 0, 4))
 AND dateformat(date(file.name), "yyyy-MM") = replace(this.file.name, "M", "")
@@ -26,7 +26,7 @@ SORT file.day
 
 ```dataview
 TABLE WITHOUT ID file.day.weekyear AS Week, highlights
-FROM "Journal/Daily"
+FROM "BEFORE/Journal/Daily"
 WHERE highlights != null
 AND file.day.year = number(substring(this.file.name, 0, 4))
 AND dateformat(date(file.name), "yyyy-MM") = replace(this.file.name, "M", "")

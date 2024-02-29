@@ -20,7 +20,7 @@
 	tR += "\n\n"
 	tR += "```dataview" + "\n"
 	tR += "TABLE aliases" + "\n"
-	tR += "FROM \"Journal\"" + "\n"
+	tR += "FROM \"BEFORE\Journal\"" + "\n"
 	tR += "WHERE aliases != null" + "\n"
 	tR += "WHERE length(aliases) > 1" + "\n"
 	tR += "WHERE file.day.year = " + `${year}` + "\n"
