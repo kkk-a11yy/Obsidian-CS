@@ -23,7 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Journal/Daily/2024-2-27.md",
+                "file": "BEFORE/Journal/Daily/2024-02-27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0940471dd667c7df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -31,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Journal/Daily/2024-2-27.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Journal/Daily/2024-2-27.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Journal/Daily/2024-2-27.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -195,15 +208,16 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "88ed351fccfd2bbe",
+  "active": "0940471dd667c7df",
   "lastOpenFiles": [
+    "BEFORE/Journal/Daily/2024-02-27.md",
+    "Untitled.md",
+    "BEFORE/README.md",
     "BEFORE/Journal/Daily/2023-06-25.md",
     "BEFORE/Outsource-data.md",
-    "BEFORE/README.md",
     "BEFORE/Inbox/Untitled database.md",
     "BEFORE/学习进度.md",
     "BEFORE/时间编表.md",
-    "BEFORE/Journal/Daily/2024-2-27.md",
     "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
     "BEFORE/Research.md",
     "Zotero.md",
@@ -225,7 +239,6 @@
     "BEFORE/Z/ISO 8601.md",
     "BEFORE/Z/Obsidian.md",
     "BEFORE/Z/Evergreen Notes.md",
-    "BEFORE/Z/Map Of Content.md",
     "BEFORE/Z",
     "BEFORE/Journal/Weekly",
     "BEFORE/Journal/Monthly",
