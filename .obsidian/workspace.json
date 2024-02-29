@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
+                "file": "Emacs.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
+                "file": "Emacs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
+                "file": "Emacs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md"
+                "file": "Emacs.md"
               }
             }
           },
@@ -213,11 +213,11 @@
   },
   "active": "940c53d191b61fb2",
   "lastOpenFiles": [
-    "BEFORE/Media/Pasted image 20210124122438.png",
-    "BEFORE/Media/Pasted image 20210124122444.png",
-    "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
     "Zotero.md",
     "Emacs.md",
+    "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
+    "BEFORE/Media/Pasted image 20210124122438.png",
+    "BEFORE/Media/Pasted image 20210124122444.png",
     "2024-2-27.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md",
     "BEFORE/README.md",
