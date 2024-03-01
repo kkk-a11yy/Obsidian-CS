@@ -1,8 +1,10 @@
 ---
-tags: ⚙️
-aliases: timeline
-created: 2022-03-15 2331
-updated: 2023-10-29 1845
+tags:
+  - ⚙️
+aliases:
+  - timeline
+created: 2024-3-1 1337
+updated: 2024-3-1 1337
 ---
 
 ```dataview

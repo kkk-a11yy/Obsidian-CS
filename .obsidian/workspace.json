@@ -13,7 +13,7 @@
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "BEFORE/Inbox/Untitled database.md"
+                "file": "BEFORE/Inbox/Paper Research.md"
               }
             }
           },
@@ -23,21 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Journal/Daily/2024-02-27.md",
+                "file": "BEFORE/Utility/Timeline.md",
                 "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c66473fb4ba1b59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BEFORE/Templetes/Temporal/Annual Note.md",
-                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -70,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Templetes/Temporal/Annual Note.md",
+                "file": "BEFORE/Utility/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Templetes/Temporal/Annual Note.md",
+                "file": "BEFORE/Utility/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Templetes/Temporal/Annual Note.md"
+                "file": "BEFORE/Utility/Timeline.md"
               }
             }
           },
@@ -234,36 +221,36 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "5c66473fb4ba1b59",
+  "active": "88ed351fccfd2bbe",
   "lastOpenFiles": [
-    "BEFORE/Templetes/Temporal/Daily.md",
-    "BEFORE/Templetes/Temporal/Date.md",
-    "BEFORE/Templetes/Temporal/monthly.md",
-    "BEFORE/Templetes/Temporal/Now.md",
-    "BEFORE/Templetes/Temporal/time.md",
-    "2024-Y.md",
-    "BEFORE/Journal/Daily/2024-02-27.md",
-    "BEFORE/Journal/Weekly/2024-W09.md",
-    "BEFORE/Journal/Monthly/2024-M02.md",
-    "BEFORE/Templetes/Temporal/Annual Note.md",
-    "BEFORE/Templetes/Temporal/weekly.md",
-    "BEFORE/README.md",
-    "BEFORE/Journal/Daily/2023-06-25.md",
-    "BEFORE/Outsource-data.md",
-    "BEFORE/Inbox/Untitled database.md",
-    "BEFORE/学习进度.md",
-    "BEFORE/时间编表.md",
-    "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
-    "BEFORE/Research.md",
-    "Zotero.md",
-    "Emacs.md",
-    "BEFORE/Media/Pasted image 20210124122438.png",
-    "BEFORE/Media/Pasted image 20210124122444.png",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/整合MyBatisX.md",
     "BEFORE/Utility/Tools.md",
     "BEFORE/Utility/ZK Processing.md",
-    "BEFORE/Utility/Readwise Items To Review.md",
-    "BEFORE/Utility/Research.md",
+    "BEFORE/Outsource-data.md",
+    "BEFORE/Utility/Timeline.md",
+    "BEFORE/outsource/Mermaid/Timeline.md",
+    "BEFORE/Templetes/Inputs/YouTube.md",
+    "BEFORE/Journal/Daily/2024-02-27.md",
+    "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
+    "BEFORE/Inbox/Paper Research.md",
+    "BEFORE/Journal/Daily/2023-06-25.md",
+    "BEFORE/Person/YouTube-data.md",
+    "BEFORE/Templetes/Temporal/Date.md",
+    "BEFORE/Templetes/PluginTemplates/Note Extractor.md",
+    "BEFORE/Templetes/Formatting/1.md",
+    "BEFORE/Templetes/Formatting/New movie.md",
+    "BEFORE/Templetes/Formatting/1 star.md",
+    "BEFORE/Templetes/Inputs/Person.md",
+    "BEFORE/Templetes/Inputs/New.md",
+    "BEFORE/Templetes/Inputs/Book.md",
+    "BEFORE/Templetes/Formatting/check.md",
+    "BEFORE/Templetes/课程笔记-rec.md",
+    "BEFORE/Templetes/Formatting/email Me.md",
+    "BEFORE/Templetes/Formatting/laptop.md",
+    "BEFORE/Templetes/FromSergio.md",
+    "BEFORE/Templetes/Formatting/lightball.md",
+    "BEFORE/Templetes/Formatting/no.md",
+    "BEFORE/Media/Pasted image 20210124122438.png",
+    "BEFORE/Media/Pasted image 20210124122444.png",
     "BEFORE/Utility",
     "BEFORE/Z",
     "BEFORE/Journal/Weekly",
