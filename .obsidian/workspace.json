@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11223713835cca96",
+        "id": "65c3fb9c897b9fc9",
         "type": "tabs",
         "children": [
           {
-            "id": "b7f2bffed8fa2c37",
+            "id": "79d8806716302b1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Configuration/github/配置.md",
+                "file": "BEFORE/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Configuration/github/配置.md",
+                "file": "BEFORE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Configuration/github/配置.md",
+                "file": "BEFORE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configuration/github/配置.md"
+                "file": "BEFORE/README.md"
               }
             }
           },
@@ -184,7 +184,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "b7f2bffed8fa2c37",
+  "active": "79d8806716302b1f",
   "lastOpenFiles": [
     "BEFORE/Journal/Daily/2024-02-27.md",
     "BEFORE/Journal/Weekly/2024-W09.md",
