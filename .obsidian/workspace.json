@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "Configuration/github/配置.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "Configuration/github/配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/README.md",
+                "file": "Configuration/github/配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/README.md"
+                "file": "Configuration/github/配置.md"
               }
             }
           },
@@ -186,6 +186,9 @@
   },
   "active": "b7f2bffed8fa2c37",
   "lastOpenFiles": [
+    "BEFORE/Journal/Daily/2024-02-27.md",
+    "BEFORE/Journal/Weekly/2024-W09.md",
+    "BEFORE/README.md",
     "BEFORE/Inbox/Paper Research.md",
     "BEFORE/Utility/Tools.md",
     "BEFORE/Utility/ZK Processing.md",
@@ -193,7 +196,6 @@
     "BEFORE/Utility/Timeline.md",
     "BEFORE/outsource/Mermaid/Timeline.md",
     "BEFORE/Templetes/Inputs/YouTube.md",
-    "BEFORE/Journal/Daily/2024-02-27.md",
     "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
     "BEFORE/Journal/Daily/2023-06-25.md",
     "BEFORE/Person/YouTube-data.md",
@@ -210,8 +212,6 @@
     "BEFORE/Templetes/Formatting/email Me.md",
     "BEFORE/Templetes/Formatting/laptop.md",
     "BEFORE/Templetes/FromSergio.md",
-    "BEFORE/Templetes/Formatting/lightball.md",
-    "BEFORE/Templetes/Formatting/no.md",
     "BEFORE/Media/Pasted image 20210124122438.png",
     "BEFORE/Media/Pasted image 20210124122444.png",
     "BEFORE/Utility",
