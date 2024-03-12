@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Z/HOME.md",
+                "file": "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Z/HOME.md",
+                "file": "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Z/HOME.md",
+                "file": "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Z/HOME.md"
+                "file": "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "d67aa09494474677",
   "lastOpenFiles": [
+    "BEFORE/Z/HOME.md",
     "BEFORE/Templetes/Content/callout.md",
     "BEFORE/Journal/Weekly/2024-W09.md",
     "BEFORE/Journal/Monthly/2024-M02.md",
@@ -211,7 +212,6 @@
     "BEFORE/Templetes/Formatting/1 star.md",
     "BEFORE/Templetes/Inputs/Person.md",
     "BEFORE/Templetes/Inputs/New.md",
-    "BEFORE/Templetes/Inputs/Book.md",
     "BEFORE/Media/Pasted image 20210124122438.png",
     "BEFORE/Media/Pasted image 20210124122444.png",
     "BEFORE/Utility",
