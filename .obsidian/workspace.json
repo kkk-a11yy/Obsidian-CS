@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c6ae4ea8daec7c4",
+        "id": "633ad42d88a604cb",
         "type": "tabs",
         "children": [
           {
-            "id": "ad52dc4c23a64f37",
+            "id": "d67aa09494474677",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,12 +184,15 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "ad52dc4c23a64f37",
+  "active": "d67aa09494474677",
   "lastOpenFiles": [
+    "BEFORE/Inbox/Paper Research.md",
+    "Emacs.md",
+    "Zotero.md",
+    "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
+    "BEFORE/README.md",
     "BEFORE/Journal/Daily/2024-02-27.md",
     "BEFORE/Journal/Weekly/2024-W09.md",
-    "BEFORE/README.md",
-    "BEFORE/Inbox/Paper Research.md",
     "BEFORE/Utility/Tools.md",
     "BEFORE/Utility/ZK Processing.md",
     "BEFORE/Outsource-data.md",
@@ -209,9 +212,6 @@
     "BEFORE/Templetes/Inputs/Book.md",
     "BEFORE/Templetes/Formatting/check.md",
     "BEFORE/Templetes/课程笔记-rec.md",
-    "BEFORE/Templetes/Formatting/email Me.md",
-    "BEFORE/Templetes/Formatting/laptop.md",
-    "BEFORE/Templetes/FromSergio.md",
     "BEFORE/Media/Pasted image 20210124122438.png",
     "BEFORE/Media/Pasted image 20210124122444.png",
     "BEFORE/Utility",
