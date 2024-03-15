@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cea0b15fe2271546",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JVM调优.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/📒 面试笔记/2024-Y.md",
+                "file": "JVM调优.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/📒 面试笔记/2024-Y.md",
+                "file": "JVM调优.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/📒 面试笔记/2024-Y.md"
+                "file": "JVM调优.md"
               }
             }
           },
@@ -184,10 +198,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "d67aa09494474677",
+  "active": "cea0b15fe2271546",
   "lastOpenFiles": [
-    "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
     "课程&笔记/📒 面试笔记/2024-Y.md",
+    "JVM调优.md",
+    "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
     "BEFORE/Z/HOME.md",
     "BEFORE/Templetes/Content/callout.md",
     "BEFORE/Journal/Weekly/2024-W09.md",
@@ -211,7 +226,6 @@
     "BEFORE/Templetes/Formatting/1.md",
     "BEFORE/Templetes/Formatting/New movie.md",
     "BEFORE/Templetes/Formatting/1 star.md",
-    "BEFORE/Templetes/Inputs/Person.md",
     "BEFORE/Media/Pasted image 20210124122438.png",
     "BEFORE/Media/Pasted image 20210124122444.png",
     "BEFORE/Utility",
