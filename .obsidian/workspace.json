@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "633ad42d88a604cb",
+        "id": "9aa746e9f260e6c9",
         "type": "tabs",
         "children": [
           {
-            "id": "d67aa09494474677",
+            "id": "c23b62a358058055",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/📒 面试笔记/2024-Y.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cea0b15fe2271546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JVM调优.md",
+                "file": "BEFORE/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JVM调优.md",
+                "file": "BEFORE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JVM调优.md",
+                "file": "BEFORE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JVM调优.md"
+                "file": "BEFORE/README.md"
               }
             }
           },
@@ -198,17 +184,20 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "cea0b15fe2271546",
+  "active": "c23b62a358058055",
   "lastOpenFiles": [
-    "课程&笔记/📒 面试笔记/2024-Y.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建微服务.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
+    "BEFORE/README.md",
     "JVM调优.md",
+    "课程&笔记/📒 面试笔记/2024-Y.md",
     "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
     "BEFORE/Z/HOME.md",
     "BEFORE/Templetes/Content/callout.md",
     "BEFORE/Journal/Weekly/2024-W09.md",
     "BEFORE/Journal/Monthly/2024-M02.md",
     "BEFORE/Inbox/Paper Research.md",
-    "BEFORE/README.md",
     "Emacs.md",
     "Zotero.md",
     "BEFORE/Journal/Daily/2024-02-27.md",
@@ -218,14 +207,11 @@
     "BEFORE/Utility/Timeline.md",
     "BEFORE/outsource/Mermaid/Timeline.md",
     "BEFORE/Templetes/Inputs/YouTube.md",
-    "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
     "BEFORE/Journal/Daily/2023-06-25.md",
     "BEFORE/Person/YouTube-data.md",
     "BEFORE/Templetes/Temporal/Date.md",
     "BEFORE/Templetes/PluginTemplates/Note Extractor.md",
     "BEFORE/Templetes/Formatting/1.md",
-    "BEFORE/Templetes/Formatting/New movie.md",
-    "BEFORE/Templetes/Formatting/1 star.md",
     "BEFORE/Media/Pasted image 20210124122438.png",
     "BEFORE/Media/Pasted image 20210124122444.png",
     "BEFORE/Utility",
