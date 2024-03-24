@@ -7,8 +7,8 @@ dg-home: true
 ![](https://i.imgur.com/PDv6F32.png)
 
 # 参考资料
-- [学习计划（资料）](https://www.yuque.com/zhangshuaiyin/guli-mall/wrbzgy)
-- [Linux开发环境配置（Docker）](https://www.yuque.com/zhangshuaiyin/guli-mall/lb4zw1)
+- [学习计划（资料）](https://www.yuque.com/zhangshuaiyin/andy-mall/wrbzgy)
+- [Linux开发环境配置（Docker）](https://www.yuque.com/zhangshuaiyin/andy-mall/lb4zw1)
 - [raymond-zhao.](https://raymond-zhao.top/campus-interview/#/Home)
 # 环境搭建
 
@@ -50,25 +50,23 @@ dg-home: true
 
 
 ```
-gulimall
-├── gulimall-common -- 工具类及通用代码
+andymall
+├── andymall-common -- 工具类及通用代码
 ├── renren-generator -- 人人开源项目的代码生成器
-├── gulimall-auth-server -- 认证中心（社交登录、OAuth2.0）
-├── gulimall-cart -- 购物车服务
-├── gulimall-coupon -- 优惠卷服务
-├── gulimall-gateway -- 统一配置网关
-├── gulimall-order -- 订单服务
-├── gulimall-product -- 商品服务
-├── gulimall-search -- 检索服务
-├── gulimall-seckill -- 秒杀服务
-├── gulimall-third-party -- 第三方服务（对象存储、短信）
-├── gulimall-ware -- 仓储服务
-└── gulimall-member -- 会员服务
+├── andymall-auth-server -- 认证中心（社交登录、OAuth2.0）
+├── andymall-cart -- 购物车服务
+├── andymall-coupon -- 优惠卷服务
+├── andymall-gateway -- 统一配置网关
+├── andymall-order -- 订单服务
+├── andymall-product -- 商品服务
+├── andymall-search -- 检索服务
+├── andymall-seckill -- 秒杀服务
+├── andymall-third-party -- 第三方服务（对象存储、短信）
+├── andymall-ware -- 仓储服务
+└── andymall-member -- 会员服务
 ```
 
 ## 技术选型
-
-
 
 ### 后端技术
 
@@ -104,15 +102,15 @@ gulimall
 ### 开发环境
 
 
-|工具|版本号|下载|
-|:-:|:-:|:-:|
-|JDK|1.8|[https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)|
-|Mysql|5.7|[https://www.mysql.com](https://www.mysql.com/)|
-|Redis|Redis|[https://redis.io/download](https://redis.io/download)|
-|Elasticsearch|7.6.2|[https://www.elastic.co/downloads](https://www.elastic.co/downloads)|
-|Kibana|7.6.2|[https://www.elastic.co/cn/kibana](https://www.elastic.co/cn/kibana)|
-|RabbitMQ|3.8.5|[http://www.rabbitmq.com/download.html](http://www.rabbitmq.com/download.html)|
-|Nginx|1.1.6|[http://nginx.org/en/download.html](http://nginx.org/en/download.html)|
+|      工具       |  版本号  |                                                                            下载                                                                            |
+| :-----------: | :---: | :------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|      JDK      |  1.8  | [https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) |
+|     Mysql     |  8.0  |                                                     [https://www.mysql.com](https://www.mysql.com/)                                                      |
+|     Redis     | Redis |                                                  [https://redis.io/download](https://redis.io/download)                                                  |
+| Elasticsearch | 7.6.2 |                                           [https://www.elastic.co/downloads](https://www.elastic.co/downloads)                                           |
+|    Kibana     | 7.6.2 |                                           [https://www.elastic.co/cn/kibana](https://www.elastic.co/cn/kibana)                                           |
+|   RabbitMQ    | 3.8.5 |                                      [http://www.rabbitmq.com/download.html](http://www.rabbitmq.com/download.html)                                      |
+|     Nginx     | 1.1.6 |                                          [http://nginx.org/en/download.html](http://nginx.org/en/download.html)                                          |
 
 注意：以上的除了jdk都是采用docker方式进行安装，详细安装步骤可参考百度!!!
 
@@ -122,14 +120,14 @@ gulimall
 - 修改本机的host文件，映射域名端口至Nginx地址
 
 ```
-192.168.56.102	gulimall.com
-192.168.56.102	search.gulimall.com
-192.168.56.102  item.gulimall.com
-192.168.56.102  auth.gulimall.com
-192.168.56.102  cart.gulimall.com
-192.168.56.102  order.gulimall.com
-192.168.56.102  member.gulimall.com
-192.168.56.102  seckill.gulimall.com
+192.168.101.104	andymall.com
+192.168.101.104	search.andymall.com
+192.168.101.104  item.andymall.com
+192.168.101.104  auth.andymall.com
+192.168.101.104  cart.andymall.com
+192.168.101.104  order.andymall.com
+192.168.101.104  member.andymall.com
+192.168.101.104  seckill.andymall.com
 以上ip换成自己Linux的ip地址
 ```
 
@@ -137,15 +135,15 @@ gulimall
 
 ```shell
 1、在nginx.conf中添加负载均衡的配置   
-upstream gulimall{
+upstream andymall{
 	# 网关的地址
-	server 192.168.56.1:88;
+	server 192.168.101.1:88;
 }    
-2、在gulimall.conf中添加如下配置
+2、在andymall.conf中添加如下配置
 server {
 	# 监听以下域名地址的80端口
     listen       80;
-    server_name  gulimall.com  *.gulimall.com hjl.mynatapp.cc;
+    server_name  andymall.com  *.andymall.com.mynatapp.cc;
 
     #charset koi8-r;
     #access_log  /var/log/nginx/log/host.access.log  main;
@@ -157,22 +155,22 @@ server {
 
     #支付异步回调的一个配置
     location /payed/ {
-        proxy_set_header Host order.gulimall.com;        #不让请求头丢失
-        proxy_pass http://gulimall;
+        proxy_set_header Host order.andymall.com;        #不让请求头丢失
+        proxy_pass http://andymall;
     }
 
     location / {
         #root   /usr/share/nginx/html;
         #index  index.html index.htm;
         proxy_set_header Host $host;        #不让请求头丢失
-        proxy_pass http://gulimall;
+        proxy_pass http://andymall;
     }
 ```
 
 或者直接用项目nginx模块替换本机nginx配置目录文件
 
 - 克隆前端项目 `renren-fast-vue` 以 `npm run dev` 方式去运行
-- 克隆整个后端项目 `gulimall` ，并导入 IDEA 中完成编译
+- 克隆整个后端项目 `andymall` ，并导入 IDEA 中完成编译
 
 ----
 # 创建项目
