@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9aa746e9f260e6c9",
+        "id": "1cda13b0929b75b0",
         "type": "tabs",
         "children": [
           {
-            "id": "c23b62a358058055",
+            "id": "9a640e46985a1974",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "BEFORE/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "BEFORE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+                "file": "BEFORE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
+                "file": "BEFORE/README.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:发布更改": false,
       "dbfolder:创建一个新数据库表": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -184,7 +185,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "c23b62a358058055",
+  "active": "9a640e46985a1974",
   "lastOpenFiles": [
     "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
