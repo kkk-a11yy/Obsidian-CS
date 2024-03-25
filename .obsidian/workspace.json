@@ -11,12 +11,9 @@
             "id": "9a640e46985a1974",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "BEFORE/Inbox/Paper Research.md"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md",
+                "file": "BEFORE/Inbox/Paper Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md",
+                "file": "BEFORE/Inbox/Paper Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md"
+                "file": "BEFORE/Inbox/Paper Research.md"
               }
             }
           },
@@ -187,14 +184,16 @@
   },
   "active": "9a640e46985a1974",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
+    "BEFORE/Templetes/Temporal/Annual Note.md",
     "BEFORE/README.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md",
+    "BEFORE/Person/YouTube-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md",
     "课程&笔记/📒 面试笔记/2024-Y.md",
     "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
     "JVM调优.md",
-    "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
     "BEFORE/Z/HOME.md",
     "BEFORE/Templetes/Content/callout.md",
     "BEFORE/Journal/Weekly/2024-W09.md",
@@ -210,9 +209,7 @@
     "BEFORE/outsource/Mermaid/Timeline.md",
     "BEFORE/Templetes/Inputs/YouTube.md",
     "BEFORE/Journal/Daily/2023-06-25.md",
-    "BEFORE/Person/YouTube-data.md",
     "BEFORE/Templetes/Temporal/Date.md",
-    "BEFORE/Templetes/PluginTemplates/Note Extractor.md",
     "BEFORE/Media/Pasted image 20210124122438.png",
     "BEFORE/Media/Pasted image 20210124122444.png",
     "BEFORE/Utility",
