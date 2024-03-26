@@ -16,20 +16,7 @@
                 "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md",
                 "mode": "preview",
                 "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "965017f1b95ab28f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           },
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -121,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md"
               }
             }
           },
@@ -212,10 +199,11 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "9044b4e110472cfb",
+  "active": "9a640e46985a1974",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/app登陆--接口定义.md",
     "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/app登陆--接口定义.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "BEFORE/Inbox/Paper Research.md",
@@ -239,7 +227,6 @@
     "BEFORE/Outsource-data.md",
     "BEFORE/Utility/Timeline.md",
     "BEFORE/outsource/Mermaid/Timeline.md",
-    "BEFORE/Templetes/Inputs/YouTube.md",
     "BEFORE/Media/Pasted image 20210124122438.png",
     "BEFORE/Media/Pasted image 20210124122444.png",
     "BEFORE/Utility",
