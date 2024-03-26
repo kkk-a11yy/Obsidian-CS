@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9044b4e110472cfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nvm",
+                "query": "app登陆",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md"
               }
             }
           },
@@ -200,8 +212,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "0321558eef25b7f1",
+  "active": "9044b4e110472cfb",
   "lastOpenFiles": [
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/app登陆--接口定义.md",
+    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "BEFORE/Inbox/Paper Research.md",
@@ -226,8 +240,6 @@
     "BEFORE/Utility/Timeline.md",
     "BEFORE/outsource/Mermaid/Timeline.md",
     "BEFORE/Templetes/Inputs/YouTube.md",
-    "BEFORE/Journal/Daily/2023-06-25.md",
-    "BEFORE/Templetes/Temporal/Date.md",
     "BEFORE/Media/Pasted image 20210124122438.png",
     "BEFORE/Media/Pasted image 20210124122444.png",
     "BEFORE/Utility",
