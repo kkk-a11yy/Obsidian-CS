@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-表单校验&自定义校验器.md",
-                "mode": "preview",
+                "file": "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -87,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-表单校验&自定义校验器.md",
+                "file": "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-表单校验&自定义校验器.md",
+                "file": "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-表单校验&自定义校验器.md"
+                "file": "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md"
               }
             }
           },
@@ -201,6 +200,8 @@
   },
   "active": "9a640e46985a1974",
   "lastOpenFiles": [
+    "Zotero.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-表单校验&自定义校验器.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/brew install node.js @14.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Python.md",
@@ -227,8 +228,6 @@
     "BEFORE/Z/HOME.md",
     "BEFORE/Templetes/Content/callout.md",
     "BEFORE/Journal/Weekly/2024-W09.md",
-    "BEFORE/Journal/Monthly/2024-M02.md",
-    "Emacs.md",
     "BEFORE/Media/Pasted image 20210124122438.png",
     "BEFORE/Media/Pasted image 20210124122444.png",
     "BEFORE/Utility",
