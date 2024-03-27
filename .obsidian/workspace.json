@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Outsource-data.md",
+                "file": "BEFORE/Journal/Daily/2023-06-25.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Outsource-data.md",
+                "file": "BEFORE/Journal/Daily/2023-06-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Outsource-data.md",
+                "file": "BEFORE/Journal/Daily/2023-06-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Outsource-data.md"
+                "file": "BEFORE/Journal/Daily/2023-06-25.md"
               }
             }
           },
@@ -198,36 +198,38 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "9a640e46985a1974",
+  "active": "2c6e3a3f75a490ef",
   "lastOpenFiles": [
-    "BEFORE/README.md",
+    "BEFORE/Journal/Daily/2023-06-26.md",
+    "BEFORE/Journal/Daily/2023-06-27.md",
+    "BEFORE/Journal/Daily/2023-06-28.md",
+    "BEFORE/Journal/Daily/2023-06-29.md",
+    "BEFORE/Journal/Daily/2023-06-25.md",
     "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
-    "Zotero.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-表单校验&自定义校验器.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/brew install node.js @14.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Python.md",
-    "Configuration/homebrew/Homebrew.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md",
+    "BEFORE/Outsource/Notion Databases In Obsidian.md",
+    "BEFORE/Outsource/Building a USEFUL Dashboard in Obsidian.md",
+    "BEFORE/Outsource/How I Built a SECOND Brain 🧠 in Obsidian MD.md",
+    "BEFORE/Outsource/Mermaid.md",
+    "BEFORE/Outsource/The BEST Way To Add Media To Your Obsidian Vault.md",
+    "BEFORE/Outsource/Publishing your Obsidian Vault Online with Quartz.md",
+    "BEFORE/Outsource/Publish obsidian vault.md",
+    "BEFORE/Outsource/Mermaid/Zenuml.md",
+    "BEFORE/Outsource/Mermaid/Timeline.md",
+    "BEFORE/Outsource/Mermaid/State Diagram.md",
+    "BEFORE/Outsource/Mermaid/Sequence Diagram.md",
+    "BEFORE/Outsource/Mermaid/Sanksy diagram.md",
+    "BEFORE/Outsource/Mermaid/Requirement Diagram.md",
+    "BEFORE/Outsource/Mermaid/Quadrant chart.md",
+    "BEFORE/Outsource/Mermaid/Pie chart.md",
+    "BEFORE/Outsource/Mermaid/MindMap.md",
+    "BEFORE/Outsource/Mermaid/Gitgraph Diagram.md",
+    "BEFORE/Outsource/Mermaid/Gantie.md",
+    "BEFORE/Outsource/Mermaid/Flowchart.md",
+    "BEFORE/Outsource/Mermaid/Class Diagram.md",
+    "BEFORE/Outsource/Mermaid",
+    "BEFORE/Outsource",
     "Configuration/homebrew",
     "Configuration",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-规格参数新增与VO.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
-    "课程&笔记/技术栈/黑马/resourse/01-环境搭建、SpringCloud微服务(注册发现、服务调用、网关).md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/app登陆--接口定义.md",
-    "BEFORE/Inbox/Paper Research.md",
-    "BEFORE/Inbox/& 2024-02-29 Genome-scale pan-cancer interrogation of lncRNA dependencies using CasRx.md",
-    "BEFORE/Templetes/Temporal/Annual Note.md",
-    "BEFORE/Person/YouTube-data.md",
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md",
-    "课程&笔记/📒 面试笔记/2024-Y.md",
-    "JVM调优.md",
-    "BEFORE/Z/HOME.md",
-    "BEFORE/Templetes/Content/callout.md",
-    "BEFORE/Journal/Weekly/2024-W09.md",
     "BEFORE/Media/Pasted image 20210124122438.png",
     "BEFORE/Media/Pasted image 20210124122444.png",
     "BEFORE/Utility",
@@ -236,8 +238,6 @@
     "BEFORE/Journal/Monthly",
     "BEFORE/Journal/Daily",
     "BEFORE/Journal/Annually",
-    "BEFORE/Journal",
-    "BEFORE/Inbox",
     "BEFORE/Media/Pasted image 20210323185756.png",
     "BEFORE/Media/Pasted image 20210124122452.png",
     "BEFORE/Media/Pasted image 20210224210010.png",

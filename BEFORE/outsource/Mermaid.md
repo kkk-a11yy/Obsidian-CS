@@ -24,20 +24,20 @@ from "BEFORE/outsource/Mermaid.md"
 
 
 Task list：
-- [ ] [Pie chart](BEFORE/outsource/Mermaid/Pie%20chart.md)
-- [ ] [Gantie](BEFORE/outsource/Mermaid/Gantie.md)
-- [ ] [Flowchart](BEFORE/outsource/Mermaid/Flowchart.md)
-- [ ] [Sequence Diagram](BEFORE/outsource/Mermaid/Sequence%20Diagram.md)
-- [ ] [Class Diagram](BEFORE/outsource/Mermaid/Class%20Diagram.md)
-- [ ] [State Diagram](BEFORE/outsource/Mermaid/State%20Diagram.md)
-- [ ]  [Quadrant chart](BEFORE/outsource/Mermaid/Quadrant%20chart.md)
-- [ ] [Requirement Diagram](BEFORE/outsource/Mermaid/Requirement%20Diagram.md)
-- [ ] [Gitgraph Diagram](BEFORE/outsource/Mermaid/Gitgraph%20Diagram.md)
-- [ ] [C4 Diagram](BEFORE/outsource/Mermaid/C4%20Diagram.md)
-- [ ] [MindMap](BEFORE/outsource/Mermaid/MindMap.md)
-- [ ] [Timeline](BEFORE/outsource/Mermaid/Timeline.md)
-- [x] [Zenuml](BEFORE/outsource/Mermaid/Zenuml.md)
-- [x] [Sanksy diagram](BEFORE/outsource/Mermaid/Sanksy%20diagram.md)
+- [ ] [Pie chart](BEFORE/Outsource/Mermaid/Pie%20chart.md)
+- [ ] [Gantie](BEFORE/Outsource/Mermaid/Gantie.md)
+- [ ] [Flowchart](BEFORE/Outsource/Mermaid/Flowchart.md)
+- [ ] [Sequence Diagram](BEFORE/Outsource/Mermaid/Sequence%20Diagram.md)
+- [ ] [Class Diagram](BEFORE/Outsource/Mermaid/Class%20Diagram.md)
+- [ ] [State Diagram](BEFORE/Outsource/Mermaid/State%20Diagram.md)
+- [ ]  [Quadrant chart](BEFORE/Outsource/Mermaid/Quadrant%20chart.md)
+- [ ] [Requirement Diagram](BEFORE/Outsource/Mermaid/Requirement%20Diagram.md)
+- [ ] [Gitgraph Diagram](BEFORE/Outsource/Mermaid/Gitgraph%20Diagram.md)
+- [ ] [C4 Diagram](BEFORE/Outsource/Mermaid/C4%20Diagram.md)
+- [ ] [MindMap](BEFORE/Outsource/Mermaid/MindMap.md)
+- [ ] [Timeline](BEFORE/Outsource/Mermaid/Timeline.md)
+- [x] [Zenuml](BEFORE/Outsource/Mermaid/Zenuml.md)
+- [x] [Sanksy diagram](BEFORE/Outsource/Mermaid/Sanksy%20diagram.md)
 
 
 

@@ -25,7 +25,7 @@ For things that are [[Top of Mind]] I place them in those notes.
 To manage all notes in their various stages of processing I use the database folder plugin
 - [[Research]] is for all my "inputs"
 - [[ZK Processing]] is for all my notes from seedling to evergreen
-I also keep track of input processing and daily notes with [[ISO 8601]] date stamps in the titles of the notes which are laid out chronologically here: [[Timeline]].
+I also keep track of input processing and daily notes with [[ISO 8601]] date stamps in the titles of the notes which are laid out chronologically here: [[BEFORE/Utility/Timeline]].
 
 I also use the following symbols in the names of input notesto group lists of my [[Zettelkasten]] inputs by type:
 
