@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
-                "mode": "preview",
+                "file": "BEFORE/README.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
+                "file": "BEFORE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
+                "file": "BEFORE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md"
+                "file": "BEFORE/README.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   },
   "active": "9a640e46985a1974",
   "lastOpenFiles": [
+    "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
     "Zotero.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-品牌管理-表单校验&自定义校验器.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
@@ -223,7 +224,6 @@
     "BEFORE/Person/YouTube-data.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md",
     "课程&笔记/📒 面试笔记/2024-Y.md",
-    "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
     "JVM调优.md",
     "BEFORE/Z/HOME.md",
     "BEFORE/Templetes/Content/callout.md",
