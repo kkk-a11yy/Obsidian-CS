@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "app登陆",
+                "query": "homebrew",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,12 +87,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "cc8b2547741f323e",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/过程记录--M1 PRO.md"
               }
             }
           },
@@ -201,8 +201,13 @@
   },
   "active": "9a640e46985a1974",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-规格参数新增与VO.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/brew install node.js @14.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/Python.md",
+    "Configuration/homebrew/Homebrew.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/搭建过程 -- M1 pro.md",
+    "Configuration/homebrew",
+    "Configuration",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/商品服务-平台属性-规格参数新增与VO.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--前端系统.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/快速开发--逆向工程.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/创建andymall-common.md",
@@ -224,9 +229,6 @@
     "BEFORE/Journal/Weekly/2024-W09.md",
     "BEFORE/Journal/Monthly/2024-M02.md",
     "Emacs.md",
-    "Zotero.md",
-    "BEFORE/Journal/Daily/2024-02-27.md",
-    "BEFORE/Utility/Tools.md",
     "BEFORE/Media/Pasted image 20210124122438.png",
     "BEFORE/Media/Pasted image 20210124122444.png",
     "BEFORE/Utility",
@@ -240,8 +242,6 @@
     "BEFORE/Media/Pasted image 20210323185756.png",
     "BEFORE/Media/Pasted image 20210124122452.png",
     "BEFORE/Media/Pasted image 20210224210010.png",
-    "BEFORE/Media",
-    "BEFORE/Templetes/Temporal",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 27.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 26.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 25.png",
