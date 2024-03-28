@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Journal/Daily/2023-06-25.md",
+                "file": "BEFORE/Outsource/Automate Your Vault With Dataview.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Journal/Daily/2023-06-25.md",
+                "file": "BEFORE/Outsource/Automate Your Vault With Dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Journal/Daily/2023-06-25.md",
+                "file": "BEFORE/Outsource/Automate Your Vault With Dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Journal/Daily/2023-06-25.md"
+                "file": "BEFORE/Outsource/Automate Your Vault With Dataview.md"
               }
             }
           },
@@ -198,13 +198,17 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "2c6e3a3f75a490ef",
+  "active": "9a640e46985a1974",
   "lastOpenFiles": [
+    "BEFORE/README.md",
+    "BEFORE/Outsource/Automate Your Vault With Dataview.md",
+    "BEFORE/Outsource-data.md",
+    "BEFORE/Journal/Daily/2023-06-25.md",
+    "BEFORE/Journal/Weekly/2024-W09.md",
     "BEFORE/Journal/Daily/2023-06-26.md",
     "BEFORE/Journal/Daily/2023-06-27.md",
     "BEFORE/Journal/Daily/2023-06-28.md",
     "BEFORE/Journal/Daily/2023-06-29.md",
-    "BEFORE/Journal/Daily/2023-06-25.md",
     "BEFORE/Me/王希夏-java后端开发工程师-中文简历.md",
     "BEFORE/Outsource/Notion Databases In Obsidian.md",
     "BEFORE/Outsource/Building a USEFUL Dashboard in Obsidian.md",
@@ -222,10 +226,6 @@
     "BEFORE/Outsource/Mermaid/Quadrant chart.md",
     "BEFORE/Outsource/Mermaid/Pie chart.md",
     "BEFORE/Outsource/Mermaid/MindMap.md",
-    "BEFORE/Outsource/Mermaid/Gitgraph Diagram.md",
-    "BEFORE/Outsource/Mermaid/Gantie.md",
-    "BEFORE/Outsource/Mermaid/Flowchart.md",
-    "BEFORE/Outsource/Mermaid/Class Diagram.md",
     "BEFORE/Outsource/Mermaid",
     "BEFORE/Outsource",
     "Configuration/homebrew",
