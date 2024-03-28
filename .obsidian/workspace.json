@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BEFORE/Outsource/Automate Your Vault With Dataview.md",
+                "file": "书籍/CS书籍推荐单.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BEFORE/Outsource/Automate Your Vault With Dataview.md",
+                "file": "书籍/CS书籍推荐单.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BEFORE/Outsource/Automate Your Vault With Dataview.md",
+                "file": "书籍/CS书籍推荐单.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BEFORE/Outsource/Automate Your Vault With Dataview.md"
+                "file": "书籍/CS书籍推荐单.md"
               }
             }
           },
@@ -200,8 +200,11 @@
   },
   "active": "9a640e46985a1974",
   "lastOpenFiles": [
-    "BEFORE/README.md",
+    "Zotero.md",
+    "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
+    "课程&笔记/📒 面试笔记/2024-Y.md",
     "BEFORE/Outsource/Automate Your Vault With Dataview.md",
+    "BEFORE/README.md",
     "BEFORE/Outsource-data.md",
     "BEFORE/Journal/Daily/2023-06-25.md",
     "BEFORE/Journal/Weekly/2024-W09.md",
@@ -223,9 +226,6 @@
     "BEFORE/Outsource/Mermaid/Sequence Diagram.md",
     "BEFORE/Outsource/Mermaid/Sanksy diagram.md",
     "BEFORE/Outsource/Mermaid/Requirement Diagram.md",
-    "BEFORE/Outsource/Mermaid/Quadrant chart.md",
-    "BEFORE/Outsource/Mermaid/Pie chart.md",
-    "BEFORE/Outsource/Mermaid/MindMap.md",
     "BEFORE/Outsource/Mermaid",
     "BEFORE/Outsource",
     "Configuration/homebrew",
@@ -237,7 +237,6 @@
     "BEFORE/Journal/Weekly",
     "BEFORE/Journal/Monthly",
     "BEFORE/Journal/Daily",
-    "BEFORE/Journal/Annually",
     "BEFORE/Media/Pasted image 20210323185756.png",
     "BEFORE/Media/Pasted image 20210124122452.png",
     "BEFORE/Media/Pasted image 20210224210010.png",
