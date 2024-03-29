@@ -11,12 +11,9 @@
             "id": "9a640e46985a1974",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Emacs.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "BEFORE/附件/Pasted image 20240329195543.png"
               }
             }
           },
@@ -107,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Emacs.md",
+                "file": "BEFORE/附件/Pasted image 20240329195543.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Emacs.md",
+                "file": "BEFORE/附件/Pasted image 20240329195543.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emacs.md"
+                "file": "BEFORE/附件/Pasted image 20240329195543.png"
               }
             }
           },
@@ -200,6 +197,9 @@
   },
   "active": "9a640e46985a1974",
   "lastOpenFiles": [
+    "Emacs.md",
+    "BEFORE/附件/Pasted image 20240329195543.png",
+    "BEFORE/附件/Pasted image 20240329195300.png",
     "书籍/CS书籍推荐单.md",
     "Zotero.md",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
@@ -225,8 +225,6 @@
     "BEFORE/Outsource/Mermaid/Timeline.md",
     "BEFORE/Outsource/Mermaid/State Diagram.md",
     "BEFORE/Outsource/Mermaid/Sequence Diagram.md",
-    "BEFORE/Outsource/Mermaid/Sanksy diagram.md",
-    "BEFORE/Outsource/Mermaid/Requirement Diagram.md",
     "BEFORE/Outsource/Mermaid",
     "BEFORE/Outsource",
     "Configuration/homebrew",
@@ -244,8 +242,6 @@
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 27.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 26.png",
     "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 25.png",
-    "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 24.png",
-    "课程&笔记/技术栈/马士兵/zuoAlgorithm/appendix/Pasted image 23.png",
     "课程&笔记/计算机数学/UCB CS61A/note.canvas",
     "学习网站/笔记集合.canvas",
     "课程&笔记/未命名.canvas",
