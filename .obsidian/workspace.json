@@ -13,10 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "书籍/CS书籍推荐单.md",
-                "mode": "preview",
+                "file": "Emacs.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "书籍/CS书籍推荐单.md",
+                "file": "Emacs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "书籍/CS书籍推荐单.md",
+                "file": "Emacs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "书籍/CS书籍推荐单.md"
+                "file": "Emacs.md"
               }
             }
           },
@@ -200,6 +200,7 @@
   },
   "active": "9a640e46985a1974",
   "lastOpenFiles": [
+    "书籍/CS书籍推荐单.md",
     "Zotero.md",
     "课程&笔记/技术栈/github/GitHub入门与实践.pdf",
     "课程&笔记/📒 面试笔记/2024-Y.md",
