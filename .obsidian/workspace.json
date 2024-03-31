@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1439",
+                "query": "GitHub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md"
               }
             }
           },
@@ -187,6 +188,9 @@
   },
   "active": "9044b4e110472cfb",
   "lastOpenFiles": [
+    "BEFORE/Outsource/Writing a book in Obsidian.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
     "书籍/CS书籍推荐单.md",
     "书籍/CS-BOOKS-DATA.md",
     "BEFORE/附件/Pasted image 20240329195543.png",
@@ -213,9 +217,6 @@
     "BEFORE/Outsource/Publishing your Obsidian Vault Online with Quartz.md",
     "BEFORE/Outsource/Publish obsidian vault.md",
     "BEFORE/Outsource/Mermaid/Zenuml.md",
-    "BEFORE/Outsource/Mermaid/Timeline.md",
-    "BEFORE/Outsource/Mermaid/State Diagram.md",
-    "BEFORE/Outsource/Mermaid/Sequence Diagram.md",
     "BEFORE/Outsource/Mermaid",
     "BEFORE/Outsource",
     "Configuration/homebrew",
