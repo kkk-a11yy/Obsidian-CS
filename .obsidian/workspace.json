@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/AndyMall--SSH.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GitHub",
+                "query": "file:ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/AndyMall--SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md",
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/AndyMall--SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md"
+                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/AndyMall--SSH.md"
               }
             }
           },
@@ -188,8 +188,9 @@
   },
   "active": "9044b4e110472cfb",
   "lastOpenFiles": [
-    "BEFORE/Outsource/Writing a book in Obsidian.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md",
+    "BEFORE/Outsource/Writing a book in Obsidian.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
     "书籍/CS书籍推荐单.md",
     "书籍/CS-BOOKS-DATA.md",
@@ -216,7 +217,6 @@
     "BEFORE/Outsource/The BEST Way To Add Media To Your Obsidian Vault.md",
     "BEFORE/Outsource/Publishing your Obsidian Vault Online with Quartz.md",
     "BEFORE/Outsource/Publish obsidian vault.md",
-    "BEFORE/Outsource/Mermaid/Zenuml.md",
     "BEFORE/Outsource/Mermaid",
     "BEFORE/Outsource",
     "Configuration/homebrew",
