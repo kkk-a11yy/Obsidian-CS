@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "read user name",
+                "query": "# ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +186,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "9044b4e110472cfb",
+  "active": "0321558eef25b7f1",
   "lastOpenFiles": [
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/AndyMall--SSH.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
