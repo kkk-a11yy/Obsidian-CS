@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
+                "file": "BEFORE/README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
+                "file": "BEFORE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
+                "file": "BEFORE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md"
+                "file": "BEFORE/README.md"
               }
             }
           },
@@ -186,10 +186,10 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "0321558eef25b7f1",
+  "active": "9044b4e110472cfb",
   "lastOpenFiles": [
-    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/AndyMall--SSH.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
+    "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/AndyMall--SSH.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/搭建过程 --Windows（先导）.md",
     "BEFORE/Outsource/Writing a book in Obsidian.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/ES6--let&const.md",
