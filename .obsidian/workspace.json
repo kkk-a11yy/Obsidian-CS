@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "# ssh",
+                "query": "ssh-add",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
