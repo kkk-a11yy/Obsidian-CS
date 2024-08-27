@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7eb8c7779c6fc290",
+        "id": "c803739d05b18487",
         "type": "tabs",
         "children": [
           {
-            "id": "9018a341dd208281",
+            "id": "b5273dab8def1bbd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BEFORE/README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BEFORE/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BEFORE/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BEFORE/README.md"
+              }
             }
           },
           {
@@ -177,7 +186,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "9018a341dd208281",
+  "active": "b5273dab8def1bbd",
   "lastOpenFiles": [
     "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
