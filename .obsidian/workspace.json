@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +185,7 @@
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
-  "active": "b5273dab8def1bbd",
+  "active": "2c6e3a3f75a490ef",
   "lastOpenFiles": [
     "BEFORE/README.md",
     "课程&笔记/技术栈/尚硅谷/谷粒商城/步骤与问题/recources/SSH连接问题.md",
